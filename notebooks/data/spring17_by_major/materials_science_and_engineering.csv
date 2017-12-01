@@ -1,0 +1,199 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,156AC,1,Clg of Letters & Science,materials science and engineering
+1,2017 Spring,2,Anthropology,2AC,1,Clg of Letters & Science,materials science and engineering
+2,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,materials science and engineering
+3,2017 Spring,1,Anthropology,160AC,1,Clg of Letters & Science,materials science and engineering
+4,2017 Spring,1,Anthropology,174AC,1,Clg of Letters & Science,materials science and engineering
+5,2017 Spring,1,Architecture,198,3,Clg of Environmental Design,materials science and engineering
+6,2017 Spring,1,Architecture,198,4,Clg of Environmental Design,materials science and engineering
+7,2017 Spring,2,Architecture,198BC,2,Clg of Environmental Design,materials science and engineering
+8,2017 Spring,1,Bioengineering,11,1,Clg of Engineering,materials science and engineering
+9,2017 Spring,2,Business Admin-Undergrad,103,2,Haas School of Business,materials science and engineering
+10,2017 Spring,1,Business Admin-Undergrad,104,1,Haas School of Business,materials science and engineering
+11,2017 Spring,1,Business Admin-Undergrad,119,1,Haas School of Business,materials science and engineering
+12,2017 Spring,1,Business Admin-Undergrad,196,2,Haas School of Business,materials science and engineering
+13,2017 Spring,1,Business Admin-Undergrad,198,8,Haas School of Business,materials science and engineering
+14,2017 Spring,1,Business Admin-Undergrad,198,9,Haas School of Business,materials science and engineering
+15,2017 Spring,1,Celtic Studies,R1B,2,Clg of Letters & Science,materials science and engineering
+16,2017 Spring,1,Chemical Engineering,154,1,Clg of Chemistry,materials science and engineering
+17,2017 Spring,4,Chemical Engineering,198,3,Clg of Chemistry,materials science and engineering
+18,2017 Spring,19,Chemistry,1B,1,Clg of Chemistry,materials science and engineering
+19,2017 Spring,1,Chemistry,3A,1,Clg of Chemistry,materials science and engineering
+20,2017 Spring,1,Chemistry,3A,2,Clg of Chemistry,materials science and engineering
+21,2017 Spring,1,Chemistry,3AL,1,Clg of Chemistry,materials science and engineering
+22,2017 Spring,1,Chemistry,3AL,2,Clg of Chemistry,materials science and engineering
+23,2017 Spring,1,Chemistry,4B,1,Clg of Chemistry,materials science and engineering
+24,2017 Spring,1,Chemistry,98,3,Clg of Chemistry,materials science and engineering
+25,2017 Spring,1,Chinese,110B,1,Clg of Letters & Science,materials science and engineering
+26,2017 Spring,1,Civil & Environmental Eng,24,1,Clg of Engineering,materials science and engineering
+27,2017 Spring,1,Civil & Environmental Eng,24,2,Clg of Engineering,materials science and engineering
+28,2017 Spring,1,Civil & Environmental Eng,88B,1,Clg of Engineering,materials science and engineering
+29,2017 Spring,2,Civil & Environmental Eng,98,5,Clg of Engineering,materials science and engineering
+30,2017 Spring,1,Civil & Environmental Eng,107,1,Clg of Engineering,materials science and engineering
+31,2017 Spring,1,Civil & Environmental Eng,198,6,Clg of Engineering,materials science and engineering
+32,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,materials science and engineering
+33,2017 Spring,1,Cognitive Science,198,1,Clg of Letters & Science,materials science and engineering
+34,2017 Spring,1,College Writing Programs,R1A,5,Clg of Letters & Science,materials science and engineering
+35,2017 Spring,1,College Writing Programs,150AC,1,Clg of Letters & Science,materials science and engineering
+36,2017 Spring,1,Comparative Literature,R1A,3,Clg of Letters & Science,materials science and engineering
+37,2017 Spring,1,Comparative Literature,R1A,4,Clg of Letters & Science,materials science and engineering
+38,2017 Spring,1,Comparative Literature,R1A,6,Clg of Letters & Science,materials science and engineering
+39,2017 Spring,1,Comparative Literature,R1B,2,Clg of Letters & Science,materials science and engineering
+40,2017 Spring,1,Comparative Literature,R1B,13,Clg of Letters & Science,materials science and engineering
+41,2017 Spring,1,Comparative Literature,50,1,Clg of Letters & Science,materials science and engineering
+42,2017 Spring,2,Computer Science,C8,1,Clg of Engineering,materials science and engineering
+43,2017 Spring,4,Computer Science,61A,1,Clg of Engineering,materials science and engineering
+44,2017 Spring,8,Computer Science,61B,1,Clg of Engineering,materials science and engineering
+45,2017 Spring,2,Computer Science,70,1,Clg of Engineering,materials science and engineering
+46,2017 Spring,1,Computer Science,C100,1,Clg of Engineering,materials science and engineering
+47,2017 Spring,1,Computer Science,186,1,Clg of Engineering,materials science and engineering
+48,2017 Spring,1,Computer Science,197,214,Clg of Engineering,materials science and engineering
+49,2017 Spring,2,Computer Science,198,1,Clg of Engineering,materials science and engineering
+50,2017 Spring,1,Computer Science,198,58,Clg of Engineering,materials science and engineering
+51,2017 Spring,2,Design Innovation,22,1,Clg of Engineering,materials science and engineering
+52,2017 Spring,1,East Asian Languages,R1B,1,Clg of Letters & Science,materials science and engineering
+53,2017 Spring,2,Economics,1,1,Clg of Letters & Science,materials science and engineering
+54,2017 Spring,3,Economics,2,1,Clg of Letters & Science,materials science and engineering
+55,2017 Spring,1,Education,98,6,Grad School of Education,materials science and engineering
+56,2017 Spring,1,Education,98,11,Grad School of Education,materials science and engineering
+57,2017 Spring,1,Education,W142,1,Grad School of Education,materials science and engineering
+58,2017 Spring,1,Education,182AC,1,Grad School of Education,materials science and engineering
+59,2017 Spring,1,Education,197,18,Grad School of Education,materials science and engineering
+60,2017 Spring,7,Electrical Engineering,16A,1,Clg of Engineering,materials science and engineering
+61,2017 Spring,1,Electrical Engineering,16B,1,Clg of Engineering,materials science and engineering
+62,2017 Spring,1,Electrical Engineering,130,1,Clg of Engineering,materials science and engineering
+63,2017 Spring,2,Electrical Engineering,134,1,Clg of Engineering,materials science and engineering
+64,2017 Spring,1,Electrical Engineering,198,2,Clg of Engineering,materials science and engineering
+65,2017 Spring,1,Energy and Resources,98,1,Clg of Natural Resources,materials science and engineering
+66,2017 Spring,16,Engineering,7,1,Clg of Engineering,materials science and engineering
+67,2017 Spring,6,Engineering,25,1,Clg of Engineering,materials science and engineering
+68,2017 Spring,1,Engineering,26,1,Clg of Engineering,materials science and engineering
+69,2017 Spring,1,Engineering,27,1,Clg of Engineering,materials science and engineering
+70,2017 Spring,12,Engineering,45,1,Clg of Engineering,materials science and engineering
+71,2017 Spring,4,Engineering,45L,1,Clg of Engineering,materials science and engineering
+72,2017 Spring,2,Engineering,45L,2,Clg of Engineering,materials science and engineering
+73,2017 Spring,5,Engineering,45L,3,Clg of Engineering,materials science and engineering
+74,2017 Spring,2,Engineering,45L,4,Clg of Engineering,materials science and engineering
+75,2017 Spring,4,Engineering,120,1,Clg of Engineering,materials science and engineering
+76,2017 Spring,1,Engineering,177,1,Clg of Engineering,materials science and engineering
+77,2017 Spring,1,English,R1A,5,Clg of Letters & Science,materials science and engineering
+78,2017 Spring,2,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,materials science and engineering
+79,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,3,Clg of Natural Resources,materials science and engineering
+80,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,6,Clg of Natural Resources,materials science and engineering
+81,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,6,Clg of Natural Resources,materials science and engineering
+82,2017 Spring,1,Environmental Design,1,1,Clg of Environmental Design,materials science and engineering
+83,2017 Spring,1,Film,R1B,3,Clg of Letters & Science,materials science and engineering
+84,2017 Spring,1,French,R1B,2,Clg of Letters & Science,materials science and engineering
+85,2017 Spring,1,Geography,181,1,Clg of Letters & Science,materials science and engineering
+86,2017 Spring,1,German,1,2,Clg of Letters & Science,materials science and engineering
+87,2017 Spring,1,German,2,1,Clg of Letters & Science,materials science and engineering
+88,2017 Spring,1,History,5,1,Clg of Letters & Science,materials science and engineering
+89,2017 Spring,3,History,100AC,2,Clg of Letters & Science,materials science and engineering
+90,2017 Spring,1,History,162B,1,Clg of Letters & Science,materials science and engineering
+91,2017 Spring,1,History,185B,1,Clg of Letters & Science,materials science and engineering
+92,2017 Spring,1,History of Art,R1B,4,Clg of Letters & Science,materials science and engineering
+93,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,materials science and engineering
+94,2017 Spring,1,Industrial Eng & Ops Rsch,160,1,Clg of Engineering,materials science and engineering
+95,2017 Spring,2,Industrial Eng & Ops Rsch,186,1,Clg of Engineering,materials science and engineering
+96,2017 Spring,1,Industrial Eng & Ops Rsch,190D,1,Clg of Engineering,materials science and engineering
+97,2017 Spring,1,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,materials science and engineering
+98,2017 Spring,1,Information,C167,1,School of Information,materials science and engineering
+99,2017 Spring,1,Italian Studies,2,2,Clg of Letters & Science,materials science and engineering
+100,2017 Spring,1,Italian Studies,R5B,3,Clg of Letters & Science,materials science and engineering
+101,2017 Spring,1,Korean,1A,1,Clg of Letters & Science,materials science and engineering
+102,2017 Spring,1,Korean,100BX,1,Clg of Letters & Science,materials science and engineering
+103,2017 Spring,2,Letters & Science,C30Z,1,Clg of Letters & Science,materials science and engineering
+104,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,materials science and engineering
+105,2017 Spring,1,Malay/Indonesian,1B,1,Clg of Letters & Science,materials science and engineering
+106,2017 Spring,1,Materials Science & Eng,24,1,Clg of Engineering,materials science and engineering
+107,2017 Spring,2,Materials Science & Eng,24,2,Clg of Engineering,materials science and engineering
+108,2017 Spring,27,Materials Science & Eng,103,1,Clg of Engineering,materials science and engineering
+109,2017 Spring,24,Materials Science & Eng,104,1,Clg of Engineering,materials science and engineering
+110,2017 Spring,33,Materials Science & Eng,111,1,Clg of Engineering,materials science and engineering
+111,2017 Spring,33,Materials Science & Eng,112,1,Clg of Engineering,materials science and engineering
+112,2017 Spring,4,Materials Science & Eng,117,1,Clg of Engineering,materials science and engineering
+113,2017 Spring,53,Materials Science & Eng,151,1,Clg of Engineering,materials science and engineering
+114,2017 Spring,1,Mathematics,1B,1,Clg of Letters & Science,materials science and engineering
+115,2017 Spring,5,Mathematics,1B,2,Clg of Letters & Science,materials science and engineering
+116,2017 Spring,1,Mathematics,16B,1,Clg of Letters & Science,materials science and engineering
+117,2017 Spring,5,Mathematics,53,1,Clg of Letters & Science,materials science and engineering
+118,2017 Spring,10,Mathematics,53,2,Clg of Letters & Science,materials science and engineering
+119,2017 Spring,9,Mathematics,54,1,Clg of Letters & Science,materials science and engineering
+120,2017 Spring,3,Mathematics,54,2,Clg of Letters & Science,materials science and engineering
+121,2017 Spring,1,Mathematics,98,18,Clg of Letters & Science,materials science and engineering
+122,2017 Spring,1,Mathematics,98,30,Clg of Letters & Science,materials science and engineering
+123,2017 Spring,1,Mathematics,98,33,Clg of Letters & Science,materials science and engineering
+124,2017 Spring,1,Mathematics,H113,1,Clg of Letters & Science,materials science and engineering
+125,2017 Spring,2,Mathematics,121B,1,Clg of Letters & Science,materials science and engineering
+126,2017 Spring,1,Mathematics,126,1,Clg of Letters & Science,materials science and engineering
+127,2017 Spring,1,Mathematics,198,2,Clg of Letters & Science,materials science and engineering
+128,2017 Spring,1,Mechanical Engineering,24,2,Clg of Engineering,materials science and engineering
+129,2017 Spring,4,Mechanical Engineering,C85,1,Clg of Engineering,materials science and engineering
+130,2017 Spring,4,Mechanical Engineering,C85,2,Clg of Engineering,materials science and engineering
+131,2017 Spring,1,Mechanical Engineering,102B,1,Clg of Engineering,materials science and engineering
+132,2017 Spring,2,Mechanical Engineering,104,1,Clg of Engineering,materials science and engineering
+133,2017 Spring,2,Mechanical Engineering,110,1,Clg of Engineering,materials science and engineering
+134,2017 Spring,3,Mechanical Engineering,118,1,Clg of Engineering,materials science and engineering
+135,2017 Spring,1,Mechanical Engineering,122,1,Clg of Engineering,materials science and engineering
+136,2017 Spring,1,Mechanical Engineering,170,1,Clg of Engineering,materials science and engineering
+137,2017 Spring,2,Mechanical Engineering,C180,1,Clg of Engineering,materials science and engineering
+138,2017 Spring,1,Mechanical Engineering,191K,1,Clg of Engineering,materials science and engineering
+139,2017 Spring,1,Mechanical Engineering,198,50,Clg of Engineering,materials science and engineering
+140,2017 Spring,1,Mechanical Engineering,198,51,Clg of Engineering,materials science and engineering
+141,2017 Spring,1,Music,20A,5,Clg of Letters & Science,materials science and engineering
+142,2017 Spring,1,Music,139,1,Clg of Letters & Science,materials science and engineering
+143,2017 Spring,1,Music,142,1,Clg of Letters & Science,materials science and engineering
+144,2017 Spring,1,Music,142,2,Clg of Letters & Science,materials science and engineering
+145,2017 Spring,1,Music,198,2,Clg of Letters & Science,materials science and engineering
+146,2017 Spring,1,Native American Studies,110,1,Clg of Letters & Science,materials science and engineering
+147,2017 Spring,1,Native American Studies,178,1,Clg of Letters & Science,materials science and engineering
+148,2017 Spring,1,Nuclear Engineering,100,1,Clg of Engineering,materials science and engineering
+149,2017 Spring,2,Peace & Conflict Studies,135,1,Clg of Letters & Science,materials science and engineering
+150,2017 Spring,1,Physical Education,1,13,Clg of Letters & Science,materials science and engineering
+151,2017 Spring,1,Physical Education,1,28,Clg of Letters & Science,materials science and engineering
+152,2017 Spring,1,Physical Education,1,45,Clg of Letters & Science,materials science and engineering
+153,2017 Spring,1,Physical Education,3,8,Clg of Letters & Science,materials science and engineering
+154,2017 Spring,1,Physical Education,3,11,Clg of Letters & Science,materials science and engineering
+155,2017 Spring,2,Physical Education,4,4,Clg of Letters & Science,materials science and engineering
+156,2017 Spring,1,Physical Education,12,5,Clg of Letters & Science,materials science and engineering
+157,2017 Spring,1,Physical Education,12,6,Clg of Letters & Science,materials science and engineering
+158,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,materials science and engineering
+159,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,materials science and engineering
+160,2017 Spring,1,Physical Education,32,1,Clg of Letters & Science,materials science and engineering
+161,2017 Spring,1,Physical Education,98,1,Clg of Letters & Science,materials science and engineering
+162,2017 Spring,4,Physics,7A,1,Clg of Letters & Science,materials science and engineering
+163,2017 Spring,9,Physics,7A,2,Clg of Letters & Science,materials science and engineering
+164,2017 Spring,4,Physics,7A,3,Clg of Letters & Science,materials science and engineering
+165,2017 Spring,6,Physics,7B,2,Clg of Letters & Science,materials science and engineering
+166,2017 Spring,1,Physics,7B,3,Clg of Letters & Science,materials science and engineering
+167,2017 Spring,18,Physics,7C,1,Clg of Letters & Science,materials science and engineering
+168,2017 Spring,1,Physics,110A,1,Clg of Letters & Science,materials science and engineering
+169,2017 Spring,1,Physics,112,1,Clg of Letters & Science,materials science and engineering
+170,2017 Spring,1,Physics,137A,2,Clg of Letters & Science,materials science and engineering
+171,2017 Spring,1,Physics,198BC,3,Clg of Letters & Science,materials science and engineering
+172,2017 Spring,2,Political Science,179,1,Clg of Letters & Science,materials science and engineering
+173,2017 Spring,1,Psychology,1,1,Clg of Letters & Science,materials science and engineering
+174,2017 Spring,3,Psychology,C143,1,Clg of Letters & Science,materials science and engineering
+175,2017 Spring,1,Psychology,150,1,Clg of Letters & Science,materials science and engineering
+176,2017 Spring,2,Psychology,166AC,1,Clg of Letters & Science,materials science and engineering
+177,2017 Spring,1,Public Health,198,4,School of Public Health,materials science and engineering
+178,2017 Spring,1,Public Policy,C103,1,Goldman School Public Policy,materials science and engineering
+179,2017 Spring,1,Rhetoric,R1A,2,Clg of Letters & Science,materials science and engineering
+180,2017 Spring,1,Rhetoric,R1B,2,Clg of Letters & Science,materials science and engineering
+181,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,materials science and engineering
+182,2017 Spring,1,Slavic Languages & Lit,R5A,3,Clg of Letters & Science,materials science and engineering
+183,2017 Spring,1,Slavic Languages & Lit,R5B,3,Clg of Letters & Science,materials science and engineering
+184,2017 Spring,1,Sociology,111AC,1,Clg of Letters & Science,materials science and engineering
+185,2017 Spring,1,Sociology,117,1,Clg of Letters & Science,materials science and engineering
+186,2017 Spring,1,Sociology,131AC,1,Clg of Letters & Science,materials science and engineering
+187,2017 Spring,1,Sociology,133,1,Clg of Letters & Science,materials science and engineering
+188,2017 Spring,1,Sociology,C167,1,Clg of Letters & Science,materials science and engineering
+189,2017 Spring,1,South Asian,R5B,2,Clg of Letters & Science,materials science and engineering
+190,2017 Spring,1,South Asian,110,1,Clg of Letters & Science,materials science and engineering
+191,2017 Spring,1,Spanish,198,1,Clg of Letters & Science,materials science and engineering
+192,2017 Spring,1,Statistics,20,2,Clg of Letters & Science,materials science and engineering
+193,2017 Spring,1,Statistics,133,2,Clg of Letters & Science,materials science and engineering
+194,2017 Spring,1,Statistics,134,1,Clg of Letters & Science,materials science and engineering
+195,2017 Spring,1,Statistics,198,6,Clg of Letters & Science,materials science and engineering
+196,2017 Spring,1,Tamil,101B,1,Clg of Letters & Science,materials science and engineering
+197,2017 Spring,1,Theater Dance & Perf Stds,109,1,Clg of Letters & Science,materials science and engineering

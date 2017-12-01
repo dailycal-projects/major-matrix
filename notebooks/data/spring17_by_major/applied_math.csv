@@ -1,0 +1,558 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,28AC,1,Clg of Letters & Science,applied math
+1,2017 Spring,1,African American Studies,131,1,Clg of Letters & Science,applied math
+2,2017 Spring,1,African American Studies,142AC,1,Clg of Letters & Science,applied math
+3,2017 Spring,1,American Studies,C172,1,Clg of Letters & Science,applied math
+4,2017 Spring,2,Anthropology,2AC,1,Clg of Letters & Science,applied math
+5,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,applied math
+6,2017 Spring,1,Anthropology,160AC,1,Clg of Letters & Science,applied math
+7,2017 Spring,1,Anthropology,170,1,Clg of Letters & Science,applied math
+8,2017 Spring,1,Anthropology,180,1,Clg of Letters & Science,applied math
+9,2017 Spring,1,Anthropology,198,20,Clg of Letters & Science,applied math
+10,2017 Spring,2,Arabic,20B,1,Clg of Letters & Science,applied math
+11,2017 Spring,1,Architecture,98,5,Clg of Environmental Design,applied math
+12,2017 Spring,1,Architecture,170B,1,Clg of Environmental Design,applied math
+13,2017 Spring,3,Architecture,198,4,Clg of Environmental Design,applied math
+14,2017 Spring,1,Architecture,198BC,2,Clg of Environmental Design,applied math
+15,2017 Spring,2,Armenian,126,1,Clg of Letters & Science,applied math
+16,2017 Spring,1,Art Practice,123,1,Clg of Letters & Science,applied math
+17,2017 Spring,1,Art Practice,180,1,Clg of Letters & Science,applied math
+18,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,applied math
+19,2017 Spring,2,Asian American Studies,132AC,1,Clg of Letters & Science,applied math
+20,2017 Spring,1,Asian American Studies,198,4,Clg of Letters & Science,applied math
+21,2017 Spring,2,Asian Studies,198,2,Clg of Letters & Science,applied math
+22,2017 Spring,2,Asian Studies,198,4,Clg of Letters & Science,applied math
+23,2017 Spring,1,Astronomy,7B,1,Clg of Letters & Science,applied math
+24,2017 Spring,1,Astronomy,C12,1,Clg of Letters & Science,applied math
+25,2017 Spring,1,Astronomy,C161,1,Clg of Letters & Science,applied math
+26,2017 Spring,1,Astronomy,198,1,Clg of Letters & Science,applied math
+27,2017 Spring,1,Astronomy,198,2,Clg of Letters & Science,applied math
+28,2017 Spring,3,Bioengineering,25,1,Clg of Engineering,applied math
+29,2017 Spring,1,Biology,1A,2,Clg of Letters & Science,applied math
+30,2017 Spring,1,Buddhist Studies,C115,1,Clg of Letters & Science,applied math
+31,2017 Spring,1,Buddhist Studies,C128,1,Clg of Letters & Science,applied math
+32,2017 Spring,1,Business Admin-Undergrad,10,1,Haas School of Business,applied math
+33,2017 Spring,2,Business Admin-Undergrad,96,1,Haas School of Business,applied math
+34,2017 Spring,2,Business Admin-Undergrad,101A,1,Haas School of Business,applied math
+35,2017 Spring,3,Business Admin-Undergrad,102A,1,Haas School of Business,applied math
+36,2017 Spring,1,Business Admin-Undergrad,103,1,Haas School of Business,applied math
+37,2017 Spring,8,Business Admin-Undergrad,103,2,Haas School of Business,applied math
+38,2017 Spring,1,Business Admin-Undergrad,104,1,Haas School of Business,applied math
+39,2017 Spring,1,Business Admin-Undergrad,105,2,Haas School of Business,applied math
+40,2017 Spring,1,Business Admin-Undergrad,106,1,Haas School of Business,applied math
+41,2017 Spring,1,Business Admin-Undergrad,107,1,Haas School of Business,applied math
+42,2017 Spring,4,Business Admin-Undergrad,118,1,Haas School of Business,applied math
+43,2017 Spring,3,Business Admin-Undergrad,131,1,Haas School of Business,applied math
+44,2017 Spring,2,Business Admin-Undergrad,137,1,Haas School of Business,applied math
+45,2017 Spring,1,Business Admin-Undergrad,152,2,Haas School of Business,applied math
+46,2017 Spring,1,Business Admin-Undergrad,169,1,Haas School of Business,applied math
+47,2017 Spring,1,Business Admin-Undergrad,178,1,Haas School of Business,applied math
+48,2017 Spring,1,Business Admin-Undergrad,180,1,Haas School of Business,applied math
+49,2017 Spring,1,Business Admin-Undergrad,192B,1,Haas School of Business,applied math
+50,2017 Spring,2,Business Admin-Undergrad,198,1,Haas School of Business,applied math
+51,2017 Spring,1,Business Admin-Undergrad,198,5,Haas School of Business,applied math
+52,2017 Spring,2,Celtic Studies,R1B,2,Clg of Letters & Science,applied math
+53,2017 Spring,2,Celtic Studies,173,1,Clg of Letters & Science,applied math
+54,2017 Spring,1,Chemical Engineering,198,3,Clg of Chemistry,applied math
+55,2017 Spring,1,Chemistry,3BL,1,Clg of Chemistry,applied math
+56,2017 Spring,1,Chemistry,98,3,Clg of Chemistry,applied math
+57,2017 Spring,2,Chemistry,125,1,Clg of Chemistry,applied math
+58,2017 Spring,1,City & Regional Planning,118AC,1,Clg of Environmental Design,applied math
+59,2017 Spring,1,Civil & Environmental Eng,103,1,Clg of Engineering,applied math
+60,2017 Spring,1,Civil & Environmental Eng,130N,1,Clg of Engineering,applied math
+61,2017 Spring,1,Civil & Environmental Eng,155,1,Clg of Engineering,applied math
+62,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,applied math
+63,2017 Spring,1,Classics,17B,1,Clg of Letters & Science,applied math
+64,2017 Spring,1,Classics,28,1,Clg of Letters & Science,applied math
+65,2017 Spring,1,Classics,35,1,Clg of Letters & Science,applied math
+66,2017 Spring,1,Classics,130,1,Clg of Letters & Science,applied math
+67,2017 Spring,1,Classics,161,1,Clg of Letters & Science,applied math
+68,2017 Spring,1,Cognitive Science,C126,1,Clg of Letters & Science,applied math
+69,2017 Spring,2,Cognitive Science,C127,1,Clg of Letters & Science,applied math
+70,2017 Spring,2,Cognitive Science,C140,1,Clg of Letters & Science,applied math
+71,2017 Spring,1,College Writing Programs,130,1,Clg of Letters & Science,applied math
+72,2017 Spring,1,Comparative Literature,60AC,1,Clg of Letters & Science,applied math
+73,2017 Spring,12,Computer Science,C8,1,Clg of Engineering,applied math
+74,2017 Spring,1,Computer Science,9E,1,Clg of Engineering,applied math
+75,2017 Spring,2,Computer Science,9F,1,Clg of Engineering,applied math
+76,2017 Spring,1,Computer Science,9H,1,Clg of Engineering,applied math
+77,2017 Spring,1,Computer Science,10,1,Clg of Engineering,applied math
+78,2017 Spring,12,Computer Science,61A,1,Clg of Engineering,applied math
+79,2017 Spring,11,Computer Science,61B,1,Clg of Engineering,applied math
+80,2017 Spring,7,Computer Science,61C,1,Clg of Engineering,applied math
+81,2017 Spring,1,Computer Science,70,1,Clg of Engineering,applied math
+82,2017 Spring,2,Computer Science,97,205,Clg of Engineering,applied math
+83,2017 Spring,1,Computer Science,C100,1,Clg of Engineering,applied math
+84,2017 Spring,4,Computer Science,160,1,Clg of Engineering,applied math
+85,2017 Spring,1,Computer Science,160,2,Clg of Engineering,applied math
+86,2017 Spring,2,Computer Science,160,3,Clg of Engineering,applied math
+87,2017 Spring,12,Computer Science,161,1,Clg of Engineering,applied math
+88,2017 Spring,6,Computer Science,162,1,Clg of Engineering,applied math
+89,2017 Spring,5,Computer Science,164,1,Clg of Engineering,applied math
+90,2017 Spring,21,Computer Science,170,1,Clg of Engineering,applied math
+91,2017 Spring,4,Computer Science,174,1,Clg of Engineering,applied math
+92,2017 Spring,5,Computer Science,184,1,Clg of Engineering,applied math
+93,2017 Spring,10,Computer Science,186,1,Clg of Engineering,applied math
+94,2017 Spring,6,Computer Science,188,1,Clg of Engineering,applied math
+95,2017 Spring,29,Computer Science,189,1,Clg of Engineering,applied math
+96,2017 Spring,2,Computer Science,C191,1,Clg of Engineering,applied math
+97,2017 Spring,1,Computer Science,194,30,Clg of Engineering,applied math
+98,2017 Spring,1,Computer Science,194,133,Clg of Engineering,applied math
+99,2017 Spring,1,Computer Science,195,1,Clg of Engineering,applied math
+100,2017 Spring,2,Computer Science,197,206,Clg of Engineering,applied math
+101,2017 Spring,1,Computer Science,197,212,Clg of Engineering,applied math
+102,2017 Spring,3,Computer Science,197,214,Clg of Engineering,applied math
+103,2017 Spring,2,Computer Science,198,2,Clg of Engineering,applied math
+104,2017 Spring,1,Computer Science,198,56,Clg of Engineering,applied math
+105,2017 Spring,4,Computer Science,198,58,Clg of Engineering,applied math
+106,2017 Spring,1,Computer Science,198,64,Clg of Engineering,applied math
+107,2017 Spring,1,Computer Science,198,68,Clg of Engineering,applied math
+108,2017 Spring,1,Computer Science,198,74,Clg of Engineering,applied math
+109,2017 Spring,1,Computer Science,198,303,Clg of Engineering,applied math
+110,2017 Spring,1,Computer Science,198,642,Clg of Engineering,applied math
+111,2017 Spring,1,Demography,C175,1,Clg of Letters & Science,applied math
+112,2017 Spring,1,Design Innovation,98,1,Clg of Engineering,applied math
+113,2017 Spring,1,Design Innovation,198,1,Clg of Engineering,applied math
+114,2017 Spring,1,Development Studies,C10,1,Clg of Letters & Science,applied math
+115,2017 Spring,2,Development Studies,C100,1,Clg of Letters & Science,applied math
+116,2017 Spring,1,Dutch,166,1,Clg of Letters & Science,applied math
+117,2017 Spring,2,Earth & Planetary Science,C12,1,Clg of Letters & Science,applied math
+118,2017 Spring,1,Earth & Planetary Science,104,1,Clg of Letters & Science,applied math
+119,2017 Spring,2,Earth & Planetary Science,122,1,Clg of Letters & Science,applied math
+120,2017 Spring,1,Earth & Planetary Science,150,1,Clg of Letters & Science,applied math
+121,2017 Spring,1,East Asian Languages,105,1,Clg of Letters & Science,applied math
+122,2017 Spring,1,East Asian Languages,C128,1,Clg of Letters & Science,applied math
+123,2017 Spring,1,East Asian Languages,191,1,Clg of Letters & Science,applied math
+124,2017 Spring,4,Economics,1,1,Clg of Letters & Science,applied math
+125,2017 Spring,1,Economics,100A,1,Clg of Letters & Science,applied math
+126,2017 Spring,6,Economics,100B,1,Clg of Letters & Science,applied math
+127,2017 Spring,13,Economics,101A,1,Clg of Letters & Science,applied math
+128,2017 Spring,9,Economics,101B,1,Clg of Letters & Science,applied math
+129,2017 Spring,1,Economics,C103,1,Clg of Letters & Science,applied math
+130,2017 Spring,1,Economics,113,1,Clg of Letters & Science,applied math
+131,2017 Spring,4,Economics,115,1,Clg of Letters & Science,applied math
+132,2017 Spring,6,Economics,121,1,Clg of Letters & Science,applied math
+133,2017 Spring,6,Economics,131,1,Clg of Letters & Science,applied math
+134,2017 Spring,7,Economics,136,1,Clg of Letters & Science,applied math
+135,2017 Spring,6,Economics,138,1,Clg of Letters & Science,applied math
+136,2017 Spring,4,Economics,139,1,Clg of Letters & Science,applied math
+137,2017 Spring,4,Economics,140,1,Clg of Letters & Science,applied math
+138,2017 Spring,21,Economics,141,1,Clg of Letters & Science,applied math
+139,2017 Spring,2,Economics,C142,1,Clg of Letters & Science,applied math
+140,2017 Spring,3,Economics,151,1,Clg of Letters & Science,applied math
+141,2017 Spring,4,Economics,157,1,Clg of Letters & Science,applied math
+142,2017 Spring,1,Economics,172,1,Clg of Letters & Science,applied math
+143,2017 Spring,3,Economics,174,1,Clg of Letters & Science,applied math
+144,2017 Spring,2,Economics,C175,1,Clg of Letters & Science,applied math
+145,2017 Spring,3,Economics,191,1,Clg of Letters & Science,applied math
+146,2017 Spring,2,Education,40AC,1,Grad School of Education,applied math
+147,2017 Spring,1,Education,130,1,Grad School of Education,applied math
+148,2017 Spring,1,Education,183,1,Grad School of Education,applied math
+149,2017 Spring,8,Electrical Engineering,16A,1,Clg of Engineering,applied math
+150,2017 Spring,1,Electrical Engineering,16B,1,Clg of Engineering,applied math
+151,2017 Spring,1,Electrical Engineering,120,1,Clg of Engineering,applied math
+152,2017 Spring,2,Electrical Engineering,122,1,Clg of Engineering,applied math
+153,2017 Spring,2,Electrical Engineering,126,1,Clg of Engineering,applied math
+154,2017 Spring,7,Electrical Engineering,127,1,Clg of Engineering,applied math
+155,2017 Spring,1,Electrical Engineering,192,1,Clg of Engineering,applied math
+156,2017 Spring,2,Electrical Engineering,198,1,Clg of Engineering,applied math
+157,2017 Spring,2,Electrical Engineering,198,2,Clg of Engineering,applied math
+158,2017 Spring,1,Energy and Resources,102,1,Clg of Natural Resources,applied math
+159,2017 Spring,1,Engineering,45,1,Clg of Engineering,applied math
+160,2017 Spring,4,Engineering,120,1,Clg of Engineering,applied math
+161,2017 Spring,1,English,117S,2,Clg of Letters & Science,applied math
+162,2017 Spring,1,English,132,1,Clg of Letters & Science,applied math
+163,2017 Spring,1,English,143A,2,Clg of Letters & Science,applied math
+164,2017 Spring,1,English,166AC,1,Clg of Letters & Science,applied math
+165,2017 Spring,1,English,198,5,Clg of Letters & Science,applied math
+166,2017 Spring,1,"Env Sci, Policy, & Mgmt",C11,1,Clg of Natural Resources,applied math
+167,2017 Spring,1,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,applied math
+168,2017 Spring,2,"Env Sci, Policy, & Mgmt",39,1,Clg of Natural Resources,applied math
+169,2017 Spring,1,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,applied math
+170,2017 Spring,10,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,applied math
+171,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,2,Clg of Natural Resources,applied math
+172,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,8,Clg of Natural Resources,applied math
+173,2017 Spring,1,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,applied math
+174,2017 Spring,1,"Env Sci, Policy, & Mgmt",165,1,Clg of Natural Resources,applied math
+175,2017 Spring,1,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,applied math
+176,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,1,Clg of Natural Resources,applied math
+177,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,8,Clg of Natural Resources,applied math
+178,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,9,Clg of Natural Resources,applied math
+179,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,1,Clg of Natural Resources,applied math
+180,2017 Spring,1,Environ Econ & Policy,100,1,Clg of Natural Resources,applied math
+181,2017 Spring,1,Environ Econ & Policy,C101,1,Clg of Natural Resources,applied math
+182,2017 Spring,1,Environ Econ & Policy,143,1,Clg of Natural Resources,applied math
+183,2017 Spring,1,Environ Econ & Policy,147,1,Clg of Natural Resources,applied math
+184,2017 Spring,1,Environmental Design,4B,1,Clg of Environmental Design,applied math
+185,2017 Spring,1,Environmental Design,100,1,Clg of Environmental Design,applied math
+186,2017 Spring,1,Ethnic Studies,103A,1,Clg of Letters & Science,applied math
+187,2017 Spring,2,Ethnic Studies,122AC,1,Clg of Letters & Science,applied math
+188,2017 Spring,1,Ethnic Studies,181AC,1,Clg of Letters & Science,applied math
+189,2017 Spring,1,Ethnic Studies,197,11,Clg of Letters & Science,applied math
+190,2017 Spring,1,Ethnic Studies,198,4,Clg of Letters & Science,applied math
+191,2017 Spring,1,Ethnic Studies,198,5,Clg of Letters & Science,applied math
+192,2017 Spring,1,Filipino,W1Y,1,Clg of Letters & Science,applied math
+193,2017 Spring,1,Filipino,W100B,1,Clg of Letters & Science,applied math
+194,2017 Spring,1,French,1,4,Clg of Letters & Science,applied math
+195,2017 Spring,1,French,3,5,Clg of Letters & Science,applied math
+196,2017 Spring,1,French,14,1,Clg of Letters & Science,applied math
+197,2017 Spring,1,French,180D,1,Clg of Letters & Science,applied math
+198,2017 Spring,1,Gender & Womens Studies,14,1,Clg of Letters & Science,applied math
+199,2017 Spring,2,Gender & Womens Studies,100AC,1,Clg of Letters & Science,applied math
+200,2017 Spring,1,Gender & Womens Studies,198,4,Clg of Letters & Science,applied math
+201,2017 Spring,6,Geography,20,1,Clg of Letters & Science,applied math
+202,2017 Spring,1,Geography,C32,1,Clg of Letters & Science,applied math
+203,2017 Spring,1,Geography,70AC,1,Clg of Letters & Science,applied math
+204,2017 Spring,1,Geography,88,1,Clg of Letters & Science,applied math
+205,2017 Spring,1,Geography,98,1,Clg of Letters & Science,applied math
+206,2017 Spring,2,Geography,130,1,Clg of Letters & Science,applied math
+207,2017 Spring,1,Geography,140A,1,Clg of Letters & Science,applied math
+208,2017 Spring,1,German,1,1,Clg of Letters & Science,applied math
+209,2017 Spring,2,German,3,1,Clg of Letters & Science,applied math
+210,2017 Spring,1,German,R5B,1,Clg of Letters & Science,applied math
+211,2017 Spring,1,German,101,1,Clg of Letters & Science,applied math
+212,2017 Spring,1,German,108,1,Clg of Letters & Science,applied math
+213,2017 Spring,1,German,152,1,Clg of Letters & Science,applied math
+214,2017 Spring,1,German,157A,1,Clg of Letters & Science,applied math
+215,2017 Spring,1,German,182,1,Clg of Letters & Science,applied math
+216,2017 Spring,1,Hindi-Urdu,100B,1,Clg of Letters & Science,applied math
+217,2017 Spring,3,History,6B,1,Clg of Letters & Science,applied math
+218,2017 Spring,4,History,7B,1,Clg of Letters & Science,applied math
+219,2017 Spring,1,History,88,1,Clg of Letters & Science,applied math
+220,2017 Spring,4,History,100AC,2,Clg of Letters & Science,applied math
+221,2017 Spring,1,History,100F,1,Clg of Letters & Science,applied math
+222,2017 Spring,1,History,100S,2,Clg of Letters & Science,applied math
+223,2017 Spring,1,History,101,5,Clg of Letters & Science,applied math
+224,2017 Spring,1,History,103U,2,Clg of Letters & Science,applied math
+225,2017 Spring,1,History,106B,1,Clg of Letters & Science,applied math
+226,2017 Spring,1,History,111B,1,Clg of Letters & Science,applied math
+227,2017 Spring,1,History,119A,1,Clg of Letters & Science,applied math
+228,2017 Spring,1,History,124B,1,Clg of Letters & Science,applied math
+229,2017 Spring,1,History,136C,1,Clg of Letters & Science,applied math
+230,2017 Spring,2,History,160,1,Clg of Letters & Science,applied math
+231,2017 Spring,7,History,162B,1,Clg of Letters & Science,applied math
+232,2017 Spring,1,History,164A,1,Clg of Letters & Science,applied math
+233,2017 Spring,1,History,167D,1,Clg of Letters & Science,applied math
+234,2017 Spring,2,History,171C,1,Clg of Letters & Science,applied math
+235,2017 Spring,2,History,180T,1,Clg of Letters & Science,applied math
+236,2017 Spring,1,History,182A,1,Clg of Letters & Science,applied math
+237,2017 Spring,2,History,186,1,Clg of Letters & Science,applied math
+238,2017 Spring,1,History,198BC,1,Clg of Letters & Science,applied math
+239,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,applied math
+240,2017 Spring,1,History of Art,100,1,Clg of Letters & Science,applied math
+241,2017 Spring,1,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,applied math
+242,2017 Spring,1,Industrial Eng & Ops Rsch,131,1,Clg of Engineering,applied math
+243,2017 Spring,1,Industrial Eng & Ops Rsch,153,1,Clg of Engineering,applied math
+244,2017 Spring,7,Industrial Eng & Ops Rsch,160,1,Clg of Engineering,applied math
+245,2017 Spring,6,Industrial Eng & Ops Rsch,162,1,Clg of Engineering,applied math
+246,2017 Spring,3,Industrial Eng & Ops Rsch,165,1,Clg of Engineering,applied math
+247,2017 Spring,3,Industrial Eng & Ops Rsch,166,1,Clg of Engineering,applied math
+248,2017 Spring,1,Industrial Eng & Ops Rsch,171,1,Clg of Engineering,applied math
+249,2017 Spring,8,Industrial Eng & Ops Rsch,173,1,Clg of Engineering,applied math
+250,2017 Spring,1,Industrial Eng & Ops Rsch,180,1,Clg of Engineering,applied math
+251,2017 Spring,3,Industrial Eng & Ops Rsch,186,1,Clg of Engineering,applied math
+252,2017 Spring,1,Industrial Eng & Ops Rsch,190C,1,Clg of Engineering,applied math
+253,2017 Spring,2,Industrial Eng & Ops Rsch,190D,1,Clg of Engineering,applied math
+254,2017 Spring,1,Industrial Eng & Ops Rsch,191,1,Clg of Engineering,applied math
+255,2017 Spring,2,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,applied math
+256,2017 Spring,1,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,applied math
+257,2017 Spring,1,Integrative Biology,C32,1,Clg of Letters & Science,applied math
+258,2017 Spring,1,Integrative Biology,113L,1,Clg of Letters & Science,applied math
+259,2017 Spring,2,Integrative Biology,198,2,Clg of Letters & Science,applied math
+260,2017 Spring,2,Integrative Biology,198,6,Clg of Letters & Science,applied math
+261,2017 Spring,1,Interdisciplinary Studies,100A,1,Clg of Letters & Science,applied math
+262,2017 Spring,3,Interdisciplinary Studies,100G,1,Clg of Letters & Science,applied math
+263,2017 Spring,1,Interdisciplinary Studies,190,1,Clg of Letters & Science,applied math
+264,2017 Spring,1,International & Area Stds,198,2,Clg of Letters & Science,applied math
+265,2017 Spring,1,Japanese,1B,2,Clg of Letters & Science,applied math
+266,2017 Spring,2,Japanese,1B,6,Clg of Letters & Science,applied math
+267,2017 Spring,1,Japanese,7B,1,Clg of Letters & Science,applied math
+268,2017 Spring,1,Japanese,C115,1,Clg of Letters & Science,applied math
+269,2017 Spring,1,Japanese,161,1,Clg of Letters & Science,applied math
+270,2017 Spring,2,Korean,1A,1,Clg of Letters & Science,applied math
+271,2017 Spring,2,Korean,1B,2,Clg of Letters & Science,applied math
+272,2017 Spring,2,Korean,7B,1,Clg of Letters & Science,applied math
+273,2017 Spring,2,Korean,10B,2,Clg of Letters & Science,applied math
+274,2017 Spring,1,Korean,102,1,Clg of Letters & Science,applied math
+275,2017 Spring,1,Korean,153,1,Clg of Letters & Science,applied math
+276,2017 Spring,1,Latin,102,1,Clg of Letters & Science,applied math
+277,2017 Spring,1,Legal Studies,132AC,1,School of Law,applied math
+278,2017 Spring,1,Legal Studies,152AC,1,School of Law,applied math
+279,2017 Spring,4,Letters & Science,22,1,Clg of Letters & Science,applied math
+280,2017 Spring,1,Letters & Science,C30V,1,Clg of Letters & Science,applied math
+281,2017 Spring,1,Letters & Science,C30Z,1,Clg of Letters & Science,applied math
+282,2017 Spring,1,Letters & Science,70A,1,Clg of Letters & Science,applied math
+283,2017 Spring,1,Letters & Science,70C,1,Clg of Letters & Science,applied math
+284,2017 Spring,1,Letters & Science,C70T,1,Clg of Letters & Science,applied math
+285,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,applied math
+286,2017 Spring,3,Letters & Science,160B,1,Clg of Letters & Science,applied math
+287,2017 Spring,1,Linguistics,5,1,Clg of Letters & Science,applied math
+288,2017 Spring,2,Linguistics,100,1,Clg of Letters & Science,applied math
+289,2017 Spring,1,Linguistics,115,1,Clg of Letters & Science,applied math
+290,2017 Spring,1,Linguistics,121,1,Clg of Letters & Science,applied math
+291,2017 Spring,1,Linguistics,198,2,Clg of Letters & Science,applied math
+292,2017 Spring,1,Mathematics,16B,1,Clg of Letters & Science,applied math
+293,2017 Spring,1,Mathematics,16B,2,Clg of Letters & Science,applied math
+294,2017 Spring,1,Mathematics,53,1,Clg of Letters & Science,applied math
+295,2017 Spring,3,Mathematics,53,2,Clg of Letters & Science,applied math
+296,2017 Spring,1,Mathematics,54,1,Clg of Letters & Science,applied math
+297,2017 Spring,5,Mathematics,55,1,Clg of Letters & Science,applied math
+298,2017 Spring,17,Mathematics,98,11,Clg of Letters & Science,applied math
+299,2017 Spring,14,Mathematics,98,12,Clg of Letters & Science,applied math
+300,2017 Spring,1,Mathematics,98,30,Clg of Letters & Science,applied math
+301,2017 Spring,1,Mathematics,98,32,Clg of Letters & Science,applied math
+302,2017 Spring,1,Mathematics,98BC,2,Clg of Letters & Science,applied math
+303,2017 Spring,1,Mathematics,98BC,4,Clg of Letters & Science,applied math
+304,2017 Spring,7,Mathematics,C103,1,Clg of Letters & Science,applied math
+305,2017 Spring,21,Mathematics,104,1,Clg of Letters & Science,applied math
+306,2017 Spring,3,Mathematics,104,2,Clg of Letters & Science,applied math
+307,2017 Spring,13,Mathematics,104,3,Clg of Letters & Science,applied math
+308,2017 Spring,8,Mathematics,104,4,Clg of Letters & Science,applied math
+309,2017 Spring,21,Mathematics,104,5,Clg of Letters & Science,applied math
+310,2017 Spring,17,Mathematics,104,6,Clg of Letters & Science,applied math
+311,2017 Spring,11,Mathematics,105,1,Clg of Letters & Science,applied math
+312,2017 Spring,61,Mathematics,110,1,Clg of Letters & Science,applied math
+313,2017 Spring,5,Mathematics,113,1,Clg of Letters & Science,applied math
+314,2017 Spring,16,Mathematics,113,2,Clg of Letters & Science,applied math
+315,2017 Spring,14,Mathematics,113,3,Clg of Letters & Science,applied math
+316,2017 Spring,12,Mathematics,113,4,Clg of Letters & Science,applied math
+317,2017 Spring,18,Mathematics,113,5,Clg of Letters & Science,applied math
+318,2017 Spring,20,Mathematics,113,6,Clg of Letters & Science,applied math
+319,2017 Spring,11,Mathematics,113,7,Clg of Letters & Science,applied math
+320,2017 Spring,2,Mathematics,H113,1,Clg of Letters & Science,applied math
+321,2017 Spring,1,Mathematics,114,1,Clg of Letters & Science,applied math
+322,2017 Spring,3,Mathematics,115,1,Clg of Letters & Science,applied math
+323,2017 Spring,5,Mathematics,118,1,Clg of Letters & Science,applied math
+324,2017 Spring,18,Mathematics,126,1,Clg of Letters & Science,applied math
+325,2017 Spring,99,Mathematics,128A,1,Clg of Letters & Science,applied math
+326,2017 Spring,22,Mathematics,128B,1,Clg of Letters & Science,applied math
+327,2017 Spring,6,Mathematics,135,1,Clg of Letters & Science,applied math
+328,2017 Spring,3,Mathematics,136,1,Clg of Letters & Science,applied math
+329,2017 Spring,4,Mathematics,140,1,Clg of Letters & Science,applied math
+330,2017 Spring,3,Mathematics,142,1,Clg of Letters & Science,applied math
+331,2017 Spring,4,Mathematics,151,1,Clg of Letters & Science,applied math
+332,2017 Spring,4,Mathematics,160,1,Clg of Letters & Science,applied math
+333,2017 Spring,19,Mathematics,170,1,Clg of Letters & Science,applied math
+334,2017 Spring,5,Mathematics,172,1,Clg of Letters & Science,applied math
+335,2017 Spring,11,Mathematics,185,1,Clg of Letters & Science,applied math
+336,2017 Spring,20,Mathematics,185,2,Clg of Letters & Science,applied math
+337,2017 Spring,30,Mathematics,185,3,Clg of Letters & Science,applied math
+338,2017 Spring,28,Mathematics,185,4,Clg of Letters & Science,applied math
+339,2017 Spring,9,Mathematics,185,5,Clg of Letters & Science,applied math
+340,2017 Spring,3,Mathematics,191,1,Clg of Letters & Science,applied math
+341,2017 Spring,1,Mathematics,197,1,Clg of Letters & Science,applied math
+342,2017 Spring,2,Mathematics,197,2,Clg of Letters & Science,applied math
+343,2017 Spring,3,Mathematics,198,2,Clg of Letters & Science,applied math
+344,2017 Spring,1,Mathematics,198,3,Clg of Letters & Science,applied math
+345,2017 Spring,3,Mathematics,198BC,1,Clg of Letters & Science,applied math
+346,2017 Spring,4,Mathematics,198BC,2,Clg of Letters & Science,applied math
+347,2017 Spring,4,Mathematics,198BC,3,Clg of Letters & Science,applied math
+348,2017 Spring,5,Mathematics,198BC,4,Clg of Letters & Science,applied math
+349,2017 Spring,1,Mechanical Engineering,102A,1,Clg of Engineering,applied math
+350,2017 Spring,2,Mechanical Engineering,102B,1,Clg of Engineering,applied math
+351,2017 Spring,1,Mechanical Engineering,104,1,Clg of Engineering,applied math
+352,2017 Spring,2,Mechanical Engineering,106,1,Clg of Engineering,applied math
+353,2017 Spring,1,Mechanical Engineering,109,1,Clg of Engineering,applied math
+354,2017 Spring,1,Mechanical Engineering,191K,1,Clg of Engineering,applied math
+355,2017 Spring,1,Molecular & Cell Biology,C61,1,Clg of Letters & Science,applied math
+356,2017 Spring,1,Molecular & Cell Biology,102,1,Clg of Letters & Science,applied math
+357,2017 Spring,1,Molecular & Cell Biology,137L,1,Clg of Letters & Science,applied math
+358,2017 Spring,1,Molecular & Cell Biology,141,1,Clg of Letters & Science,applied math
+359,2017 Spring,1,Molecular & Cell Biology,161,1,Clg of Letters & Science,applied math
+360,2017 Spring,1,Molecular & Cell Biology,198,6,Clg of Letters & Science,applied math
+361,2017 Spring,1,Music,20A,1,Clg of Letters & Science,applied math
+362,2017 Spring,1,Music,20A,2,Clg of Letters & Science,applied math
+363,2017 Spring,1,Music,20A,5,Clg of Letters & Science,applied math
+364,2017 Spring,1,Music,20A,6,Clg of Letters & Science,applied math
+365,2017 Spring,3,Music,26AC,1,Clg of Letters & Science,applied math
+366,2017 Spring,2,Music,29,1,Clg of Letters & Science,applied math
+367,2017 Spring,1,Music,44,3,Clg of Letters & Science,applied math
+368,2017 Spring,1,Music,139,1,Clg of Letters & Science,applied math
+369,2017 Spring,2,Music,140,1,Clg of Letters & Science,applied math
+370,2017 Spring,2,Music,140,2,Clg of Letters & Science,applied math
+371,2017 Spring,1,Music,140,3,Clg of Letters & Science,applied math
+372,2017 Spring,2,Music,141,1,Clg of Letters & Science,applied math
+373,2017 Spring,1,Music,142,1,Clg of Letters & Science,applied math
+374,2017 Spring,3,Music,143,1,Clg of Letters & Science,applied math
+375,2017 Spring,1,Music,144,1,Clg of Letters & Science,applied math
+376,2017 Spring,6,Music,148,1,Clg of Letters & Science,applied math
+377,2017 Spring,1,Music,153B,1,Clg of Letters & Science,applied math
+378,2017 Spring,1,Music,170,1,Clg of Letters & Science,applied math
+379,2017 Spring,1,Music,198,1,Clg of Letters & Science,applied math
+380,2017 Spring,1,Music,198,10,Clg of Letters & Science,applied math
+381,2017 Spring,1,Native American Studies,120AC,1,Clg of Letters & Science,applied math
+382,2017 Spring,1,Near Eastern Studies,101,1,Clg of Letters & Science,applied math
+383,2017 Spring,1,Near Eastern Studies,102B,1,Clg of Letters & Science,applied math
+384,2017 Spring,1,Near Eastern Studies,140,1,Clg of Letters & Science,applied math
+385,2017 Spring,2,Near Eastern Studies,146B,1,Clg of Letters & Science,applied math
+386,2017 Spring,1,Near Eastern Studies,150B,1,Clg of Letters & Science,applied math
+387,2017 Spring,1,Near Eastern Studies,162B,1,Clg of Letters & Science,applied math
+388,2017 Spring,3,Near Eastern Studies,165,1,Clg of Letters & Science,applied math
+389,2017 Spring,2,Near Eastern Studies,180,1,Clg of Letters & Science,applied math
+390,2017 Spring,1,New Media,198,1,Clg of Engineering,applied math
+391,2017 Spring,1,Nuclear Engineering,198,1,Clg of Engineering,applied math
+392,2017 Spring,9,Nutritional Science & Tox,10,1,Clg of Natural Resources,applied math
+393,2017 Spring,3,Nutritional Science & Tox,11,1,Clg of Natural Resources,applied math
+394,2017 Spring,1,Nutritional Science & Tox,98,2,Clg of Natural Resources,applied math
+395,2017 Spring,2,Optometry,10,1,School of Optometry,applied math
+396,2017 Spring,2,Peace & Conflict Studies,10,1,Clg of Letters & Science,applied math
+397,2017 Spring,1,Peace & Conflict Studies,100,1,Clg of Letters & Science,applied math
+398,2017 Spring,1,Peace & Conflict Studies,151,1,Clg of Letters & Science,applied math
+399,2017 Spring,1,Persian,20B,1,Clg of Letters & Science,applied math
+400,2017 Spring,1,Persian,104B,1,Clg of Letters & Science,applied math
+401,2017 Spring,4,Philosophy,2,1,Clg of Letters & Science,applied math
+402,2017 Spring,3,Philosophy,3,1,Clg of Letters & Science,applied math
+403,2017 Spring,8,Philosophy,12A,1,Clg of Letters & Science,applied math
+404,2017 Spring,1,Philosophy,25B,1,Clg of Letters & Science,applied math
+405,2017 Spring,2,Philosophy,132,1,Clg of Letters & Science,applied math
+406,2017 Spring,1,Philosophy,172,1,Clg of Letters & Science,applied math
+407,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,applied math
+408,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,applied math
+409,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,applied math
+410,2017 Spring,1,Physical Education,1,19,Clg of Letters & Science,applied math
+411,2017 Spring,1,Physical Education,1,23,Clg of Letters & Science,applied math
+412,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,applied math
+413,2017 Spring,2,Physical Education,1,27,Clg of Letters & Science,applied math
+414,2017 Spring,2,Physical Education,1,28,Clg of Letters & Science,applied math
+415,2017 Spring,1,Physical Education,1,29,Clg of Letters & Science,applied math
+416,2017 Spring,1,Physical Education,1,30,Clg of Letters & Science,applied math
+417,2017 Spring,1,Physical Education,1,31,Clg of Letters & Science,applied math
+418,2017 Spring,1,Physical Education,1,36,Clg of Letters & Science,applied math
+419,2017 Spring,1,Physical Education,1,40,Clg of Letters & Science,applied math
+420,2017 Spring,1,Physical Education,1,44,Clg of Letters & Science,applied math
+421,2017 Spring,1,Physical Education,2,2,Clg of Letters & Science,applied math
+422,2017 Spring,1,Physical Education,2,3,Clg of Letters & Science,applied math
+423,2017 Spring,1,Physical Education,2,5,Clg of Letters & Science,applied math
+424,2017 Spring,1,Physical Education,2,8,Clg of Letters & Science,applied math
+425,2017 Spring,1,Physical Education,2,9,Clg of Letters & Science,applied math
+426,2017 Spring,2,Physical Education,2,13,Clg of Letters & Science,applied math
+427,2017 Spring,1,Physical Education,2,15,Clg of Letters & Science,applied math
+428,2017 Spring,1,Physical Education,2,16,Clg of Letters & Science,applied math
+429,2017 Spring,1,Physical Education,3,8,Clg of Letters & Science,applied math
+430,2017 Spring,1,Physical Education,3,9,Clg of Letters & Science,applied math
+431,2017 Spring,1,Physical Education,3,11,Clg of Letters & Science,applied math
+432,2017 Spring,2,Physical Education,4,5,Clg of Letters & Science,applied math
+433,2017 Spring,1,Physical Education,5,1,Clg of Letters & Science,applied math
+434,2017 Spring,1,Physical Education,11,9,Clg of Letters & Science,applied math
+435,2017 Spring,1,Physical Education,11,10,Clg of Letters & Science,applied math
+436,2017 Spring,1,Physical Education,11,21,Clg of Letters & Science,applied math
+437,2017 Spring,1,Physical Education,11,22,Clg of Letters & Science,applied math
+438,2017 Spring,2,Physical Education,11,25,Clg of Letters & Science,applied math
+439,2017 Spring,2,Physical Education,11,26,Clg of Letters & Science,applied math
+440,2017 Spring,1,Physical Education,32,1,Clg of Letters & Science,applied math
+441,2017 Spring,1,Physical Education,98,1,Clg of Letters & Science,applied math
+442,2017 Spring,1,Physical Education,198,2,Clg of Letters & Science,applied math
+443,2017 Spring,1,Physics,8A,1,Clg of Letters & Science,applied math
+444,2017 Spring,1,Physics,8A,2,Clg of Letters & Science,applied math
+445,2017 Spring,1,Physics,89,1,Clg of Letters & Science,applied math
+446,2017 Spring,6,Physics,105,1,Clg of Letters & Science,applied math
+447,2017 Spring,1,Physics,110A,1,Clg of Letters & Science,applied math
+448,2017 Spring,1,Physics,110B,1,Clg of Letters & Science,applied math
+449,2017 Spring,1,Physics,111A,1,Clg of Letters & Science,applied math
+450,2017 Spring,7,Physics,111B,1,Clg of Letters & Science,applied math
+451,2017 Spring,2,Physics,112,1,Clg of Letters & Science,applied math
+452,2017 Spring,2,Physics,137A,1,Clg of Letters & Science,applied math
+453,2017 Spring,3,Physics,137B,1,Clg of Letters & Science,applied math
+454,2017 Spring,1,Physics,138,1,Clg of Letters & Science,applied math
+455,2017 Spring,3,Physics,139,1,Clg of Letters & Science,applied math
+456,2017 Spring,2,Physics,177,1,Clg of Letters & Science,applied math
+457,2017 Spring,3,Physics,H190,1,Clg of Letters & Science,applied math
+458,2017 Spring,1,Physics,C191,1,Clg of Letters & Science,applied math
+459,2017 Spring,1,Physics,198BC,3,Clg of Letters & Science,applied math
+460,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,applied math
+461,2017 Spring,2,Political Science,1,1,Clg of Letters & Science,applied math
+462,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,applied math
+463,2017 Spring,1,Political Science,143E,1,Clg of Letters & Science,applied math
+464,2017 Spring,4,Political Science,179,1,Clg of Letters & Science,applied math
+465,2017 Spring,1,Political Science,198,1,Clg of Letters & Science,applied math
+466,2017 Spring,1,Political Science,198,2,Clg of Letters & Science,applied math
+467,2017 Spring,1,Political Science,198,3,Clg of Letters & Science,applied math
+468,2017 Spring,1,Political Science,198,4,Clg of Letters & Science,applied math
+469,2017 Spring,1,Portuguese,104,1,Clg of Letters & Science,applied math
+470,2017 Spring,2,Psychology,1,1,Clg of Letters & Science,applied math
+471,2017 Spring,3,Psychology,2,1,Clg of Letters & Science,applied math
+472,2017 Spring,1,Psychology,C61,1,Clg of Letters & Science,applied math
+473,2017 Spring,2,Psychology,101,1,Clg of Letters & Science,applied math
+474,2017 Spring,1,Psychology,114,1,Clg of Letters & Science,applied math
+475,2017 Spring,1,Psychology,131,1,Clg of Letters & Science,applied math
+476,2017 Spring,3,Psychology,133,1,Clg of Letters & Science,applied math
+477,2017 Spring,2,Psychology,150,1,Clg of Letters & Science,applied math
+478,2017 Spring,4,Psychology,156,1,Clg of Letters & Science,applied math
+479,2017 Spring,2,Psychology,166AC,1,Clg of Letters & Science,applied math
+480,2017 Spring,1,Psychology,198,2,Clg of Letters & Science,applied math
+481,2017 Spring,3,Public Health,142,1,School of Public Health,applied math
+482,2017 Spring,1,Public Health,150E,1,School of Public Health,applied math
+483,2017 Spring,1,Public Health,C160,1,School of Public Health,applied math
+484,2017 Spring,1,Public Health,196,6,School of Public Health,applied math
+485,2017 Spring,2,Public Health,198,2,School of Public Health,applied math
+486,2017 Spring,1,Public Policy,C103,1,Goldman School Public Policy,applied math
+487,2017 Spring,1,Public Policy,198,2,Goldman School Public Policy,applied math
+488,2017 Spring,1,Rhetoric,198,1,Clg of Letters & Science,applied math
+489,2017 Spring,1,Russian,2,1,Clg of Letters & Science,applied math
+490,2017 Spring,1,Scandinavian,R5B,1,Clg of Letters & Science,applied math
+491,2017 Spring,2,Scandinavian,60,1,Clg of Letters & Science,applied math
+492,2017 Spring,1,Scandinavian,198,4,Clg of Letters & Science,applied math
+493,2017 Spring,2,Slavic Languages & Lit,50,1,Clg of Letters & Science,applied math
+494,2017 Spring,1,Slavic Languages & Lit,134C,1,Clg of Letters & Science,applied math
+495,2017 Spring,3,Social Welfare,197,2,School of Social Welfare,applied math
+496,2017 Spring,1,Social Welfare,198,2,School of Social Welfare,applied math
+497,2017 Spring,1,Sociology,1,1,Clg of Letters & Science,applied math
+498,2017 Spring,2,Sociology,3AC,1,Clg of Letters & Science,applied math
+499,2017 Spring,2,Sociology,110,1,Clg of Letters & Science,applied math
+500,2017 Spring,1,Sociology,111AC,1,Clg of Letters & Science,applied math
+501,2017 Spring,1,Sociology,113AC,1,Clg of Letters & Science,applied math
+502,2017 Spring,1,Sociology,120,1,Clg of Letters & Science,applied math
+503,2017 Spring,1,Sociology,133,1,Clg of Letters & Science,applied math
+504,2017 Spring,2,Sociology,150,1,Clg of Letters & Science,applied math
+505,2017 Spring,3,Sociology,C167,1,Clg of Letters & Science,applied math
+506,2017 Spring,2,Sociology,180C,1,Clg of Letters & Science,applied math
+507,2017 Spring,1,Sociology,198,1,Clg of Letters & Science,applied math
+508,2017 Spring,1,Sociology,198,2,Clg of Letters & Science,applied math
+509,2017 Spring,2,Sociology,198,4,Clg of Letters & Science,applied math
+510,2017 Spring,1,Sociology,198,6,Clg of Letters & Science,applied math
+511,2017 Spring,1,Sociology,198,8,Clg of Letters & Science,applied math
+512,2017 Spring,2,Sociology,198,9,Clg of Letters & Science,applied math
+513,2017 Spring,1,Sociology,198,14,Clg of Letters & Science,applied math
+514,2017 Spring,1,South Asian,1B,1,Clg of Letters & Science,applied math
+515,2017 Spring,1,South Asian,110,1,Clg of Letters & Science,applied math
+516,2017 Spring,1,South Asian,142,1,Clg of Letters & Science,applied math
+517,2017 Spring,1,Southeast Asian,10B,1,Clg of Letters & Science,applied math
+518,2017 Spring,2,Spanish,1,3,Clg of Letters & Science,applied math
+519,2017 Spring,1,Spanish,R1B,1,Clg of Letters & Science,applied math
+520,2017 Spring,1,Spanish,2,4,Clg of Letters & Science,applied math
+521,2017 Spring,2,Spanish,2,6,Clg of Letters & Science,applied math
+522,2017 Spring,1,Spanish,3,3,Clg of Letters & Science,applied math
+523,2017 Spring,1,Spanish,25,2,Clg of Letters & Science,applied math
+524,2017 Spring,2,Spanish,163,1,Clg of Letters & Science,applied math
+525,2017 Spring,1,Spanish,179,1,Clg of Letters & Science,applied math
+526,2017 Spring,2,Spanish,198,1,Clg of Letters & Science,applied math
+527,2017 Spring,1,Statistics,20,1,Clg of Letters & Science,applied math
+528,2017 Spring,4,Statistics,89A,1,Clg of Letters & Science,applied math
+529,2017 Spring,2,Statistics,C100,1,Clg of Letters & Science,applied math
+530,2017 Spring,1,Statistics,131A,1,Clg of Letters & Science,applied math
+531,2017 Spring,12,Statistics,133,1,Clg of Letters & Science,applied math
+532,2017 Spring,9,Statistics,133,2,Clg of Letters & Science,applied math
+533,2017 Spring,40,Statistics,134,1,Clg of Letters & Science,applied math
+534,2017 Spring,32,Statistics,135,1,Clg of Letters & Science,applied math
+535,2017 Spring,4,Statistics,140,1,Clg of Letters & Science,applied math
+536,2017 Spring,9,Statistics,151A,1,Clg of Letters & Science,applied math
+537,2017 Spring,7,Statistics,151A,2,Clg of Letters & Science,applied math
+538,2017 Spring,8,Statistics,152,1,Clg of Letters & Science,applied math
+539,2017 Spring,22,Statistics,153,1,Clg of Letters & Science,applied math
+540,2017 Spring,7,Statistics,154,1,Clg of Letters & Science,applied math
+541,2017 Spring,13,Statistics,155,1,Clg of Letters & Science,applied math
+542,2017 Spring,1,Statistics,197,7,Clg of Letters & Science,applied math
+543,2017 Spring,1,Statistics,198,2,Clg of Letters & Science,applied math
+544,2017 Spring,3,Statistics,198,3,Clg of Letters & Science,applied math
+545,2017 Spring,2,Statistics,198,4,Clg of Letters & Science,applied math
+546,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,applied math
+547,2017 Spring,7,Statistics,198,6,Clg of Letters & Science,applied math
+548,2017 Spring,4,Statistics,198,7,Clg of Letters & Science,applied math
+549,2017 Spring,1,Theater Dance & Perf Stds,R1B,8,Clg of Letters & Science,applied math
+550,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,applied math
+551,2017 Spring,1,Theater Dance & Perf Stds,40,1,Clg of Letters & Science,applied math
+552,2017 Spring,1,Theater Dance & Perf Stds,141,2,Clg of Letters & Science,applied math
+553,2017 Spring,1,UGIS-UG Interdisc Studies,82,1,Clg of Letters & Science,applied math
+554,2017 Spring,1,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,applied math
+555,2017 Spring,4,UGIS-UG Interdisc Studies,187,1,Clg of Letters & Science,applied math
+556,2017 Spring,1,Vietnamese,1B,1,Clg of Letters & Science,applied math

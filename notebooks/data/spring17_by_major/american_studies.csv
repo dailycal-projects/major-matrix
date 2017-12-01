@@ -1,0 +1,282 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,5B,1,Clg of Letters & Science,american studies
+1,2017 Spring,3,African American Studies,117,1,Clg of Letters & Science,american studies
+2,2017 Spring,4,African American Studies,139,2,Clg of Letters & Science,american studies
+3,2017 Spring,5,African American Studies,142AC,1,Clg of Letters & Science,american studies
+4,2017 Spring,1,African American Studies,C156,1,Clg of Letters & Science,american studies
+5,2017 Spring,1,African American Studies,158B,1,Clg of Letters & Science,american studies
+6,2017 Spring,1,African American Studies,197,1,Clg of Letters & Science,american studies
+7,2017 Spring,2,African American Studies,198,2,Clg of Letters & Science,american studies
+8,2017 Spring,3,American Studies,10,1,Clg of Letters & Science,american studies
+9,2017 Spring,22,American Studies,101,1,Clg of Letters & Science,american studies
+10,2017 Spring,18,American Studies,102,1,Clg of Letters & Science,american studies
+11,2017 Spring,7,American Studies,102,2,Clg of Letters & Science,american studies
+12,2017 Spring,5,American Studies,110,1,Clg of Letters & Science,american studies
+13,2017 Spring,8,American Studies,H110,1,Clg of Letters & Science,american studies
+14,2017 Spring,8,American Studies,H110,2,Clg of Letters & Science,american studies
+15,2017 Spring,3,American Studies,C111E,1,Clg of Letters & Science,american studies
+16,2017 Spring,6,American Studies,C112B,1,Clg of Letters & Science,american studies
+17,2017 Spring,1,American Studies,C152,1,Clg of Letters & Science,american studies
+18,2017 Spring,13,American Studies,C172,1,Clg of Letters & Science,american studies
+19,2017 Spring,20,American Studies,191,1,Clg of Letters & Science,american studies
+20,2017 Spring,17,American Studies,191,2,Clg of Letters & Science,american studies
+21,2017 Spring,19,American Studies,191,3,Clg of Letters & Science,american studies
+22,2017 Spring,12,American Studies,H195,1,Clg of Letters & Science,american studies
+23,2017 Spring,1,Anthropology,137,1,Clg of Letters & Science,american studies
+24,2017 Spring,1,Anthropology,174AC,1,Clg of Letters & Science,american studies
+25,2017 Spring,1,Anthropology,189,1,Clg of Letters & Science,american studies
+26,2017 Spring,1,Art Practice,15,1,Clg of Letters & Science,american studies
+27,2017 Spring,1,Art Practice,100,1,Clg of Letters & Science,american studies
+28,2017 Spring,1,Art Practice,160,1,Clg of Letters & Science,american studies
+29,2017 Spring,1,Asian Studies,198,5,Clg of Letters & Science,american studies
+30,2017 Spring,1,Astronomy,198,1,Clg of Letters & Science,american studies
+31,2017 Spring,2,Business Admin-Undergrad,96,2,Haas School of Business,american studies
+32,2017 Spring,1,Business Admin-Undergrad,102B,2,Haas School of Business,american studies
+33,2017 Spring,1,Business Admin-Undergrad,115,1,Haas School of Business,american studies
+34,2017 Spring,1,Business Admin-Undergrad,119,1,Haas School of Business,american studies
+35,2017 Spring,1,Business Admin-Undergrad,155,1,Haas School of Business,american studies
+36,2017 Spring,2,Business Admin-Undergrad,157,1,Haas School of Business,american studies
+37,2017 Spring,2,Business Admin-Undergrad,160,1,Haas School of Business,american studies
+38,2017 Spring,2,Business Admin-Undergrad,167,1,Haas School of Business,american studies
+39,2017 Spring,1,Business Admin-Undergrad,178,1,Haas School of Business,american studies
+40,2017 Spring,1,Business Admin-Undergrad,195A,1,Haas School of Business,american studies
+41,2017 Spring,4,Business Admin-Undergrad,196,2,Haas School of Business,american studies
+42,2017 Spring,2,Business Admin-Undergrad,198,7,Haas School of Business,american studies
+43,2017 Spring,1,Business Admin-Undergrad,198,8,Haas School of Business,american studies
+44,2017 Spring,3,Chicano Studies,50,1,Clg of Letters & Science,american studies
+45,2017 Spring,2,Chicano Studies,176,1,Clg of Letters & Science,american studies
+46,2017 Spring,1,Chicano Studies,180,1,Clg of Letters & Science,american studies
+47,2017 Spring,2,Chicano Studies,180,2,Clg of Letters & Science,american studies
+48,2017 Spring,1,Chinese,1B,2,Clg of Letters & Science,american studies
+49,2017 Spring,1,City & Regional Planning,114,1,Clg of Environmental Design,american studies
+50,2017 Spring,1,City & Regional Planning,118AC,1,Clg of Environmental Design,american studies
+51,2017 Spring,1,Cognitive Science,C127,1,Clg of Letters & Science,american studies
+52,2017 Spring,3,Cognitive Science,198,1,Clg of Letters & Science,american studies
+53,2017 Spring,1,College Writing Programs,10A,1,Clg of Letters & Science,american studies
+54,2017 Spring,1,College Writing Programs,161,1,Clg of Letters & Science,american studies
+55,2017 Spring,1,Comparative Literature,R1B,1,Clg of Letters & Science,american studies
+56,2017 Spring,1,Computer Science,61A,1,Clg of Engineering,american studies
+57,2017 Spring,1,Computer Science,195,1,Clg of Engineering,american studies
+58,2017 Spring,2,Computer Science,198,67,Clg of Engineering,american studies
+59,2017 Spring,1,Design Innovation,190,2,Clg of Engineering,american studies
+60,2017 Spring,1,Development Studies,C100,1,Clg of Letters & Science,american studies
+61,2017 Spring,1,Earth & Planetary Science,C12,1,Clg of Letters & Science,american studies
+62,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,american studies
+63,2017 Spring,1,Economics,136,1,Clg of Letters & Science,american studies
+64,2017 Spring,2,Economics,157,1,Clg of Letters & Science,american studies
+65,2017 Spring,1,Economics,C171,1,Clg of Letters & Science,american studies
+66,2017 Spring,1,Education,98,10,Grad School of Education,american studies
+67,2017 Spring,2,Education,114A,1,Grad School of Education,american studies
+68,2017 Spring,1,Education,W140A,1,Grad School of Education,american studies
+69,2017 Spring,1,Education,W142,1,Grad School of Education,american studies
+70,2017 Spring,4,Education,182AC,1,Grad School of Education,american studies
+71,2017 Spring,4,Education,183,1,Grad School of Education,american studies
+72,2017 Spring,1,Education,188B,1,Grad School of Education,american studies
+73,2017 Spring,1,Education,190AC,3,Grad School of Education,american studies
+74,2017 Spring,1,Education,198,5,Grad School of Education,american studies
+75,2017 Spring,1,Education,198,22,Grad School of Education,american studies
+76,2017 Spring,1,Education,198,24,Grad School of Education,american studies
+77,2017 Spring,1,Education,198,35,Grad School of Education,american studies
+78,2017 Spring,1,Education,198,37,Grad School of Education,american studies
+79,2017 Spring,1,Education,198,39,Grad School of Education,american studies
+80,2017 Spring,1,English,80K,1,Clg of Letters & Science,american studies
+81,2017 Spring,1,English,125E,1,Clg of Letters & Science,american studies
+82,2017 Spring,1,English,130A,1,Clg of Letters & Science,american studies
+83,2017 Spring,1,English,165,1,Clg of Letters & Science,american studies
+84,2017 Spring,1,English,166,4,Clg of Letters & Science,american studies
+85,2017 Spring,1,English,180A,1,Clg of Letters & Science,american studies
+86,2017 Spring,1,English,198,3,Clg of Letters & Science,american studies
+87,2017 Spring,1,English,198,7,Clg of Letters & Science,american studies
+88,2017 Spring,1,English,198BC,4,Clg of Letters & Science,american studies
+89,2017 Spring,3,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,american studies
+90,2017 Spring,2,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,american studies
+91,2017 Spring,1,"Env Sci, Policy, & Mgmt",102D,1,Clg of Natural Resources,american studies
+92,2017 Spring,1,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,american studies
+93,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,7,Clg of Natural Resources,american studies
+94,2017 Spring,1,Environ Econ & Policy,100,1,Clg of Natural Resources,american studies
+95,2017 Spring,1,Environ Econ & Policy,C118,1,Clg of Natural Resources,american studies
+96,2017 Spring,1,Environ Econ & Policy,143,1,Clg of Natural Resources,american studies
+97,2017 Spring,1,Environ Econ & Policy,162,1,Clg of Natural Resources,american studies
+98,2017 Spring,1,Environmental Design,100,1,Clg of Environmental Design,american studies
+99,2017 Spring,1,Environmental Design,101A,1,Clg of Environmental Design,american studies
+100,2017 Spring,2,Ethnic Studies,103A,1,Clg of Letters & Science,american studies
+101,2017 Spring,1,Ethnic Studies,144AC,1,Clg of Letters & Science,american studies
+102,2017 Spring,4,Ethnic Studies,176,1,Clg of Letters & Science,american studies
+103,2017 Spring,1,Ethnic Studies,180,1,Clg of Letters & Science,american studies
+104,2017 Spring,2,Ethnic Studies,181AC,1,Clg of Letters & Science,american studies
+105,2017 Spring,2,Ethnic Studies,197,1,Clg of Letters & Science,american studies
+106,2017 Spring,1,Ethnic Studies,197,9,Clg of Letters & Science,american studies
+107,2017 Spring,4,Ethnic Studies,197,11,Clg of Letters & Science,american studies
+108,2017 Spring,1,Ethnic Studies,198,9,Clg of Letters & Science,american studies
+109,2017 Spring,1,Film,108,3,Clg of Letters & Science,american studies
+110,2017 Spring,2,Gender & Womens Studies,14,1,Clg of Letters & Science,american studies
+111,2017 Spring,2,Gender & Womens Studies,100AC,1,Clg of Letters & Science,american studies
+112,2017 Spring,1,Gender & Womens Studies,101,1,Clg of Letters & Science,american studies
+113,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,american studies
+114,2017 Spring,1,Geography,20,1,Clg of Letters & Science,american studies
+115,2017 Spring,1,Geography,88,1,Clg of Letters & Science,american studies
+116,2017 Spring,6,Geography,130,1,Clg of Letters & Science,american studies
+117,2017 Spring,1,Geography,140A,1,Clg of Letters & Science,american studies
+118,2017 Spring,1,Geography,183,1,Clg of Letters & Science,american studies
+119,2017 Spring,1,German,98,1,Clg of Letters & Science,american studies
+120,2017 Spring,1,Global Studies,110L,1,Clg of Letters & Science,american studies
+121,2017 Spring,1,Hindi-Urdu,104B,1,Clg of Letters & Science,american studies
+122,2017 Spring,1,History,7B,1,Clg of Letters & Science,american studies
+123,2017 Spring,1,History,100AC,2,Clg of Letters & Science,american studies
+124,2017 Spring,1,History,100S,2,Clg of Letters & Science,american studies
+125,2017 Spring,2,History,100U,1,Clg of Letters & Science,american studies
+126,2017 Spring,1,History,103S,1,Clg of Letters & Science,american studies
+127,2017 Spring,1,History,119A,1,Clg of Letters & Science,american studies
+128,2017 Spring,6,History,121B,1,Clg of Letters & Science,american studies
+129,2017 Spring,6,History,122AC,1,Clg of Letters & Science,american studies
+130,2017 Spring,1,History,124B,1,Clg of Letters & Science,american studies
+131,2017 Spring,5,History,136C,1,Clg of Letters & Science,american studies
+132,2017 Spring,1,History,151A,1,Clg of Letters & Science,american studies
+133,2017 Spring,1,History,160,1,Clg of Letters & Science,american studies
+134,2017 Spring,1,History,162B,1,Clg of Letters & Science,american studies
+135,2017 Spring,1,History,171C,1,Clg of Letters & Science,american studies
+136,2017 Spring,1,History,182A,1,Clg of Letters & Science,american studies
+137,2017 Spring,2,History,186,1,Clg of Letters & Science,american studies
+138,2017 Spring,2,History of Art,188A,1,Clg of Letters & Science,american studies
+139,2017 Spring,1,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,american studies
+140,2017 Spring,1,Information,103,1,School of Information,american studies
+141,2017 Spring,4,Information,C167,1,School of Information,american studies
+142,2017 Spring,1,Information,190,2,School of Information,american studies
+143,2017 Spring,1,Integrative Biology,198,2,Clg of Letters & Science,american studies
+144,2017 Spring,1,Integrative Biology,198,4,Clg of Letters & Science,american studies
+145,2017 Spring,3,Integrative Biology,198,6,Clg of Letters & Science,american studies
+146,2017 Spring,1,Interdisciplinary Studies,61,1,Clg of Letters & Science,american studies
+147,2017 Spring,1,Interdisciplinary Studies,198,5,Clg of Letters & Science,american studies
+148,2017 Spring,1,LGBT Studies,146,1,Clg of Letters & Science,american studies
+149,2017 Spring,1,Landscape Arch & Env Plan,170,1,Clg of Environmental Design,american studies
+150,2017 Spring,1,Landscape Arch & Env Plan,198,1,Clg of Environmental Design,american studies
+151,2017 Spring,1,Legal Studies,102,1,School of Law,american studies
+152,2017 Spring,1,Legal Studies,132AC,1,School of Law,american studies
+153,2017 Spring,1,Legal Studies,138,1,School of Law,american studies
+154,2017 Spring,1,Legal Studies,154,1,School of Law,american studies
+155,2017 Spring,1,Legal Studies,185AC,1,School of Law,american studies
+156,2017 Spring,1,Legal Studies,190,4,School of Law,american studies
+157,2017 Spring,1,Letters & Science,25,1,Clg of Letters & Science,american studies
+158,2017 Spring,1,Letters & Science,C30Y,1,Clg of Letters & Science,american studies
+159,2017 Spring,2,Letters & Science,70C,1,Clg of Letters & Science,american studies
+160,2017 Spring,2,Letters & Science,C70T,1,Clg of Letters & Science,american studies
+161,2017 Spring,1,Letters & Science,105,1,Clg of Letters & Science,american studies
+162,2017 Spring,1,Letters & Science,160B,1,Clg of Letters & Science,american studies
+163,2017 Spring,1,Letters & Science,C180U,1,Clg of Letters & Science,american studies
+164,2017 Spring,2,Linguistics,1B,1,Clg of Letters & Science,american studies
+165,2017 Spring,1,Linguistics,1B,2,Clg of Letters & Science,american studies
+166,2017 Spring,1,Linguistics,10,1,Clg of Letters & Science,american studies
+167,2017 Spring,2,Mathematics,32,1,Clg of Letters & Science,american studies
+168,2017 Spring,1,Mathematics,110,1,Clg of Letters & Science,american studies
+169,2017 Spring,1,Media Studies,101,1,Clg of Letters & Science,american studies
+170,2017 Spring,1,Media Studies,103,1,Clg of Letters & Science,american studies
+171,2017 Spring,1,Middle Eastern Studies,130,1,Clg of Letters & Science,american studies
+172,2017 Spring,1,Music,26AC,1,Clg of Letters & Science,american studies
+173,2017 Spring,1,Music,128V,1,Clg of Letters & Science,american studies
+174,2017 Spring,1,Music,144,1,Clg of Letters & Science,american studies
+175,2017 Spring,1,Music,148,1,Clg of Letters & Science,american studies
+176,2017 Spring,1,Music,198,8,Clg of Letters & Science,american studies
+177,2017 Spring,1,Native American Studies,20B,1,Clg of Letters & Science,american studies
+178,2017 Spring,1,Native American Studies,110,1,Clg of Letters & Science,american studies
+179,2017 Spring,1,Native American Studies,120AC,1,Clg of Letters & Science,american studies
+180,2017 Spring,1,Native American Studies,190,1,Clg of Letters & Science,american studies
+181,2017 Spring,1,Near Eastern Studies,190H,101,Clg of Letters & Science,american studies
+182,2017 Spring,1,Nutritional Science & Tox,10,1,Clg of Natural Resources,american studies
+183,2017 Spring,2,Nutritional Science & Tox,11,1,Clg of Natural Resources,american studies
+184,2017 Spring,1,Nutritional Science & Tox,98,1,Clg of Natural Resources,american studies
+185,2017 Spring,1,Nutritional Science & Tox,98,2,Clg of Natural Resources,american studies
+186,2017 Spring,1,Peace & Conflict Studies,130,1,Clg of Letters & Science,american studies
+187,2017 Spring,1,Peace & Conflict Studies,151,1,Clg of Letters & Science,american studies
+188,2017 Spring,1,Physical Education,1,3,Clg of Letters & Science,american studies
+189,2017 Spring,1,Physical Education,1,7,Clg of Letters & Science,american studies
+190,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,american studies
+191,2017 Spring,1,Physical Education,1,15,Clg of Letters & Science,american studies
+192,2017 Spring,1,Physical Education,1,19,Clg of Letters & Science,american studies
+193,2017 Spring,2,Physical Education,1,31,Clg of Letters & Science,american studies
+194,2017 Spring,1,Physical Education,2,4,Clg of Letters & Science,american studies
+195,2017 Spring,1,Physical Education,2,5,Clg of Letters & Science,american studies
+196,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,american studies
+197,2017 Spring,1,Physical Education,3,12,Clg of Letters & Science,american studies
+198,2017 Spring,1,Physical Education,4,2,Clg of Letters & Science,american studies
+199,2017 Spring,1,Physical Education,4,6,Clg of Letters & Science,american studies
+200,2017 Spring,1,Physical Education,11,1,Clg of Letters & Science,american studies
+201,2017 Spring,1,Physical Education,11,2,Clg of Letters & Science,american studies
+202,2017 Spring,2,Physical Education,11,7,Clg of Letters & Science,american studies
+203,2017 Spring,2,Physical Education,11,8,Clg of Letters & Science,american studies
+204,2017 Spring,1,Physical Education,11,9,Clg of Letters & Science,american studies
+205,2017 Spring,1,Physical Education,11,10,Clg of Letters & Science,american studies
+206,2017 Spring,2,Physical Education,11,13,Clg of Letters & Science,american studies
+207,2017 Spring,2,Physical Education,11,14,Clg of Letters & Science,american studies
+208,2017 Spring,3,Physical Education,11,17,Clg of Letters & Science,american studies
+209,2017 Spring,3,Physical Education,11,18,Clg of Letters & Science,american studies
+210,2017 Spring,1,Physical Education,11,21,Clg of Letters & Science,american studies
+211,2017 Spring,1,Physical Education,11,22,Clg of Letters & Science,american studies
+212,2017 Spring,9,Physical Education,11,25,Clg of Letters & Science,american studies
+213,2017 Spring,9,Physical Education,11,26,Clg of Letters & Science,american studies
+214,2017 Spring,1,Physical Education,12,11,Clg of Letters & Science,american studies
+215,2017 Spring,1,Physical Education,12,12,Clg of Letters & Science,american studies
+216,2017 Spring,1,Physical Education,12,24,Clg of Letters & Science,american studies
+217,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,american studies
+218,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,american studies
+219,2017 Spring,1,Political Economy,100,1,Clg of Letters & Science,american studies
+220,2017 Spring,2,Political Economy,101,1,Clg of Letters & Science,american studies
+221,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,american studies
+222,2017 Spring,1,Political Science,109P,1,Clg of Letters & Science,american studies
+223,2017 Spring,1,Political Science,179,1,Clg of Letters & Science,american studies
+224,2017 Spring,1,Political Science,191,3,Clg of Letters & Science,american studies
+225,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,american studies
+226,2017 Spring,1,Psychology,2,1,Clg of Letters & Science,american studies
+227,2017 Spring,2,Psychology,C126,1,Clg of Letters & Science,american studies
+228,2017 Spring,1,Psychology,130,1,Clg of Letters & Science,american studies
+229,2017 Spring,1,Psychology,133,1,Clg of Letters & Science,american studies
+230,2017 Spring,1,Psychology,150,1,Clg of Letters & Science,american studies
+231,2017 Spring,2,Psychology,156,1,Clg of Letters & Science,american studies
+232,2017 Spring,1,Psychology,197,5,Clg of Letters & Science,american studies
+233,2017 Spring,1,Psychology,198,3,Clg of Letters & Science,american studies
+234,2017 Spring,1,Psychology,198,10,Clg of Letters & Science,american studies
+235,2017 Spring,1,Psychology,198,11,Clg of Letters & Science,american studies
+236,2017 Spring,2,Public Health,130,1,School of Public Health,american studies
+237,2017 Spring,3,Public Health,C155,1,School of Public Health,american studies
+238,2017 Spring,1,Public Health,198,6,School of Public Health,american studies
+239,2017 Spring,7,Public Policy,C103,1,Goldman School Public Policy,american studies
+240,2017 Spring,1,Rhetoric,103B,1,Clg of Letters & Science,american studies
+241,2017 Spring,1,Rhetoric,105T,1,Clg of Letters & Science,american studies
+242,2017 Spring,1,Rhetoric,121,1,Clg of Letters & Science,american studies
+243,2017 Spring,3,Social Welfare,185AC,1,School of Social Welfare,american studies
+244,2017 Spring,1,Social Welfare,197,1,School of Social Welfare,american studies
+245,2017 Spring,1,Social Welfare,198,3,School of Social Welfare,american studies
+246,2017 Spring,1,Social Welfare,198,4,School of Social Welfare,american studies
+247,2017 Spring,4,Sociology,111AC,1,Clg of Letters & Science,american studies
+248,2017 Spring,1,Sociology,114,1,Clg of Letters & Science,american studies
+249,2017 Spring,1,Sociology,C115,1,Clg of Letters & Science,american studies
+250,2017 Spring,1,Sociology,116,1,Clg of Letters & Science,american studies
+251,2017 Spring,3,Sociology,117,1,Clg of Letters & Science,american studies
+252,2017 Spring,1,Sociology,120,1,Clg of Letters & Science,american studies
+253,2017 Spring,2,Sociology,121,1,Clg of Letters & Science,american studies
+254,2017 Spring,3,Sociology,133,1,Clg of Letters & Science,american studies
+255,2017 Spring,1,Sociology,136,1,Clg of Letters & Science,american studies
+256,2017 Spring,3,Sociology,139F,1,Clg of Letters & Science,american studies
+257,2017 Spring,1,Sociology,160,1,Clg of Letters & Science,american studies
+258,2017 Spring,5,Sociology,C167,1,Clg of Letters & Science,american studies
+259,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,american studies
+260,2017 Spring,1,Sociology,198,8,Clg of Letters & Science,american studies
+261,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,american studies
+262,2017 Spring,1,Sociology,198,10,Clg of Letters & Science,american studies
+263,2017 Spring,1,Sociology,198,25,Clg of Letters & Science,american studies
+264,2017 Spring,1,Sociology,198BC,2,Clg of Letters & Science,american studies
+265,2017 Spring,1,Sociology,198BC,5,Clg of Letters & Science,american studies
+266,2017 Spring,1,Spanish,4,4,Clg of Letters & Science,american studies
+267,2017 Spring,1,Spanish,107B,1,Clg of Letters & Science,american studies
+268,2017 Spring,1,Spanish,135W,1,Clg of Letters & Science,american studies
+269,2017 Spring,4,Statistics,2,1,Clg of Letters & Science,american studies
+270,2017 Spring,1,Statistics,W21,1,Clg of Letters & Science,american studies
+271,2017 Spring,1,Statistics,140,1,Clg of Letters & Science,american studies
+272,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,american studies
+273,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,american studies
+274,2017 Spring,1,Theater Dance & Perf Stds,112,1,Clg of Letters & Science,american studies
+275,2017 Spring,1,Theater Dance & Perf Stds,126,2,Clg of Letters & Science,american studies
+276,2017 Spring,1,Theater Dance & Perf Stds,163,1,Clg of Letters & Science,american studies
+277,2017 Spring,1,Theater Dance & Perf Stds,181,1,Clg of Letters & Science,american studies
+278,2017 Spring,1,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,american studies
+279,2017 Spring,1,Visual Studies,185X,1,Clg of Environmental Design,american studies
+280,2017 Spring,1,Visual Studies,198,1,Clg of Environmental Design,american studies

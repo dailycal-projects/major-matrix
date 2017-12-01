@@ -1,0 +1,2001 @@
+Major,Department,Ratio
+computer science,Computer Science,5.112116797809329
+computer science,Mathematics,0.7022473184266056
+computer science,Business Admin-Undergrad,0.5489670918062659
+computer science,Economics,0.6682964886687294
+computer science,Chemistry,0.13407484039730486
+computer science,Psychology,0.7191349139862736
+computer science,Sociology,0.23584032601229427
+computer science,Physical Education,0.8511568724303102
+computer science,History,0.5945330215196105
+computer science,Physics,0.45203310268870334
+computer science,Political Science,0.20397096133810613
+computer science,"Env Sci, Policy, & Mgmt",0.5568610047836238
+computer science,Statistics,1.5240321349576222
+computer science,Molecular & Cell Biology,0.25368942311281184
+computer science,English,0.22600585916887356
+computer science,Music,1.4341330617880248
+computer science,Anthropology,0.48025716528345475
+computer science,Biology,0.0907258510603955
+computer science,Integrative Biology,0.32299870736466396
+computer science,Electrical Engineering,3.9933600573720582
+computer science,Public Health,0.15049628109688643
+computer science,Nutritional Science & Tox,0.7466641935439151
+computer science,Philosophy,0.888239083626712
+computer science,Mechanical Engineering,0.17722370129467555
+computer science,Education,0.2348865599879799
+economics,Computer Science,0.6822384639192958
+economics,Mathematics,0.498534858264426
+economics,Business Admin-Undergrad,2.7592411952548077
+economics,Economics,9.088695380025184
+economics,Chemistry,0.06370320093774812
+economics,Psychology,0.6139630107888223
+economics,Sociology,0.6016600476164753
+economics,Physical Education,0.7466059832525493
+economics,History,0.7024867862598286
+economics,Physics,0.18031503074422964
+economics,Political Science,0.5305990069168042
+economics,"Env Sci, Policy, & Mgmt",0.5291645826615594
+economics,Statistics,1.9734708305558109
+economics,Molecular & Cell Biology,0.27120572032013296
+economics,English,0.26093956762882065
+economics,Music,1.2582440683703713
+economics,Anthropology,0.21677611310687944
+economics,Biology,0.0848663625812901
+economics,Integrative Biology,0.09865729973338479
+economics,Electrical Engineering,0.41950560961492117
+economics,Public Health,0.8044374065652765
+economics,Nutritional Science & Tox,0.5141068550443797
+economics,Philosophy,0.4825676695159291
+economics,Mechanical Engineering,0.17367196825234515
+economics,Education,0.7353777292075403
+electrical engineering computer science,Computer Science,5.272777660778335
+electrical engineering computer science,Mathematics,0.8295078930127596
+electrical engineering computer science,Business Admin-Undergrad,0.3105053669407261
+electrical engineering computer science,Economics,0.19209844002482196
+electrical engineering computer science,Chemistry,0.13131852943465835
+electrical engineering computer science,Psychology,0.5569731588775847
+electrical engineering computer science,Sociology,0.3081413951201883
+electrical engineering computer science,Physical Education,0.5708750388877302
+electrical engineering computer science,History,0.8346896248331893
+electrical engineering computer science,Physics,1.1558363686278508
+electrical engineering computer science,Political Science,0.10162606047286257
+electrical engineering computer science,"Env Sci, Policy, & Mgmt",0.17389981451392655
+electrical engineering computer science,Statistics,0.40311155868488824
+electrical engineering computer science,Molecular & Cell Biology,0.05833739157043513
+electrical engineering computer science,English,0.09354850452646413
+electrical engineering computer science,Music,0.8074105960198661
+electrical engineering computer science,Anthropology,0.46629374109459654
+electrical engineering computer science,Biology,0.1043147450518204
+electrical engineering computer science,Integrative Biology,0.11937129697916861
+electrical engineering computer science,Electrical Engineering,10.37728571248188
+electrical engineering computer science,Public Health,0.06655291319262514
+electrical engineering computer science,Nutritional Science & Tox,0.2182625489229021
+electrical engineering computer science,Philosophy,0.3181033881494089
+electrical engineering computer science,Mechanical Engineering,0.6792274014377432
+electrical engineering computer science,Education,0.2700678068584262
+political science,Computer Science,0.12305684764467739
+political science,Mathematics,0.0886772327552765
+political science,Business Admin-Undergrad,0.4722811084192251
+political science,Economics,0.4552240177975419
+political science,Chemistry,0.06421042194197082
+political science,Psychology,0.28251918113420493
+political science,Sociology,0.727740740579102
+political science,Physical Education,0.7584299509447815
+political science,History,2.043317044100312
+political science,Physics,0.03271513403570623
+political science,Political Science,17.49533101187361
+political science,"Env Sci, Policy, & Mgmt",0.3000250827896434
+political science,Statistics,0.30069062046908335
+political science,Molecular & Cell Biology,0.09372518704680939
+political science,English,0.5406465375626074
+political science,Music,0.25578403885856604
+political science,Anthropology,0.36225354684813343
+political science,Biology,0.03666089572854821
+political science,Integrative Biology,0.09322765698412411
+political science,Electrical Engineering,0.11192977572964946
+political science,Public Health,0.37423501880182136
+political science,Nutritional Science & Tox,0.2863738521579994
+political science,Philosophy,0.7531509606212021
+political science,Mechanical Engineering,0.0
+political science,Education,3.3084301871736606
+business administration,Computer Science,0.2511706415318255
+business administration,Mathematics,0.04662085213537095
+business administration,Business Admin-Undergrad,16.379971362650515
+business administration,Economics,0.5435581719697707
+business administration,Chemistry,0.008439439566093918
+business administration,Psychology,0.2715988605380717
+business administration,Sociology,0.3279427044921907
+business administration,Physical Education,1.1405654354765162
+business administration,History,0.26590252884120646
+business administration,Physics,0.04586543442483921
+business administration,Political Science,0.3119901876541841
+business administration,"Env Sci, Policy, & Mgmt",0.30378422565870455
+business administration,Statistics,0.4742520437258891
+business administration,Molecular & Cell Biology,0.19709898249657715
+business administration,English,0.10754935564318971
+business administration,Music,0.5715187010883627
+business administration,Anthropology,0.27207126851871993
+business administration,Biology,0.019273968591551466
+business administration,Integrative Biology,0.09802635188625267
+business administration,Electrical Engineering,0.07846074821689743
+business administration,Public Health,0.3344732733157922
+business administration,Nutritional Science & Tox,0.32262250254743385
+business administration,Philosophy,0.07424229382170049
+business administration,Mechanical Engineering,0.10039928752414642
+business administration,Education,0.3706837665298678
+mechanical engineering,Computer Science,0.5825042314068197
+mechanical engineering,Mathematics,0.8377034048054942
+mechanical engineering,Business Admin-Undergrad,0.10014540193409074
+mechanical engineering,Economics,0.07558673244724114
+mechanical engineering,Chemistry,0.0786299414793934
+mechanical engineering,Psychology,0.1807483130902355
+mechanical engineering,Sociology,0.21824499009230605
+mechanical engineering,Physical Education,0.5307131579970603
+mechanical engineering,History,0.5662637428066963
+mechanical engineering,Physics,1.5872128256387814
+mechanical engineering,Political Science,0.07689949367823357
+mechanical engineering,"Env Sci, Policy, & Mgmt",0.07775676432182943
+mechanical engineering,Statistics,0.19422366945185462
+mechanical engineering,Molecular & Cell Biology,0.0983766330816335
+mechanical engineering,English,0.08179863733253626
+mechanical engineering,Music,0.38034416240403834
+mechanical engineering,Anthropology,0.4586921716462942
+mechanical engineering,Biology,0.02565354878570098
+mechanical engineering,Integrative Biology,0.13047254842474817
+mechanical engineering,Electrical Engineering,4.307771940251397
+mechanical engineering,Public Health,0.10474873700016313
+mechanical engineering,Nutritional Science & Tox,0.11450901865076069
+mechanical engineering,Philosophy,0.03293869824941313
+mechanical engineering,Mechanical Engineering,38.118217941063726
+mechanical engineering,Education,0.37952161880022334
+psychology,Computer Science,0.1434806129581124
+psychology,Mathematics,0.054083542495169536
+psychology,Business Admin-Undergrad,0.33822938738648195
+psychology,Economics,0.23528603895126576
+psychology,Chemistry,0.25699687257810727
+psychology,Psychology,14.572182569112144
+psychology,Sociology,1.0567698061424011
+psychology,Physical Education,0.9412566790183348
+psychology,History,0.4164291852310801
+psychology,Physics,0.26603601802177423
+psychology,Political Science,0.30160921918007905
+psychology,"Env Sci, Policy, & Mgmt",0.13554290644013867
+psychology,Statistics,0.2116024959900377
+psychology,Molecular & Cell Biology,0.7681177326245738
+psychology,English,0.6683838745168682
+psychology,Music,0.6337526857577657
+psychology,Anthropology,0.7627537586394869
+psychology,Biology,0.41923481592459627
+psychology,Integrative Biology,1.2793232299903252
+psychology,Electrical Engineering,0.0
+psychology,Public Health,0.6276681850866339
+psychology,Nutritional Science & Tox,0.4054540893075889
+psychology,Philosophy,0.32297400752021227
+psychology,Mechanical Engineering,0.03639699890572979
+psychology,Education,2.2327953078713505
+sociology,Computer Science,0.08383272467918294
+sociology,Mathematics,0.06161977382646365
+sociology,Business Admin-Undergrad,0.3646414477799618
+sociology,Economics,0.21445743878180945
+sociology,Chemistry,0.16112181412044058
+sociology,Psychology,0.4736515306087871
+sociology,Sociology,17.69916184336695
+sociology,Physical Education,1.1030558364889338
+sociology,History,0.5154585907454535
+sociology,Physics,0.05051776844948991
+sociology,Political Science,0.22060629793904185
+sociology,"Env Sci, Policy, & Mgmt",0.3603367430771992
+sociology,Statistics,0.2500172782007367
+sociology,Molecular & Cell Biology,0.10854580234826866
+sociology,English,0.40614364396872
+sociology,Music,0.5430897332344815
+sociology,Anthropology,0.39955821537926767
+sociology,Biology,0.14152675024534037
+sociology,Integrative Biology,0.11516757188822034
+sociology,Electrical Engineering,0.08641936919381633
+sociology,Public Health,0.606777092984893
+sociology,Nutritional Science & Tox,0.4422102607776758
+sociology,Philosophy,0.32709207318986894
+sociology,Mechanical Engineering,0.07372215443200641
+sociology,Education,2.6381418756027
+media studies,Computer Science,0.09201957558037402
+media studies,Mathematics,0.03522779946967462
+media studies,Business Admin-Undergrad,1.3531220598626956
+media studies,Economics,0.22068816099571395
+media studies,Chemistry,0.025508146767247317
+media studies,Psychology,0.8593855990915512
+media studies,Sociology,3.001147016469263
+media studies,Physical Education,1.093062515883442
+media studies,History,0.6108032785283947
+media studies,Physics,0.0
+media studies,Political Science,1.0652273537135855
+media studies,"Env Sci, Policy, & Mgmt",0.30017608989507744
+media studies,Statistics,0.257281135393073
+media studies,Molecular & Cell Biology,0.037233143073539206
+media studies,English,0.6036961755711245
+media studies,Music,0.8128994149666331
+media studies,Anthropology,0.5756334476860452
+media studies,Biology,0.0
+media studies,Integrative Biology,0.08888518786312039
+media studies,Electrical Engineering,0.0
+media studies,Public Health,0.3865370743636526
+media studies,Nutritional Science & Tox,0.42255384002815266
+media studies,Philosophy,0.37399468537173386
+media studies,Mechanical Engineering,0.07586403520744428
+media studies,Education,0.603286427035669
+english,Computer Science,0.06962569356542353
+english,Mathematics,0.08529524133585789
+english,Business Admin-Undergrad,0.2002288263115436
+english,Economics,0.2428821740922401
+english,Chemistry,0.02807343228535625
+english,Psychology,0.3529148100000327
+english,Sociology,0.5454436420770062
+english,Physical Education,0.6940320373989166
+english,History,1.026035441356321
+english,Physics,0.03814234812277113
+english,Political Science,0.4804731128993294
+english,"Env Sci, Policy, & Mgmt",0.2914976378831244
+english,Statistics,0.08090148720678078
+english,Molecular & Cell Biology,0.3073318488354796
+english,English,28.237351543797388
+english,Music,0.33549394369626
+english,Anthropology,0.6636911294964133
+english,Biology,0.06411402651650694
+english,Integrative Biology,0.2282563067387472
+english,Electrical Engineering,0.09787361255782397
+english,Public Health,0.19634310707947028
+english,Nutritional Science & Tox,0.17886497691515804
+english,Philosophy,0.9055339086556041
+english,Mechanical Engineering,0.0417467383013631
+english,Education,1.8495953796681128
+cognitive science,Computer Science,1.611877025248307
+cognitive science,Mathematics,0.3964821434832025
+cognitive science,Business Admin-Undergrad,0.3763996518401787
+cognitive science,Economics,0.09469837265753117
+cognitive science,Chemistry,0.18294907125568124
+cognitive science,Psychology,5.1941833854923125
+cognitive science,Sociology,0.7291383812391002
+cognitive science,Physical Education,1.1906361631594902
+cognitive science,History,0.30151201951849316
+cognitive science,Physics,0.15296383249235415
+cognitive science,Political Science,0.21195472647424607
+cognitive science,"Env Sci, Policy, & Mgmt",0.21431758422644465
+cognitive science,Statistics,0.36499789380701436
+cognitive science,Molecular & Cell Biology,1.3968396736523838
+cognitive science,English,0.30744275841272284
+cognitive science,Music,1.0371140125215779
+cognitive science,Anthropology,1.0586020142726822
+cognitive science,Biology,0.22497923524005914
+cognitive science,Integrative Biology,0.42500049667333434
+cognitive science,Electrical Engineering,0.39250658686581313
+cognitive science,Public Health,0.45931833719228715
+cognitive science,Nutritional Science & Tox,0.3227893187328255
+cognitive science,Philosophy,3.7553011339751032
+cognitive science,Mechanical Engineering,0.2929826675100317
+cognitive science,Education,1.4264439746943245
+chemical engineering,Computer Science,0.353632008782289
+chemical engineering,Mathematics,1.1382599576440993
+chemical engineering,Business Admin-Undergrad,0.3153109098522567
+chemical engineering,Economics,0.13303630948159703
+chemical engineering,Chemistry,2.690965370121048
+chemical engineering,Psychology,0.2783600609857885
+chemical engineering,Sociology,0.19917424142887288
+chemical engineering,Physical Education,0.43928350450005
+chemical engineering,History,0.348828063259481
+chemical engineering,Physics,3.280058769089931
+chemical engineering,Political Science,0.0
+chemical engineering,"Env Sci, Policy, & Mgmt",0.255463918578702
+chemical engineering,Statistics,0.044312989744053094
+chemical engineering,Molecular & Cell Biology,0.33667596321581633
+chemical engineering,English,0.13997040837340066
+chemical engineering,Music,0.7350539625164385
+chemical engineering,Anthropology,0.3304820493306485
+chemical engineering,Biology,0.73747430670216
+chemical engineering,Integrative Biology,0.10716440163836097
+chemical engineering,Electrical Engineering,0.39313489307831023
+chemical engineering,Public Health,0.0
+chemical engineering,Nutritional Science & Tox,0.4310746997314583
+chemical engineering,Philosophy,0.13527197603106442
+chemical engineering,Mechanical Engineering,0.3658618104693471
+chemical engineering,Education,0.20781488866733136
+applied math,Computer Science,1.2432862760909997
+applied math,Mathematics,5.335079772588014
+applied math,Business Admin-Undergrad,0.5218329223361331
+applied math,Economics,1.6435668568099964
+applied math,Chemistry,0.06161220735858039
+applied math,Psychology,0.34079547175962416
+applied math,Sociology,0.4156508292410689
+applied math,Physical Education,0.7108165888410107
+applied math,History,0.7764895579064093
+applied math,Physics,0.7743198872020287
+applied math,Political Science,0.2530763642544787
+applied math,"Env Sci, Policy, & Mgmt",0.5117952867960414
+applied math,Statistics,4.2168812820953745
+applied math,Molecular & Cell Biology,0.1348990277061675
+applied math,English,0.14020804913464582
+applied math,Music,1.0124151563522255
+applied math,Anthropology,0.23173019757819666
+applied math,Biology,0.03517744692006422
+applied math,Integrative Biology,0.2146926891906043
+applied math,Electrical Engineering,0.9308055656461304
+applied math,Public Health,0.2872735594243297
+applied math,Nutritional Science & Tox,0.5103168616978369
+applied math,Philosophy,0.8581770522400862
+applied math,Mechanical Engineering,0.3664829680423002
+applied math,Education,0.2081677153034389
+public health,Computer Science,0.08518064240392632
+public health,Mathematics,0.052175447589324915
+public health,Business Admin-Undergrad,0.2806851461958379
+public health,Economics,0.3177790388426812
+public health,Chemistry,0.6139216376087117
+public health,Psychology,0.3799477986850555
+public health,Sociology,0.5777089767297846
+public health,Physical Education,1.0031775720063874
+public health,History,0.29758322342841786
+public health,Physics,0.8127254176928926
+public health,Political Science,0.25863848215018154
+public health,"Env Sci, Policy, & Mgmt",0.6102174573337417
+public health,Statistics,0.2948646310036615
+public health,Molecular & Cell Biology,1.8611618602757505
+public health,English,0.20060536260803172
+public health,Music,0.7211308756035332
+public health,Anthropology,0.5751419817443154
+public health,Biology,0.7909127076752901
+public health,Integrative Biology,2.9620513327341067
+public health,Electrical Engineering,0.07317406390962816
+public health,Public Health,30.936757946851674
+public health,Nutritional Science & Tox,0.8424757657615176
+public health,Philosophy,0.23079949640927708
+public health,Mechanical Engineering,0.09363438469212614
+public health,Education,0.3191142448882387
+integrative biology,Computer Science,0.0997234779468679
+integrative biology,Mathematics,0.017452379354216053
+integrative biology,Business Admin-Undergrad,0.21124693170600858
+integrative biology,Economics,0.07592515244161566
+integrative biology,Chemistry,0.28433515195110387
+integrative biology,Psychology,0.8896320772848184
+integrative biology,Sociology,0.3921640244036281
+integrative biology,Physical Education,1.3364424489555742
+integrative biology,History,0.4180672957810959
+integrative biology,Physics,1.2233333550705265
+integrative biology,Political Science,0.15139783079239927
+integrative biology,"Env Sci, Policy, & Mgmt",1.2028154610967614
+integrative biology,Statistics,0.34141319724451813
+integrative biology,Molecular & Cell Biology,2.3057320754188235
+integrative biology,English,0.48888097364545857
+integrative biology,Music,0.9753436574597839
+integrative biology,Anthropology,0.7129435736285666
+integrative biology,Biology,0.72151536515094
+integrative biology,Integrative Biology,26.49442356930296
+integrative biology,Electrical Engineering,0.036714438914610306
+integrative biology,Public Health,2.4673555881229663
+integrative biology,Nutritional Science & Tox,2.657001341351182
+integrative biology,Philosophy,0.1852825672857296
+integrative biology,Mechanical Engineering,0.0
+integrative biology,Education,0.907305571677307
+statistics,Computer Science,1.3612263280641435
+statistics,Mathematics,1.144768316147755
+statistics,Business Admin-Undergrad,2.1821250799127867
+statistics,Economics,2.5881464284639235
+statistics,Chemistry,0.14685535575891845
+statistics,Psychology,0.32820231011513834
+statistics,Sociology,0.19374113112610686
+statistics,Physical Education,0.7350766445666995
+statistics,History,0.4935457010146134
+statistics,Physics,0.17735734534784944
+statistics,Political Science,0.17873138914375053
+statistics,"Env Sci, Policy, & Mgmt",0.5647621101672444
+statistics,Statistics,12.03783088298881
+statistics,Molecular & Cell Biology,0.16672322878672918
+statistics,English,0.1188237999141099
+statistics,Music,1.6900071620207084
+statistics,Anthropology,0.3506913832825227
+statistics,Biology,0.0
+statistics,Integrative Biology,0.11371762044358448
+statistics,Electrical Engineering,0.8722760789850669
+statistics,Public Health,0.3043239685268528
+statistics,Nutritional Science & Tox,0.6237755220116752
+statistics,Philosophy,0.8612640200538995
+statistics,Mechanical Engineering,0.0
+statistics,Education,0.33078449005501487
+civil engineering,Computer Science,0.17408667933379268
+civil engineering,Mathematics,1.066328000968591
+civil engineering,Business Admin-Undergrad,0.06257957675984575
+civil engineering,Economics,0.15182093345095216
+civil engineering,Chemistry,1.0353413046025275
+civil engineering,Psychology,0.12353611131219715
+civil engineering,Sociology,0.26518040525507575
+civil engineering,Physical Education,0.5591534564793821
+civil engineering,History,0.3538509474714701
+civil engineering,Physics,2.026573535091723
+civil engineering,Political Science,0.04805350694580528
+civil engineering,"Env Sci, Policy, & Mgmt",0.46159744153243865
+civil engineering,Statistics,0.10113989922240357
+civil engineering,Molecular & Cell Biology,0.1280714495791951
+civil engineering,English,0.159734121741405
+civil engineering,Music,0.2796143377722107
+civil engineering,Anthropology,0.30171668720322264
+civil engineering,Biology,0.20038216862589772
+civil engineering,Integrative Biology,0.20382655372866848
+civil engineering,Electrical Engineering,0.4078593052860964
+civil engineering,Public Health,0.16364035444964234
+civil engineering,Nutritional Science & Tox,0.08944402069335691
+civil engineering,Philosophy,0.0
+civil engineering,Mechanical Engineering,3.496740175980003
+civil engineering,Education,0.5928954754048621
+bioengineering,Computer Science,1.1039306094261931
+bioengineering,Mathematics,1.1336082200773232
+bioengineering,Business Admin-Undergrad,0.0962905987644055
+bioengineering,Economics,0.03460821102034491
+bioengineering,Chemistry,2.7361198910709246
+bioengineering,Psychology,0.5430966798333837
+bioengineering,Sociology,0.17487024173070684
+bioengineering,Physical Education,0.5537975804594647
+bioengineering,History,0.2949196698853857
+bioengineering,Physics,2.078846265163533
+bioengineering,Political Science,0.024646491161687822
+bioengineering,"Env Sci, Policy, & Mgmt",0.19936998936697642
+bioengineering,Statistics,0.33718316600881665
+bioengineering,Molecular & Cell Biology,1.4713986540543085
+bioengineering,English,0.22939594705640662
+bioengineering,Music,1.0038931432516174
+bioengineering,Anthropology,0.27081167931261474
+bioengineering,Biology,1.1921943865905098
+bioengineering,Integrative Biology,0.6272519540340572
+bioengineering,Electrical Engineering,2.88681845187915
+bioengineering,Public Health,0.29375716406411484
+bioengineering,Nutritional Science & Tox,0.045875554264350714
+bioengineering,Philosophy,0.21113879856700532
+bioengineering,Mechanical Engineering,1.8202350987140632
+bioengineering,Education,0.30409420712729535
+architecture,Computer Science,0.1659708946388721
+architecture,Mathematics,0.2140245525075748
+architecture,Business Admin-Undergrad,0.13816501573597262
+architecture,Economics,0.1675973436173856
+architecture,Chemistry,0.038743334662851084
+architecture,Psychology,0.13637331576172085
+architecture,Sociology,0.14636825927068417
+architecture,Physical Education,0.3405559498341477
+architecture,History,0.36620739737205305
+architecture,Physics,0.8948656378440604
+architecture,Political Science,0.15914090236215797
+architecture,"Env Sci, Policy, & Mgmt",0.6972983115653538
+architecture,Statistics,0.16747471568748892
+architecture,Molecular & Cell Biology,0.056551976739453856
+architecture,English,0.10579969657832848
+architecture,Music,0.5787569010916799
+architecture,Anthropology,0.9159409965078614
+architecture,Biology,0.0
+architecture,Integrative Biology,0.31500994929995074
+architecture,Electrical Engineering,0.04502418380773918
+architecture,Public Health,0.04516124372800628
+architecture,Nutritional Science & Tox,0.2962156784955087
+architecture,Philosophy,0.39763221424078016
+architecture,Mechanical Engineering,0.0
+architecture,Education,0.06545059660875027
+molecular environmental biology,Computer Science,0.13636789881147093
+molecular environmental biology,Mathematics,0.8464274709910681
+molecular environmental biology,Business Admin-Undergrad,0.1797424510268903
+molecular environmental biology,Economics,0.09690299085696576
+molecular environmental biology,Chemistry,3.4878328295651477
+molecular environmental biology,Psychology,0.46633901575026554
+molecular environmental biology,Sociology,0.28290119106656575
+molecular environmental biology,Physical Education,0.6202532901146005
+molecular environmental biology,History,0.3049015664045834
+molecular environmental biology,Physics,1.2874172635083339
+molecular environmental biology,Political Science,0.11041628040436145
+molecular environmental biology,"Env Sci, Policy, & Mgmt",8.6247457400154
+molecular environmental biology,Statistics,0.49384365236983613
+molecular environmental biology,Molecular & Cell Biology,2.177670008000377
+molecular environmental biology,English,0.2936268122322005
+molecular environmental biology,Music,0.6826473374110998
+molecular environmental biology,Anthropology,0.4766285555902019
+molecular environmental biology,Biology,4.189946616596716
+molecular environmental biology,Integrative Biology,4.449307193948246
+molecular environmental biology,Electrical Engineering,0.04685850240731374
+molecular environmental biology,Public Health,1.7390424112595602
+molecular environmental biology,Nutritional Science & Tox,1.9010829687146937
+molecular environmental biology,Philosophy,0.23647545439504597
+molecular environmental biology,Mechanical Engineering,0.1199213712093971
+molecular environmental biology,Education,0.81740522875817
+environmental economics and policy,Computer Science,0.3065882502552976
+environmental economics and policy,Mathematics,0.44600979150583214
+environmental economics and policy,Business Admin-Undergrad,1.685874745580083
+environmental economics and policy,Economics,1.123348488857097
+environmental economics and policy,Chemistry,0.14872782841886822
+environmental economics and policy,Psychology,0.32051607334429205
+environmental economics and policy,Sociology,0.9632196921560247
+environmental economics and policy,Physical Education,0.6069725237822705
+environmental economics and policy,History,0.5355413929822893
+environmental economics and policy,Physics,0.08660188877055412
+environmental economics and policy,Political Science,0.2036365827129617
+environmental economics and policy,"Env Sci, Policy, & Mgmt",3.2650921209444173
+environmental economics and policy,Statistics,1.224574423840343
+environmental economics and policy,Molecular & Cell Biology,0.09303925915565885
+environmental economics and policy,English,0.42548381749104
+environmental economics and policy,Music,1.1002856933062224
+environmental economics and policy,Anthropology,0.1826551841733795
+environmental economics and policy,Biology,0.24261728613486916
+environmental economics and policy,Integrative Biology,0.19743012323694917
+environmental economics and policy,Electrical Engineering,0.0
+environmental economics and policy,Public Health,0.14859847175140237
+environmental economics and policy,Nutritional Science & Tox,0.649778342367197
+environmental economics and policy,Philosophy,0.5607292683254895
+environmental economics and policy,Mechanical Engineering,0.12638083616915385
+environmental economics and policy,Education,0.5025032144005144
+legal studies,Computer Science,0.04007546414051391
+legal studies,Mathematics,0.036820958727323584
+legal studies,Business Admin-Undergrad,0.3565503314247701
+legal studies,Economics,0.44852241482367006
+legal studies,Chemistry,0.0
+legal studies,Psychology,0.625647375168058
+legal studies,Sociology,1.2950390473314062
+legal studies,Physical Education,2.3924055475848878
+legal studies,History,0.812033763587717
+legal studies,Physics,0.0
+legal studies,Political Science,1.7948279049402838
+legal studies,"Env Sci, Policy, & Mgmt",0.6151988243323845
+legal studies,Statistics,0.12805549689301873
+legal studies,Molecular & Cell Biology,0.06486165495423074
+legal studies,English,0.28314014036676477
+legal studies,Music,0.6195454826924267
+legal studies,Anthropology,0.4775128386246922
+legal studies,Biology,0.0
+legal studies,Integrative Biology,0.10322775014960485
+legal studies,Electrical Engineering,0.05163998224479474
+legal studies,Public Health,0.15539154474575217
+legal studies,Nutritional Science & Tox,0.4529883301074174
+legal studies,Philosophy,1.4984822161155464
+legal studies,Mechanical Engineering,0.0
+legal studies,Education,1.3512208883553423
+environmental sciences,Computer Science,0.18048692489753507
+environmental sciences,Mathematics,0.8454062395222435
+environmental sciences,Business Admin-Undergrad,0.08396273663885878
+environmental sciences,Economics,0.2715966179728106
+environmental sciences,Chemistry,2.189618435865673
+environmental sciences,Psychology,0.30781742614777946
+environmental sciences,Sociology,0.228723015135665
+environmental sciences,Physical Education,0.8795608630826792
+environmental sciences,History,0.20770759822111542
+environmental sciences,Physics,1.2475616381453616
+environmental sciences,Political Science,0.25789269644617296
+environmental sciences,"Env Sci, Policy, & Mgmt",12.875403595321476
+environmental sciences,Statistics,0.9159678978669106
+environmental sciences,Molecular & Cell Biology,0.4811320858412877
+environmental sciences,English,0.4714920157491541
+environmental sciences,Music,0.6096306112133525
+environmental sciences,Anthropology,0.6072178830262088
+environmental sciences,Biology,2.634748171868443
+environmental sciences,Integrative Biology,0.9845034129752538
+environmental sciences,Electrical Engineering,0.10944459904822414
+environmental sciences,Public Health,0.5488888186665123
+environmental sciences,Nutritional Science & Tox,0.48002656088372514
+environmental sciences,Philosophy,0.34520097689588247
+environmental sciences,Mechanical Engineering,0.07002329201240748
+environmental sciences,Education,0.8750337115815184
+social welfare,Computer Science,0.021419041698136795
+social welfare,Mathematics,0.0655987121014709
+social welfare,Business Admin-Undergrad,0.2964338852014159
+social welfare,Economics,0.1141527379205094
+social welfare,Chemistry,0.14249839057933447
+social welfare,Psychology,2.1018694540986242
+social welfare,Sociology,3.870949644175018
+social welfare,Physical Education,1.9049476982296771
+social welfare,History,0.5686972933593343
+social welfare,Physics,0.06453578796688764
+social welfare,Political Science,0.5202861380310225
+social welfare,"Env Sci, Policy, & Mgmt",0.49320586374814845
+social welfare,Statistics,0.2737661146491238
+social welfare,Molecular & Cell Biology,0.138665841743338
+social welfare,English,0.34589545943583827
+social welfare,Music,0.5203425192770164
+social welfare,Anthropology,0.45938735129469727
+social welfare,Biology,0.0
+social welfare,Integrative Biology,0.33103139773106266
+social welfare,Electrical Engineering,0.0
+social welfare,Public Health,1.9378744854491348
+social welfare,Nutritional Science & Tox,0.4842152743294819
+social welfare,Philosophy,0.20892792109509953
+social welfare,Mechanical Engineering,0.14126863100583428
+social welfare,Education,4.252860974232625
+cnr undeclared,Computer Science,0.498456669843373
+cnr undeclared,Mathematics,2.076163715243268
+cnr undeclared,Business Admin-Undergrad,0.569400724823452
+cnr undeclared,Economics,0.9917688775433137
+cnr undeclared,Chemistry,2.0388330197239974
+cnr undeclared,Psychology,0.7411211010000688
+cnr undeclared,Sociology,0.7689240232057796
+cnr undeclared,Physical Education,0.4858224261792416
+cnr undeclared,History,0.8668230452837885
+cnr undeclared,Physics,0.7008656467559196
+cnr undeclared,Political Science,0.5044967685442959
+cnr undeclared,"Env Sci, Policy, & Mgmt",3.706878295080398
+cnr undeclared,Statistics,0.9202544169771314
+cnr undeclared,Molecular & Cell Biology,0.6095415001903678
+cnr undeclared,English,0.7155166002048208
+cnr undeclared,Music,0.8317454020803112
+cnr undeclared,Anthropology,1.3726339269130365
+cnr undeclared,Biology,2.468390020885517
+cnr undeclared,Integrative Biology,0.5135766901621811
+cnr undeclared,Electrical Engineering,0.17127882197619193
+cnr undeclared,Public Health,0.343600437389073
+cnr undeclared,Nutritional Science & Tox,1.252054838406106
+cnr undeclared,Philosophy,0.5042177445923249
+cnr undeclared,Mechanical Engineering,0.14611358405477085
+cnr undeclared,Education,1.327914631556594
+physics,Computer Science,0.9039685077021019
+physics,Mathematics,1.4055592602002416
+physics,Business Admin-Undergrad,0.06874003084597788
+physics,Economics,0.27176759475466317
+physics,Chemistry,0.1285042143562459
+physics,Psychology,0.25847094111050556
+physics,Sociology,0.22193163823047216
+physics,Physical Education,0.6494963124935366
+physics,History,0.5506366815380225
+physics,Physics,18.262531069054692
+physics,Political Science,0.10556797347442491
+physics,"Env Sci, Policy, & Mgmt",0.6404690309975957
+physics,Statistics,0.3332889171967733
+physics,Molecular & Cell Biology,0.18757206638086085
+physics,English,0.18715590014800315
+physics,Music,1.3821305031736149
+physics,Anthropology,0.6628365182042469
+physics,Biology,0.11739102683239562
+physics,Integrative Biology,0.23881774113931245
+physics,Electrical Engineering,0.8960195219528831
+physics,Public Health,0.1797494261695434
+physics,Nutritional Science & Tox,0.19649812478101497
+physics,Philosophy,0.7536399042335035
+physics,Mechanical Engineering,0.2293114038706602
+physics,Education,0.86834833083375
+political economy,Computer Science,0.04943851316427949
+political economy,Mathematics,0.07570606653402381
+political economy,Business Admin-Undergrad,1.4417408080857816
+political economy,Economics,2.8456104867966983
+political economy,Chemistry,0.054818111985202186
+political economy,Psychology,0.2480852507275155
+political economy,Sociology,1.3313383962579493
+political economy,Physical Education,0.7830128932176118
+political economy,History,2.6252853904926363
+political economy,Physics,0.03723968429509226
+political economy,Political Science,2.0265223669380537
+political economy,"Env Sci, Policy, & Mgmt",0.8727707389509028
+political economy,Statistics,0.07898690014801003
+political economy,Molecular & Cell Biology,0.04000781838818361
+political economy,English,0.24949408139065374
+political economy,Music,0.49133138733160736
+political economy,Anthropology,0.5890767646679234
+political economy,Biology,0.0
+political economy,Integrative Biology,0.0
+political economy,Electrical Engineering,0.0
+political economy,Public Health,0.8306849110695212
+political economy,Nutritional Science & Tox,0.20955842310482864
+political economy,Philosophy,0.08037307740012892
+political economy,Mechanical Engineering,0.0
+political economy,Education,0.6482443279426575
+mcb cell and developmental biology,Computer Science,0.1905762561029873
+mcb cell and developmental biology,Mathematics,0.1089509044467908
+mcb cell and developmental biology,Business Admin-Undergrad,0.42702787278127663
+mcb cell and developmental biology,Economics,0.18959280819841126
+mcb cell and developmental biology,Chemistry,0.3662769190564053
+mcb cell and developmental biology,Psychology,1.2750965526522922
+mcb cell and developmental biology,Sociology,0.6386565350164946
+mcb cell and developmental biology,Physical Education,0.80489834675475
+mcb cell and developmental biology,History,0.7456831787068615
+mcb cell and developmental biology,Physics,1.224977441160302
+mcb cell and developmental biology,Political Science,0.15430846640361073
+mcb cell and developmental biology,"Env Sci, Policy, & Mgmt",0.507093233824701
+mcb cell and developmental biology,Statistics,0.2435838256117204
+mcb cell and developmental biology,Molecular & Cell Biology,11.762050110359597
+mcb cell and developmental biology,English,0.3590545258274191
+mcb cell and developmental biology,Music,1.178483255121464
+mcb cell and developmental biology,Anthropology,0.3027708215917432
+mcb cell and developmental biology,Biology,0.8365022082823967
+mcb cell and developmental biology,Integrative Biology,4.647118824669711
+mcb cell and developmental biology,Electrical Engineering,0.19645645419215388
+mcb cell and developmental biology,Public Health,4.269514061552973
+mcb cell and developmental biology,Nutritional Science & Tox,3.087624260922387
+mcb cell and developmental biology,Philosophy,0.3304781194961823
+mcb cell and developmental biology,Mechanical Engineering,0.1675919783982258
+mcb cell and developmental biology,Education,2.3798677079527466
+philosophy,Computer Science,0.22580398829172138
+philosophy,Mathematics,0.1139032182852813
+philosophy,Business Admin-Undergrad,0.052522144780584826
+philosophy,Economics,0.11326323606658335
+philosophy,Chemistry,0.14727918073946367
+philosophy,Psychology,0.44435182895458664
+philosophy,Sociology,0.3497404834614137
+philosophy,Physical Education,0.25891834930572377
+philosophy,History,1.0394371581974435
+philosophy,Physics,0.2401234188638092
+philosophy,Political Science,0.6049593285141557
+philosophy,"Env Sci, Policy, & Mgmt",0.28546157568453445
+philosophy,Statistics,0.04244263628083007
+philosophy,Molecular & Cell Biology,0.5159449825904718
+philosophy,English,0.8580004253538326
+philosophy,Music,0.8213671172058689
+philosophy,Anthropology,0.6330662633281903
+philosophy,Biology,0.26908462644049125
+philosophy,Integrative Biology,0.3421374294731221
+philosophy,Electrical Engineering,0.06846209767302333
+philosophy,Public Health,0.2060115176553533
+philosophy,Nutritional Science & Tox,0.07506908879621026
+philosophy,Philosophy,48.45635427112772
+philosophy,Mechanical Engineering,0.0
+philosophy,Education,0.5971304430863256
+history,Computer Science,0.1081331356214307
+history,Mathematics,0.033117235272372536
+history,Business Admin-Undergrad,0.10689529025828277
+history,Economics,0.31696242604095626
+history,Chemistry,0.0
+history,Psychology,0.09043636342599959
+history,Sociology,0.38825815785143725
+history,Physical Education,1.0539231487158096
+history,History,19.34177337544494
+history,Physics,0.08145155617847272
+history,Political Science,1.4364452778375767
+history,"Env Sci, Policy, & Mgmt",0.6224822905896236
+history,Statistics,0.17276209657923783
+history,Molecular & Cell Biology,0.21876521838913177
+history,English,0.6002695707114781
+history,Music,0.2985144809228378
+history,Anthropology,0.38653296959157346
+history,Biology,0.0
+history,Integrative Biology,0.13926651314236338
+history,Electrical Engineering,0.06966847824875942
+history,Public Health,0.13976111770451283
+history,Nutritional Science & Tox,0.5347432448611101
+history,Philosophy,0.0
+history,Mechanical Engineering,0.0
+history,Education,3.139538254729205
+chemical biology,Computer Science,0.5919971136639149
+chemical biology,Mathematics,1.0436214870656126
+chemical biology,Business Admin-Undergrad,0.0
+chemical biology,Economics,0.0923428501107556
+chemical biology,Chemistry,8.58142072585291
+chemical biology,Psychology,0.35422682270544464
+chemical biology,Sociology,0.3110633005845044
+chemical biology,Physical Education,0.8443784285593722
+chemical biology,History,0.4842554289955148
+chemical biology,Physics,1.6096744008070407
+chemical biology,Political Science,0.2630505503750964
+chemical biology,"Env Sci, Policy, & Mgmt",0.22165251759034438
+chemical biology,Statistics,0.46137642262925865
+chemical biology,Molecular & Cell Biology,4.066253456910083
+chemical biology,English,0.4080549081756316
+chemical biology,Music,1.2755348173079375
+chemical biology,Anthropology,0.48172618720079236
+chemical biology,Biology,4.899556192258215
+chemical biology,Integrative Biology,0.7438470231368585
+chemical biology,Electrical Engineering,0.1488446547055848
+chemical biology,Public Health,0.5225421553705196
+chemical biology,Nutritional Science & Tox,1.7136948223548987
+chemical biology,Philosophy,0.18778933143136
+chemical biology,Mechanical Engineering,0.09523167713687417
+chemical biology,Education,0.5409299307958478
+anthropology,Computer Science,0.061212523157268744
+anthropology,Mathematics,0.0562414893278945
+anthropology,Business Admin-Undergrad,0.12102359545451465
+anthropology,Economics,0.16311600705349596
+anthropology,Chemistry,0.2714931930239689
+anthropology,Psychology,0.409557196961634
+anthropology,Sociology,0.6593611109646602
+anthropology,Physical Education,1.1559316080912019
+anthropology,History,0.9409368788670123
+anthropology,Physics,0.23054243456999135
+anthropology,Political Science,0.6040541524615161
+anthropology,"Env Sci, Policy, & Mgmt",0.7047555110416187
+anthropology,Statistics,0.24449498705415826
+anthropology,Molecular & Cell Biology,0.2972151894723167
+anthropology,English,0.5560420462314895
+anthropology,Music,0.47315661863978975
+anthropology,Anthropology,31.435765707340625
+anthropology,Biology,0.1550088496452705
+anthropology,Integrative Biology,0.9460398548623387
+anthropology,Electrical Engineering,0.0
+anthropology,Public Health,0.7911664269058456
+anthropology,Nutritional Science & Tox,0.4324428805966227
+anthropology,Philosophy,0.3980571863258255
+anthropology,Mechanical Engineering,0.0
+anthropology,Education,1.2612705368930615
+chemistry,Computer Science,0.5683418060603231
+chemistry,Mathematics,1.5054042366615399
+chemistry,Business Admin-Undergrad,0.12147800194558292
+chemistry,Economics,0.2619655322290939
+chemistry,Chemistry,10.355477535167056
+chemistry,Psychology,0.20554747932617676
+chemistry,Sociology,0.22061226991808824
+chemistry,Physical Education,0.3368530964997495
+chemistry,History,0.3863740124964214
+chemistry,Physics,2.6843333883498666
+chemistry,Political Science,0.1399205055186683
+chemistry,"Env Sci, Policy, & Mgmt",0.47160110125605187
+chemistry,Statistics,0.5399085796725367
+chemistry,Molecular & Cell Biology,0.9447152810135924
+chemistry,English,0.12402884746979684
+chemistry,Music,1.3569519333063165
+chemistry,Anthropology,0.43926400048704467
+chemistry,Biology,1.555908603448147
+chemistry,Integrative Biology,0.474795972215016
+chemistry,Electrical Engineering,0.23751806601955025
+chemistry,Public Health,0.7941370142409113
+chemistry,Nutritional Science & Tox,1.909892912452268
+chemistry,Philosophy,0.29966382675217024
+chemistry,Mechanical Engineering,0.30393088447938565
+chemistry,Education,0.3452744239122433
+mcb neurobiology,Computer Science,0.2778817560686577
+mcb neurobiology,Mathematics,0.26477125458012557
+mcb neurobiology,Business Admin-Undergrad,0.06104460600913254
+mcb neurobiology,Economics,0.06582089945001447
+mcb neurobiology,Chemistry,0.2396482367353084
+mcb neurobiology,Psychology,2.134677364960198
+mcb neurobiology,Sociology,0.4803982489809607
+mcb neurobiology,Physical Education,0.8275616674035775
+mcb neurobiology,History,0.431464480761203
+mcb neurobiology,Physics,0.9768039454157974
+mcb neurobiology,Political Science,0.09374967204143897
+mcb neurobiology,"Env Sci, Policy, & Mgmt",0.3791791495885136
+mcb neurobiology,Statistics,0.2959773277244301
+mcb neurobiology,Molecular & Cell Biology,14.941636898340168
+mcb neurobiology,English,0.8725702438975769
+mcb neurobiology,Music,1.772913173742479
+mcb neurobiology,Anthropology,0.3678951115190238
+mcb neurobiology,Biology,0.7036816834840016
+mcb neurobiology,Integrative Biology,2.624516855218727
+mcb neurobiology,Electrical Engineering,0.0
+mcb neurobiology,Public Health,2.8732776198271157
+mcb neurobiology,Nutritional Science & Tox,1.3960017720291478
+mcb neurobiology,Philosophy,0.3011715692767095
+mcb neurobiology,Mechanical Engineering,0.10182003215892206
+mcb neurobiology,Education,0.34701165371809106
+mcb immunology,Computer Science,0.31189608368570226
+mcb immunology,Mathematics,0.019104478797531296
+mcb immunology,Business Admin-Undergrad,0.2158279748671046
+mcb immunology,Economics,0.2659599240801093
+mcb immunology,Chemistry,0.24208430521546404
+mcb immunology,Psychology,0.5217040533088159
+mcb immunology,Sociology,0.3732935274556385
+mcb immunology,Physical Education,0.759976349296343
+mcb immunology,History,0.7845307140651605
+mcb immunology,Physics,1.0807079410617688
+mcb immunology,Political Science,0.33145929155693005
+mcb immunology,"Env Sci, Policy, & Mgmt",0.43091277244374443
+mcb immunology,Statistics,0.4983099863213086
+mcb immunology,Molecular & Cell Biology,16.557441525165128
+mcb immunology,English,0.4407200405962984
+mcb immunology,Music,0.9643497030472971
+mcb immunology,Anthropology,0.5202887663540959
+mcb immunology,Biology,0.1579632749879377
+mcb immunology,Integrative Biology,3.052891848452418
+mcb immunology,Electrical Engineering,0.0
+mcb immunology,Public Health,4.514976691892673
+mcb immunology,Nutritional Science & Tox,3.172932871305131
+mcb immunology,Philosophy,0.30423303376745114
+mcb immunology,Mechanical Engineering,0.2057101030910878
+mcb immunology,Education,1.0516172733388145
+society and environment,Computer Science,0.0960086901671373
+society and environment,Mathematics,0.3920527982700686
+society and environment,Business Admin-Undergrad,0.4429116459463137
+society and environment,Economics,0.40934249071260637
+society and environment,Chemistry,0.39033783390766846
+society and environment,Psychology,0.39255906036457355
+society and environment,Sociology,0.9575684684080428
+society and environment,Physical Education,1.2476691252072425
+society and environment,History,0.80498783829111
+society and environment,Physics,0.048212524778391934
+society and environment,Political Science,0.7287906382621641
+society and environment,"Env Sci, Policy, & Mgmt",12.92057895888435
+society and environment,Statistics,0.0
+society and environment,Molecular & Cell Biology,0.20718520813281005
+society and environment,English,0.19380518082470863
+society and environment,Music,0.49474785938606436
+society and environment,Anthropology,1.8303621193697457
+society and environment,Biology,0.48624679562779777
+society and environment,Integrative Biology,0.6594732408514521
+society and environment,Electrical Engineering,0.0
+society and environment,Public Health,1.323630715783026
+society and environment,Nutritional Science & Tox,0.6330467618434001
+society and environment,Philosophy,0.4162214647109675
+society and environment,Mechanical Engineering,0.0
+society and environment,Education,0.719359230002301
+interdisciplinary studies,Computer Science,0.3063491018541625
+interdisciplinary studies,Mathematics,0.1407353336691775
+interdisciplinary studies,Business Admin-Undergrad,0.9463818599309746
+interdisciplinary studies,Economics,0.4898060692302169
+interdisciplinary studies,Chemistry,0.0
+interdisciplinary studies,Psychology,1.152957818903695
+interdisciplinary studies,Sociology,2.5207504424207974
+interdisciplinary studies,Physical Education,2.799226459732708
+interdisciplinary studies,History,1.3378091349655084
+interdisciplinary studies,Physics,0.11537911546030145
+interdisciplinary studies,Political Science,0.3488189825566801
+interdisciplinary studies,"Env Sci, Policy, & Mgmt",0.5290613914402916
+interdisciplinary studies,Statistics,0.24472384351629944
+interdisciplinary studies,Molecular & Cell Biology,0.12395558084076858
+interdisciplinary studies,English,0.3865017516707007
+interdisciplinary studies,Music,0.2537140237234977
+interdisciplinary studies,Anthropology,1.3688453057299093
+interdisciplinary studies,Biology,0.0
+interdisciplinary studies,Integrative Biology,0.4931903039518953
+interdisciplinary studies,Electrical Engineering,0.09868795358794627
+interdisciplinary studies,Public Health,1.3858372295317993
+interdisciplinary studies,Nutritional Science & Tox,0.5410595791552129
+interdisciplinary studies,Philosophy,0.7470558426676569
+interdisciplinary studies,Mechanical Engineering,0.12628225517370212
+interdisciplinary studies,Education,1.2911432045517117
+math,Computer Science,1.4131499924154007
+math,Mathematics,6.237009662447673
+math,Business Admin-Undergrad,0.15309293936044283
+math,Economics,0.2476070113379882
+math,Chemistry,0.17171730347415068
+math,Psychology,0.4749097780751229
+math,Sociology,0.2780271351175907
+math,Physical Education,0.4716887909276198
+math,History,0.486928763382714
+math,Physics,1.049877156294131
+math,Political Science,0.23511353082947628
+math,"Env Sci, Policy, & Mgmt",0.5943364036334154
+math,Statistics,1.6701244320727895
+math,Molecular & Cell Biology,0.5639587901186072
+math,English,0.3907691211686422
+math,Music,1.1970713190823703
+math,Anthropology,0.461319579901615
+math,Biology,0.09804187493336511
+math,Integrative Biology,0.1994542491060977
+math,Electrical Engineering,1.1973308186095941
+math,Public Health,0.10008130510701706
+math,Nutritional Science & Tox,0.6564401077069238
+math,Philosophy,1.384724171043546
+math,Mechanical Engineering,0.12767653874817514
+math,Education,1.0153101224717018
+conservation and resource studies,Computer Science,0.020766685098193544
+conservation and resource studies,Mathematics,0.20352250170771072
+conservation and resource studies,Business Admin-Undergrad,0.5337529637092935
+conservation and resource studies,Economics,0.2213520095717492
+conservation and resource studies,Chemistry,0.2763166761487602
+conservation and resource studies,Psychology,0.23157421881220422
+conservation and resource studies,Sociology,0.7456396094101205
+conservation and resource studies,Physical Education,1.2650198538414168
+conservation and resource studies,History,0.34823782964990485
+conservation and resource studies,Physics,0.1877106929189168
+conservation and resource studies,Political Science,0.25221992985767844
+conservation and resource studies,"Env Sci, Policy, & Mgmt",14.345530960796399
+conservation and resource studies,Statistics,0.19907104529688824
+conservation and resource studies,Molecular & Cell Biology,0.06722125830704963
+conservation and resource studies,English,0.9222415739526602
+conservation and resource studies,Music,0.9172627704837114
+conservation and resource studies,Anthropology,0.9897685741374752
+conservation and resource studies,Biology,0.5258760465968991
+conservation and resource studies,Integrative Biology,2.032678413478894
+conservation and resource studies,Electrical Engineering,0.0
+conservation and resource studies,Public Health,0.7515411710066695
+conservation and resource studies,Nutritional Science & Tox,1.4084028029989497
+conservation and resource studies,Philosophy,0.0
+conservation and resource studies,Mechanical Engineering,0.0
+conservation and resource studies,Education,1.08918209415746
+industrial engineering operations research,Computer Science,0.6679244023418984
+industrial engineering operations research,Mathematics,0.9205239681830896
+industrial engineering operations research,Business Admin-Undergrad,0.2888717962932165
+industrial engineering operations research,Economics,0.4449627131187203
+industrial engineering operations research,Chemistry,0.046287742518117146
+industrial engineering operations research,Psychology,0.23275571992859304
+industrial engineering operations research,Sociology,0.049962926208773385
+industrial engineering operations research,Physical Education,0.5594485761784389
+industrial engineering operations research,History,0.35001455327056763
+industrial engineering operations research,Physics,1.4464577374415173
+industrial engineering operations research,Political Science,0.06337669155862583
+industrial engineering operations research,"Env Sci, Policy, & Mgmt",0.0
+industrial engineering operations research,Statistics,0.46686899908913077
+industrial engineering operations research,Molecular & Cell Biology,0.13512844782131403
+industrial engineering operations research,English,0.0
+industrial engineering operations research,Music,0.6453598778046111
+industrial engineering operations research,Anthropology,0.3979273655205768
+industrial engineering operations research,Biology,0.0
+industrial engineering operations research,Integrative Biology,0.0
+industrial engineering operations research,Electrical Engineering,0.7530830744032565
+industrial engineering operations research,Public Health,0.0
+industrial engineering operations research,Nutritional Science & Tox,0.23593142193094654
+industrial engineering operations research,Philosophy,0.13573208479307486
+industrial engineering operations research,Mechanical Engineering,1.7896429121810538
+industrial engineering operations research,Education,0.4691739195678271
+american studies,Computer Science,0.08719794595404891
+american studies,Mathematics,0.08011665087206286
+american studies,Business Admin-Undergrad,0.9050974221336304
+american studies,Economics,0.2323606352698113
+american studies,Chemistry,0.0
+american studies,Psychology,0.6320372018238597
+american studies,Sociology,1.7219904443251133
+american studies,Physical Education,2.974571728791157
+american studies,History,1.9496370143099473
+american studies,Physics,0.0
+american studies,Political Science,0.26476372743496973
+american studies,"Env Sci, Policy, & Mgmt",0.5354305931134429
+american studies,Statistics,0.48760030455490033
+american studies,Molecular & Cell Biology,0.0
+american studies,English,0.7920883145251412
+american studies,Music,0.4814407614172943
+american studies,Anthropology,0.31169798968840917
+american studies,Biology,0.0
+american studies,Integrative Biology,0.5615186231494935
+american studies,Electrical Engineering,0.0
+american studies,Public Health,0.6762154256253871
+american studies,Nutritional Science & Tox,0.6160198760896828
+american studies,Philosophy,0.0
+american studies,Mechanical Engineering,0.0
+american studies,Education,3.430053024762303
+materials science and engineering,Computer Science,0.49542832962699535
+materials science and engineering,Mathematics,1.158677875547889
+materials science and engineering,Business Admin-Undergrad,0.3116635160007547
+materials science and engineering,Economics,0.24003493148055738
+materials science and engineering,Chemistry,1.2484950734244444
+materials science and engineering,Psychology,0.3515679057710418
+materials science and engineering,Sociology,0.26952477624549315
+materials science and engineering,Physical Education,0.7133319293257693
+materials science and engineering,History,0.37763038040934643
+materials science and engineering,Physics,3.1211638518004117
+materials science and engineering,Political Science,0.1367541087576954
+materials science and engineering,"Env Sci, Policy, & Mgmt",0.3456965870675096
+materials science and engineering,Statistics,0.2878311627411889
+materials science and engineering,Molecular & Cell Biology,0.0
+materials science and engineering,English,0.09091655883336484
+materials science and engineering,Music,0.49734155720722334
+materials science and engineering,Anthropology,0.5366543369864659
+materials science and engineering,Biology,0.0
+materials science and engineering,Integrative Biology,0.0
+materials science and engineering,Electrical Engineering,1.3928582366944635
+materials science and engineering,Public Health,0.11642485768412628
+materials science and engineering,Nutritional Science & Tox,0.0
+materials science and engineering,Philosophy,0.0
+materials science and engineering,Mechanical Engineering,3.564635254297676
+materials science and engineering,Education,0.8436521856449003
+microbial biology,Computer Science,0.27273579762294187
+microbial biology,Mathematics,0.5163612562266084
+microbial biology,Business Admin-Undergrad,0.19608267384751668
+microbial biology,Economics,0.10571235366214446
+microbial biology,Chemistry,1.6495268242819932
+microbial biology,Psychology,0.331782698952758
+microbial biology,Sociology,0.5341491020137954
+microbial biology,Physical Education,0.5437285335420199
+microbial biology,History,0.2078874316394887
+microbial biology,Physics,0.9711658274047393
+microbial biology,Political Science,0.0
+microbial biology,"Env Sci, Policy, & Mgmt",3.6539081687620407
+microbial biology,Statistics,0.3169050175635312
+microbial biology,Molecular & Cell Biology,4.253679745357001
+microbial biology,English,0.4004001984984552
+microbial biology,Music,0.9856405406470425
+microbial biology,Anthropology,0.23634473830919106
+microbial biology,Biology,1.004582605377834
+microbial biology,Integrative Biology,2.043700912052783
+microbial biology,Electrical Engineering,0.0
+microbial biology,Public Health,2.948253719334389
+microbial biology,Nutritional Science & Tox,2.9427082808114426
+microbial biology,Philosophy,0.16123326436025862
+microbial biology,Mechanical Engineering,0.0
+microbial biology,Education,0.9288695781342842
+nst nutritional science,Computer Science,0.07918136060020893
+nst nutritional science,Mathematics,1.5196893897674948
+nst nutritional science,Business Admin-Undergrad,0.5740162145697464
+nst nutritional science,Economics,0.39386376928960276
+nst nutritional science,Chemistry,5.209312132167971
+nst nutritional science,Psychology,0.8829700859226626
+nst nutritional science,Sociology,0.44225248231249736
+nst nutritional science,Physical Education,0.25724790834246103
+nst nutritional science,History,0.14753301600221777
+nst nutritional science,Physics,1.8290691389583056
+nst nutritional science,Political Science,0.0
+nst nutritional science,"Env Sci, Policy, & Mgmt",0.48620552245623927
+nst nutritional science,Statistics,1.9397653897638722
+nst nutritional science,Molecular & Cell Biology,0.5980523561640093
+nst nutritional science,English,0.4262324693693233
+nst nutritional science,Music,1.0492302529468518
+nst nutritional science,Anthropology,0.8805747507971473
+nst nutritional science,Biology,8.95617798584835
+nst nutritional science,Integrative Biology,0.5438881459495309
+nst nutritional science,Electrical Engineering,0.0
+nst nutritional science,Public Health,0.9551845850858962
+nst nutritional science,Nutritional Science & Tox,3.580069060526363
+nst nutritional science,Philosophy,0.34327082089603445
+nst nutritional science,Mechanical Engineering,0.17407940982009257
+nst nutritional science,Education,1.1865559772296015
+mcb biochemistry and molecular biology,Computer Science,0.45142476847935203
+mcb biochemistry and molecular biology,Mathematics,0.27650988163047596
+mcb biochemistry and molecular biology,Business Admin-Undergrad,0.5020392597647625
+mcb biochemistry and molecular biology,Economics,0.7819068917424133
+mcb biochemistry and molecular biology,Chemistry,1.877047765562268
+mcb biochemistry and molecular biology,Psychology,0.37754582984279367
+mcb biochemistry and molecular biology,Sociology,0.1350721867161322
+mcb biochemistry and molecular biology,Physical Education,0.20624185755042135
+mcb biochemistry and molecular biology,History,0.7885385338049571
+mcb biochemistry and molecular biology,Physics,1.1901289449893622
+mcb biochemistry and molecular biology,Political Science,0.08566780376200457
+mcb biochemistry and molecular biology,"Env Sci, Policy, & Mgmt",0.5197369377980489
+mcb biochemistry and molecular biology,Statistics,0.1803080272344229
+mcb biochemistry and molecular biology,Molecular & Cell Biology,14.24719800201551
+mcb biochemistry and molecular biology,English,0.911255624168898
+mcb biochemistry and molecular biology,Music,1.246212177829594
+mcb biochemistry and molecular biology,Anthropology,0.6723600313968366
+mcb biochemistry and molecular biology,Biology,0.5715728616804917
+mcb biochemistry and molecular biology,Integrative Biology,1.8895424380832841
+mcb biochemistry and molecular biology,Electrical Engineering,0.29084587701091286
+mcb biochemistry and molecular biology,Public Health,1.4586562629390531
+mcb biochemistry and molecular biology,Nutritional Science & Tox,2.072942286482937
+mcb biochemistry and molecular biology,Philosophy,0.5504170059195036
+mcb biochemistry and molecular biology,Mechanical Engineering,0.0
+mcb biochemistry and molecular biology,Education,0.8455916159567276
+sustainable environmental design,Computer Science,0.31323484877808866
+sustainable environmental design,Mathematics,0.34884512328670836
+sustainable environmental design,Business Admin-Undergrad,0.4503987171903515
+sustainable environmental design,Economics,1.031983127687872
+sustainable environmental design,Chemistry,0.3788936324916875
+sustainable environmental design,Psychology,0.1270165784853946
+sustainable environmental design,Sociology,0.47714014913065256
+sustainable environmental design,Physical Education,0.6244678053440832
+sustainable environmental design,History,0.23875702705695334
+sustainable environmental design,Physics,1.0295779073325275
+sustainable environmental design,Political Science,0.08646286458578188
+sustainable environmental design,"Env Sci, Policy, & Mgmt",2.2730954240123484
+sustainable environmental design,Statistics,0.6369349685949162
+sustainable environmental design,Molecular & Cell Biology,0.1843515715056442
+sustainable environmental design,English,0.11496409411643581
+sustainable environmental design,Music,0.2515555904203589
+sustainable environmental design,Anthropology,0.9500400443635115
+sustainable environmental design,Biology,0.0
+sustainable environmental design,Integrative Biology,0.44009510649628514
+sustainable environmental design,Electrical Engineering,0.14677257134541427
+sustainable environmental design,Public Health,0.14721936760521767
+sustainable environmental design,Nutritional Science & Tox,0.32187395845799666
+sustainable environmental design,Philosophy,0.3703501895978098
+sustainable environmental design,Mechanical Engineering,0.37562378453059414
+sustainable environmental design,Education,0.42671966698512354
+nst physiology and metabolism,Computer Science,0.031795624075213434
+nst physiology and metabolism,Mathematics,0.1558054384834936
+nst physiology and metabolism,Business Admin-Undergrad,0.6286329245759116
+nst physiology and metabolism,Economics,0.0677818847963232
+nst physiology and metabolism,Chemistry,0.6345977549375025
+nst physiology and metabolism,Psychology,0.49638473742284395
+nst physiology and metabolism,Sociology,0.22832798402144105
+nst physiology and metabolism,Physical Education,1.4720111853663493
+nst physiology and metabolism,History,0.08886379849874516
+nst physiology and metabolism,Physics,1.820210164755196
+nst physiology and metabolism,Political Science,0.09654273221883936
+nst physiology and metabolism,"Env Sci, Policy, & Mgmt",0.7809518754478455
+nst physiology and metabolism,Statistics,0.3047953051048211
+nst physiology and metabolism,Molecular & Cell Biology,1.2350600101388496
+nst physiology and metabolism,English,0.38509993184598834
+nst physiology and metabolism,Music,1.2639690870991867
+nst physiology and metabolism,Anthropology,0.3030845737384704
+nst physiology and metabolism,Biology,2.5765201536892635
+nst physiology and metabolism,Integrative Biology,5.896818369945044
+nst physiology and metabolism,Electrical Engineering,0.0
+nst physiology and metabolism,Public Health,2.1369692142280687
+nst physiology and metabolism,Nutritional Science & Tox,28.392451843358366
+nst physiology and metabolism,Philosophy,0.0
+nst physiology and metabolism,Mechanical Engineering,0.0
+nst physiology and metabolism,Education,0.9529335568424262
+rhetoric,Computer Science,0.12885155793209851
+rhetoric,Mathematics,0.0789250646386201
+rhetoric,Business Admin-Undergrad,0.12737654009779625
+rhetoric,Economics,0.20601423253055712
+rhetoric,Chemistry,0.14287240210316474
+rhetoric,Psychology,0.7184271040315627
+rhetoric,Sociology,0.7710813808598097
+rhetoric,Physical Education,0.7849099565567217
+rhetoric,History,0.6302099305606547
+rhetoric,Physics,0.1941155197114258
+rhetoric,Political Science,0.4890484860429395
+rhetoric,"Env Sci, Policy, & Mgmt",1.3846010285171118
+rhetoric,Statistics,0.205863495661349
+rhetoric,Molecular & Cell Biology,0.5213617278145187
+rhetoric,English,0.7803074734517139
+rhetoric,Music,0.5691362701898933
+rhetoric,Anthropology,0.9211861847484218
+rhetoric,Biology,0.6525831885328449
+rhetoric,Integrative Biology,0.16595012327200254
+rhetoric,Electrical Engineering,0.16603406364796208
+rhetoric,Public Health,0.1665394945875297
+rhetoric,Nutritional Science & Tox,0.3641146354209884
+rhetoric,Philosophy,2.0947628834206826
+rhetoric,Mechanical Engineering,0.0
+rhetoric,Education,1.9308784931295353
+linguistics,Computer Science,0.32468547336064507
+linguistics,Mathematics,0.1591029080810278
+linguistics,Business Admin-Undergrad,0.32096866254801837
+linguistics,Economics,0.06921642204068983
+linguistics,Chemistry,0.07200315502818223
+linguistics,Psychology,1.0861933596667674
+linguistics,Sociology,0.07772010743586971
+linguistics,Physical Education,0.870253340722016
+linguistics,History,0.6352115966762154
+linguistics,Physics,0.0
+linguistics,Political Science,0.0
+linguistics,"Env Sci, Policy, & Mgmt",0.19936998936697642
+linguistics,Statistics,0.3112459993927538
+linguistics,Molecular & Cell Biology,0.4203996154440881
+linguistics,English,0.7865003899076799
+linguistics,Music,1.0038931432516174
+linguistics,Anthropology,0.4642485931073395
+linguistics,Biology,0.0
+linguistics,Integrative Biology,0.8363359387120762
+linguistics,Electrical Engineering,0.0
+linguistics,Public Health,0.5035837098241969
+linguistics,Nutritional Science & Tox,0.0
+linguistics,Philosophy,1.2668327914020319
+linguistics,Mechanical Engineering,0.0
+linguistics,Education,2.1894782913165267
+peace and conflict studies,Computer Science,0.1676654493583659
+peace and conflict studies,Mathematics,0.16431939687056973
+peace and conflict studies,Business Admin-Undergrad,0.39779067030541293
+peace and conflict studies,Economics,0.4289148775636189
+peace and conflict studies,Chemistry,0.0
+peace and conflict studies,Psychology,0.22436125134100443
+peace and conflict studies,Sociology,1.2040246151950307
+peace and conflict studies,Physical Education,1.2256175960988154
+peace and conflict studies,History,1.9681146192099135
+peace and conflict studies,Physics,0.0
+peace and conflict studies,Political Science,1.2218194962777702
+peace and conflict studies,"Env Sci, Policy, & Mgmt",0.9265801964842265
+peace and conflict studies,Statistics,0.10715026208603001
+peace and conflict studies,Molecular & Cell Biology,0.10854580234826866
+peace and conflict studies,English,0.13538121465623998
+peace and conflict studies,Music,0.14811538179122224
+peace and conflict studies,Anthropology,2.0777027199721916
+peace and conflict studies,Biology,0.0
+peace and conflict studies,Integrative Biology,0.1727513578323305
+peace and conflict studies,Electrical Engineering,0.0
+peace and conflict studies,Public Health,0.6934595348398778
+peace and conflict studies,Nutritional Science & Tox,0.18951868319043247
+peace and conflict studies,Philosophy,1.0903069106328964
+peace and conflict studies,Mechanical Engineering,0.0
+peace and conflict studies,Education,1.7587612504018002
+music,Computer Science,0.34669804782577357
+music,Mathematics,0.4247238647925743
+music,Business Admin-Undergrad,0.20563754990364566
+music,Economics,0.2217271824693284
+music,Chemistry,0.38442362430300686
+music,Psychology,0.46393343497631423
+music,Sociology,0.08298926726203036
+music,Physical Education,0.4223879850962019
+music,History,0.19379336847748946
+music,Physics,0.7312232924722777
+music,Political Science,0.21053951772018073
+music,"Env Sci, Policy, & Mgmt",0.638659796446755
+music,Statistics,0.6646948461607963
+music,Molecular & Cell Biology,0.7855772475035715
+music,English,0.2799408167468013
+music,Music,31.23979340694864
+music,Anthropology,0.16524102466532425
+music,Biology,0.3511782412867428
+music,Integrative Biology,0.3572146721278699
+music,Electrical Engineering,0.17869767867195918
+music,Public Health,0.7169666377158058
+music,Nutritional Science & Tox,1.175658271994886
+music,Philosophy,1.3527197603106442
+music,Mechanical Engineering,0.0
+music,Education,0.0
+ethnic studies,Computer Science,0.07156332882234626
+ethnic studies,Mathematics,0.0
+ethnic studies,Business Admin-Undergrad,0.07074411337793057
+ethnic studies,Economics,0.07627932224892348
+ethnic studies,Chemistry,0.7935041574534368
+ethnic studies,Psychology,0.1596039222367495
+ethnic studies,Sociology,0.8565073064361152
+ethnic studies,Physical Education,0.8718679109274371
+ethnic studies,History,0.4000166323092202
+ethnic studies,Physics,0.32343154377574296
+ethnic studies,Political Science,0.6518745417458658
+ethnic studies,"Env Sci, Policy, & Mgmt",0.6591415974989833
+ethnic studies,Statistics,0.0
+ethnic studies,Molecular & Cell Biology,0.1158243838468406
+ethnic studies,English,0.4333777658674971
+ethnic studies,Music,0.15804731701337418
+ethnic studies,Anthropology,0.3410805990176372
+ethnic studies,Biology,0.36244051724637594
+ethnic studies,Integrative Biology,0.18433526812429438
+ethnic studies,Electrical Engineering,0.0
+ethnic studies,Public Health,0.3699798684422671
+ethnic studies,Nutritional Science & Tox,0.6066807992510054
+ethnic studies,Philosophy,0.0
+ethnic studies,Mechanical Engineering,0.0
+ethnic studies,Education,4.289590121762991
+mcb genetics,Computer Science,0.5098621735977845
+mcb genetics,Mathematics,0.22307455213141145
+mcb genetics,Business Admin-Undergrad,0.4320219149311013
+mcb genetics,Economics,0.6987366996511181
+mcb genetics,Chemistry,0.5653422795387839
+mcb genetics,Psychology,0.4061138377389101
+mcb genetics,Sociology,0.2615270084043806
+mcb genetics,Physical Education,0.4436953908725682
+mcb genetics,History,1.0178464753862206
+mcb genetics,Physics,1.316759875549909
+mcb genetics,Political Science,0.22116020555769728
+mcb genetics,"Env Sci, Policy, & Mgmt",0.8945027416108854
+mcb genetics,Statistics,0.6982254467089671
+mcb genetics,Molecular & Cell Biology,15.325250076351995
+mcb genetics,English,0.1470312301607829
+mcb genetics,Music,0.9651672949956204
+mcb genetics,Anthropology,0.1735766253160973
+mcb genetics,Biology,0.0
+mcb genetics,Integrative Biology,2.2514064201768416
+mcb genetics,Electrical Engineering,0.3754242032633445
+mcb genetics,Public Health,3.0125363768711604
+mcb genetics,Nutritional Science & Tox,1.0291370630222298
+mcb genetics,Philosophy,0.0
+mcb genetics,Mechanical Engineering,0.2401985921849942
+mcb genetics,Education,1.0914906615465179
+theater and performance studies,Computer Science,0.1935821907418357
+theater and performance studies,Mathematics,0.18971892509346536
+theater and performance studies,Business Admin-Undergrad,0.30618587872088565
+theater and performance studies,Economics,0.6602853635679685
+theater and performance studies,Chemistry,0.17171730347415068
+theater and performance studies,Psychology,0.3453889295091803
+theater and performance studies,Sociology,0.4633785585293178
+theater and performance studies,Physical Education,0.4716887909276198
+theater and performance studies,History,0.8656511349026027
+theater and performance studies,Physics,0.0
+theater and performance studies,Political Science,0.47022706165895256
+theater and performance studies,"Env Sci, Policy, & Mgmt",0.1188672807266831
+theater and performance studies,Statistics,0.24742584178856142
+theater and performance studies,Molecular & Cell Biology,0.1253241755819127
+theater and performance studies,English,0.46892294540237067
+theater and performance studies,Music,1.0260611306420317
+theater and performance studies,Anthropology,0.184527831960646
+theater and performance studies,Biology,0.0
+theater and performance studies,Integrative Biology,0.3989084982121954
+theater and performance studies,Electrical Engineering,0.0
+theater and performance studies,Public Health,0.20016261021403411
+theater and performance studies,Nutritional Science & Tox,0.0
+theater and performance studies,Philosophy,0.5035360621976531
+theater and performance studies,Mechanical Engineering,0.0
+theater and performance studies,Education,0.2900886064204862
+geography,Computer Science,0.36097384979507013
+geography,Mathematics,0.0
+geography,Business Admin-Undergrad,0.23789442047676654
+geography,Economics,0.5985184729400825
+geography,Chemistry,0.17789014771668551
+geography,Psychology,0.17890243570982053
+geography,Sociology,0.3840287661537092
+geography,Physical Education,1.075018832656608
+geography,History,0.7846731488353249
+geography,Physics,0.0
+geography,Political Science,0.7306959732641567
+geography,"Env Sci, Policy, & Mgmt",2.585946038554018
+geography,Statistics,0.7689607043820977
+geography,Molecular & Cell Biology,0.0
+geography,English,0.16192655086334587
+geography,Music,1.0629456810899478
+geography,Anthropology,0.5734835561914194
+geography,Biology,0.0
+geography,Integrative Biology,0.2066241730935718
+geography,Electrical Engineering,0.0
+geography,Public Health,0.20735799816290462
+geography,Nutritional Science & Tox,0.22667920930620356
+geography,Philosophy,0.5216370317537778
+geography,Mechanical Engineering,0.0
+geography,Education,1.2020665128796617
+film,Computer Science,0.28637258750408895
+film,Mathematics,0.10023483209104754
+film,Business Admin-Undergrad,0.08088410296210063
+film,Economics,0.08721269177126918
+film,Chemistry,0.0
+film,Psychology,0.4562012110600423
+film,Sociology,0.8813460183227625
+film,Physical Education,0.19936712896540731
+film,History,0.45735234960687515
+film,Physics,0.0
+film,Political Science,0.12421831545490664
+film,"Env Sci, Policy, & Mgmt",0.0
+film,Statistics,0.26144663948991326
+film,Molecular & Cell Biology,0.0
+film,English,0.9909904912836767
+film,Music,1.264905360497038
+film,Anthropology,0.38996881821016527
+film,Biology,0.0
+film,Integrative Biology,0.6322699696663298
+film,Electrical Engineering,0.21086326083291185
+film,Public Health,0.0
+film,Nutritional Science & Tox,0.23121279349232762
+film,Philosophy,0.7981046585832802
+film,Mechanical Engineering,0.0
+film,Education,0.6130539215686275
+engineering undeclared,Computer Science,2.3396900364643676
+engineering undeclared,Mathematics,2.413681575436596
+engineering undeclared,Business Admin-Undergrad,0.0
+engineering undeclared,Economics,0.08750437301465135
+engineering undeclared,Chemistry,1.1833562000283864
+engineering undeclared,Psychology,0.5492723611425259
+engineering undeclared,Sociology,0.19650970308199833
+engineering undeclared,Physical Education,0.8001356346437751
+engineering undeclared,History,0.803043423222774
+engineering undeclared,Physics,4.575997460488243
+engineering undeclared,Political Science,0.0
+engineering undeclared,"Env Sci, Policy, & Mgmt",0.0
+engineering undeclared,Statistics,0.13116052148323407
+engineering undeclared,Molecular & Cell Biology,0.0
+engineering undeclared,English,0.1657174734588088
+engineering undeclared,Music,0.7252204646901317
+engineering undeclared,Anthropology,0.3912730617493297
+engineering undeclared,Biology,0.2078881227684063
+engineering undeclared,Integrative Biology,0.21146152831649823
+engineering undeclared,Electrical Engineering,6.558623163030369
+engineering undeclared,Public Health,0.0
+engineering undeclared,Nutritional Science & Tox,0.0
+engineering undeclared,Philosophy,0.0
+engineering undeclared,Mechanical Engineering,1.6243530213981883
+engineering undeclared,Education,0.30755213456620106
+art,Computer Science,0.04160376573909282
+art,Mathematics,0.050966863775108916
+art,Business Admin-Undergrad,0.4112750998072913
+art,Economics,0.0
+art,Chemistry,0.09226166983272165
+art,Psychology,0.37114674798105135
+art,Sociology,0.896284086429928
+art,Physical Education,0.7096118149616192
+art,History,0.23255204217298733
+art,Physics,0.0
+art,Political Science,0.12632371063210843
+art,"Env Sci, Policy, & Mgmt",0.383195877868053
+art,Statistics,0.0
+art,Molecular & Cell Biology,0.5386815411453061
+art,English,0.5038934701442424
+art,Music,0.36752698125821925
+art,Anthropology,0.1982892295983891
+art,Biology,0.0
+art,Integrative Biology,0.6429864098301658
+art,Electrical Engineering,0.21443721440635102
+art,Public Health,0.21508999131474174
+art,Nutritional Science & Tox,0.47026330879795447
+art,Philosophy,0.8116318561863866
+art,Mechanical Engineering,0.27439635785201033
+art,Education,0.623444666001994
+urban studies,Computer Science,0.12652691642301425
+urban studies,Mathematics,0.3616720745553262
+urban studies,Business Admin-Undergrad,0.3335426926272191
+urban studies,Economics,0.5394599491006341
+urban studies,Chemistry,0.09352987147990682
+urban studies,Psychology,0.2821863161196138
+urban studies,Sociology,0.6057360950671907
+urban studies,Physical Education,0.5138328066118746
+urban studies,History,0.35362295072696526
+urban studies,Physics,0.12707562372861378
+urban studies,Political Science,0.0
+urban studies,"Env Sci, Policy, & Mgmt",0.3884631751583355
+urban studies,Statistics,0.2695326180308384
+urban studies,Molecular & Cell Biology,0.0
+urban studies,English,0.34054656057858307
+urban studies,Music,0.5588683477895602
+urban studies,Anthropology,0.20101485474750785
+urban studies,Biology,0.4272065203282026
+urban studies,Integrative Biology,0.2172749036654054
+urban studies,Electrical Engineering,0.0
+urban studies,Public Health,0.4360931095384798
+urban studies,Nutritional Science & Tox,0.0
+urban studies,Philosophy,0.8227883078178145
+urban studies,Mechanical Engineering,0.0
+urban studies,Education,0.9480215281989085
+engineering physics,Computer Science,1.4053180411869142
+engineering physics,Mathematics,1.893749690269791
+engineering physics,Business Admin-Undergrad,0.0
+engineering physics,Economics,0.09986186080679677
+engineering physics,Chemistry,0.31164724351892614
+engineering physics,Psychology,0.31342067935422757
+engineering physics,Sociology,0.1121305366822853
+engineering physics,Physical Education,0.6848489162933838
+engineering physics,History,0.6546073706205273
+engineering physics,Physics,8.327333525941107
+engineering physics,Political Science,0.0
+engineering physics,"Env Sci, Policy, & Mgmt",0.0
+engineering physics,Statistics,0.0
+engineering physics,Molecular & Cell Biology,0.15163268572315391
+engineering physics,English,0.18912032276406043
+engineering physics,Music,1.24145564279971
+engineering physics,Anthropology,0.4465291811566777
+engineering physics,Biology,0.4744927382271258
+engineering physics,Integrative Biology,0.0
+engineering physics,Electrical Engineering,8.69207334731087
+engineering physics,Public Health,0.0
+engineering physics,Nutritional Science & Tox,0.0
+engineering physics,Philosophy,0.30462009869590845
+engineering physics,Mechanical Engineering,3.707492774030979
+engineering physics,Education,0.7019701392007185
+nst dietetics,Computer Science,0.14215958563357972
+nst dietetics,Mathematics,0.11610212211318248
+nst dietetics,Business Admin-Undergrad,0.37475260059660526
+nst dietetics,Economics,0.0
+nst dietetics,Chemistry,0.0
+nst dietetics,Psychology,0.4227347129513906
+nst dietetics,Sociology,0.34028803796245655
+nst dietetics,Physical Education,0.9237087056312308
+nst dietetics,History,0.26487587815069985
+nst dietetics,Physics,0.0
+nst dietetics,Political Science,0.0
+nst dietetics,"Env Sci, Policy, & Mgmt",0.5819448338279312
+nst dietetics,Statistics,0.0
+nst dietetics,Molecular & Cell Biology,0.4601671466347451
+nst dietetics,English,0.0
+nst dietetics,Music,1.6744472505200725
+nst dietetics,Anthropology,0.0
+nst dietetics,Biology,0.23999439655503274
+nst dietetics,Integrative Biology,1.4647180764470957
+nst dietetics,Electrical Engineering,0.0
+nst dietetics,Public Health,2.694853366086243
+nst dietetics,Nutritional Science & Tox,45.796201954271844
+nst dietetics,Philosophy,0.6162970336550426
+nst dietetics,Mechanical Engineering,0.0
+nst dietetics,Education,0.35505053372700435
+nuclear engineering,Computer Science,0.2484435403447851
+nuclear engineering,Mathematics,0.9739416883340651
+nuclear engineering,Business Admin-Undergrad,0.19647960233708656
+nuclear engineering,Economics,0.0
+nuclear engineering,Chemistry,0.11019106316053799
+nuclear engineering,Psychology,0.11081810794980786
+nuclear engineering,Sociology,0.4757603337774696
+nuclear engineering,Physical Education,0.36321946572645053
+nuclear engineering,History,0.416616512799785
+nuclear engineering,Physics,3.593101846642262
+nuclear engineering,Political Science,0.0
+nuclear engineering,"Env Sci, Policy, & Mgmt",0.15255436433343542
+nuclear engineering,Statistics,0.0
+nuclear engineering,Molecular & Cell Biology,0.48252344525667606
+nuclear engineering,English,0.0
+nuclear engineering,Music,0.4389492286282376
+nuclear engineering,Anthropology,0.23682316895354164
+nuclear engineering,Biology,0.5033080867024573
+nuclear engineering,Integrative Biology,0.0
+nuclear engineering,Electrical Engineering,3.3294199078880817
+nuclear engineering,Public Health,0.0
+nuclear engineering,Nutritional Science & Tox,0.0
+nuclear engineering,Philosophy,0.9693578849189638
+nuclear engineering,Mechanical Engineering,0.9831610392673245
+nuclear engineering,Education,0.37229995236961183
+genetics and plant biology,Computer Science,0.1560141215215981
+genetics and plant biology,Mathematics,0.891920116064406
+genetics and plant biology,Business Admin-Undergrad,0.0
+genetics and plant biology,Economics,0.4434543649386568
+genetics and plant biology,Chemistry,2.306541745818041
+genetics and plant biology,Psychology,0.34795007623223567
+genetics and plant biology,Sociology,0.2489678017860911
+genetics and plant biology,Physical Education,1.2671639552886056
+genetics and plant biology,History,0.29069005271623416
+genetics and plant biology,Physics,1.2535256442381904
+genetics and plant biology,Political Science,0.15790463829013554
+genetics and plant biology,"Env Sci, Policy, & Mgmt",4.151288676903907
+genetics and plant biology,Statistics,0.8308685577009954
+genetics and plant biology,Molecular & Cell Biology,1.010027889647449
+genetics and plant biology,English,0.20995561256010098
+genetics and plant biology,Music,0.6891130898591612
+genetics and plant biology,Anthropology,0.49572307399597276
+genetics and plant biology,Biology,4.214138895440914
+genetics and plant biology,Integrative Biology,3.4828430532467314
+genetics and plant biology,Electrical Engineering,0.0
+genetics and plant biology,Public Health,0.0
+genetics and plant biology,Nutritional Science & Tox,2.0574019759910507
+genetics and plant biology,Philosophy,0.33817994007766106
+genetics and plant biology,Mechanical Engineering,0.3429954473150129
+genetics and plant biology,Education,0.0
+history of art,Computer Science,0.05553443843001079
+history of art,Mathematics,0.0
+history of art,Business Admin-Undergrad,0.5489871241771536
+history of art,Economics,0.0
+history of art,Chemistry,0.24630943530002614
+history of art,Psychology,0.3715665972434734
+history of art,Sociology,0.3987991033134672
+history of art,Physical Education,0.541268223435495
+history of art,History,1.0864705137719883
+history of art,Physics,0.33465164257942637
+history of art,Political Science,0.33724429535268774
+history of art,"Env Sci, Policy, & Mgmt",0.17050193660795723
+history of art,Statistics,0.0
+history of art,Molecular & Cell Biology,0.17976363646817345
+history of art,English,0.22420599350309428
+history of art,Music,0.49059031434920675
+history of art,Anthropology,0.7940541547265808
+history of art,Biology,0.0
+history of art,Integrative Biology,0.8582850266963752
+history of art,Electrical Engineering,0.0
+history of art,Public Health,0.2871110743794064
+history of art,Nutritional Science & Tox,0.0
+history of art,Philosophy,1.8056666483784618
+history of art,Mechanical Engineering,0.0
+history of art,Education,0.8321998935320736
+energy engineering,Computer Science,0.948951873172607
+energy engineering,Mathematics,1.1625173824992627
+energy engineering,Business Admin-Undergrad,0.12507850973520715
+energy engineering,Economics,0.26972997455031705
+energy engineering,Chemistry,0.14029480721986023
+energy engineering,Psychology,0.1410931580598069
+energy engineering,Sociology,0.30286804753359536
+energy engineering,Physical Education,0.15414984198356235
+energy engineering,History,0.35362295072696526
+energy engineering,Physics,1.7155209203362862
+energy engineering,Political Science,0.0
+energy engineering,"Env Sci, Policy, & Mgmt",1.553852700633342
+energy engineering,Statistics,0.6064483905693864
+energy engineering,Molecular & Cell Biology,0.0
+energy engineering,English,0.0
+energy engineering,Music,0.2794341738947801
+energy engineering,Anthropology,0.30152228212126175
+energy engineering,Biology,0.0
+energy engineering,Integrative Biology,0.0
+energy engineering,Electrical Engineering,10.760547846627976
+energy engineering,Public Health,0.0
+energy engineering,Nutritional Science & Tox,0.0
+energy engineering,Philosophy,0.0
+energy engineering,Mechanical Engineering,14.603826777433024
+energy engineering,Education,0.0
+development studies,Computer Science,0.063922452567877
+development studies,Mathematics,0.15661692514226178
+development studies,Business Admin-Undergrad,0.8846698761479757
+development studies,Economics,1.0901586471408646
+development studies,Chemistry,0.0
+development studies,Psychology,0.28512575691252645
+development studies,Sociology,0.7650573075718425
+development studies,Physical Education,0.7787778475211223
+development studies,History,2.679798923477784
+development studies,Physics,0.0
+development studies,Political Science,0.9704555894914582
+development studies,"Env Sci, Policy, & Mgmt",2.1588031661142915
+development studies,Statistics,0.2042551871014947
+development studies,Molecular & Cell Biology,0.0
+development studies,English,0.25807044043845745
+development studies,Music,0.5646898930790348
+development studies,Anthropology,3.046631392266916
+development studies,Biology,0.0
+development studies,Integrative Biology,0.0
+development studies,Electrical Engineering,0.0
+development studies,Public Health,0.0
+development studies,Nutritional Science & Tox,0.0
+development studies,Philosophy,0.8313590193575835
+development studies,Mechanical Engineering,0.0
+development studies,Education,1.9157935049019608
+landscape architecture,Computer Science,0.0
+landscape architecture,Mathematics,0.23615536356529523
+landscape architecture,Business Admin-Undergrad,0.0
+landscape architecture,Economics,0.0
+landscape architecture,Chemistry,0.28499678115866894
+landscape architecture,Psychology,0.14330928096126985
+landscape architecture,Sociology,0.15381256864271597
+landscape architecture,Physical Education,0.15657104369011046
+landscape architecture,History,0.35917723791115846
+landscape architecture,Physics,0.1936073639006629
+landscape architecture,Political Science,0.0
+landscape architecture,"Env Sci, Policy, & Mgmt",1.7755411094933347
+landscape architecture,Statistics,0.0
+landscape architecture,Molecular & Cell Biology,0.0
+landscape architecture,English,1.037686378307515
+landscape architecture,Music,0.28382319233291803
+landscape architecture,Anthropology,0.30625823419646486
+landscape architecture,Biology,0.6508748555785705
+landscape architecture,Integrative Biology,0.33103139773106266
+landscape architecture,Electrical Engineering,0.0
+landscape architecture,Public Health,0.0
+landscape architecture,Nutritional Science & Tox,0.36316145574711145
+landscape architecture,Philosophy,0.41785584219019906
+landscape architecture,Mechanical Engineering,0.0
+landscape architecture,Education,0.0
+astrophysics,Computer Science,0.522260038001378
+astrophysics,Mathematics,0.9596952008717317
+astrophysics,Business Admin-Undergrad,0.0
+astrophysics,Economics,0.0
+astrophysics,Chemistry,0.4343169032019077
+astrophysics,Psychology,0.1455961311893752
+astrophysics,Sociology,0.312534049050625
+astrophysics,Physical Education,0.9544171067492901
+astrophysics,History,0.36490878957995354
+astrophysics,Physics,13.768779017829058
+astrophysics,Political Science,0.19822071615144676
+astrophysics,"Env Sci, Policy, & Mgmt",0.0
+astrophysics,Statistics,0.625803126438622
+astrophysics,Molecular & Cell Biology,0.8452715672226878
+astrophysics,English,0.0
+astrophysics,Music,0.8650568574827766
+astrophysics,Anthropology,0.0
+astrophysics,Biology,0.3306305782327313
+astrophysics,Integrative Biology,0.0
+astrophysics,Electrical Engineering,1.0094517805830885
+astrophysics,Public Health,0.3375082310523873
+astrophysics,Nutritional Science & Tox,0.0
+astrophysics,Philosophy,0.0
+astrophysics,Mechanical Engineering,0.0
+astrophysics,Education,0.4891387672090113
+forestry and natural resources,Computer Science,0.06743467523644167
+forestry and natural resources,Mathematics,1.3217780055962314
+forestry and natural resources,Business Admin-Undergrad,0.26665088888604604
+forestry and natural resources,Economics,0.1437571842383558
+forestry and natural resources,Chemistry,1.345905128603714
+forestry and natural resources,Psychology,0.0
+forestry and natural resources,Sociology,0.16141868467449863
+forestry and natural resources,Physical Education,0.6572542713145296
+forestry and natural resources,History,0.376938749675996
+forestry and natural resources,Physics,0.0
+forestry and natural resources,Political Science,0.2047554650355604
+forestry and natural resources,"Env Sci, Policy, & Mgmt",19.254540126941453
+forestry and natural resources,Statistics,0.6464339987387965
+forestry and natural resources,Molecular & Cell Biology,0.0
+forestry and natural resources,English,0.0
+forestry and natural resources,Music,0.5957168102811796
+forestry and natural resources,Anthropology,1.2856114886049403
+forestry and natural resources,Biology,1.0245914622157166
+forestry and natural resources,Integrative Biology,0.3474010822342471
+forestry and natural resources,Electrical Engineering,0.0
+forestry and natural resources,Public Health,0.0
+forestry and natural resources,Nutritional Science & Tox,0.0
+forestry and natural resources,Philosophy,0.0
+forestry and natural resources,Mechanical Engineering,0.0
+forestry and natural resources,Education,1.0105284421460894
+french,Computer Science,0.0
+french,Mathematics,0.08792529130793643
+french,Business Admin-Undergrad,0.5676077400849167
+french,Economics,0.45901416721720617
+french,Chemistry,0.47749460702899793
+french,Psychology,0.16007060037194468
+french,Sociology,0.6872093710119006
+french,Physical Education,0.8744172323044179
+french,History,0.40118627158497816
+french,Physics,0.4325030000587908
+french,Political Science,1.3075612153148066
+french,"Env Sci, Policy, & Mgmt",0.4407126080743689
+french,Statistics,0.9173566297891692
+french,Molecular & Cell Biology,2.787913239260795
+french,English,0.5795266030898694
+french,Music,0.0
+french,Anthropology,1.368311642842685
+french,Biology,0.7270005696813272
+french,Integrative Biology,0.3697485202727074
+french,Electrical Engineering,0.0
+french,Public Health,2.2263700855385546
+french,Nutritional Science & Tox,0.40563647981110107
+french,Philosophy,0.0
+french,Mechanical Engineering,0.0
+french,Education,1.075533195734434
+nst toxicology,Computer Science,0.14524391589387436
+nst toxicology,Mathematics,0.17793165459949267
+nst toxicology,Business Admin-Undergrad,0.14358124786171708
+nst toxicology,Economics,0.3096308583595355
+nst toxicology,Chemistry,0.8052423846347007
+nst toxicology,Psychology,0.8098246350178265
+nst toxicology,Sociology,0.347671013145074
+nst toxicology,Physical Education,1.415624584369756
+nst toxicology,History,0.20296701905630551
+nst toxicology,Physics,1.9692962044097013
+nst toxicology,Political Science,0.2205058854229112
+nst toxicology,"Env Sci, Policy, & Mgmt",1.56074849664207
+nst toxicology,Statistics,0.46410646063298205
+nst toxicology,Molecular & Cell Biology,1.8806041968978144
+nst toxicology,English,0.0
+nst toxicology,Music,0.32077059015140436
+nst toxicology,Anthropology,0.0
+nst toxicology,Biology,0.735604126718976
+nst toxicology,Integrative Biology,2.2447454544366736
+nst toxicology,Electrical Engineering,0.0
+nst toxicology,Public Health,2.2527176605153425
+nst toxicology,Nutritional Science & Tox,28.730583806738935
+nst toxicology,Philosophy,0.0
+nst toxicology,Mechanical Engineering,0.0
+nst toxicology,Education,1.08826139923425
+comparative literature,Computer Science,0.0
+comparative literature,Mathematics,0.09397015508535707
+comparative literature,Business Admin-Undergrad,0.0
+comparative literature,Economics,0.1635237970711297
+comparative literature,Chemistry,0.3402149075081611
+comparative literature,Psychology,0.6843018165900635
+comparative literature,Sociology,0.1836137538172422
+comparative literature,Physical Education,0.560720050215208
+comparative literature,History,0.8575356555128909
+comparative literature,Physics,0.0
+comparative literature,Political Science,1.1645467073897497
+comparative literature,"Env Sci, Policy, & Mgmt",0.4710115998794818
+comparative literature,Statistics,0.24510622452179368
+comparative literature,Molecular & Cell Biology,0.0
+comparative literature,English,7.432428684627575
+comparative literature,Music,0.0
+comparative literature,Anthropology,0.0
+comparative literature,Biology,0.7769818588469185
+comparative literature,Integrative Biology,0.0
+comparative literature,Electrical Engineering,0.0
+comparative literature,Public Health,0.0
+comparative literature,Nutritional Science & Tox,0.0
+comparative literature,Philosophy,0.4988154116145501
+comparative literature,Mechanical Engineering,0.0
+comparative literature,Education,0.5747380514705883
+gender and womens studies,Computer Science,0.0
+gender and womens studies,Mathematics,0.0
+gender and womens studies,Business Admin-Undergrad,0.0
+gender and womens studies,Economics,0.16664845561389016
+gender and womens studies,Chemistry,0.0
+gender and womens studies,Psychology,0.6973776474803195
+gender and womens studies,Sociology,1.6841006719543232
+gender and womens studies,Physical Education,0.9523907434653215
+gender and womens studies,History,0.8739216871468951
+gender and womens studies,Physics,0.4710701465608486
+gender and womens studies,Political Science,0.23735983844886618
+gender and womens studies,"Env Sci, Policy, & Mgmt",0.4800118215332299
+gender and womens studies,Statistics,0.2497897829521464
+gender and womens studies,Molecular & Cell Biology,1.012172322534174
+gender and womens studies,English,2.209214471014566
+gender and womens studies,Music,0.690576174975635
+gender and womens studies,Anthropology,0.0
+gender and womens studies,Biology,0.7918286459586431
+gender and womens studies,Integrative Biology,2.013598629510604
+gender and womens studies,Electrical Engineering,0.0
+gender and womens studies,Public Health,0.8082999673611314
+gender and womens studies,Nutritional Science & Tox,0.4418078856541292
+gender and womens studies,Philosophy,1.5250407488852487
+gender and womens studies,Mechanical Engineering,0.0
+gender and womens studies,Education,2.342881228924691
+spanish languages and literature,Computer Science,0.0
+spanish languages and literature,Mathematics,0.3068413227276965
+spanish languages and literature,Business Admin-Undergrad,0.330139195763676
+spanish languages and literature,Economics,0.3559701704949762
+spanish languages and literature,Chemistry,0.18515097007246858
+spanish languages and literature,Psychology,0.0
+spanish languages and literature,Sociology,0.5995551145052805
+spanish languages and literature,Physical Education,0.0
+spanish languages and literature,History,1.1667151775685591
+spanish languages and literature,Physics,0.0
+spanish languages and literature,Political Science,0.2535067662345033
+spanish languages and literature,"Env Sci, Policy, & Mgmt",0.25633284347182683
+spanish languages and literature,Statistics,0.533564570387578
+spanish languages and literature,Molecular & Cell Biology,0.5405137912852561
+spanish languages and literature,English,0.0
+spanish languages and literature,Music,0.3687770730312064
+spanish languages and literature,Anthropology,1.1937820965617303
+spanish languages and literature,Biology,0.0
+spanish languages and literature,Integrative Biology,1.2903468768700606
+spanish languages and literature,Electrical Engineering,0.0
+spanish languages and literature,Public Health,2.1582158992465583
+spanish languages and literature,Nutritional Science & Tox,0.9437256877237862
+spanish languages and literature,Philosophy,0.0
+spanish languages and literature,Mechanical Engineering,0.0
+spanish languages and literature,Education,1.2511304521808724
+engineering math and statistics,Computer Science,2.8322563599305504
+engineering math and statistics,Mathematics,3.67995012921678
+engineering math and statistics,Business Admin-Undergrad,0.0
+engineering math and statistics,Economics,0.18296368903063465
+engineering math and statistics,Chemistry,0.19033001818638381
+engineering math and statistics,Psychology,0.3828261910993362
+engineering math and statistics,Sociology,0.20544196231299824
+engineering math and statistics,Physical Education,1.0456317952731153
+engineering math and statistics,History,1.1993505671508964
+engineering math and statistics,Physics,2.32735005975692
+engineering math and statistics,Political Science,0.0
+engineering math and statistics,"Env Sci, Policy, & Mgmt",0.0
+engineering math and statistics,Statistics,4.113670901065069
+engineering math and statistics,Molecular & Cell Biology,0.27781652908717713
+engineering math and statistics,English,0.3465001717775093
+engineering math and statistics,Music,0.3790925156334779
+engineering math and statistics,Anthropology,0.0
+engineering math and statistics,Biology,0.8693503315769717
+engineering math and statistics,Integrative Biology,0.0
+engineering math and statistics,Electrical Engineering,3.9813342954465876
+engineering math and statistics,Public Health,0.0
+engineering math and statistics,Nutritional Science & Tox,0.0
+engineering math and statistics,Philosophy,0.0
+engineering math and statistics,Mechanical Engineering,0.0
+engineering math and statistics,Education,0.6430635540929659
+operational research and management science,Computer Science,1.1947276090562498
+operational research and management science,Mathematics,0.7983305210791396
+operational research and management science,Business Admin-Undergrad,1.288419339219302
+operational research and management science,Economics,3.00999555670752
+operational research and management science,Chemistry,0.0
+operational research and management science,Psychology,0.4844614630726113
+operational research and management science,Sociology,0.0
+operational research and management science,Physical Education,0.7939398941100291
+operational research and management science,History,0.6071048888586837
+operational research and management science,Physics,0.0
+operational research and management science,Political Science,0.0
+operational research and management science,"Env Sci, Policy, & Mgmt",0.0
+operational research and management science,Statistics,3.470530612697963
+operational research and management science,Molecular & Cell Biology,0.0
+operational research and management science,English,0.0
+operational research and management science,Music,1.4392096389978941
+operational research and management science,Anthropology,0.0
+operational research and management science,Biology,0.0
+operational research and management science,Integrative Biology,0.0
+operational research and management science,Electrical Engineering,1.1196279336260806
+operational research and management science,Public Health,0.561518118919016
+operational research and management science,Nutritional Science & Tox,0.6138392747583918
+operational research and management science,Philosophy,2.118861925442337
+operational research and management science,Mechanical Engineering,0.0
+operational research and management science,Education,0.0
+chicano studies,Computer Science,0.0
+chicano studies,Mathematics,0.0
+chicano studies,Business Admin-Undergrad,0.0
+chicano studies,Economics,0.0
+chicano studies,Chemistry,0.0
+chicano studies,Psychology,0.2631930063807937
+chicano studies,Sociology,0.5649653963607453
+chicano studies,Physical Education,0.0
+chicano studies,History,0.0
+chicano studies,Physics,0.0
+chicano studies,Political Science,1.0749661914366921
+chicano studies,"Env Sci, Policy, & Mgmt",0.7246332305838182
+chicano studies,Statistics,0.0
+chicano studies,Molecular & Cell Biology,0.0
+chicano studies,English,0.0
+chicano studies,Music,0.0
+chicano studies,Anthropology,0.0
+chicano studies,Biology,0.0
+chicano studies,Integrative Biology,0.0
+chicano studies,Electrical Engineering,0.0
+chicano studies,Public Health,0.0
+chicano studies,Nutritional Science & Tox,0.0
+chicano studies,Philosophy,0.0
+chicano studies,Mechanical Engineering,0.0
+chicano studies,Education,5.305274321266969
+hispanic languages linguistics and bilingualism,Computer Science,0.0
+hispanic languages linguistics and bilingualism,Mathematics,0.613682645455393
+hispanic languages linguistics and bilingualism,Business Admin-Undergrad,0.247604396822757
+hispanic languages linguistics and bilingualism,Economics,0.0
+hispanic languages linguistics and bilingualism,Chemistry,0.0
+hispanic languages linguistics and bilingualism,Psychology,0.5586137278286232
+hispanic languages linguistics and bilingualism,Sociology,0.0
+hispanic languages linguistics and bilingualism,Physical Education,0.305153768824603
+hispanic languages linguistics and bilingualism,History,0.7000291065411353
+hispanic languages linguistics and bilingualism,Physics,0.7546736021434002
+hispanic languages linguistics and bilingualism,Political Science,1.140780448055265
+hispanic languages linguistics and bilingualism,"Env Sci, Policy, & Mgmt",1.1534977956232206
+hispanic languages linguistics and bilingualism,Statistics,0.800346855581367
+hispanic languages linguistics and bilingualism,Molecular & Cell Biology,0.8107706869278842
+hispanic languages linguistics and bilingualism,English,1.0112147870241597
+hispanic languages linguistics and bilingualism,Music,0.5531656095468096
+hispanic languages linguistics and bilingualism,Anthropology,0.0
+hispanic languages linguistics and bilingualism,Biology,0.0
+hispanic languages linguistics and bilingualism,Integrative Biology,0.6451734384350303
+hispanic languages linguistics and bilingualism,Electrical Engineering,0.0
+hispanic languages linguistics and bilingualism,Public Health,1.9423943093219025
+hispanic languages linguistics and bilingualism,Nutritional Science & Tox,0.0
+hispanic languages linguistics and bilingualism,Philosophy,0.0
+hispanic languages linguistics and bilingualism,Mechanical Engineering,0.0
+hispanic languages linguistics and bilingualism,Education,2.815043517406963
+environmental earth science,Computer Science,0.0
+environmental earth science,Mathematics,0.16705805348507924
+environmental earth science,Business Admin-Undergrad,0.2696136765403354
+environmental earth science,Economics,0.0
+environmental earth science,Chemistry,1.2096530044734617
+environmental earth science,Psychology,0.30413414070669487
+environmental earth science,Sociology,0.0
+environmental earth science,Physical Education,0.3322785482756789
+environmental earth science,History,0.0
+environmental earth science,Physics,2.4652671003351077
+environmental earth science,Political Science,0.0
+environmental earth science,"Env Sci, Policy, & Mgmt",4.186769776706504
+environmental earth science,Statistics,0.0
+environmental earth science,Molecular & Cell Biology,0.0
+environmental earth science,English,0.0
+environmental earth science,Music,0.6023358859509705
+environmental earth science,Anthropology,2.5997921214011015
+environmental earth science,Biology,2.7626021647890435
+environmental earth science,Integrative Biology,3.51261094259072
+environmental earth science,Electrical Engineering,0.0
+environmental earth science,Public Health,0.7050171937538757
+environmental earth science,Nutritional Science & Tox,2.312127934923276
+environmental earth science,Philosophy,0.0
+environmental earth science,Mechanical Engineering,0.0
+environmental earth science,Education,0.0
+geophysics,Computer Science,0.2854211835588926
+geophysics,Mathematics,0.0
+geophysics,Business Admin-Undergrad,0.564307695084423
+geophysics,Economics,0.0
+geophysics,Chemistry,0.0
+geophysics,Psychology,0.0
+geophysics,Sociology,0.0
+geophysics,Physical Education,1.043200093423643
+geophysics,History,0.0
+geophysics,Physics,3.0099191341300733
+geophysics,Political Science,0.0
+geophysics,"Env Sci, Policy, & Mgmt",0.8763006509385708
+geophysics,Statistics,0.0
+geophysics,Molecular & Cell Biology,0.0
+geophysics,English,0.0
+geophysics,Music,0.0
+geophysics,Anthropology,0.0
+geophysics,Biology,0.0
+geophysics,Integrative Biology,0.0
+geophysics,Electrical Engineering,1.4711390290668267
+geophysics,Public Health,0.0
+geophysics,Nutritional Science & Tox,0.0
+geophysics,Philosophy,0.0
+geophysics,Mechanical Engineering,0.0
+geophysics,Education,1.0692800957592339

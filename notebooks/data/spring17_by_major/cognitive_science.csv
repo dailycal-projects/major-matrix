@@ -1,0 +1,565 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,115,1,Clg of Letters & Science,cognitive science
+1,2017 Spring,1,African American Studies,156AC,1,Clg of Letters & Science,cognitive science
+2,2017 Spring,1,African American Studies,198,2,Clg of Letters & Science,cognitive science
+3,2017 Spring,2,American Studies,102,1,Clg of Letters & Science,cognitive science
+4,2017 Spring,1,American Studies,C112B,1,Clg of Letters & Science,cognitive science
+5,2017 Spring,1,American Studies,C172,1,Clg of Letters & Science,cognitive science
+6,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,cognitive science
+7,2017 Spring,1,Anthropology,112,1,Clg of Letters & Science,cognitive science
+8,2017 Spring,1,Anthropology,121AC,1,Clg of Letters & Science,cognitive science
+9,2017 Spring,25,Anthropology,160AC,1,Clg of Letters & Science,cognitive science
+10,2017 Spring,3,Anthropology,170,1,Clg of Letters & Science,cognitive science
+11,2017 Spring,1,Anthropology,174AC,1,Clg of Letters & Science,cognitive science
+12,2017 Spring,2,Anthropology,189,4,Clg of Letters & Science,cognitive science
+13,2017 Spring,1,Anthropology,198,20,Clg of Letters & Science,cognitive science
+14,2017 Spring,1,Architecture,198,4,Clg of Environmental Design,cognitive science
+15,2017 Spring,1,Armenian,126,1,Clg of Letters & Science,cognitive science
+16,2017 Spring,2,Art Practice,12,1,Clg of Letters & Science,cognitive science
+17,2017 Spring,1,Art Practice,13,2,Clg of Letters & Science,cognitive science
+18,2017 Spring,1,Art Practice,14,1,Clg of Letters & Science,cognitive science
+19,2017 Spring,1,Art Practice,100,1,Clg of Letters & Science,cognitive science
+20,2017 Spring,1,Art Practice,102,2,Clg of Letters & Science,cognitive science
+21,2017 Spring,1,Art Practice,119,1,Clg of Letters & Science,cognitive science
+22,2017 Spring,1,Art Practice,138,1,Clg of Letters & Science,cognitive science
+23,2017 Spring,2,Art Practice,185,2,Clg of Letters & Science,cognitive science
+24,2017 Spring,1,Asian American Studies,R2B,1,Clg of Letters & Science,cognitive science
+25,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,cognitive science
+26,2017 Spring,1,Asian American Studies,151AC,1,Clg of Letters & Science,cognitive science
+27,2017 Spring,1,Asian American Studies,176,1,Clg of Letters & Science,cognitive science
+28,2017 Spring,1,Asian American Studies,197,9,Clg of Letters & Science,cognitive science
+29,2017 Spring,1,Asian American Studies,197,11,Clg of Letters & Science,cognitive science
+30,2017 Spring,3,Asian American Studies,197,13,Clg of Letters & Science,cognitive science
+31,2017 Spring,1,Asian American Studies,198,2,Clg of Letters & Science,cognitive science
+32,2017 Spring,1,Asian American Studies,198,4,Clg of Letters & Science,cognitive science
+33,2017 Spring,3,Asian Studies,198,3,Clg of Letters & Science,cognitive science
+34,2017 Spring,1,Asian Studies,198,4,Clg of Letters & Science,cognitive science
+35,2017 Spring,1,Astronomy,98,2,Clg of Letters & Science,cognitive science
+36,2017 Spring,1,Astronomy,198,2,Clg of Letters & Science,cognitive science
+37,2017 Spring,2,Biology,1A,1,Clg of Letters & Science,cognitive science
+38,2017 Spring,1,Biology,1A,2,Clg of Letters & Science,cognitive science
+39,2017 Spring,3,Biology,1AL,1,Clg of Letters & Science,cognitive science
+40,2017 Spring,1,Biology,1B,2,Clg of Letters & Science,cognitive science
+41,2017 Spring,2,Buddhist Studies,C128,1,Clg of Letters & Science,cognitive science
+42,2017 Spring,1,Business Admin-Undergrad,C5,1,Haas School of Business,cognitive science
+43,2017 Spring,1,Business Admin-Undergrad,96,2,Haas School of Business,cognitive science
+44,2017 Spring,1,Business Admin-Undergrad,96,3,Haas School of Business,cognitive science
+45,2017 Spring,1,Business Admin-Undergrad,101B,3,Haas School of Business,cognitive science
+46,2017 Spring,3,Business Admin-Undergrad,102A,1,Haas School of Business,cognitive science
+47,2017 Spring,1,Business Admin-Undergrad,102B,2,Haas School of Business,cognitive science
+48,2017 Spring,1,Business Admin-Undergrad,103,1,Haas School of Business,cognitive science
+49,2017 Spring,1,Business Admin-Undergrad,104,1,Haas School of Business,cognitive science
+50,2017 Spring,1,Business Admin-Undergrad,105,1,Haas School of Business,cognitive science
+51,2017 Spring,1,Business Admin-Undergrad,120AB,2,Haas School of Business,cognitive science
+52,2017 Spring,1,Business Admin-Undergrad,137,1,Haas School of Business,cognitive science
+53,2017 Spring,2,Business Admin-Undergrad,152,2,Haas School of Business,cognitive science
+54,2017 Spring,1,Business Admin-Undergrad,155,1,Haas School of Business,cognitive science
+55,2017 Spring,1,Business Admin-Undergrad,157,1,Haas School of Business,cognitive science
+56,2017 Spring,1,Business Admin-Undergrad,160,1,Haas School of Business,cognitive science
+57,2017 Spring,1,Business Admin-Undergrad,167,1,Haas School of Business,cognitive science
+58,2017 Spring,1,Business Admin-Undergrad,179,1,Haas School of Business,cognitive science
+59,2017 Spring,2,Business Admin-Undergrad,190T,1,Haas School of Business,cognitive science
+60,2017 Spring,3,Business Admin-Undergrad,190T,2,Haas School of Business,cognitive science
+61,2017 Spring,4,Business Admin-Undergrad,190T,3,Haas School of Business,cognitive science
+62,2017 Spring,1,Business Admin-Undergrad,196,3,Haas School of Business,cognitive science
+63,2017 Spring,1,Catalan,101,1,Clg of Letters & Science,cognitive science
+64,2017 Spring,1,Celtic Studies,173,1,Clg of Letters & Science,cognitive science
+65,2017 Spring,2,Chemistry,1A,1,Clg of Chemistry,cognitive science
+66,2017 Spring,2,Chemistry,1AL,2,Clg of Chemistry,cognitive science
+67,2017 Spring,2,Chemistry,3A,1,Clg of Chemistry,cognitive science
+68,2017 Spring,1,Chemistry,3A,2,Clg of Chemistry,cognitive science
+69,2017 Spring,3,Chemistry,3AL,1,Clg of Chemistry,cognitive science
+70,2017 Spring,1,Chemistry,3B,2,Clg of Chemistry,cognitive science
+71,2017 Spring,1,Chemistry,3BL,1,Clg of Chemistry,cognitive science
+72,2017 Spring,1,Chemistry,C191,1,Clg of Chemistry,cognitive science
+73,2017 Spring,1,Chicano Studies,150B,1,Clg of Letters & Science,cognitive science
+74,2017 Spring,1,Chinese,1B,3,Clg of Letters & Science,cognitive science
+75,2017 Spring,1,Chinese,10X,1,Clg of Letters & Science,cognitive science
+76,2017 Spring,1,Chinese,10Y,2,Clg of Letters & Science,cognitive science
+77,2017 Spring,1,Chinese,100B,1,Clg of Letters & Science,cognitive science
+78,2017 Spring,1,City & Regional Planning,116,1,Clg of Environmental Design,cognitive science
+79,2017 Spring,1,City & Regional Planning,120,1,Clg of Environmental Design,cognitive science
+80,2017 Spring,1,Civil & Environmental Eng,98,5,Clg of Engineering,cognitive science
+81,2017 Spring,1,Civil & Environmental Eng,198,2,Clg of Engineering,cognitive science
+82,2017 Spring,1,Classics,28,1,Clg of Letters & Science,cognitive science
+83,2017 Spring,1,Classics,180,1,Clg of Letters & Science,cognitive science
+84,2017 Spring,2,Cognitive Science,1,1,Clg of Letters & Science,cognitive science
+85,2017 Spring,4,Cognitive Science,88,1,Clg of Letters & Science,cognitive science
+86,2017 Spring,90,Cognitive Science,C126,1,Clg of Letters & Science,cognitive science
+87,2017 Spring,39,Cognitive Science,C127,1,Clg of Letters & Science,cognitive science
+88,2017 Spring,8,Cognitive Science,C140,1,Clg of Letters & Science,cognitive science
+89,2017 Spring,24,Cognitive Science,C142,1,Clg of Letters & Science,cognitive science
+90,2017 Spring,1,Cognitive Science,198,1,Clg of Letters & Science,cognitive science
+91,2017 Spring,1,Cognitive Science,198,3,Clg of Letters & Science,cognitive science
+92,2017 Spring,3,Cognitive Science,198,4,Clg of Letters & Science,cognitive science
+93,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,cognitive science
+94,2017 Spring,3,Cognitive Science,198,6,Clg of Letters & Science,cognitive science
+95,2017 Spring,2,Cognitive Science,198,7,Clg of Letters & Science,cognitive science
+96,2017 Spring,1,College Writing Programs,130,1,Clg of Letters & Science,cognitive science
+97,2017 Spring,1,College Writing Programs,151,1,Clg of Letters & Science,cognitive science
+98,2017 Spring,1,Comparative Literature,112B,1,Clg of Letters & Science,cognitive science
+99,2017 Spring,13,Computer Science,C8,1,Clg of Engineering,cognitive science
+100,2017 Spring,1,Computer Science,9A,1,Clg of Engineering,cognitive science
+101,2017 Spring,1,Computer Science,9C,1,Clg of Engineering,cognitive science
+102,2017 Spring,2,Computer Science,9F,1,Clg of Engineering,cognitive science
+103,2017 Spring,1,Computer Science,10,1,Clg of Engineering,cognitive science
+104,2017 Spring,3,Computer Science,61A,1,Clg of Engineering,cognitive science
+105,2017 Spring,13,Computer Science,61B,1,Clg of Engineering,cognitive science
+106,2017 Spring,10,Computer Science,61C,1,Clg of Engineering,cognitive science
+107,2017 Spring,11,Computer Science,70,1,Clg of Engineering,cognitive science
+108,2017 Spring,1,Computer Science,97,203,Clg of Engineering,cognitive science
+109,2017 Spring,1,Computer Science,97,213,Clg of Engineering,cognitive science
+110,2017 Spring,4,Computer Science,C100,1,Clg of Engineering,cognitive science
+111,2017 Spring,1,Computer Science,160,1,Clg of Engineering,cognitive science
+112,2017 Spring,13,Computer Science,160,2,Clg of Engineering,cognitive science
+113,2017 Spring,15,Computer Science,160,3,Clg of Engineering,cognitive science
+114,2017 Spring,18,Computer Science,161,1,Clg of Engineering,cognitive science
+115,2017 Spring,11,Computer Science,162,1,Clg of Engineering,cognitive science
+116,2017 Spring,1,Computer Science,164,1,Clg of Engineering,cognitive science
+117,2017 Spring,23,Computer Science,170,1,Clg of Engineering,cognitive science
+118,2017 Spring,1,Computer Science,174,1,Clg of Engineering,cognitive science
+119,2017 Spring,6,Computer Science,184,1,Clg of Engineering,cognitive science
+120,2017 Spring,28,Computer Science,186,1,Clg of Engineering,cognitive science
+121,2017 Spring,18,Computer Science,188,1,Clg of Engineering,cognitive science
+122,2017 Spring,12,Computer Science,189,1,Clg of Engineering,cognitive science
+123,2017 Spring,2,Computer Science,C191,1,Clg of Engineering,cognitive science
+124,2017 Spring,1,Computer Science,194,131,Clg of Engineering,cognitive science
+125,2017 Spring,2,Computer Science,195,1,Clg of Engineering,cognitive science
+126,2017 Spring,1,Computer Science,197,203,Clg of Engineering,cognitive science
+127,2017 Spring,2,Computer Science,197,211,Clg of Engineering,cognitive science
+128,2017 Spring,9,Computer Science,197,214,Clg of Engineering,cognitive science
+129,2017 Spring,2,Computer Science,197,215,Clg of Engineering,cognitive science
+130,2017 Spring,4,Computer Science,198,1,Clg of Engineering,cognitive science
+131,2017 Spring,1,Computer Science,198,3,Clg of Engineering,cognitive science
+132,2017 Spring,11,Computer Science,198,56,Clg of Engineering,cognitive science
+133,2017 Spring,1,Computer Science,198,58,Clg of Engineering,cognitive science
+134,2017 Spring,2,Computer Science,198,64,Clg of Engineering,cognitive science
+135,2017 Spring,1,Computer Science,198,68,Clg of Engineering,cognitive science
+136,2017 Spring,1,Computer Science,198,74,Clg of Engineering,cognitive science
+137,2017 Spring,3,Computer Science,198,75,Clg of Engineering,cognitive science
+138,2017 Spring,1,Computer Science,198,153,Clg of Engineering,cognitive science
+139,2017 Spring,1,Computer Science,198,303,Clg of Engineering,cognitive science
+140,2017 Spring,1,Computer Science,198,642,Clg of Engineering,cognitive science
+141,2017 Spring,2,Demography,C175,1,Clg of Letters & Science,cognitive science
+142,2017 Spring,2,Design Innovation,21,1,Clg of Engineering,cognitive science
+143,2017 Spring,2,Design Innovation,22,1,Clg of Engineering,cognitive science
+144,2017 Spring,12,Design Innovation,98,1,Clg of Engineering,cognitive science
+145,2017 Spring,1,Design Innovation,190,1,Clg of Engineering,cognitive science
+146,2017 Spring,9,Design Innovation,190,2,Clg of Engineering,cognitive science
+147,2017 Spring,1,Design Innovation,190,3,Clg of Engineering,cognitive science
+148,2017 Spring,8,Design Innovation,198,2,Clg of Engineering,cognitive science
+149,2017 Spring,2,Development Studies,C10,1,Clg of Letters & Science,cognitive science
+150,2017 Spring,1,Development Studies,C100,1,Clg of Letters & Science,cognitive science
+151,2017 Spring,1,Dutch,2,1,Clg of Letters & Science,cognitive science
+152,2017 Spring,1,East Asian Languages,R1B,2,Clg of Letters & Science,cognitive science
+153,2017 Spring,1,Economics,100A,1,Clg of Letters & Science,cognitive science
+154,2017 Spring,2,Economics,138,1,Clg of Letters & Science,cognitive science
+155,2017 Spring,1,Economics,140,1,Clg of Letters & Science,cognitive science
+156,2017 Spring,1,Economics,C142,1,Clg of Letters & Science,cognitive science
+157,2017 Spring,1,Economics,C175,1,Clg of Letters & Science,cognitive science
+158,2017 Spring,1,Economics,C181,1,Clg of Letters & Science,cognitive science
+159,2017 Spring,1,Education,40AC,1,Grad School of Education,cognitive science
+160,2017 Spring,3,Education,114A,1,Grad School of Education,cognitive science
+161,2017 Spring,1,Education,131AC,1,Grad School of Education,cognitive science
+162,2017 Spring,7,Education,W140A,1,Grad School of Education,cognitive science
+163,2017 Spring,3,Education,140AC,2,Grad School of Education,cognitive science
+164,2017 Spring,3,Education,140AC,3,Grad School of Education,cognitive science
+165,2017 Spring,3,Education,182AC,1,Grad School of Education,cognitive science
+166,2017 Spring,1,Education,183,1,Grad School of Education,cognitive science
+167,2017 Spring,2,Education,188B,1,Grad School of Education,cognitive science
+168,2017 Spring,1,Education,190AC,1,Grad School of Education,cognitive science
+169,2017 Spring,1,Education,190AC,2,Grad School of Education,cognitive science
+170,2017 Spring,1,Education,197,55,Grad School of Education,cognitive science
+171,2017 Spring,1,Education,198,5,Grad School of Education,cognitive science
+172,2017 Spring,2,Education,198,9,Grad School of Education,cognitive science
+173,2017 Spring,7,Electrical Engineering,16A,1,Clg of Engineering,cognitive science
+174,2017 Spring,1,Electrical Engineering,122,1,Clg of Engineering,cognitive science
+175,2017 Spring,1,Electrical Engineering,C128,1,Clg of Engineering,cognitive science
+176,2017 Spring,2,Electrical Engineering,192,1,Clg of Engineering,cognitive science
+177,2017 Spring,1,Electrical Engineering,198,1,Clg of Engineering,cognitive science
+178,2017 Spring,1,Engineering,26,1,Clg of Engineering,cognitive science
+179,2017 Spring,1,English,80K,1,Clg of Letters & Science,cognitive science
+180,2017 Spring,1,English,143A,2,Clg of Letters & Science,cognitive science
+181,2017 Spring,1,English,143N,1,Clg of Letters & Science,cognitive science
+182,2017 Spring,2,English,180Z,1,Clg of Letters & Science,cognitive science
+183,2017 Spring,4,English,198,2,Clg of Letters & Science,cognitive science
+184,2017 Spring,3,English,198,6,Clg of Letters & Science,cognitive science
+185,2017 Spring,1,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,cognitive science
+186,2017 Spring,2,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,cognitive science
+187,2017 Spring,1,"Env Sci, Policy, & Mgmt",88A,1,Clg of Natural Resources,cognitive science
+188,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,2,Clg of Natural Resources,cognitive science
+189,2017 Spring,2,"Env Sci, Policy, & Mgmt",98,3,Clg of Natural Resources,cognitive science
+190,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,7,Clg of Natural Resources,cognitive science
+191,2017 Spring,1,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,cognitive science
+192,2017 Spring,1,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,cognitive science
+193,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,4,Clg of Natural Resources,cognitive science
+194,2017 Spring,1,Environmental Design,1,1,Clg of Environmental Design,cognitive science
+195,2017 Spring,6,Environmental Design,100,1,Clg of Environmental Design,cognitive science
+196,2017 Spring,1,Environmental Design,101A,1,Clg of Environmental Design,cognitive science
+197,2017 Spring,1,Ethnic Studies,122AC,1,Clg of Letters & Science,cognitive science
+198,2017 Spring,1,Ethnic Studies,197,10,Clg of Letters & Science,cognitive science
+199,2017 Spring,1,Ethnic Studies,197,11,Clg of Letters & Science,cognitive science
+200,2017 Spring,1,Ethnic Studies,198,1,Clg of Letters & Science,cognitive science
+201,2017 Spring,1,Filipino,1B,1,Clg of Letters & Science,cognitive science
+202,2017 Spring,1,Filipino,1B,3,Clg of Letters & Science,cognitive science
+203,2017 Spring,1,Filipino,100B,1,Clg of Letters & Science,cognitive science
+204,2017 Spring,1,Film,108,3,Clg of Letters & Science,cognitive science
+205,2017 Spring,1,Film,128,1,Clg of Letters & Science,cognitive science
+206,2017 Spring,1,Film,140,2,Clg of Letters & Science,cognitive science
+207,2017 Spring,1,French,2,4,Clg of Letters & Science,cognitive science
+208,2017 Spring,1,French,3,1,Clg of Letters & Science,cognitive science
+209,2017 Spring,1,French,3,3,Clg of Letters & Science,cognitive science
+210,2017 Spring,1,French,14,1,Clg of Letters & Science,cognitive science
+211,2017 Spring,1,French,180D,1,Clg of Letters & Science,cognitive science
+212,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,cognitive science
+213,2017 Spring,1,Gender & Womens Studies,104,1,Clg of Letters & Science,cognitive science
+214,2017 Spring,1,Gender & Womens Studies,198,2,Clg of Letters & Science,cognitive science
+215,2017 Spring,8,Geography,20,1,Clg of Letters & Science,cognitive science
+216,2017 Spring,1,Geography,70AC,1,Clg of Letters & Science,cognitive science
+217,2017 Spring,1,Geography,88,1,Clg of Letters & Science,cognitive science
+218,2017 Spring,1,Geography,C112,1,Clg of Letters & Science,cognitive science
+219,2017 Spring,4,Geography,130,1,Clg of Letters & Science,cognitive science
+220,2017 Spring,1,Geography,164,1,Clg of Letters & Science,cognitive science
+221,2017 Spring,1,Geography,170,3,Clg of Letters & Science,cognitive science
+222,2017 Spring,1,Geography,187,1,Clg of Letters & Science,cognitive science
+223,2017 Spring,1,German,1,4,Clg of Letters & Science,cognitive science
+224,2017 Spring,1,German,3,1,Clg of Letters & Science,cognitive science
+225,2017 Spring,1,Global Poverty & Practice,150,1,Clg of Letters & Science,cognitive science
+226,2017 Spring,2,History,7B,1,Clg of Letters & Science,cognitive science
+227,2017 Spring,1,History,100AC,2,Clg of Letters & Science,cognitive science
+228,2017 Spring,1,History,100S,2,Clg of Letters & Science,cognitive science
+229,2017 Spring,1,History,124B,1,Clg of Letters & Science,cognitive science
+230,2017 Spring,2,History,136B,1,Clg of Letters & Science,cognitive science
+231,2017 Spring,1,History,136C,1,Clg of Letters & Science,cognitive science
+232,2017 Spring,1,History,162B,1,Clg of Letters & Science,cognitive science
+233,2017 Spring,1,History,167D,1,Clg of Letters & Science,cognitive science
+234,2017 Spring,1,History,171C,1,Clg of Letters & Science,cognitive science
+235,2017 Spring,1,History,178,1,Clg of Letters & Science,cognitive science
+236,2017 Spring,3,History,180T,1,Clg of Letters & Science,cognitive science
+237,2017 Spring,1,History,182A,1,Clg of Letters & Science,cognitive science
+238,2017 Spring,1,History,198BC,1,Clg of Letters & Science,cognitive science
+239,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,cognitive science
+240,2017 Spring,1,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,cognitive science
+241,2017 Spring,7,Industrial Eng & Ops Rsch,170,1,Clg of Engineering,cognitive science
+242,2017 Spring,3,Industrial Eng & Ops Rsch,171,1,Clg of Engineering,cognitive science
+243,2017 Spring,1,Industrial Eng & Ops Rsch,185,1,Clg of Engineering,cognitive science
+244,2017 Spring,4,Industrial Eng & Ops Rsch,185,2,Clg of Engineering,cognitive science
+245,2017 Spring,8,Industrial Eng & Ops Rsch,186,1,Clg of Engineering,cognitive science
+246,2017 Spring,1,Industrial Eng & Ops Rsch,190C,1,Clg of Engineering,cognitive science
+247,2017 Spring,13,Industrial Eng & Ops Rsch,191,1,Clg of Engineering,cognitive science
+248,2017 Spring,1,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,cognitive science
+249,2017 Spring,4,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,cognitive science
+250,2017 Spring,1,Industrial Eng & Ops Rsch,198,3,Clg of Engineering,cognitive science
+251,2017 Spring,35,Information,103,1,School of Information,cognitive science
+252,2017 Spring,8,Information,C167,1,School of Information,cognitive science
+253,2017 Spring,7,Information,190,2,School of Information,cognitive science
+254,2017 Spring,1,Integrative Biology,31,1,Clg of Letters & Science,cognitive science
+255,2017 Spring,2,Integrative Biology,C32,1,Clg of Letters & Science,cognitive science
+256,2017 Spring,1,Integrative Biology,104LF,1,Clg of Letters & Science,cognitive science
+257,2017 Spring,2,Integrative Biology,C143B,1,Clg of Letters & Science,cognitive science
+258,2017 Spring,1,Integrative Biology,169,1,Clg of Letters & Science,cognitive science
+259,2017 Spring,2,Integrative Biology,198,2,Clg of Letters & Science,cognitive science
+260,2017 Spring,1,Integrative Biology,198,5,Clg of Letters & Science,cognitive science
+261,2017 Spring,3,Integrative Biology,198,6,Clg of Letters & Science,cognitive science
+262,2017 Spring,1,Interdisciplinary Studies,100C,1,Clg of Letters & Science,cognitive science
+263,2017 Spring,1,Interdisciplinary Studies,100G,1,Clg of Letters & Science,cognitive science
+264,2017 Spring,2,Interdisciplinary Studies,198,5,Clg of Letters & Science,cognitive science
+265,2017 Spring,1,International & Area Stds,106,1,Clg of Letters & Science,cognitive science
+266,2017 Spring,1,Italian Studies,1,2,Clg of Letters & Science,cognitive science
+267,2017 Spring,1,Italian Studies,R5B,3,Clg of Letters & Science,cognitive science
+268,2017 Spring,2,Japanese,7B,1,Clg of Letters & Science,cognitive science
+269,2017 Spring,1,Japanese,80,1,Clg of Letters & Science,cognitive science
+270,2017 Spring,1,Japanese,100X,1,Clg of Letters & Science,cognitive science
+271,2017 Spring,1,Japanese,C141,1,Clg of Letters & Science,cognitive science
+272,2017 Spring,1,Japanese,155,1,Clg of Letters & Science,cognitive science
+273,2017 Spring,1,Japanese,161,1,Clg of Letters & Science,cognitive science
+274,2017 Spring,1,Jewish Studies,101,1,Clg of Letters & Science,cognitive science
+275,2017 Spring,1,Korean,1B,1,Clg of Letters & Science,cognitive science
+276,2017 Spring,1,Korean,1B,4,Clg of Letters & Science,cognitive science
+277,2017 Spring,1,Korean,10BX,1,Clg of Letters & Science,cognitive science
+278,2017 Spring,1,Korean,100BX,1,Clg of Letters & Science,cognitive science
+279,2017 Spring,1,Korean,102,1,Clg of Letters & Science,cognitive science
+280,2017 Spring,1,Landscape Arch & Env Plan,130,1,Clg of Environmental Design,cognitive science
+281,2017 Spring,1,Landscape Arch & Env Plan,140,1,Clg of Environmental Design,cognitive science
+282,2017 Spring,1,Legal Studies,102,1,School of Law,cognitive science
+283,2017 Spring,1,Legal Studies,159,1,School of Law,cognitive science
+284,2017 Spring,1,Legal Studies,H195C,1,School of Law,cognitive science
+285,2017 Spring,2,Letters & Science,22,1,Clg of Letters & Science,cognitive science
+286,2017 Spring,1,Letters & Science,25,1,Clg of Letters & Science,cognitive science
+287,2017 Spring,2,Letters & Science,C30Z,1,Clg of Letters & Science,cognitive science
+288,2017 Spring,3,Letters & Science,70A,1,Clg of Letters & Science,cognitive science
+289,2017 Spring,2,Letters & Science,70C,1,Clg of Letters & Science,cognitive science
+290,2017 Spring,2,Letters & Science,C70T,1,Clg of Letters & Science,cognitive science
+291,2017 Spring,1,Letters & Science,88,5,Clg of Letters & Science,cognitive science
+292,2017 Spring,5,Letters & Science,124,1,Clg of Letters & Science,cognitive science
+293,2017 Spring,2,Letters & Science,160B,1,Clg of Letters & Science,cognitive science
+294,2017 Spring,7,Letters & Science,C180U,1,Clg of Letters & Science,cognitive science
+295,2017 Spring,1,Linguistics,1B,1,Clg of Letters & Science,cognitive science
+296,2017 Spring,1,Linguistics,5,1,Clg of Letters & Science,cognitive science
+297,2017 Spring,2,Linguistics,47,1,Clg of Letters & Science,cognitive science
+298,2017 Spring,41,Linguistics,100,1,Clg of Letters & Science,cognitive science
+299,2017 Spring,5,Linguistics,108,1,Clg of Letters & Science,cognitive science
+300,2017 Spring,1,Linguistics,113,1,Clg of Letters & Science,cognitive science
+301,2017 Spring,12,Linguistics,115,1,Clg of Letters & Science,cognitive science
+302,2017 Spring,13,Linguistics,120,1,Clg of Letters & Science,cognitive science
+303,2017 Spring,8,Linguistics,121,1,Clg of Letters & Science,cognitive science
+304,2017 Spring,13,Linguistics,C142,1,Clg of Letters & Science,cognitive science
+305,2017 Spring,23,Linguistics,C146,1,Clg of Letters & Science,cognitive science
+306,2017 Spring,4,Linguistics,C160,1,Clg of Letters & Science,cognitive science
+307,2017 Spring,6,Linguistics,197,1,Clg of Letters & Science,cognitive science
+308,2017 Spring,1,Mathematics,1B,1,Clg of Letters & Science,cognitive science
+309,2017 Spring,1,Mathematics,1B,2,Clg of Letters & Science,cognitive science
+310,2017 Spring,1,Mathematics,16B,2,Clg of Letters & Science,cognitive science
+311,2017 Spring,1,Mathematics,53,1,Clg of Letters & Science,cognitive science
+312,2017 Spring,1,Mathematics,54,2,Clg of Letters & Science,cognitive science
+313,2017 Spring,29,Mathematics,55,1,Clg of Letters & Science,cognitive science
+314,2017 Spring,1,Mathematics,104,2,Clg of Letters & Science,cognitive science
+315,2017 Spring,1,Mathematics,104,5,Clg of Letters & Science,cognitive science
+316,2017 Spring,2,Mathematics,110,1,Clg of Letters & Science,cognitive science
+317,2017 Spring,2,Mathematics,128A,1,Clg of Letters & Science,cognitive science
+318,2017 Spring,1,Mathematics,136,1,Clg of Letters & Science,cognitive science
+319,2017 Spring,1,Mathematics,151,1,Clg of Letters & Science,cognitive science
+320,2017 Spring,1,Mathematics,170,1,Clg of Letters & Science,cognitive science
+321,2017 Spring,1,Mathematics,185,4,Clg of Letters & Science,cognitive science
+322,2017 Spring,1,Mathematics,185,5,Clg of Letters & Science,cognitive science
+323,2017 Spring,1,Mathematics,198,1,Clg of Letters & Science,cognitive science
+324,2017 Spring,5,Mathematics,198,2,Clg of Letters & Science,cognitive science
+325,2017 Spring,5,Mechanical Engineering,110,1,Clg of Engineering,cognitive science
+326,2017 Spring,1,Mechanical Engineering,191K,1,Clg of Engineering,cognitive science
+327,2017 Spring,1,Mechanical Engineering,198,50,Clg of Engineering,cognitive science
+328,2017 Spring,2,Media Studies,101,1,Clg of Letters & Science,cognitive science
+329,2017 Spring,1,Media Studies,160,1,Clg of Letters & Science,cognitive science
+330,2017 Spring,1,Media Studies,170,1,Clg of Letters & Science,cognitive science
+331,2017 Spring,1,Media Studies,H195,1,Clg of Letters & Science,cognitive science
+332,2017 Spring,1,Middle Eastern Studies,130,1,Clg of Letters & Science,cognitive science
+333,2017 Spring,1,Molecular & Cell Biology,15,1,Clg of Letters & Science,cognitive science
+334,2017 Spring,3,Molecular & Cell Biology,50,1,Clg of Letters & Science,cognitive science
+335,2017 Spring,31,Molecular & Cell Biology,C61,1,Clg of Letters & Science,cognitive science
+336,2017 Spring,9,Molecular & Cell Biology,102,1,Clg of Letters & Science,cognitive science
+337,2017 Spring,2,Molecular & Cell Biology,104,1,Clg of Letters & Science,cognitive science
+338,2017 Spring,1,Molecular & Cell Biology,118,1,Clg of Letters & Science,cognitive science
+339,2017 Spring,2,Molecular & Cell Biology,140,1,Clg of Letters & Science,cognitive science
+340,2017 Spring,3,Molecular & Cell Biology,160L,1,Clg of Letters & Science,cognitive science
+341,2017 Spring,7,Molecular & Cell Biology,161,1,Clg of Letters & Science,cognitive science
+342,2017 Spring,5,Molecular & Cell Biology,165,1,Clg of Letters & Science,cognitive science
+343,2017 Spring,1,Molecular & Cell Biology,180,1,Clg of Letters & Science,cognitive science
+344,2017 Spring,1,Molecular & Cell Biology,198,2,Clg of Letters & Science,cognitive science
+345,2017 Spring,2,Molecular & Cell Biology,198,5,Clg of Letters & Science,cognitive science
+346,2017 Spring,1,Music,20A,3,Clg of Letters & Science,cognitive science
+347,2017 Spring,3,Music,26AC,1,Clg of Letters & Science,cognitive science
+348,2017 Spring,2,Music,29,1,Clg of Letters & Science,cognitive science
+349,2017 Spring,1,Music,44,1,Clg of Letters & Science,cognitive science
+350,2017 Spring,1,Music,44,2,Clg of Letters & Science,cognitive science
+351,2017 Spring,1,Music,44,3,Clg of Letters & Science,cognitive science
+352,2017 Spring,1,Music,116B,1,Clg of Letters & Science,cognitive science
+353,2017 Spring,1,Music,128,1,Clg of Letters & Science,cognitive science
+354,2017 Spring,2,Music,139,1,Clg of Letters & Science,cognitive science
+355,2017 Spring,2,Music,140,3,Clg of Letters & Science,cognitive science
+356,2017 Spring,2,Music,141,1,Clg of Letters & Science,cognitive science
+357,2017 Spring,3,Music,142,2,Clg of Letters & Science,cognitive science
+358,2017 Spring,3,Music,143,1,Clg of Letters & Science,cognitive science
+359,2017 Spring,1,Music,144,1,Clg of Letters & Science,cognitive science
+360,2017 Spring,1,Music,145,1,Clg of Letters & Science,cognitive science
+361,2017 Spring,3,Music,146B,1,Clg of Letters & Science,cognitive science
+362,2017 Spring,1,Music,153B,1,Clg of Letters & Science,cognitive science
+363,2017 Spring,1,Music,158B,1,Clg of Letters & Science,cognitive science
+364,2017 Spring,1,Music,159,1,Clg of Letters & Science,cognitive science
+365,2017 Spring,2,Music,198,1,Clg of Letters & Science,cognitive science
+366,2017 Spring,3,Music,198,2,Clg of Letters & Science,cognitive science
+367,2017 Spring,1,Music,198,3,Clg of Letters & Science,cognitive science
+368,2017 Spring,1,Near Eastern Studies,165,1,Clg of Letters & Science,cognitive science
+369,2017 Spring,1,Near Eastern Studies,180,1,Clg of Letters & Science,cognitive science
+370,2017 Spring,1,New Media,190,4,Clg of Engineering,cognitive science
+371,2017 Spring,1,New Media,198,1,Clg of Engineering,cognitive science
+372,2017 Spring,3,Nutritional Science & Tox,10,1,Clg of Natural Resources,cognitive science
+373,2017 Spring,2,Nutritional Science & Tox,98,1,Clg of Natural Resources,cognitive science
+374,2017 Spring,2,Nutritional Science & Tox,104,1,Clg of Natural Resources,cognitive science
+375,2017 Spring,2,Nutritional Science & Tox,198,2,Clg of Natural Resources,cognitive science
+376,2017 Spring,1,Peace & Conflict Studies,10,1,Clg of Letters & Science,cognitive science
+377,2017 Spring,1,Peace & Conflict Studies,135,1,Clg of Letters & Science,cognitive science
+378,2017 Spring,1,Peace & Conflict Studies,151,1,Clg of Letters & Science,cognitive science
+379,2017 Spring,1,Persian,11B,1,Clg of Letters & Science,cognitive science
+380,2017 Spring,1,Persian,20B,1,Clg of Letters & Science,cognitive science
+381,2017 Spring,22,Philosophy,3,1,Clg of Letters & Science,cognitive science
+382,2017 Spring,12,Philosophy,12A,1,Clg of Letters & Science,cognitive science
+383,2017 Spring,9,Philosophy,25B,1,Clg of Letters & Science,cognitive science
+384,2017 Spring,2,Philosophy,107,1,Clg of Letters & Science,cognitive science
+385,2017 Spring,1,Philosophy,110,1,Clg of Letters & Science,cognitive science
+386,2017 Spring,12,Philosophy,122,1,Clg of Letters & Science,cognitive science
+387,2017 Spring,19,Philosophy,132,1,Clg of Letters & Science,cognitive science
+388,2017 Spring,11,Philosophy,133,1,Clg of Letters & Science,cognitive science
+389,2017 Spring,1,Philosophy,186B,1,Clg of Letters & Science,cognitive science
+390,2017 Spring,1,Philosophy,198BC,1,Clg of Letters & Science,cognitive science
+391,2017 Spring,1,Philosophy,198BC,4,Clg of Letters & Science,cognitive science
+392,2017 Spring,3,Physical Education,1,3,Clg of Letters & Science,cognitive science
+393,2017 Spring,1,Physical Education,1,6,Clg of Letters & Science,cognitive science
+394,2017 Spring,3,Physical Education,1,7,Clg of Letters & Science,cognitive science
+395,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,cognitive science
+396,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,cognitive science
+397,2017 Spring,1,Physical Education,1,10,Clg of Letters & Science,cognitive science
+398,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,cognitive science
+399,2017 Spring,1,Physical Education,1,13,Clg of Letters & Science,cognitive science
+400,2017 Spring,1,Physical Education,1,15,Clg of Letters & Science,cognitive science
+401,2017 Spring,3,Physical Education,1,16,Clg of Letters & Science,cognitive science
+402,2017 Spring,2,Physical Education,1,21,Clg of Letters & Science,cognitive science
+403,2017 Spring,2,Physical Education,1,23,Clg of Letters & Science,cognitive science
+404,2017 Spring,3,Physical Education,1,24,Clg of Letters & Science,cognitive science
+405,2017 Spring,3,Physical Education,1,26,Clg of Letters & Science,cognitive science
+406,2017 Spring,2,Physical Education,1,27,Clg of Letters & Science,cognitive science
+407,2017 Spring,1,Physical Education,1,31,Clg of Letters & Science,cognitive science
+408,2017 Spring,1,Physical Education,1,40,Clg of Letters & Science,cognitive science
+409,2017 Spring,1,Physical Education,1,44,Clg of Letters & Science,cognitive science
+410,2017 Spring,4,Physical Education,2,2,Clg of Letters & Science,cognitive science
+411,2017 Spring,2,Physical Education,2,8,Clg of Letters & Science,cognitive science
+412,2017 Spring,3,Physical Education,2,9,Clg of Letters & Science,cognitive science
+413,2017 Spring,1,Physical Education,2,11,Clg of Letters & Science,cognitive science
+414,2017 Spring,1,Physical Education,2,12,Clg of Letters & Science,cognitive science
+415,2017 Spring,2,Physical Education,2,14,Clg of Letters & Science,cognitive science
+416,2017 Spring,1,Physical Education,2,15,Clg of Letters & Science,cognitive science
+417,2017 Spring,1,Physical Education,2,16,Clg of Letters & Science,cognitive science
+418,2017 Spring,1,Physical Education,2,19,Clg of Letters & Science,cognitive science
+419,2017 Spring,1,Physical Education,3,4,Clg of Letters & Science,cognitive science
+420,2017 Spring,3,Physical Education,3,7,Clg of Letters & Science,cognitive science
+421,2017 Spring,2,Physical Education,3,8,Clg of Letters & Science,cognitive science
+422,2017 Spring,1,Physical Education,3,9,Clg of Letters & Science,cognitive science
+423,2017 Spring,2,Physical Education,3,12,Clg of Letters & Science,cognitive science
+424,2017 Spring,1,Physical Education,4,3,Clg of Letters & Science,cognitive science
+425,2017 Spring,2,Physical Education,4,7,Clg of Letters & Science,cognitive science
+426,2017 Spring,2,Physical Education,11,17,Clg of Letters & Science,cognitive science
+427,2017 Spring,2,Physical Education,11,18,Clg of Letters & Science,cognitive science
+428,2017 Spring,1,Physical Education,11,21,Clg of Letters & Science,cognitive science
+429,2017 Spring,1,Physical Education,11,22,Clg of Letters & Science,cognitive science
+430,2017 Spring,1,Physical Education,11,23,Clg of Letters & Science,cognitive science
+431,2017 Spring,1,Physical Education,11,24,Clg of Letters & Science,cognitive science
+432,2017 Spring,4,Physical Education,11,25,Clg of Letters & Science,cognitive science
+433,2017 Spring,4,Physical Education,11,26,Clg of Letters & Science,cognitive science
+434,2017 Spring,1,Physical Education,98,1,Clg of Letters & Science,cognitive science
+435,2017 Spring,1,Physical Education,198,1,Clg of Letters & Science,cognitive science
+436,2017 Spring,2,Physics,8A,1,Clg of Letters & Science,cognitive science
+437,2017 Spring,1,Physics,8A,2,Clg of Letters & Science,cognitive science
+438,2017 Spring,1,Physics,8B,1,Clg of Letters & Science,cognitive science
+439,2017 Spring,2,Physics,8B,2,Clg of Letters & Science,cognitive science
+440,2017 Spring,1,Physics,111A,1,Clg of Letters & Science,cognitive science
+441,2017 Spring,1,Physics,C191,1,Clg of Letters & Science,cognitive science
+442,2017 Spring,1,Political Economy,100,1,Clg of Letters & Science,cognitive science
+443,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,cognitive science
+444,2017 Spring,2,Political Science,1,1,Clg of Letters & Science,cognitive science
+445,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,cognitive science
+446,2017 Spring,1,Political Science,149E,1,Clg of Letters & Science,cognitive science
+447,2017 Spring,4,Political Science,161,1,Clg of Letters & Science,cognitive science
+448,2017 Spring,1,Political Science,171,1,Clg of Letters & Science,cognitive science
+449,2017 Spring,2,Political Science,179,1,Clg of Letters & Science,cognitive science
+450,2017 Spring,2,Psychology,1,1,Clg of Letters & Science,cognitive science
+451,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,cognitive science
+452,2017 Spring,1,Psychology,10,1,Clg of Letters & Science,cognitive science
+453,2017 Spring,6,Psychology,C61,1,Clg of Letters & Science,cognitive science
+454,2017 Spring,4,Psychology,101,1,Clg of Letters & Science,cognitive science
+455,2017 Spring,18,Psychology,110,1,Clg of Letters & Science,cognitive science
+456,2017 Spring,31,Psychology,114,1,Clg of Letters & Science,cognitive science
+457,2017 Spring,3,Psychology,C116,1,Clg of Letters & Science,cognitive science
+458,2017 Spring,21,Psychology,C126,1,Clg of Letters & Science,cognitive science
+459,2017 Spring,4,Psychology,C127,1,Clg of Letters & Science,cognitive science
+460,2017 Spring,11,Psychology,128,1,Clg of Letters & Science,cognitive science
+461,2017 Spring,11,Psychology,130,1,Clg of Letters & Science,cognitive science
+462,2017 Spring,13,Psychology,131,1,Clg of Letters & Science,cognitive science
+463,2017 Spring,100,Psychology,133,1,Clg of Letters & Science,cognitive science
+464,2017 Spring,28,Psychology,C143,1,Clg of Letters & Science,cognitive science
+465,2017 Spring,11,Psychology,150,1,Clg of Letters & Science,cognitive science
+466,2017 Spring,9,Psychology,156,1,Clg of Letters & Science,cognitive science
+467,2017 Spring,57,Psychology,160,1,Clg of Letters & Science,cognitive science
+468,2017 Spring,26,Psychology,166AC,1,Clg of Letters & Science,cognitive science
+469,2017 Spring,2,Psychology,169,1,Clg of Letters & Science,cognitive science
+470,2017 Spring,1,Psychology,198,2,Clg of Letters & Science,cognitive science
+471,2017 Spring,2,Psychology,198,3,Clg of Letters & Science,cognitive science
+472,2017 Spring,3,Psychology,198,5,Clg of Letters & Science,cognitive science
+473,2017 Spring,1,Psychology,198,10,Clg of Letters & Science,cognitive science
+474,2017 Spring,1,Psychology,198,12,Clg of Letters & Science,cognitive science
+475,2017 Spring,1,Public Health,104B,1,School of Public Health,cognitive science
+476,2017 Spring,1,Public Health,116,1,School of Public Health,cognitive science
+477,2017 Spring,2,Public Health,142,1,School of Public Health,cognitive science
+478,2017 Spring,2,Public Health,150D,1,School of Public Health,cognitive science
+479,2017 Spring,1,Public Health,150E,1,School of Public Health,cognitive science
+480,2017 Spring,1,Public Health,196,6,School of Public Health,cognitive science
+481,2017 Spring,2,Public Health,196,7,School of Public Health,cognitive science
+482,2017 Spring,1,Public Health,198,4,School of Public Health,cognitive science
+483,2017 Spring,1,Public Health,198,5,School of Public Health,cognitive science
+484,2017 Spring,1,Public Health,198,16,School of Public Health,cognitive science
+485,2017 Spring,1,Public Health,198,53,School of Public Health,cognitive science
+486,2017 Spring,1,Public Policy,101,1,Goldman School Public Policy,cognitive science
+487,2017 Spring,8,Public Policy,C103,1,Goldman School Public Policy,cognitive science
+488,2017 Spring,1,Public Policy,190,11,Goldman School Public Policy,cognitive science
+489,2017 Spring,1,Rhetoric,107,1,Clg of Letters & Science,cognitive science
+490,2017 Spring,1,Rhetoric,129,1,Clg of Letters & Science,cognitive science
+491,2017 Spring,1,Rhetoric,151,1,Clg of Letters & Science,cognitive science
+492,2017 Spring,1,Rhetoric,158,1,Clg of Letters & Science,cognitive science
+493,2017 Spring,1,Rhetoric,168,1,Clg of Letters & Science,cognitive science
+494,2017 Spring,1,Russian,2,1,Clg of Letters & Science,cognitive science
+495,2017 Spring,1,Russian,3,1,Clg of Letters & Science,cognitive science
+496,2017 Spring,1,Scandinavian,60,1,Clg of Letters & Science,cognitive science
+497,2017 Spring,1,Scandinavian,160,1,Clg of Letters & Science,cognitive science
+498,2017 Spring,1,Social Welfare,185AC,1,School of Social Welfare,cognitive science
+499,2017 Spring,2,Social Welfare,198,1,School of Social Welfare,cognitive science
+500,2017 Spring,1,Social Welfare,198,2,School of Social Welfare,cognitive science
+501,2017 Spring,3,Sociology,1,1,Clg of Letters & Science,cognitive science
+502,2017 Spring,1,Sociology,3AC,1,Clg of Letters & Science,cognitive science
+503,2017 Spring,1,Sociology,5,1,Clg of Letters & Science,cognitive science
+504,2017 Spring,1,Sociology,110,1,Clg of Letters & Science,cognitive science
+505,2017 Spring,1,Sociology,111AC,1,Clg of Letters & Science,cognitive science
+506,2017 Spring,1,Sociology,113AC,1,Clg of Letters & Science,cognitive science
+507,2017 Spring,2,Sociology,C115,1,Clg of Letters & Science,cognitive science
+508,2017 Spring,2,Sociology,117,1,Clg of Letters & Science,cognitive science
+509,2017 Spring,3,Sociology,121,1,Clg of Letters & Science,cognitive science
+510,2017 Spring,2,Sociology,133,1,Clg of Letters & Science,cognitive science
+511,2017 Spring,3,Sociology,139F,1,Clg of Letters & Science,cognitive science
+512,2017 Spring,10,Sociology,150,1,Clg of Letters & Science,cognitive science
+513,2017 Spring,7,Sociology,C167,1,Clg of Letters & Science,cognitive science
+514,2017 Spring,1,Sociology,198,2,Clg of Letters & Science,cognitive science
+515,2017 Spring,1,Sociology,198,4,Clg of Letters & Science,cognitive science
+516,2017 Spring,1,Sociology,198,5,Clg of Letters & Science,cognitive science
+517,2017 Spring,3,Sociology,198,6,Clg of Letters & Science,cognitive science
+518,2017 Spring,4,Sociology,198,9,Clg of Letters & Science,cognitive science
+519,2017 Spring,1,Sociology,198,11,Clg of Letters & Science,cognitive science
+520,2017 Spring,1,South Asian,110,1,Clg of Letters & Science,cognitive science
+521,2017 Spring,1,Southeast Asian,10B,1,Clg of Letters & Science,cognitive science
+522,2017 Spring,1,Spanish,1,1,Clg of Letters & Science,cognitive science
+523,2017 Spring,1,Spanish,1,5,Clg of Letters & Science,cognitive science
+524,2017 Spring,1,Spanish,2,2,Clg of Letters & Science,cognitive science
+525,2017 Spring,1,Spanish,2,3,Clg of Letters & Science,cognitive science
+526,2017 Spring,1,Spanish,2,5,Clg of Letters & Science,cognitive science
+527,2017 Spring,1,Spanish,3,1,Clg of Letters & Science,cognitive science
+528,2017 Spring,1,Spanish,3,3,Clg of Letters & Science,cognitive science
+529,2017 Spring,2,Spanish,25,4,Clg of Letters & Science,cognitive science
+530,2017 Spring,1,Spanish,135,5,Clg of Letters & Science,cognitive science
+531,2017 Spring,1,Spanish,198,1,Clg of Letters & Science,cognitive science
+532,2017 Spring,1,Statistics,2,1,Clg of Letters & Science,cognitive science
+533,2017 Spring,2,Statistics,28,1,Clg of Letters & Science,cognitive science
+534,2017 Spring,2,Statistics,C100,1,Clg of Letters & Science,cognitive science
+535,2017 Spring,6,Statistics,133,1,Clg of Letters & Science,cognitive science
+536,2017 Spring,1,Statistics,133,2,Clg of Letters & Science,cognitive science
+537,2017 Spring,1,Statistics,134,1,Clg of Letters & Science,cognitive science
+538,2017 Spring,1,Statistics,140,1,Clg of Letters & Science,cognitive science
+539,2017 Spring,1,Statistics,152,1,Clg of Letters & Science,cognitive science
+540,2017 Spring,1,Statistics,155,1,Clg of Letters & Science,cognitive science
+541,2017 Spring,1,Statistics,198,2,Clg of Letters & Science,cognitive science
+542,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,cognitive science
+543,2017 Spring,1,Tamil,101B,1,Clg of Letters & Science,cognitive science
+544,2017 Spring,1,Theater Dance & Perf Stds,10,2,Clg of Letters & Science,cognitive science
+545,2017 Spring,3,Theater Dance & Perf Stds,100,1,Clg of Letters & Science,cognitive science
+546,2017 Spring,2,Theater Dance & Perf Stds,100,2,Clg of Letters & Science,cognitive science
+547,2017 Spring,1,Theater Dance & Perf Stds,112,1,Clg of Letters & Science,cognitive science
+548,2017 Spring,1,Theater Dance & Perf Stds,125,1,Clg of Letters & Science,cognitive science
+549,2017 Spring,1,Theater Dance & Perf Stds,125,2,Clg of Letters & Science,cognitive science
+550,2017 Spring,1,Theater Dance & Perf Stds,141,2,Clg of Letters & Science,cognitive science
+551,2017 Spring,2,Theater Dance & Perf Stds,174B,1,Clg of Letters & Science,cognitive science
+552,2017 Spring,2,Theater Dance & Perf Stds,177,1,Clg of Letters & Science,cognitive science
+553,2017 Spring,2,Theater Dance & Perf Stds,177,101,Clg of Letters & Science,cognitive science
+554,2017 Spring,1,Theater Dance & Perf Stds,181,1,Clg of Letters & Science,cognitive science
+555,2017 Spring,1,UGIS-UG Interdisc Studies,82,1,Clg of Letters & Science,cognitive science
+556,2017 Spring,1,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,cognitive science
+557,2017 Spring,2,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,cognitive science
+558,2017 Spring,6,UGIS-UG Interdisc Studies,120,1,Clg of Letters & Science,cognitive science
+559,2017 Spring,1,UGIS-UG Interdisc Studies,162I,1,Clg of Letters & Science,cognitive science
+560,2017 Spring,2,UGIS-UG Interdisc Studies,187,1,Clg of Letters & Science,cognitive science
+561,2017 Spring,2,UGIS-UG Interdisc Studies,188,1,Clg of Letters & Science,cognitive science
+562,2017 Spring,1,UGIS-UG Interdisc Studies,C196A,1,Clg of Letters & Science,cognitive science
+563,2017 Spring,1,UGIS-UG Interdisc Studies,C196B,1,Clg of Letters & Science,cognitive science

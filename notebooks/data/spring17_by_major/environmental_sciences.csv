@@ -1,0 +1,451 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,2,African American Studies,156AC,1,Clg of Letters & Science,environmental sciences
+1,2017 Spring,4,Anthropology,1,1,Clg of Letters & Science,environmental sciences
+2,2017 Spring,3,Anthropology,3AC,1,Clg of Letters & Science,environmental sciences
+3,2017 Spring,1,Anthropology,112,1,Clg of Letters & Science,environmental sciences
+4,2017 Spring,2,Anthropology,137,1,Clg of Letters & Science,environmental sciences
+5,2017 Spring,1,Anthropology,160AC,1,Clg of Letters & Science,environmental sciences
+6,2017 Spring,1,Anthropology,162,1,Clg of Letters & Science,environmental sciences
+7,2017 Spring,1,Arabic,1B,7,Clg of Letters & Science,environmental sciences
+8,2017 Spring,1,Architecture,98,1,Clg of Environmental Design,environmental sciences
+9,2017 Spring,1,Architecture,98,6,Clg of Environmental Design,environmental sciences
+10,2017 Spring,2,Architecture,140,1,Clg of Environmental Design,environmental sciences
+11,2017 Spring,1,Asian American Studies,R2B,1,Clg of Letters & Science,environmental sciences
+12,2017 Spring,2,Asian American Studies,R2B,2,Clg of Letters & Science,environmental sciences
+13,2017 Spring,1,Asian American Studies,20A,1,Clg of Letters & Science,environmental sciences
+14,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,environmental sciences
+15,2017 Spring,2,Asian American Studies,132AC,1,Clg of Letters & Science,environmental sciences
+16,2017 Spring,1,Asian American Studies,151AC,1,Clg of Letters & Science,environmental sciences
+17,2017 Spring,1,Asian American Studies,194B,1,Clg of Letters & Science,environmental sciences
+18,2017 Spring,1,Asian American Studies,197,12,Clg of Letters & Science,environmental sciences
+19,2017 Spring,1,Asian American Studies,197,13,Clg of Letters & Science,environmental sciences
+20,2017 Spring,1,Asian American Studies,198,4,Clg of Letters & Science,environmental sciences
+21,2017 Spring,1,Asian American Studies,198,6,Clg of Letters & Science,environmental sciences
+22,2017 Spring,9,Biology,1A,1,Clg of Letters & Science,environmental sciences
+23,2017 Spring,8,Biology,1A,2,Clg of Letters & Science,environmental sciences
+24,2017 Spring,12,Biology,1AL,1,Clg of Letters & Science,environmental sciences
+25,2017 Spring,5,Biology,1AL,2,Clg of Letters & Science,environmental sciences
+26,2017 Spring,12,Biology,1B,1,Clg of Letters & Science,environmental sciences
+27,2017 Spring,1,Biology,1B,2,Clg of Letters & Science,environmental sciences
+28,2017 Spring,2,Biology,1B,3,Clg of Letters & Science,environmental sciences
+29,2017 Spring,1,Burmese,1B,1,Clg of Letters & Science,environmental sciences
+30,2017 Spring,1,Business Admin-Undergrad,115,1,Haas School of Business,environmental sciences
+31,2017 Spring,2,Business Admin-Undergrad,196,2,Haas School of Business,environmental sciences
+32,2017 Spring,1,Business Admin-Undergrad,198,1,Haas School of Business,environmental sciences
+33,2017 Spring,12,Chemistry,1A,1,Clg of Chemistry,environmental sciences
+34,2017 Spring,11,Chemistry,1A,2,Clg of Chemistry,environmental sciences
+35,2017 Spring,12,Chemistry,1AL,1,Clg of Chemistry,environmental sciences
+36,2017 Spring,10,Chemistry,1AL,2,Clg of Chemistry,environmental sciences
+37,2017 Spring,4,Chemistry,1B,1,Clg of Chemistry,environmental sciences
+38,2017 Spring,5,Chemistry,3A,1,Clg of Chemistry,environmental sciences
+39,2017 Spring,15,Chemistry,3A,2,Clg of Chemistry,environmental sciences
+40,2017 Spring,9,Chemistry,3AL,1,Clg of Chemistry,environmental sciences
+41,2017 Spring,7,Chemistry,3AL,2,Clg of Chemistry,environmental sciences
+42,2017 Spring,2,Chemistry,3B,2,Clg of Chemistry,environmental sciences
+43,2017 Spring,2,Chemistry,3BL,1,Clg of Chemistry,environmental sciences
+44,2017 Spring,1,Chemistry,3BL,2,Clg of Chemistry,environmental sciences
+45,2017 Spring,2,Chemistry,4B,1,Clg of Chemistry,environmental sciences
+46,2017 Spring,1,Chemistry,98,3,Clg of Chemistry,environmental sciences
+47,2017 Spring,1,Chinese,7B,1,Clg of Letters & Science,environmental sciences
+48,2017 Spring,1,Chinese,110B,1,Clg of Letters & Science,environmental sciences
+49,2017 Spring,1,City & Regional Planning,198,1,Clg of Environmental Design,environmental sciences
+50,2017 Spring,1,Civil & Environmental Eng,11,1,Clg of Engineering,environmental sciences
+51,2017 Spring,1,Civil & Environmental Eng,93,1,Clg of Engineering,environmental sciences
+52,2017 Spring,1,Civil & Environmental Eng,103,1,Clg of Engineering,environmental sciences
+53,2017 Spring,1,Civil & Environmental Eng,107,1,Clg of Engineering,environmental sciences
+54,2017 Spring,2,Civil & Environmental Eng,110,1,Clg of Engineering,environmental sciences
+55,2017 Spring,1,Civil & Environmental Eng,112,1,Clg of Engineering,environmental sciences
+56,2017 Spring,3,Classics,10B,1,Clg of Letters & Science,environmental sciences
+57,2017 Spring,1,Classics,28,1,Clg of Letters & Science,environmental sciences
+58,2017 Spring,1,Cognitive Science,198,1,Clg of Letters & Science,environmental sciences
+59,2017 Spring,1,Cognitive Science,198,6,Clg of Letters & Science,environmental sciences
+60,2017 Spring,1,Cognitive Science,198,7,Clg of Letters & Science,environmental sciences
+61,2017 Spring,1,College Writing Programs,R1A,1,Clg of Letters & Science,environmental sciences
+62,2017 Spring,2,College Writing Programs,R4B,1,Clg of Letters & Science,environmental sciences
+63,2017 Spring,1,College Writing Programs,R4B,8,Clg of Letters & Science,environmental sciences
+64,2017 Spring,1,College Writing Programs,R4B,10,Clg of Letters & Science,environmental sciences
+65,2017 Spring,1,College Writing Programs,10A,4,Clg of Letters & Science,environmental sciences
+66,2017 Spring,2,Comparative Literature,R1A,1,Clg of Letters & Science,environmental sciences
+67,2017 Spring,1,Comparative Literature,R1B,1,Clg of Letters & Science,environmental sciences
+68,2017 Spring,1,Comparative Literature,R1B,2,Clg of Letters & Science,environmental sciences
+69,2017 Spring,1,Comparative Literature,R1B,11,Clg of Letters & Science,environmental sciences
+70,2017 Spring,1,Comparative Literature,R1B,22,Clg of Letters & Science,environmental sciences
+71,2017 Spring,1,Comparative Literature,60AC,1,Clg of Letters & Science,environmental sciences
+72,2017 Spring,1,Comparative Literature,198,3,Clg of Letters & Science,environmental sciences
+73,2017 Spring,6,Computer Science,C8,1,Clg of Engineering,environmental sciences
+74,2017 Spring,2,Computer Science,10,1,Clg of Engineering,environmental sciences
+75,2017 Spring,1,Computer Science,61A,1,Clg of Engineering,environmental sciences
+76,2017 Spring,2,Computer Science,61B,1,Clg of Engineering,environmental sciences
+77,2017 Spring,1,Computer Science,70,1,Clg of Engineering,environmental sciences
+78,2017 Spring,1,Computer Science,160,1,Clg of Engineering,environmental sciences
+79,2017 Spring,1,Computer Science,161,1,Clg of Engineering,environmental sciences
+80,2017 Spring,1,Computer Science,170,1,Clg of Engineering,environmental sciences
+81,2017 Spring,1,Computer Science,197,214,Clg of Engineering,environmental sciences
+82,2017 Spring,1,Computer Science,198,58,Clg of Engineering,environmental sciences
+83,2017 Spring,1,Design Innovation,21,1,Clg of Engineering,environmental sciences
+84,2017 Spring,1,Design Innovation,98,1,Clg of Engineering,environmental sciences
+85,2017 Spring,1,Design Innovation,198,1,Clg of Engineering,environmental sciences
+86,2017 Spring,1,Design Innovation,198,2,Clg of Engineering,environmental sciences
+87,2017 Spring,1,Development Studies,C10,1,Clg of Letters & Science,environmental sciences
+88,2017 Spring,6,Earth & Planetary Science,50,1,Clg of Letters & Science,environmental sciences
+89,2017 Spring,1,Earth & Planetary Science,103,1,Clg of Letters & Science,environmental sciences
+90,2017 Spring,1,Earth & Planetary Science,124,1,Clg of Letters & Science,environmental sciences
+91,2017 Spring,1,Earth & Planetary Science,150,1,Clg of Letters & Science,environmental sciences
+92,2017 Spring,4,Earth & Planetary Science,C180,1,Clg of Letters & Science,environmental sciences
+93,2017 Spring,1,East Asian Languages,R1B,1,Clg of Letters & Science,environmental sciences
+94,2017 Spring,2,Economics,1,1,Clg of Letters & Science,environmental sciences
+95,2017 Spring,2,Economics,2,1,Clg of Letters & Science,environmental sciences
+96,2017 Spring,7,Economics,C3,1,Clg of Letters & Science,environmental sciences
+97,2017 Spring,1,Economics,C175,1,Clg of Letters & Science,environmental sciences
+98,2017 Spring,1,Education,98,9,Grad School of Education,environmental sciences
+99,2017 Spring,2,Education,98,14,Grad School of Education,environmental sciences
+100,2017 Spring,1,Education,98,15,Grad School of Education,environmental sciences
+101,2017 Spring,1,Education,130,1,Grad School of Education,environmental sciences
+102,2017 Spring,2,Education,188F,1,Grad School of Education,environmental sciences
+103,2017 Spring,1,Education,190AC,1,Grad School of Education,environmental sciences
+104,2017 Spring,1,Education,197,10,Grad School of Education,environmental sciences
+105,2017 Spring,1,Education,198,9,Grad School of Education,environmental sciences
+106,2017 Spring,1,Education,198,42,Grad School of Education,environmental sciences
+107,2017 Spring,1,Electrical Engineering,16A,1,Clg of Engineering,environmental sciences
+108,2017 Spring,1,Electrical Engineering,198,1,Clg of Engineering,environmental sciences
+109,2017 Spring,2,Energy and Resources,98,1,Clg of Natural Resources,environmental sciences
+110,2017 Spring,36,Energy and Resources,102,1,Clg of Natural Resources,environmental sciences
+111,2017 Spring,2,Energy and Resources,190,1,Clg of Natural Resources,environmental sciences
+112,2017 Spring,1,Engineering,7,1,Clg of Engineering,environmental sciences
+113,2017 Spring,2,Engineering,157AC,1,Clg of Engineering,environmental sciences
+114,2017 Spring,1,Engineering,198,1,Clg of Engineering,environmental sciences
+115,2017 Spring,1,English,R1A,3,Clg of Letters & Science,environmental sciences
+116,2017 Spring,2,English,R1A,6,Clg of Letters & Science,environmental sciences
+117,2017 Spring,1,English,R1B,1,Clg of Letters & Science,environmental sciences
+118,2017 Spring,2,English,R1B,6,Clg of Letters & Science,environmental sciences
+119,2017 Spring,1,English,45C,2,Clg of Letters & Science,environmental sciences
+120,2017 Spring,2,English,80K,1,Clg of Letters & Science,environmental sciences
+121,2017 Spring,1,English,125E,1,Clg of Letters & Science,environmental sciences
+122,2017 Spring,1,English,198,7,Clg of Letters & Science,environmental sciences
+123,2017 Spring,11,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,environmental sciences
+124,2017 Spring,24,"Env Sci, Policy, & Mgmt",C11,1,Clg of Natural Resources,environmental sciences
+125,2017 Spring,5,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,environmental sciences
+126,2017 Spring,3,"Env Sci, Policy, & Mgmt",24,1,Clg of Natural Resources,environmental sciences
+127,2017 Spring,1,"Env Sci, Policy, & Mgmt",39,1,Clg of Natural Resources,environmental sciences
+128,2017 Spring,1,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,environmental sciences
+129,2017 Spring,22,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,environmental sciences
+130,2017 Spring,2,"Env Sci, Policy, & Mgmt",72,1,Clg of Natural Resources,environmental sciences
+131,2017 Spring,6,"Env Sci, Policy, & Mgmt",90,1,Clg of Natural Resources,environmental sciences
+132,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,5,Clg of Natural Resources,environmental sciences
+133,2017 Spring,2,"Env Sci, Policy, & Mgmt",98,6,Clg of Natural Resources,environmental sciences
+134,2017 Spring,4,"Env Sci, Policy, & Mgmt",98BC,1,Clg of Natural Resources,environmental sciences
+135,2017 Spring,1,"Env Sci, Policy, & Mgmt",98BC,2,Clg of Natural Resources,environmental sciences
+136,2017 Spring,1,"Env Sci, Policy, & Mgmt",98BC,3,Clg of Natural Resources,environmental sciences
+137,2017 Spring,2,"Env Sci, Policy, & Mgmt",98BC,4,Clg of Natural Resources,environmental sciences
+138,2017 Spring,2,"Env Sci, Policy, & Mgmt",98BC,5,Clg of Natural Resources,environmental sciences
+139,2017 Spring,3,"Env Sci, Policy, & Mgmt",98BC,6,Clg of Natural Resources,environmental sciences
+140,2017 Spring,50,"Env Sci, Policy, & Mgmt",100ES,1,Clg of Natural Resources,environmental sciences
+141,2017 Spring,36,"Env Sci, Policy, & Mgmt",102C,1,Clg of Natural Resources,environmental sciences
+142,2017 Spring,7,"Env Sci, Policy, & Mgmt",102D,1,Clg of Natural Resources,environmental sciences
+143,2017 Spring,19,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,environmental sciences
+144,2017 Spring,1,"Env Sci, Policy, & Mgmt",131,1,Clg of Natural Resources,environmental sciences
+145,2017 Spring,2,"Env Sci, Policy, & Mgmt",132,1,Clg of Natural Resources,environmental sciences
+146,2017 Spring,4,"Env Sci, Policy, & Mgmt",134,1,Clg of Natural Resources,environmental sciences
+147,2017 Spring,1,"Env Sci, Policy, & Mgmt",144,1,Clg of Natural Resources,environmental sciences
+148,2017 Spring,1,"Env Sci, Policy, & Mgmt",147,1,Clg of Natural Resources,environmental sciences
+149,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,1,Clg of Natural Resources,environmental sciences
+150,2017 Spring,5,"Env Sci, Policy, & Mgmt",152,1,Clg of Natural Resources,environmental sciences
+151,2017 Spring,2,"Env Sci, Policy, & Mgmt",158,1,Clg of Natural Resources,environmental sciences
+152,2017 Spring,8,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,environmental sciences
+153,2017 Spring,1,"Env Sci, Policy, & Mgmt",165,1,Clg of Natural Resources,environmental sciences
+154,2017 Spring,7,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,environmental sciences
+155,2017 Spring,10,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,environmental sciences
+156,2017 Spring,19,"Env Sci, Policy, & Mgmt",175B,1,Clg of Natural Resources,environmental sciences
+157,2017 Spring,20,"Env Sci, Policy, & Mgmt",175B,2,Clg of Natural Resources,environmental sciences
+158,2017 Spring,7,"Env Sci, Policy, & Mgmt",H175B,1,Clg of Natural Resources,environmental sciences
+159,2017 Spring,9,"Env Sci, Policy, & Mgmt",H175B,2,Clg of Natural Resources,environmental sciences
+160,2017 Spring,8,"Env Sci, Policy, & Mgmt",175L,1,Clg of Natural Resources,environmental sciences
+161,2017 Spring,15,"Env Sci, Policy, & Mgmt",175L,2,Clg of Natural Resources,environmental sciences
+162,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,3,Clg of Natural Resources,environmental sciences
+163,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,8,Clg of Natural Resources,environmental sciences
+164,2017 Spring,2,"Env Sci, Policy, & Mgmt",175L,9,Clg of Natural Resources,environmental sciences
+165,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,16,Clg of Natural Resources,environmental sciences
+166,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,18,Clg of Natural Resources,environmental sciences
+167,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,19,Clg of Natural Resources,environmental sciences
+168,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,20,Clg of Natural Resources,environmental sciences
+169,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,21,Clg of Natural Resources,environmental sciences
+170,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,23,Clg of Natural Resources,environmental sciences
+171,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,24,Clg of Natural Resources,environmental sciences
+172,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,25,Clg of Natural Resources,environmental sciences
+173,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,26,Clg of Natural Resources,environmental sciences
+174,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,27,Clg of Natural Resources,environmental sciences
+175,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,28,Clg of Natural Resources,environmental sciences
+176,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,29,Clg of Natural Resources,environmental sciences
+177,2017 Spring,1,"Env Sci, Policy, & Mgmt",H175L,1,Clg of Natural Resources,environmental sciences
+178,2017 Spring,1,"Env Sci, Policy, & Mgmt",H175L,2,Clg of Natural Resources,environmental sciences
+179,2017 Spring,1,"Env Sci, Policy, & Mgmt",H175L,3,Clg of Natural Resources,environmental sciences
+180,2017 Spring,5,"Env Sci, Policy, & Mgmt",H175L,4,Clg of Natural Resources,environmental sciences
+181,2017 Spring,2,"Env Sci, Policy, & Mgmt",H175L,8,Clg of Natural Resources,environmental sciences
+182,2017 Spring,2,"Env Sci, Policy, & Mgmt",H175L,9,Clg of Natural Resources,environmental sciences
+183,2017 Spring,2,"Env Sci, Policy, & Mgmt",H175L,10,Clg of Natural Resources,environmental sciences
+184,2017 Spring,1,"Env Sci, Policy, & Mgmt",H175L,11,Clg of Natural Resources,environmental sciences
+185,2017 Spring,1,"Env Sci, Policy, & Mgmt",H175L,12,Clg of Natural Resources,environmental sciences
+186,2017 Spring,3,"Env Sci, Policy, & Mgmt",C177,1,Clg of Natural Resources,environmental sciences
+187,2017 Spring,1,"Env Sci, Policy, & Mgmt",C179B,1,Clg of Natural Resources,environmental sciences
+188,2017 Spring,6,"Env Sci, Policy, & Mgmt",181A,1,Clg of Natural Resources,environmental sciences
+189,2017 Spring,2,"Env Sci, Policy, & Mgmt",183,1,Clg of Natural Resources,environmental sciences
+190,2017 Spring,9,"Env Sci, Policy, & Mgmt",186,1,Clg of Natural Resources,environmental sciences
+191,2017 Spring,1,"Env Sci, Policy, & Mgmt",190,1,Clg of Natural Resources,environmental sciences
+192,2017 Spring,2,"Env Sci, Policy, & Mgmt",C192,1,Clg of Natural Resources,environmental sciences
+193,2017 Spring,1,"Env Sci, Policy, & Mgmt",194B,1,Clg of Natural Resources,environmental sciences
+194,2017 Spring,1,"Env Sci, Policy, & Mgmt",197,27,Clg of Natural Resources,environmental sciences
+195,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,5,Clg of Natural Resources,environmental sciences
+196,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,6,Clg of Natural Resources,environmental sciences
+197,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,8,Clg of Natural Resources,environmental sciences
+198,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,12,Clg of Natural Resources,environmental sciences
+199,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,13,Clg of Natural Resources,environmental sciences
+200,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,15,Clg of Natural Resources,environmental sciences
+201,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,18,Clg of Natural Resources,environmental sciences
+202,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,1,Clg of Natural Resources,environmental sciences
+203,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,2,Clg of Natural Resources,environmental sciences
+204,2017 Spring,2,"Env Sci, Policy, & Mgmt",198BC,4,Clg of Natural Resources,environmental sciences
+205,2017 Spring,2,"Env Sci, Policy, & Mgmt",198BC,5,Clg of Natural Resources,environmental sciences
+206,2017 Spring,13,Environ Econ & Policy,C1,1,Clg of Natural Resources,environmental sciences
+207,2017 Spring,7,Environ Econ & Policy,100,1,Clg of Natural Resources,environmental sciences
+208,2017 Spring,5,Environ Econ & Policy,C101,1,Clg of Natural Resources,environmental sciences
+209,2017 Spring,3,Environ Econ & Policy,C118,1,Clg of Natural Resources,environmental sciences
+210,2017 Spring,1,Environ Econ & Policy,143,1,Clg of Natural Resources,environmental sciences
+211,2017 Spring,3,Environ Econ & Policy,147,1,Clg of Natural Resources,environmental sciences
+212,2017 Spring,1,Environ Econ & Policy,C151,1,Clg of Natural Resources,environmental sciences
+213,2017 Spring,1,Environmental Design,1,1,Clg of Environmental Design,environmental sciences
+214,2017 Spring,1,Ethnic Studies,98BC,1,Clg of Letters & Science,environmental sciences
+215,2017 Spring,1,Ethnic Studies,100,1,Clg of Letters & Science,environmental sciences
+216,2017 Spring,1,Ethnic Studies,144AC,1,Clg of Letters & Science,environmental sciences
+217,2017 Spring,1,Ethnic Studies,181AC,1,Clg of Letters & Science,environmental sciences
+218,2017 Spring,1,Ethnic Studies,198,7,Clg of Letters & Science,environmental sciences
+219,2017 Spring,1,Ethnic Studies,198,9,Clg of Letters & Science,environmental sciences
+220,2017 Spring,1,Filipino,1B,3,Clg of Letters & Science,environmental sciences
+221,2017 Spring,1,Filipino,W1Y,1,Clg of Letters & Science,environmental sciences
+222,2017 Spring,1,Film,R1B,2,Clg of Letters & Science,environmental sciences
+223,2017 Spring,1,Film,25B,1,Clg of Letters & Science,environmental sciences
+224,2017 Spring,1,French,R1B,4,Clg of Letters & Science,environmental sciences
+225,2017 Spring,1,French,3,6,Clg of Letters & Science,environmental sciences
+226,2017 Spring,1,Gender & Womens Studies,10,1,Clg of Letters & Science,environmental sciences
+227,2017 Spring,1,Gender & Womens Studies,14,1,Clg of Letters & Science,environmental sciences
+228,2017 Spring,2,Gender & Womens Studies,100AC,1,Clg of Letters & Science,environmental sciences
+229,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,environmental sciences
+230,2017 Spring,1,Gender & Womens Studies,198,4,Clg of Letters & Science,environmental sciences
+231,2017 Spring,1,Geography,20,1,Clg of Letters & Science,environmental sciences
+232,2017 Spring,1,Geography,C32,1,Clg of Letters & Science,environmental sciences
+233,2017 Spring,10,Geography,130,1,Clg of Letters & Science,environmental sciences
+234,2017 Spring,1,Geography,C136,1,Clg of Letters & Science,environmental sciences
+235,2017 Spring,7,Geography,140A,1,Clg of Letters & Science,environmental sciences
+236,2017 Spring,2,Geography,143,1,Clg of Letters & Science,environmental sciences
+237,2017 Spring,1,Geography,157,1,Clg of Letters & Science,environmental sciences
+238,2017 Spring,2,Geography,185,1,Clg of Letters & Science,environmental sciences
+239,2017 Spring,5,Geography,187,1,Clg of Letters & Science,environmental sciences
+240,2017 Spring,1,German,2,2,Clg of Letters & Science,environmental sciences
+241,2017 Spring,1,Global Studies,24,1,Clg of Letters & Science,environmental sciences
+242,2017 Spring,1,History,R1B,4,Clg of Letters & Science,environmental sciences
+243,2017 Spring,2,History,6B,1,Clg of Letters & Science,environmental sciences
+244,2017 Spring,1,History,8B,1,Clg of Letters & Science,environmental sciences
+245,2017 Spring,1,History,24,4,Clg of Letters & Science,environmental sciences
+246,2017 Spring,1,History,100AC,2,Clg of Letters & Science,environmental sciences
+247,2017 Spring,1,History,C191,1,Clg of Letters & Science,environmental sciences
+248,2017 Spring,1,History of Art,R1B,2,Clg of Letters & Science,environmental sciences
+249,2017 Spring,1,History of Art,R1B,6,Clg of Letters & Science,environmental sciences
+250,2017 Spring,1,History of Art,24,1,Clg of Letters & Science,environmental sciences
+251,2017 Spring,1,History of Art,198,1,Clg of Letters & Science,environmental sciences
+252,2017 Spring,1,Industrial Eng & Ops Rsch,191,1,Clg of Engineering,environmental sciences
+253,2017 Spring,1,Integrative Biology,24,1,Clg of Letters & Science,environmental sciences
+254,2017 Spring,1,Integrative Biology,24,2,Clg of Letters & Science,environmental sciences
+255,2017 Spring,1,Integrative Biology,24,3,Clg of Letters & Science,environmental sciences
+256,2017 Spring,1,Integrative Biology,24,6,Clg of Letters & Science,environmental sciences
+257,2017 Spring,2,Integrative Biology,24,9,Clg of Letters & Science,environmental sciences
+258,2017 Spring,1,Integrative Biology,C32,1,Clg of Letters & Science,environmental sciences
+259,2017 Spring,1,Integrative Biology,95,1,Clg of Letters & Science,environmental sciences
+260,2017 Spring,2,Integrative Biology,104LF,1,Clg of Letters & Science,environmental sciences
+261,2017 Spring,1,Integrative Biology,113L,1,Clg of Letters & Science,environmental sciences
+262,2017 Spring,1,Integrative Biology,131L,2,Clg of Letters & Science,environmental sciences
+263,2017 Spring,2,Integrative Biology,132,1,Clg of Letters & Science,environmental sciences
+264,2017 Spring,1,Integrative Biology,150,1,Clg of Letters & Science,environmental sciences
+265,2017 Spring,1,Integrative Biology,174LF,1,Clg of Letters & Science,environmental sciences
+266,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,environmental sciences
+267,2017 Spring,1,Integrative Biology,198,2,Clg of Letters & Science,environmental sciences
+268,2017 Spring,2,International & Area Stds,198,3,Clg of Letters & Science,environmental sciences
+269,2017 Spring,1,Italian Studies,3,1,Clg of Letters & Science,environmental sciences
+270,2017 Spring,2,Italian Studies,R5B,3,Clg of Letters & Science,environmental sciences
+271,2017 Spring,1,Japanese,10B,2,Clg of Letters & Science,environmental sciences
+272,2017 Spring,1,Korean,1B,2,Clg of Letters & Science,environmental sciences
+273,2017 Spring,1,Korean,7B,1,Clg of Letters & Science,environmental sciences
+274,2017 Spring,1,Korean,153,1,Clg of Letters & Science,environmental sciences
+275,2017 Spring,1,Landscape Arch & Env Plan,112,1,Clg of Environmental Design,environmental sciences
+276,2017 Spring,3,Landscape Arch & Env Plan,130,1,Clg of Environmental Design,environmental sciences
+277,2017 Spring,1,Legal Studies,39D,1,School of Law,environmental sciences
+278,2017 Spring,2,Legal Studies,100,1,School of Law,environmental sciences
+279,2017 Spring,1,Legal Studies,105,1,School of Law,environmental sciences
+280,2017 Spring,1,Legal Studies,153,1,School of Law,environmental sciences
+281,2017 Spring,1,Legal Studies,190,1,School of Law,environmental sciences
+282,2017 Spring,3,Letters & Science,C30U,1,Clg of Letters & Science,environmental sciences
+283,2017 Spring,1,Letters & Science,C30V,1,Clg of Letters & Science,environmental sciences
+284,2017 Spring,1,Letters & Science,70A,1,Clg of Letters & Science,environmental sciences
+285,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,environmental sciences
+286,2017 Spring,2,Letters & Science,C180U,1,Clg of Letters & Science,environmental sciences
+287,2017 Spring,1,Mathematics,1A,1,Clg of Letters & Science,environmental sciences
+288,2017 Spring,1,Mathematics,1B,1,Clg of Letters & Science,environmental sciences
+289,2017 Spring,7,Mathematics,1B,2,Clg of Letters & Science,environmental sciences
+290,2017 Spring,1,Mathematics,10B,1,Clg of Letters & Science,environmental sciences
+291,2017 Spring,5,Mathematics,16A,1,Clg of Letters & Science,environmental sciences
+292,2017 Spring,14,Mathematics,16B,1,Clg of Letters & Science,environmental sciences
+293,2017 Spring,16,Mathematics,16B,2,Clg of Letters & Science,environmental sciences
+294,2017 Spring,3,Mathematics,53,1,Clg of Letters & Science,environmental sciences
+295,2017 Spring,5,Mathematics,53,2,Clg of Letters & Science,environmental sciences
+296,2017 Spring,2,Mathematics,54,2,Clg of Letters & Science,environmental sciences
+297,2017 Spring,1,Mathematics,55,1,Clg of Letters & Science,environmental sciences
+298,2017 Spring,1,Mathematics,98,13,Clg of Letters & Science,environmental sciences
+299,2017 Spring,1,Mathematics,98,24,Clg of Letters & Science,environmental sciences
+300,2017 Spring,1,Mathematics,98,25,Clg of Letters & Science,environmental sciences
+301,2017 Spring,1,Mathematics,98,26,Clg of Letters & Science,environmental sciences
+302,2017 Spring,2,Mathematics,98,27,Clg of Letters & Science,environmental sciences
+303,2017 Spring,1,Mathematics,98,28,Clg of Letters & Science,environmental sciences
+304,2017 Spring,1,Mathematics,98,29,Clg of Letters & Science,environmental sciences
+305,2017 Spring,1,Mathematics,198BC,1,Clg of Letters & Science,environmental sciences
+306,2017 Spring,1,Mechanical Engineering,C85,1,Clg of Engineering,environmental sciences
+307,2017 Spring,3,Molecular & Cell Biology,15,1,Clg of Letters & Science,environmental sciences
+308,2017 Spring,1,Molecular & Cell Biology,50,1,Clg of Letters & Science,environmental sciences
+309,2017 Spring,1,Molecular & Cell Biology,98,205,Clg of Letters & Science,environmental sciences
+310,2017 Spring,1,Molecular & Cell Biology,102,1,Clg of Letters & Science,environmental sciences
+311,2017 Spring,1,Molecular & Cell Biology,C103,1,Clg of Letters & Science,environmental sciences
+312,2017 Spring,2,Molecular & Cell Biology,104,1,Clg of Letters & Science,environmental sciences
+313,2017 Spring,1,Molecular & Cell Biology,137L,1,Clg of Letters & Science,environmental sciences
+314,2017 Spring,1,Molecular & Cell Biology,141,1,Clg of Letters & Science,environmental sciences
+315,2017 Spring,1,Molecular & Cell Biology,150,1,Clg of Letters & Science,environmental sciences
+316,2017 Spring,1,Molecular & Cell Biology,180,1,Clg of Letters & Science,environmental sciences
+317,2017 Spring,1,Molecular & Cell Biology,198,6,Clg of Letters & Science,environmental sciences
+318,2017 Spring,1,Music,20A,2,Clg of Letters & Science,environmental sciences
+319,2017 Spring,1,Music,20A,5,Clg of Letters & Science,environmental sciences
+320,2017 Spring,1,Music,26AC,1,Clg of Letters & Science,environmental sciences
+321,2017 Spring,2,Music,29,1,Clg of Letters & Science,environmental sciences
+322,2017 Spring,1,Music,44,1,Clg of Letters & Science,environmental sciences
+323,2017 Spring,1,Music,98BC,2,Clg of Letters & Science,environmental sciences
+324,2017 Spring,1,Music,141,1,Clg of Letters & Science,environmental sciences
+325,2017 Spring,2,Music,142,1,Clg of Letters & Science,environmental sciences
+326,2017 Spring,1,Music,148,1,Clg of Letters & Science,environmental sciences
+327,2017 Spring,1,Music,198,4,Clg of Letters & Science,environmental sciences
+328,2017 Spring,1,Music,198,5,Clg of Letters & Science,environmental sciences
+329,2017 Spring,2,Native American Studies,R1A,1,Clg of Letters & Science,environmental sciences
+330,2017 Spring,1,Native American Studies,R1B,1,Clg of Letters & Science,environmental sciences
+331,2017 Spring,1,Native American Studies,71,1,Clg of Letters & Science,environmental sciences
+332,2017 Spring,1,Native American Studies,C152,1,Clg of Letters & Science,environmental sciences
+333,2017 Spring,1,Native American Studies,178,1,Clg of Letters & Science,environmental sciences
+334,2017 Spring,3,Natural Resources,24,2,Clg of Natural Resources,environmental sciences
+335,2017 Spring,3,Nutritional Science & Tox,10,1,Clg of Natural Resources,environmental sciences
+336,2017 Spring,1,Nutritional Science & Tox,98,1,Clg of Natural Resources,environmental sciences
+337,2017 Spring,2,Nutritional Science & Tox,104,1,Clg of Natural Resources,environmental sciences
+338,2017 Spring,2,Nutritional Science & Tox,198,1,Clg of Natural Resources,environmental sciences
+339,2017 Spring,1,Optometry,10,1,School of Optometry,environmental sciences
+340,2017 Spring,2,Philosophy,2,1,Clg of Letters & Science,environmental sciences
+341,2017 Spring,2,Philosophy,3,1,Clg of Letters & Science,environmental sciences
+342,2017 Spring,1,Philosophy,12A,1,Clg of Letters & Science,environmental sciences
+343,2017 Spring,1,Physical Education,1,6,Clg of Letters & Science,environmental sciences
+344,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,environmental sciences
+345,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,environmental sciences
+346,2017 Spring,2,Physical Education,1,16,Clg of Letters & Science,environmental sciences
+347,2017 Spring,2,Physical Education,1,18,Clg of Letters & Science,environmental sciences
+348,2017 Spring,1,Physical Education,1,19,Clg of Letters & Science,environmental sciences
+349,2017 Spring,1,Physical Education,1,23,Clg of Letters & Science,environmental sciences
+350,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,environmental sciences
+351,2017 Spring,1,Physical Education,1,35,Clg of Letters & Science,environmental sciences
+352,2017 Spring,2,Physical Education,1,37,Clg of Letters & Science,environmental sciences
+353,2017 Spring,1,Physical Education,2,2,Clg of Letters & Science,environmental sciences
+354,2017 Spring,1,Physical Education,2,3,Clg of Letters & Science,environmental sciences
+355,2017 Spring,1,Physical Education,2,5,Clg of Letters & Science,environmental sciences
+356,2017 Spring,2,Physical Education,2,8,Clg of Letters & Science,environmental sciences
+357,2017 Spring,1,Physical Education,2,16,Clg of Letters & Science,environmental sciences
+358,2017 Spring,1,Physical Education,3,12,Clg of Letters & Science,environmental sciences
+359,2017 Spring,1,Physical Education,4,1,Clg of Letters & Science,environmental sciences
+360,2017 Spring,3,Physical Education,4,7,Clg of Letters & Science,environmental sciences
+361,2017 Spring,1,Physical Education,11,17,Clg of Letters & Science,environmental sciences
+362,2017 Spring,1,Physical Education,11,18,Clg of Letters & Science,environmental sciences
+363,2017 Spring,1,Physical Education,11,25,Clg of Letters & Science,environmental sciences
+364,2017 Spring,1,Physical Education,11,26,Clg of Letters & Science,environmental sciences
+365,2017 Spring,1,Physical Education,12,5,Clg of Letters & Science,environmental sciences
+366,2017 Spring,1,Physical Education,12,23,Clg of Letters & Science,environmental sciences
+367,2017 Spring,1,Physical Education,12,24,Clg of Letters & Science,environmental sciences
+368,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,environmental sciences
+369,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,environmental sciences
+370,2017 Spring,1,Physical Education,198,1,Clg of Letters & Science,environmental sciences
+371,2017 Spring,1,Physics,7A,1,Clg of Letters & Science,environmental sciences
+372,2017 Spring,3,Physics,7A,2,Clg of Letters & Science,environmental sciences
+373,2017 Spring,3,Physics,7A,3,Clg of Letters & Science,environmental sciences
+374,2017 Spring,4,Physics,7B,3,Clg of Letters & Science,environmental sciences
+375,2017 Spring,1,Physics,7C,1,Clg of Letters & Science,environmental sciences
+376,2017 Spring,9,Physics,8A,1,Clg of Letters & Science,environmental sciences
+377,2017 Spring,12,Physics,8A,2,Clg of Letters & Science,environmental sciences
+378,2017 Spring,2,Physics,8B,2,Clg of Letters & Science,environmental sciences
+379,2017 Spring,3,Physics,98,1,Clg of Letters & Science,environmental sciences
+380,2017 Spring,1,Physics,98BC,2,Clg of Letters & Science,environmental sciences
+381,2017 Spring,1,Plant & Microbial Biology,C103,1,Clg of Natural Resources,environmental sciences
+382,2017 Spring,1,Plant & Microbial Biology,122,1,Clg of Natural Resources,environmental sciences
+383,2017 Spring,1,Plant & Microbial Biology,160,1,Clg of Natural Resources,environmental sciences
+384,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,environmental sciences
+385,2017 Spring,1,Political Science,116A,1,Clg of Letters & Science,environmental sciences
+386,2017 Spring,1,Political Science,124C,1,Clg of Letters & Science,environmental sciences
+387,2017 Spring,1,Political Science,143B,1,Clg of Letters & Science,environmental sciences
+388,2017 Spring,4,Political Science,179,1,Clg of Letters & Science,environmental sciences
+389,2017 Spring,1,Portuguese,101,1,Clg of Letters & Science,environmental sciences
+390,2017 Spring,4,Psychology,1,1,Clg of Letters & Science,environmental sciences
+391,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,environmental sciences
+392,2017 Spring,2,Psychology,2,1,Clg of Letters & Science,environmental sciences
+393,2017 Spring,1,Psychology,C61,1,Clg of Letters & Science,environmental sciences
+394,2017 Spring,1,Psychology,150,1,Clg of Letters & Science,environmental sciences
+395,2017 Spring,1,Psychology,198,2,Clg of Letters & Science,environmental sciences
+396,2017 Spring,1,Psychology,198,7,Clg of Letters & Science,environmental sciences
+397,2017 Spring,2,Psychology,198,11,Clg of Letters & Science,environmental sciences
+398,2017 Spring,1,Public Health,142,1,School of Public Health,environmental sciences
+399,2017 Spring,1,Public Health,150A,1,School of Public Health,environmental sciences
+400,2017 Spring,5,Public Health,C160,1,School of Public Health,environmental sciences
+401,2017 Spring,1,Public Health,170C,1,School of Public Health,environmental sciences
+402,2017 Spring,1,Public Health,198,3,School of Public Health,environmental sciences
+403,2017 Spring,1,Public Health,198,9,School of Public Health,environmental sciences
+404,2017 Spring,1,Public Policy,98,3,Goldman School Public Policy,environmental sciences
+405,2017 Spring,1,Public Policy,C103,1,Goldman School Public Policy,environmental sciences
+406,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,environmental sciences
+407,2017 Spring,1,Punjabi,1B,1,Clg of Letters & Science,environmental sciences
+408,2017 Spring,1,Rhetoric,R1A,2,Clg of Letters & Science,environmental sciences
+409,2017 Spring,1,Rhetoric,R1A,3,Clg of Letters & Science,environmental sciences
+410,2017 Spring,1,Rhetoric,R1B,1,Clg of Letters & Science,environmental sciences
+411,2017 Spring,1,Rhetoric,104,1,Clg of Letters & Science,environmental sciences
+412,2017 Spring,1,Rhetoric,198,1,Clg of Letters & Science,environmental sciences
+413,2017 Spring,1,Scandinavian,R5B,1,Clg of Letters & Science,environmental sciences
+414,2017 Spring,1,Slavic Languages & Lit,R5A,1,Clg of Letters & Science,environmental sciences
+415,2017 Spring,1,Slavic Languages & Lit,134C,1,Clg of Letters & Science,environmental sciences
+416,2017 Spring,1,Social Welfare,98,3,School of Social Welfare,environmental sciences
+417,2017 Spring,2,Sociology,1,1,Clg of Letters & Science,environmental sciences
+418,2017 Spring,1,Sociology,3AC,1,Clg of Letters & Science,environmental sciences
+419,2017 Spring,1,Sociology,110,1,Clg of Letters & Science,environmental sciences
+420,2017 Spring,1,Sociology,121,1,Clg of Letters & Science,environmental sciences
+421,2017 Spring,1,Sociology,198,1,Clg of Letters & Science,environmental sciences
+422,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,environmental sciences
+423,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,environmental sciences
+424,2017 Spring,1,Sociology,198,25,Clg of Letters & Science,environmental sciences
+425,2017 Spring,1,South & SE Asian Studies,R5B,3,Clg of Letters & Science,environmental sciences
+426,2017 Spring,3,South Asian,R5B,4,Clg of Letters & Science,environmental sciences
+427,2017 Spring,1,Spanish,3,1,Clg of Letters & Science,environmental sciences
+428,2017 Spring,1,Spanish,25,5,Clg of Letters & Science,environmental sciences
+429,2017 Spring,1,Spanish,102A,2,Clg of Letters & Science,environmental sciences
+430,2017 Spring,1,Spanish,104B,1,Clg of Letters & Science,environmental sciences
+431,2017 Spring,1,Spanish,135,2,Clg of Letters & Science,environmental sciences
+432,2017 Spring,4,Statistics,2,1,Clg of Letters & Science,environmental sciences
+433,2017 Spring,1,Statistics,20,2,Clg of Letters & Science,environmental sciences
+434,2017 Spring,1,Statistics,88,1,Clg of Letters & Science,environmental sciences
+435,2017 Spring,15,Statistics,131A,1,Clg of Letters & Science,environmental sciences
+436,2017 Spring,3,Statistics,133,1,Clg of Letters & Science,environmental sciences
+437,2017 Spring,2,Statistics,134,1,Clg of Letters & Science,environmental sciences
+438,2017 Spring,1,Statistics,198,6,Clg of Letters & Science,environmental sciences
+439,2017 Spring,1,Theater Dance & Perf Stds,R1A,2,Clg of Letters & Science,environmental sciences
+440,2017 Spring,2,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,environmental sciences
+441,2017 Spring,1,Theater Dance & Perf Stds,109,1,Clg of Letters & Science,environmental sciences
+442,2017 Spring,1,Theater Dance & Perf Stds,110B,2,Clg of Letters & Science,environmental sciences
+443,2017 Spring,1,Theater Dance & Perf Stds,125,1,Clg of Letters & Science,environmental sciences
+444,2017 Spring,1,Theater Dance & Perf Stds,181,2,Clg of Letters & Science,environmental sciences
+445,2017 Spring,1,Tibetan,115,1,Clg of Letters & Science,environmental sciences
+446,2017 Spring,1,UGIS-UG Interdisc Studies,82,1,Clg of Letters & Science,environmental sciences
+447,2017 Spring,1,UGIS-UG Interdisc Studies,82,2,Clg of Letters & Science,environmental sciences
+448,2017 Spring,1,UGIS-UG Interdisc Studies,187,1,Clg of Letters & Science,environmental sciences
+449,2017 Spring,1,Vietnamese,1B,1,Clg of Letters & Science,environmental sciences

@@ -1,0 +1,312 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,24,3,Clg of Letters & Science,architecture
+1,2017 Spring,1,African American Studies,142AC,1,Clg of Letters & Science,architecture
+2,2017 Spring,1,American Studies,101,1,Clg of Letters & Science,architecture
+3,2017 Spring,1,American Studies,C112B,1,Clg of Letters & Science,architecture
+4,2017 Spring,1,American Studies,C172,1,Clg of Letters & Science,architecture
+5,2017 Spring,3,Anthropology,1,1,Clg of Letters & Science,architecture
+6,2017 Spring,4,Anthropology,3AC,1,Clg of Letters & Science,architecture
+7,2017 Spring,1,Anthropology,R5B,4,Clg of Letters & Science,architecture
+8,2017 Spring,4,Anthropology,121AC,1,Clg of Letters & Science,architecture
+9,2017 Spring,7,Anthropology,137,1,Clg of Letters & Science,architecture
+10,2017 Spring,1,Anthropology,160AC,1,Clg of Letters & Science,architecture
+11,2017 Spring,1,Anthropology,170,1,Clg of Letters & Science,architecture
+12,2017 Spring,1,Anthropology,180,1,Clg of Letters & Science,architecture
+13,2017 Spring,63,Architecture,11B,1,Clg of Environmental Design,architecture
+14,2017 Spring,4,Architecture,98,5,Clg of Environmental Design,architecture
+15,2017 Spring,1,Architecture,98,6,Clg of Environmental Design,architecture
+16,2017 Spring,8,Architecture,98BC,1,Clg of Environmental Design,architecture
+17,2017 Spring,8,Architecture,98BC,2,Clg of Environmental Design,architecture
+18,2017 Spring,133,Architecture,100B,1,Clg of Environmental Design,architecture
+19,2017 Spring,55,Architecture,100D,1,Clg of Environmental Design,architecture
+20,2017 Spring,3,Architecture,100D,2,Clg of Environmental Design,architecture
+21,2017 Spring,2,Architecture,100D,3,Clg of Environmental Design,architecture
+22,2017 Spring,1,Architecture,100D,4,Clg of Environmental Design,architecture
+23,2017 Spring,14,Architecture,100D,5,Clg of Environmental Design,architecture
+24,2017 Spring,13,Architecture,102B,1,Clg of Environmental Design,architecture
+25,2017 Spring,9,Architecture,102B,2,Clg of Environmental Design,architecture
+26,2017 Spring,14,Architecture,109,1,Clg of Environmental Design,architecture
+27,2017 Spring,1,Architecture,129,1,Clg of Environmental Design,architecture
+28,2017 Spring,1,Architecture,129,2,Clg of Environmental Design,architecture
+29,2017 Spring,1,Architecture,129,3,Clg of Environmental Design,architecture
+30,2017 Spring,92,Architecture,140,1,Clg of Environmental Design,architecture
+31,2017 Spring,5,Architecture,159,1,Clg of Environmental Design,architecture
+32,2017 Spring,109,Architecture,160,1,Clg of Environmental Design,architecture
+33,2017 Spring,1,Architecture,169,1,Clg of Environmental Design,architecture
+34,2017 Spring,1,Architecture,169,2,Clg of Environmental Design,architecture
+35,2017 Spring,5,Architecture,169,3,Clg of Environmental Design,architecture
+36,2017 Spring,127,Architecture,170B,1,Clg of Environmental Design,architecture
+37,2017 Spring,2,Architecture,179,1,Clg of Environmental Design,architecture
+38,2017 Spring,1,Architecture,179,2,Clg of Environmental Design,architecture
+39,2017 Spring,2,Architecture,179,3,Clg of Environmental Design,architecture
+40,2017 Spring,1,Architecture,198,3,Clg of Environmental Design,architecture
+41,2017 Spring,2,Architecture,198,4,Clg of Environmental Design,architecture
+42,2017 Spring,1,Architecture,198BC,1,Clg of Environmental Design,architecture
+43,2017 Spring,3,Architecture,198BC,2,Clg of Environmental Design,architecture
+44,2017 Spring,3,Art Practice,13,2,Clg of Letters & Science,architecture
+45,2017 Spring,2,Art Practice,15,1,Clg of Letters & Science,architecture
+46,2017 Spring,4,Asian American Studies,20A,1,Clg of Letters & Science,architecture
+47,2017 Spring,2,Asian American Studies,194B,1,Clg of Letters & Science,architecture
+48,2017 Spring,2,Astronomy,98,2,Clg of Letters & Science,architecture
+49,2017 Spring,1,Buddhist Studies,C115,1,Clg of Letters & Science,architecture
+50,2017 Spring,1,Buddhist Studies,C128,1,Clg of Letters & Science,architecture
+51,2017 Spring,2,Business Admin-Undergrad,10,1,Haas School of Business,architecture
+52,2017 Spring,1,Business Admin-Undergrad,96,1,Haas School of Business,architecture
+53,2017 Spring,1,Business Admin-Undergrad,102B,1,Haas School of Business,architecture
+54,2017 Spring,1,Business Admin-Undergrad,106,1,Haas School of Business,architecture
+55,2017 Spring,1,Business Admin-Undergrad,115,1,Haas School of Business,architecture
+56,2017 Spring,1,Business Admin-Undergrad,180,1,Haas School of Business,architecture
+57,2017 Spring,1,Business Admin-Undergrad,198,1,Haas School of Business,architecture
+58,2017 Spring,1,Chemistry,1A,1,Clg of Chemistry,architecture
+59,2017 Spring,1,Chemistry,1AL,1,Clg of Chemistry,architecture
+60,2017 Spring,1,Chicano Studies,180,1,Clg of Letters & Science,architecture
+61,2017 Spring,1,Chinese,1B,2,Clg of Letters & Science,architecture
+62,2017 Spring,1,Chinese,1B,5,Clg of Letters & Science,architecture
+63,2017 Spring,1,Chinese,7B,1,Clg of Letters & Science,architecture
+64,2017 Spring,1,Chinese,10B,1,Clg of Letters & Science,architecture
+65,2017 Spring,1,Chinese,10Y,2,Clg of Letters & Science,architecture
+66,2017 Spring,7,City & Regional Planning,101,1,Clg of Environmental Design,architecture
+67,2017 Spring,10,City & Regional Planning,113B,1,Clg of Environmental Design,architecture
+68,2017 Spring,32,City & Regional Planning,114,1,Clg of Environmental Design,architecture
+69,2017 Spring,1,City & Regional Planning,116,1,Clg of Environmental Design,architecture
+70,2017 Spring,27,City & Regional Planning,118AC,1,Clg of Environmental Design,architecture
+71,2017 Spring,17,City & Regional Planning,120,1,Clg of Environmental Design,architecture
+72,2017 Spring,1,City & Regional Planning,190,1,Clg of Environmental Design,architecture
+73,2017 Spring,2,City & Regional Planning,190,3,Clg of Environmental Design,architecture
+74,2017 Spring,2,Civil & Environmental Eng,24,3,Clg of Engineering,architecture
+75,2017 Spring,1,Civil & Environmental Eng,60,1,Clg of Engineering,architecture
+76,2017 Spring,1,Civil & Environmental Eng,98,7,Clg of Engineering,architecture
+77,2017 Spring,3,Civil & Environmental Eng,120,1,Clg of Engineering,architecture
+78,2017 Spring,1,Civil & Environmental Eng,122L,1,Clg of Engineering,architecture
+79,2017 Spring,5,Civil & Environmental Eng,198,7,Clg of Engineering,architecture
+80,2017 Spring,3,Classics,10B,1,Clg of Letters & Science,architecture
+81,2017 Spring,6,Classics,28,1,Clg of Letters & Science,architecture
+82,2017 Spring,1,Cognitive Science,198,3,Clg of Letters & Science,architecture
+83,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,architecture
+84,2017 Spring,1,College Writing Programs,R1A,5,Clg of Letters & Science,architecture
+85,2017 Spring,1,College Writing Programs,R1A,8,Clg of Letters & Science,architecture
+86,2017 Spring,1,College Writing Programs,R1A,19,Clg of Letters & Science,architecture
+87,2017 Spring,1,College Writing Programs,R1A,23,Clg of Letters & Science,architecture
+88,2017 Spring,1,College Writing Programs,R1A,24,Clg of Letters & Science,architecture
+89,2017 Spring,1,College Writing Programs,R4B,8,Clg of Letters & Science,architecture
+90,2017 Spring,1,College Writing Programs,25AC,1,Clg of Letters & Science,architecture
+91,2017 Spring,2,Comparative Literature,R1B,1,Clg of Letters & Science,architecture
+92,2017 Spring,1,Comparative Literature,R1B,9,Clg of Letters & Science,architecture
+93,2017 Spring,1,Comparative Literature,R1B,10,Clg of Letters & Science,architecture
+94,2017 Spring,1,Comparative Literature,R1B,15,Clg of Letters & Science,architecture
+95,2017 Spring,1,Comparative Literature,R1B,22,Clg of Letters & Science,architecture
+96,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,architecture
+97,2017 Spring,5,Computer Science,10,1,Clg of Engineering,architecture
+98,2017 Spring,2,Computer Science,61A,1,Clg of Engineering,architecture
+99,2017 Spring,3,Computer Science,61B,1,Clg of Engineering,architecture
+100,2017 Spring,1,Computer Science,70,1,Clg of Engineering,architecture
+101,2017 Spring,2,Computer Science,198,56,Clg of Engineering,architecture
+102,2017 Spring,3,Computer Science,198,58,Clg of Engineering,architecture
+103,2017 Spring,2,Computer Science,198,75,Clg of Engineering,architecture
+104,2017 Spring,4,Design Innovation,15,1,Clg of Engineering,architecture
+105,2017 Spring,1,Design Innovation,21,1,Clg of Engineering,architecture
+106,2017 Spring,2,Design Innovation,190,3,Clg of Engineering,architecture
+107,2017 Spring,2,Design Innovation,198,1,Clg of Engineering,architecture
+108,2017 Spring,3,Design Innovation,198,2,Clg of Engineering,architecture
+109,2017 Spring,5,Design Innovation,198,3,Clg of Engineering,architecture
+110,2017 Spring,1,Development Studies,C10,1,Clg of Letters & Science,architecture
+111,2017 Spring,2,Development Studies,C100,1,Clg of Letters & Science,architecture
+112,2017 Spring,1,East Asian Languages,105,1,Clg of Letters & Science,architecture
+113,2017 Spring,5,Economics,1,1,Clg of Letters & Science,architecture
+114,2017 Spring,1,Economics,C3,1,Clg of Letters & Science,architecture
+115,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,architecture
+116,2017 Spring,1,Economics,131,1,Clg of Letters & Science,architecture
+117,2017 Spring,1,Economics,C181,1,Clg of Letters & Science,architecture
+118,2017 Spring,1,Education,98,9,Grad School of Education,architecture
+119,2017 Spring,1,Electrical Engineering,198,2,Clg of Engineering,architecture
+120,2017 Spring,1,Energy and Resources,98,1,Clg of Natural Resources,architecture
+121,2017 Spring,1,Energy and Resources,190,1,Clg of Natural Resources,architecture
+122,2017 Spring,2,Engineering,7,1,Clg of Engineering,architecture
+123,2017 Spring,1,Engineering,25,1,Clg of Engineering,architecture
+124,2017 Spring,2,Engineering,26,1,Clg of Engineering,architecture
+125,2017 Spring,1,Engineering,27,1,Clg of Engineering,architecture
+126,2017 Spring,1,Engineering,45,1,Clg of Engineering,architecture
+127,2017 Spring,1,English,R1A,4,Clg of Letters & Science,architecture
+128,2017 Spring,1,English,132,1,Clg of Letters & Science,architecture
+129,2017 Spring,1,English,198,6,Clg of Letters & Science,architecture
+130,2017 Spring,3,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,architecture
+131,2017 Spring,1,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,architecture
+132,2017 Spring,8,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,architecture
+133,2017 Spring,1,"Env Sci, Policy, & Mgmt",72,1,Clg of Natural Resources,architecture
+134,2017 Spring,1,"Env Sci, Policy, & Mgmt",88A,1,Clg of Natural Resources,architecture
+135,2017 Spring,1,"Env Sci, Policy, & Mgmt",102D,1,Clg of Natural Resources,architecture
+136,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,2,Clg of Natural Resources,architecture
+137,2017 Spring,3,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,architecture
+138,2017 Spring,1,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,architecture
+139,2017 Spring,3,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,architecture
+140,2017 Spring,1,"Env Sci, Policy, & Mgmt",181A,1,Clg of Natural Resources,architecture
+141,2017 Spring,2,"Env Sci, Policy, & Mgmt",198,8,Clg of Natural Resources,architecture
+142,2017 Spring,3,Environmental Design,R3B,1,Clg of Environmental Design,architecture
+143,2017 Spring,54,Environmental Design,4B,1,Clg of Environmental Design,architecture
+144,2017 Spring,25,Environmental Design,4C,1,Clg of Environmental Design,architecture
+145,2017 Spring,28,Environmental Design,100,1,Clg of Environmental Design,architecture
+146,2017 Spring,4,Environmental Design,193,1,Clg of Environmental Design,architecture
+147,2017 Spring,1,Ethnic Studies,145,1,Clg of Letters & Science,architecture
+148,2017 Spring,1,Ethnic Studies,197,6,Clg of Letters & Science,architecture
+149,2017 Spring,1,Ethnic Studies,197,11,Clg of Letters & Science,architecture
+150,2017 Spring,1,Film,R1B,2,Clg of Letters & Science,architecture
+151,2017 Spring,1,Film,R1B,5,Clg of Letters & Science,architecture
+152,2017 Spring,1,Film,25A,1,Clg of Letters & Science,architecture
+153,2017 Spring,1,Film,108,3,Clg of Letters & Science,architecture
+154,2017 Spring,1,French,1,9,Clg of Letters & Science,architecture
+155,2017 Spring,1,French,2,1,Clg of Letters & Science,architecture
+156,2017 Spring,1,French,2,3,Clg of Letters & Science,architecture
+157,2017 Spring,1,French,2,8,Clg of Letters & Science,architecture
+158,2017 Spring,1,French,4,5,Clg of Letters & Science,architecture
+159,2017 Spring,1,French,14,1,Clg of Letters & Science,architecture
+160,2017 Spring,2,Gender & Womens Studies,14,1,Clg of Letters & Science,architecture
+161,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,architecture
+162,2017 Spring,1,Gender & Womens Studies,198,4,Clg of Letters & Science,architecture
+163,2017 Spring,3,Geography,70AC,1,Clg of Letters & Science,architecture
+164,2017 Spring,7,Geography,130,1,Clg of Letters & Science,architecture
+165,2017 Spring,1,Geography,C160B,1,Clg of Letters & Science,architecture
+166,2017 Spring,1,German,R5B,2,Clg of Letters & Science,architecture
+167,2017 Spring,1,Global Poverty & Practice,105,2,Clg of Letters & Science,architecture
+168,2017 Spring,1,Global Studies,110K,1,Clg of Letters & Science,architecture
+169,2017 Spring,1,History,R1B,3,Clg of Letters & Science,architecture
+170,2017 Spring,1,History,6B,1,Clg of Letters & Science,architecture
+171,2017 Spring,2,History,7B,1,Clg of Letters & Science,architecture
+172,2017 Spring,2,History,98,2,Clg of Letters & Science,architecture
+173,2017 Spring,1,History,100AC,2,Clg of Letters & Science,architecture
+174,2017 Spring,1,History,106B,1,Clg of Letters & Science,architecture
+175,2017 Spring,1,History,124B,1,Clg of Letters & Science,architecture
+176,2017 Spring,1,History,136B,1,Clg of Letters & Science,architecture
+177,2017 Spring,1,History,162B,1,Clg of Letters & Science,architecture
+178,2017 Spring,1,History,164A,1,Clg of Letters & Science,architecture
+179,2017 Spring,1,History,171C,1,Clg of Letters & Science,architecture
+180,2017 Spring,1,History,185B,1,Clg of Letters & Science,architecture
+181,2017 Spring,1,History,186,1,Clg of Letters & Science,architecture
+182,2017 Spring,1,History of Art,R1B,1,Clg of Letters & Science,architecture
+183,2017 Spring,2,History of Art,R1B,4,Clg of Letters & Science,architecture
+184,2017 Spring,1,History of Art,R1B,5,Clg of Letters & Science,architecture
+185,2017 Spring,1,History of Art,R1B,6,Clg of Letters & Science,architecture
+186,2017 Spring,2,History of Art,11,1,Clg of Letters & Science,architecture
+187,2017 Spring,2,History of Art,35,1,Clg of Letters & Science,architecture
+188,2017 Spring,1,History of Art,100,1,Clg of Letters & Science,architecture
+189,2017 Spring,5,Integrative Biology,C32,1,Clg of Letters & Science,architecture
+190,2017 Spring,1,Integrative Biology,198,2,Clg of Letters & Science,architecture
+191,2017 Spring,1,Integrative Biology,198,6,Clg of Letters & Science,architecture
+192,2017 Spring,3,Interdisciplinary Studies,61,1,Clg of Letters & Science,architecture
+193,2017 Spring,2,International & Area Stds,198,2,Clg of Letters & Science,architecture
+194,2017 Spring,1,Italian Studies,1S,1,Clg of Letters & Science,architecture
+195,2017 Spring,1,Italian Studies,2,1,Clg of Letters & Science,architecture
+196,2017 Spring,1,Italian Studies,R5B,2,Clg of Letters & Science,architecture
+197,2017 Spring,1,Japanese,10B,1,Clg of Letters & Science,architecture
+198,2017 Spring,1,Jewish Studies,101,1,Clg of Letters & Science,architecture
+199,2017 Spring,1,Korean,1B,2,Clg of Letters & Science,architecture
+200,2017 Spring,1,Korean,1B,3,Clg of Letters & Science,architecture
+201,2017 Spring,1,Korean,1B,5,Clg of Letters & Science,architecture
+202,2017 Spring,5,Landscape Arch & Env Plan,1,1,Clg of Environmental Design,architecture
+203,2017 Spring,1,Landscape Arch & Env Plan,102,1,Clg of Environmental Design,architecture
+204,2017 Spring,1,Landscape Arch & Env Plan,112,1,Clg of Environmental Design,architecture
+205,2017 Spring,23,Landscape Arch & Env Plan,130,1,Clg of Environmental Design,architecture
+206,2017 Spring,15,Landscape Arch & Env Plan,140,1,Clg of Environmental Design,architecture
+207,2017 Spring,19,Landscape Arch & Env Plan,170,1,Clg of Environmental Design,architecture
+208,2017 Spring,1,Letters & Science,22,1,Clg of Letters & Science,architecture
+209,2017 Spring,1,Letters & Science,25,1,Clg of Letters & Science,architecture
+210,2017 Spring,1,Letters & Science,C30Z,1,Clg of Letters & Science,architecture
+211,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,architecture
+212,2017 Spring,2,Letters & Science,160B,1,Clg of Letters & Science,architecture
+213,2017 Spring,1,Malay/Indonesian,100B,1,Clg of Letters & Science,architecture
+214,2017 Spring,1,Materials Science & Eng,24,2,Clg of Engineering,architecture
+215,2017 Spring,2,Mathematics,1A,1,Clg of Letters & Science,architecture
+216,2017 Spring,4,Mathematics,16A,1,Clg of Letters & Science,architecture
+217,2017 Spring,1,Mathematics,16B,1,Clg of Letters & Science,architecture
+218,2017 Spring,1,Mathematics,16B,2,Clg of Letters & Science,architecture
+219,2017 Spring,3,Mathematics,32,1,Clg of Letters & Science,architecture
+220,2017 Spring,2,Mathematics,53,1,Clg of Letters & Science,architecture
+221,2017 Spring,1,Mathematics,53,2,Clg of Letters & Science,architecture
+222,2017 Spring,1,Mathematics,54,2,Clg of Letters & Science,architecture
+223,2017 Spring,3,Mathematics,98,25,Clg of Letters & Science,architecture
+224,2017 Spring,1,Mathematics,98,31,Clg of Letters & Science,architecture
+225,2017 Spring,1,Mathematics,98BC,2,Clg of Letters & Science,architecture
+226,2017 Spring,1,Molecular & Cell Biology,198,9,Clg of Letters & Science,architecture
+227,2017 Spring,1,Molecular & Cell Biology,198,11,Clg of Letters & Science,architecture
+228,2017 Spring,1,Music,20A,2,Clg of Letters & Science,architecture
+229,2017 Spring,1,Music,20A,4,Clg of Letters & Science,architecture
+230,2017 Spring,2,Music,20A,5,Clg of Letters & Science,architecture
+231,2017 Spring,4,Music,26AC,1,Clg of Letters & Science,architecture
+232,2017 Spring,1,Music,29,1,Clg of Letters & Science,architecture
+233,2017 Spring,3,Music,128,1,Clg of Letters & Science,architecture
+234,2017 Spring,1,Music,139,1,Clg of Letters & Science,architecture
+235,2017 Spring,1,Music,198,3,Clg of Letters & Science,architecture
+236,2017 Spring,1,Music,198,7,Clg of Letters & Science,architecture
+237,2017 Spring,1,Native American Studies,R1B,1,Clg of Letters & Science,architecture
+238,2017 Spring,3,Near Eastern Studies,15,1,Clg of Letters & Science,architecture
+239,2017 Spring,1,Near Eastern Studies,39B,1,Clg of Letters & Science,architecture
+240,2017 Spring,1,Near Eastern Studies,C104,1,Clg of Letters & Science,architecture
+241,2017 Spring,2,Nutritional Science & Tox,10,1,Clg of Natural Resources,architecture
+242,2017 Spring,4,Nutritional Science & Tox,11,1,Clg of Natural Resources,architecture
+243,2017 Spring,1,Peace & Conflict Studies,10,1,Clg of Letters & Science,architecture
+244,2017 Spring,2,Peace & Conflict Studies,135,1,Clg of Letters & Science,architecture
+245,2017 Spring,2,Philosophy,2,1,Clg of Letters & Science,architecture
+246,2017 Spring,4,Philosophy,3,1,Clg of Letters & Science,architecture
+247,2017 Spring,1,Philosophy,110,1,Clg of Letters & Science,architecture
+248,2017 Spring,1,Physical Education,1,7,Clg of Letters & Science,architecture
+249,2017 Spring,1,Physical Education,1,23,Clg of Letters & Science,architecture
+250,2017 Spring,1,Physical Education,1,36,Clg of Letters & Science,architecture
+251,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,architecture
+252,2017 Spring,1,Physical Education,2,11,Clg of Letters & Science,architecture
+253,2017 Spring,2,Physical Education,2,12,Clg of Letters & Science,architecture
+254,2017 Spring,1,Physical Education,2,19,Clg of Letters & Science,architecture
+255,2017 Spring,1,Physical Education,3,3,Clg of Letters & Science,architecture
+256,2017 Spring,2,Physical Education,4,7,Clg of Letters & Science,architecture
+257,2017 Spring,1,Physical Education,32,1,Clg of Letters & Science,architecture
+258,2017 Spring,3,Physical Education,98,2,Clg of Letters & Science,architecture
+259,2017 Spring,1,Physical Education,198,1,Clg of Letters & Science,architecture
+260,2017 Spring,1,Physics,7A,1,Clg of Letters & Science,architecture
+261,2017 Spring,1,Physics,7C,1,Clg of Letters & Science,architecture
+262,2017 Spring,18,Physics,8A,1,Clg of Letters & Science,architecture
+263,2017 Spring,11,Physics,8A,2,Clg of Letters & Science,architecture
+264,2017 Spring,3,Physics,98,1,Clg of Letters & Science,architecture
+265,2017 Spring,3,Plant & Microbial Biology,40,1,Clg of Natural Resources,architecture
+266,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,architecture
+267,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,architecture
+268,2017 Spring,2,Political Science,4,1,Clg of Letters & Science,architecture
+269,2017 Spring,1,Political Science,140L,1,Clg of Letters & Science,architecture
+270,2017 Spring,1,Political Science,179,1,Clg of Letters & Science,architecture
+271,2017 Spring,3,Psychology,1,1,Clg of Letters & Science,architecture
+272,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,architecture
+273,2017 Spring,1,Psychology,10,1,Clg of Letters & Science,architecture
+274,2017 Spring,2,Psychology,C61,1,Clg of Letters & Science,architecture
+275,2017 Spring,1,Public Health,196,8,School of Public Health,architecture
+276,2017 Spring,1,Rhetoric,R1A,1,Clg of Letters & Science,architecture
+277,2017 Spring,1,Rhetoric,R1B,4,Clg of Letters & Science,architecture
+278,2017 Spring,1,Rhetoric,103B,1,Clg of Letters & Science,architecture
+279,2017 Spring,1,Russian,2,1,Clg of Letters & Science,architecture
+280,2017 Spring,3,Scandinavian,160,1,Clg of Letters & Science,architecture
+281,2017 Spring,2,Slavic Languages & Lit,39,1,Clg of Letters & Science,architecture
+282,2017 Spring,1,Slavic Languages & Lit,133,1,Clg of Letters & Science,architecture
+283,2017 Spring,3,Sociology,3AC,1,Clg of Letters & Science,architecture
+284,2017 Spring,2,Sociology,110,1,Clg of Letters & Science,architecture
+285,2017 Spring,1,Sociology,136,1,Clg of Letters & Science,architecture
+286,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,architecture
+287,2017 Spring,1,South & SE Asian Studies,R5B,3,Clg of Letters & Science,architecture
+288,2017 Spring,1,Spanish,1,2,Clg of Letters & Science,architecture
+289,2017 Spring,1,Spanish,1,6,Clg of Letters & Science,architecture
+290,2017 Spring,2,Spanish,22,1,Clg of Letters & Science,architecture
+291,2017 Spring,1,Spanish,25,4,Clg of Letters & Science,architecture
+292,2017 Spring,1,Spanish,107B,1,Clg of Letters & Science,architecture
+293,2017 Spring,3,Statistics,2,1,Clg of Letters & Science,architecture
+294,2017 Spring,1,Statistics,20,1,Clg of Letters & Science,architecture
+295,2017 Spring,1,Statistics,133,1,Clg of Letters & Science,architecture
+296,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,architecture
+297,2017 Spring,1,Theater Dance & Perf Stds,R1B,9,Clg of Letters & Science,architecture
+298,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,architecture
+299,2017 Spring,1,Theater Dance & Perf Stds,40,1,Clg of Letters & Science,architecture
+300,2017 Spring,4,Theater Dance & Perf Stds,60,1,Clg of Letters & Science,architecture
+301,2017 Spring,1,Theater Dance & Perf Stds,110B,2,Clg of Letters & Science,architecture
+302,2017 Spring,2,Theater Dance & Perf Stds,125,1,Clg of Letters & Science,architecture
+303,2017 Spring,1,Theater Dance & Perf Stds,141,1,Clg of Letters & Science,architecture
+304,2017 Spring,1,Theater Dance & Perf Stds,142,1,Clg of Letters & Science,architecture
+305,2017 Spring,1,Theater Dance & Perf Stds,148,1,Clg of Letters & Science,architecture
+306,2017 Spring,1,Theater Dance & Perf Stds,179,1,Clg of Letters & Science,architecture
+307,2017 Spring,1,Theater Dance & Perf Stds,181,1,Clg of Letters & Science,architecture
+308,2017 Spring,1,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,architecture
+309,2017 Spring,5,Visual Studies,185X,1,Clg of Environmental Design,architecture
+310,2017 Spring,2,Visual Studies,198,1,Clg of Environmental Design,architecture

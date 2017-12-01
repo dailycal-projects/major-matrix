@@ -1,0 +1,807 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,Aerospace Studies,1B,1,Clg of Letters & Science,electrical engineering computer science
+1,2017 Spring,1,Aerospace Studies,100,1,Clg of Letters & Science,electrical engineering computer science
+2,2017 Spring,1,African American Studies,5B,1,Clg of Letters & Science,electrical engineering computer science
+3,2017 Spring,1,African American Studies,10B,1,Clg of Letters & Science,electrical engineering computer science
+4,2017 Spring,1,African American Studies,28AC,1,Clg of Letters & Science,electrical engineering computer science
+5,2017 Spring,1,African American Studies,115,1,Clg of Letters & Science,electrical engineering computer science
+6,2017 Spring,2,African American Studies,142AC,1,Clg of Letters & Science,electrical engineering computer science
+7,2017 Spring,3,African American Studies,156AC,1,Clg of Letters & Science,electrical engineering computer science
+8,2017 Spring,1,Anthropology,1,1,Clg of Letters & Science,electrical engineering computer science
+9,2017 Spring,4,Anthropology,2AC,1,Clg of Letters & Science,electrical engineering computer science
+10,2017 Spring,4,Anthropology,3AC,1,Clg of Letters & Science,electrical engineering computer science
+11,2017 Spring,1,Anthropology,R5B,3,Clg of Letters & Science,electrical engineering computer science
+12,2017 Spring,3,Anthropology,R5B,4,Clg of Letters & Science,electrical engineering computer science
+13,2017 Spring,5,Anthropology,121AC,1,Clg of Letters & Science,electrical engineering computer science
+14,2017 Spring,1,Anthropology,156,1,Clg of Letters & Science,electrical engineering computer science
+15,2017 Spring,10,Anthropology,160AC,1,Clg of Letters & Science,electrical engineering computer science
+16,2017 Spring,1,Anthropology,162,1,Clg of Letters & Science,electrical engineering computer science
+17,2017 Spring,1,Anthropology,170,1,Clg of Letters & Science,electrical engineering computer science
+18,2017 Spring,5,Anthropology,174AC,1,Clg of Letters & Science,electrical engineering computer science
+19,2017 Spring,2,Anthropology,198,20,Clg of Letters & Science,electrical engineering computer science
+20,2017 Spring,1,Arabic,1B,6,Clg of Letters & Science,electrical engineering computer science
+21,2017 Spring,1,Arabic,1B,7,Clg of Letters & Science,electrical engineering computer science
+22,2017 Spring,2,Architecture,98,1,Clg of Environmental Design,electrical engineering computer science
+23,2017 Spring,1,Architecture,98,5,Clg of Environmental Design,electrical engineering computer science
+24,2017 Spring,3,Architecture,198,3,Clg of Environmental Design,electrical engineering computer science
+25,2017 Spring,1,Architecture,198,4,Clg of Environmental Design,electrical engineering computer science
+26,2017 Spring,1,Armenian,126,1,Clg of Letters & Science,electrical engineering computer science
+27,2017 Spring,1,Art Practice,12,1,Clg of Letters & Science,electrical engineering computer science
+28,2017 Spring,1,Art Practice,15,1,Clg of Letters & Science,electrical engineering computer science
+29,2017 Spring,1,Art Practice,102,2,Clg of Letters & Science,electrical engineering computer science
+30,2017 Spring,1,Art Practice,118,1,Clg of Letters & Science,electrical engineering computer science
+31,2017 Spring,2,Art Practice,180,1,Clg of Letters & Science,electrical engineering computer science
+32,2017 Spring,1,Art Practice,198,5,Clg of Letters & Science,electrical engineering computer science
+33,2017 Spring,2,Asian American Studies,R2A,1,Clg of Letters & Science,electrical engineering computer science
+34,2017 Spring,1,Asian American Studies,R2B,1,Clg of Letters & Science,electrical engineering computer science
+35,2017 Spring,2,Asian American Studies,R2B,2,Clg of Letters & Science,electrical engineering computer science
+36,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,electrical engineering computer science
+37,2017 Spring,9,Asian American Studies,132AC,1,Clg of Letters & Science,electrical engineering computer science
+38,2017 Spring,1,Asian American Studies,138,1,Clg of Letters & Science,electrical engineering computer science
+39,2017 Spring,2,Asian American Studies,144,1,Clg of Letters & Science,electrical engineering computer science
+40,2017 Spring,2,Asian American Studies,176,1,Clg of Letters & Science,electrical engineering computer science
+41,2017 Spring,2,Asian American Studies,198,2,Clg of Letters & Science,electrical engineering computer science
+42,2017 Spring,2,Asian American Studies,198,5,Clg of Letters & Science,electrical engineering computer science
+43,2017 Spring,1,Asian American Studies,198,6,Clg of Letters & Science,electrical engineering computer science
+44,2017 Spring,1,Asian Studies,198,2,Clg of Letters & Science,electrical engineering computer science
+45,2017 Spring,4,Astronomy,7B,1,Clg of Letters & Science,electrical engineering computer science
+46,2017 Spring,1,Astronomy,98,2,Clg of Letters & Science,electrical engineering computer science
+47,2017 Spring,3,Bengali,101B,1,Clg of Letters & Science,electrical engineering computer science
+48,2017 Spring,3,Bioengineering,25,1,Clg of Engineering,electrical engineering computer science
+49,2017 Spring,1,Bioengineering,98,27,Clg of Engineering,electrical engineering computer science
+50,2017 Spring,5,Bioengineering,101,1,Clg of Engineering,electrical engineering computer science
+51,2017 Spring,5,Bioengineering,104,1,Clg of Engineering,electrical engineering computer science
+52,2017 Spring,7,Bioengineering,110,1,Clg of Engineering,electrical engineering computer science
+53,2017 Spring,2,Bioengineering,115,1,Clg of Engineering,electrical engineering computer science
+54,2017 Spring,3,Bioengineering,121,1,Clg of Engineering,electrical engineering computer science
+55,2017 Spring,2,Bioengineering,135,1,Clg of Engineering,electrical engineering computer science
+56,2017 Spring,1,Bioengineering,144,1,Clg of Engineering,electrical engineering computer science
+57,2017 Spring,1,Bioengineering,198,16,Clg of Engineering,electrical engineering computer science
+58,2017 Spring,2,Biology,1A,1,Clg of Letters & Science,electrical engineering computer science
+59,2017 Spring,1,Biology,1A,2,Clg of Letters & Science,electrical engineering computer science
+60,2017 Spring,1,Biology,1AL,1,Clg of Letters & Science,electrical engineering computer science
+61,2017 Spring,1,Biology,1AL,2,Clg of Letters & Science,electrical engineering computer science
+62,2017 Spring,1,Biology,1B,1,Clg of Letters & Science,electrical engineering computer science
+63,2017 Spring,1,Biology,1B,2,Clg of Letters & Science,electrical engineering computer science
+64,2017 Spring,1,Biology,1B,3,Clg of Letters & Science,electrical engineering computer science
+65,2017 Spring,1,Bosnian/Croatian/Serbian,117B,1,Clg of Letters & Science,electrical engineering computer science
+66,2017 Spring,2,Buddhist Studies,C128,1,Clg of Letters & Science,electrical engineering computer science
+67,2017 Spring,1,Business Admin-Undergrad,C5,1,Haas School of Business,electrical engineering computer science
+68,2017 Spring,7,Business Admin-Undergrad,10,1,Haas School of Business,electrical engineering computer science
+69,2017 Spring,5,Business Admin-Undergrad,96,1,Haas School of Business,electrical engineering computer science
+70,2017 Spring,8,Business Admin-Undergrad,96,2,Haas School of Business,electrical engineering computer science
+71,2017 Spring,2,Business Admin-Undergrad,96,3,Haas School of Business,electrical engineering computer science
+72,2017 Spring,2,Business Admin-Undergrad,101B,1,Haas School of Business,electrical engineering computer science
+73,2017 Spring,1,Business Admin-Undergrad,101B,2,Haas School of Business,electrical engineering computer science
+74,2017 Spring,2,Business Admin-Undergrad,102A,1,Haas School of Business,electrical engineering computer science
+75,2017 Spring,1,Business Admin-Undergrad,106,1,Haas School of Business,electrical engineering computer science
+76,2017 Spring,2,Business Admin-Undergrad,107,1,Haas School of Business,electrical engineering computer science
+77,2017 Spring,1,Business Admin-Undergrad,115,1,Haas School of Business,electrical engineering computer science
+78,2017 Spring,2,Business Admin-Undergrad,118,1,Haas School of Business,electrical engineering computer science
+79,2017 Spring,1,Business Admin-Undergrad,141,1,Haas School of Business,electrical engineering computer science
+80,2017 Spring,2,Business Admin-Undergrad,152,1,Haas School of Business,electrical engineering computer science
+81,2017 Spring,3,Business Admin-Undergrad,152,2,Haas School of Business,electrical engineering computer science
+82,2017 Spring,2,Business Admin-Undergrad,155,1,Haas School of Business,electrical engineering computer science
+83,2017 Spring,1,Business Admin-Undergrad,167,1,Haas School of Business,electrical engineering computer science
+84,2017 Spring,1,Business Admin-Undergrad,169,1,Haas School of Business,electrical engineering computer science
+85,2017 Spring,3,Business Admin-Undergrad,178,1,Haas School of Business,electrical engineering computer science
+86,2017 Spring,1,Business Admin-Undergrad,179,1,Haas School of Business,electrical engineering computer science
+87,2017 Spring,1,Business Admin-Undergrad,190T,2,Haas School of Business,electrical engineering computer science
+88,2017 Spring,3,Business Admin-Undergrad,190T,3,Haas School of Business,electrical engineering computer science
+89,2017 Spring,3,Business Admin-Undergrad,195A,1,Haas School of Business,electrical engineering computer science
+90,2017 Spring,3,Business Admin-Undergrad,196,2,Haas School of Business,electrical engineering computer science
+91,2017 Spring,1,Business Admin-Undergrad,198,1,Haas School of Business,electrical engineering computer science
+92,2017 Spring,1,Business Admin-Undergrad,198,2,Haas School of Business,electrical engineering computer science
+93,2017 Spring,1,Business Admin-Undergrad,198,9,Haas School of Business,electrical engineering computer science
+94,2017 Spring,12,Chemical Engineering,198,3,Clg of Chemistry,electrical engineering computer science
+95,2017 Spring,3,Chemistry,1A,1,Clg of Chemistry,electrical engineering computer science
+96,2017 Spring,3,Chemistry,1A,2,Clg of Chemistry,electrical engineering computer science
+97,2017 Spring,4,Chemistry,1AL,1,Clg of Chemistry,electrical engineering computer science
+98,2017 Spring,1,Chemistry,1AL,2,Clg of Chemistry,electrical engineering computer science
+99,2017 Spring,1,Chemistry,3A,1,Clg of Chemistry,electrical engineering computer science
+100,2017 Spring,2,Chemistry,3A,2,Clg of Chemistry,electrical engineering computer science
+101,2017 Spring,3,Chemistry,3AL,1,Clg of Chemistry,electrical engineering computer science
+102,2017 Spring,1,Chemistry,3B,1,Clg of Chemistry,electrical engineering computer science
+103,2017 Spring,1,Chemistry,3BL,1,Clg of Chemistry,electrical engineering computer science
+104,2017 Spring,2,Chemistry,24,1,Clg of Chemistry,electrical engineering computer science
+105,2017 Spring,1,Chemistry,104B,1,Clg of Chemistry,electrical engineering computer science
+106,2017 Spring,1,Chemistry,C191,1,Clg of Chemistry,electrical engineering computer science
+107,2017 Spring,1,Chicano Studies,R1B,1,Clg of Letters & Science,electrical engineering computer science
+108,2017 Spring,1,Chicano Studies,50,1,Clg of Letters & Science,electrical engineering computer science
+109,2017 Spring,1,Chicano Studies,110,1,Clg of Letters & Science,electrical engineering computer science
+110,2017 Spring,1,Chicano Studies,180AC,1,Clg of Letters & Science,electrical engineering computer science
+111,2017 Spring,1,Chicano Studies,197,4,Clg of Letters & Science,electrical engineering computer science
+112,2017 Spring,1,Chinese,1A,1,Clg of Letters & Science,electrical engineering computer science
+113,2017 Spring,1,Chinese,1A,3,Clg of Letters & Science,electrical engineering computer science
+114,2017 Spring,1,Chinese,1B,3,Clg of Letters & Science,electrical engineering computer science
+115,2017 Spring,1,Chinese,1B,5,Clg of Letters & Science,electrical engineering computer science
+116,2017 Spring,1,Chinese,10B,2,Clg of Letters & Science,electrical engineering computer science
+117,2017 Spring,3,Chinese,10X,1,Clg of Letters & Science,electrical engineering computer science
+118,2017 Spring,1,Chinese,10X,2,Clg of Letters & Science,electrical engineering computer science
+119,2017 Spring,2,Chinese,10X,3,Clg of Letters & Science,electrical engineering computer science
+120,2017 Spring,1,Chinese,10Y,1,Clg of Letters & Science,electrical engineering computer science
+121,2017 Spring,1,Chinese,10Y,2,Clg of Letters & Science,electrical engineering computer science
+122,2017 Spring,1,Chinese,100XB,1,Clg of Letters & Science,electrical engineering computer science
+123,2017 Spring,1,Chinese,100XB,2,Clg of Letters & Science,electrical engineering computer science
+124,2017 Spring,1,Chinese,101,2,Clg of Letters & Science,electrical engineering computer science
+125,2017 Spring,1,Chinese,112,1,Clg of Letters & Science,electrical engineering computer science
+126,2017 Spring,2,Chinese,155,1,Clg of Letters & Science,electrical engineering computer science
+127,2017 Spring,1,City & Regional Planning,101,1,Clg of Environmental Design,electrical engineering computer science
+128,2017 Spring,3,City & Regional Planning,118AC,1,Clg of Environmental Design,electrical engineering computer science
+129,2017 Spring,1,Civil & Environmental Eng,11,1,Clg of Engineering,electrical engineering computer science
+130,2017 Spring,1,Civil & Environmental Eng,24,2,Clg of Engineering,electrical engineering computer science
+131,2017 Spring,2,Civil & Environmental Eng,88B,1,Clg of Engineering,electrical engineering computer science
+132,2017 Spring,1,Civil & Environmental Eng,98,2,Clg of Engineering,electrical engineering computer science
+133,2017 Spring,1,Civil & Environmental Eng,98,5,Clg of Engineering,electrical engineering computer science
+134,2017 Spring,1,Civil & Environmental Eng,98,10,Clg of Engineering,electrical engineering computer science
+135,2017 Spring,1,Civil & Environmental Eng,198,2,Clg of Engineering,electrical engineering computer science
+136,2017 Spring,2,Civil & Environmental Eng,198,11,Clg of Engineering,electrical engineering computer science
+137,2017 Spring,1,Classics,17B,1,Clg of Letters & Science,electrical engineering computer science
+138,2017 Spring,1,Classics,130,1,Clg of Letters & Science,electrical engineering computer science
+139,2017 Spring,1,Classics,161,1,Clg of Letters & Science,electrical engineering computer science
+140,2017 Spring,1,Classics,180,1,Clg of Letters & Science,electrical engineering computer science
+141,2017 Spring,4,Cognitive Science,1,1,Clg of Letters & Science,electrical engineering computer science
+142,2017 Spring,1,Cognitive Science,88,1,Clg of Letters & Science,electrical engineering computer science
+143,2017 Spring,4,Cognitive Science,C126,1,Clg of Letters & Science,electrical engineering computer science
+144,2017 Spring,1,Cognitive Science,198,2,Clg of Letters & Science,electrical engineering computer science
+145,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,electrical engineering computer science
+146,2017 Spring,2,Cognitive Science,198,6,Clg of Letters & Science,electrical engineering computer science
+147,2017 Spring,1,College Writing Programs,R4B,1,Clg of Letters & Science,electrical engineering computer science
+148,2017 Spring,1,College Writing Programs,R4B,4,Clg of Letters & Science,electrical engineering computer science
+149,2017 Spring,2,College Writing Programs,R4B,5,Clg of Letters & Science,electrical engineering computer science
+150,2017 Spring,1,College Writing Programs,R4B,6,Clg of Letters & Science,electrical engineering computer science
+151,2017 Spring,1,College Writing Programs,10B,1,Clg of Letters & Science,electrical engineering computer science
+152,2017 Spring,1,College Writing Programs,25AC,1,Clg of Letters & Science,electrical engineering computer science
+153,2017 Spring,1,College Writing Programs,106,1,Clg of Letters & Science,electrical engineering computer science
+154,2017 Spring,1,College Writing Programs,130,1,Clg of Letters & Science,electrical engineering computer science
+155,2017 Spring,1,Comparative Literature,R1A,3,Clg of Letters & Science,electrical engineering computer science
+156,2017 Spring,1,Comparative Literature,R1A,9,Clg of Letters & Science,electrical engineering computer science
+157,2017 Spring,1,Comparative Literature,R1B,10,Clg of Letters & Science,electrical engineering computer science
+158,2017 Spring,3,Comparative Literature,R1B,15,Clg of Letters & Science,electrical engineering computer science
+159,2017 Spring,1,Comparative Literature,R1B,23,Clg of Letters & Science,electrical engineering computer science
+160,2017 Spring,1,Comparative Literature,R1B,24,Clg of Letters & Science,electrical engineering computer science
+161,2017 Spring,3,Comparative Literature,60AC,1,Clg of Letters & Science,electrical engineering computer science
+162,2017 Spring,1,Comparative Literature,171,1,Clg of Letters & Science,electrical engineering computer science
+163,2017 Spring,52,Computer Science,C8,1,Clg of Engineering,electrical engineering computer science
+164,2017 Spring,1,Computer Science,9A,1,Clg of Engineering,electrical engineering computer science
+165,2017 Spring,12,Computer Science,9E,1,Clg of Engineering,electrical engineering computer science
+166,2017 Spring,6,Computer Science,9F,1,Clg of Engineering,electrical engineering computer science
+167,2017 Spring,1,Computer Science,24,1,Clg of Engineering,electrical engineering computer science
+168,2017 Spring,1,Computer Science,24,2,Clg of Engineering,electrical engineering computer science
+169,2017 Spring,2,Computer Science,47B,1,Clg of Engineering,electrical engineering computer science
+170,2017 Spring,8,Computer Science,61A,1,Clg of Engineering,electrical engineering computer science
+171,2017 Spring,317,Computer Science,61B,1,Clg of Engineering,electrical engineering computer science
+172,2017 Spring,148,Computer Science,61C,1,Clg of Engineering,electrical engineering computer science
+173,2017 Spring,200,Computer Science,70,1,Clg of Engineering,electrical engineering computer science
+174,2017 Spring,4,Computer Science,97,203,Clg of Engineering,electrical engineering computer science
+175,2017 Spring,2,Computer Science,97,209,Clg of Engineering,electrical engineering computer science
+176,2017 Spring,29,Computer Science,97,213,Clg of Engineering,electrical engineering computer science
+177,2017 Spring,6,Computer Science,C100,1,Clg of Engineering,electrical engineering computer science
+178,2017 Spring,31,Computer Science,160,1,Clg of Engineering,electrical engineering computer science
+179,2017 Spring,4,Computer Science,160,2,Clg of Engineering,electrical engineering computer science
+180,2017 Spring,2,Computer Science,160,3,Clg of Engineering,electrical engineering computer science
+181,2017 Spring,130,Computer Science,161,1,Clg of Engineering,electrical engineering computer science
+182,2017 Spring,76,Computer Science,162,1,Clg of Engineering,electrical engineering computer science
+183,2017 Spring,35,Computer Science,164,1,Clg of Engineering,electrical engineering computer science
+184,2017 Spring,152,Computer Science,170,1,Clg of Engineering,electrical engineering computer science
+185,2017 Spring,10,Computer Science,174,1,Clg of Engineering,electrical engineering computer science
+186,2017 Spring,43,Computer Science,184,1,Clg of Engineering,electrical engineering computer science
+187,2017 Spring,121,Computer Science,186,1,Clg of Engineering,electrical engineering computer science
+188,2017 Spring,135,Computer Science,188,1,Clg of Engineering,electrical engineering computer science
+189,2017 Spring,148,Computer Science,189,1,Clg of Engineering,electrical engineering computer science
+190,2017 Spring,24,Computer Science,C191,1,Clg of Engineering,electrical engineering computer science
+191,2017 Spring,15,Computer Science,194,30,Clg of Engineering,electrical engineering computer science
+192,2017 Spring,4,Computer Science,194,131,Clg of Engineering,electrical engineering computer science
+193,2017 Spring,4,Computer Science,194,133,Clg of Engineering,electrical engineering computer science
+194,2017 Spring,148,Computer Science,195,1,Clg of Engineering,electrical engineering computer science
+195,2017 Spring,6,Computer Science,197,1,Clg of Engineering,electrical engineering computer science
+196,2017 Spring,1,Computer Science,197,200,Clg of Engineering,electrical engineering computer science
+197,2017 Spring,11,Computer Science,197,203,Clg of Engineering,electrical engineering computer science
+198,2017 Spring,3,Computer Science,197,204,Clg of Engineering,electrical engineering computer science
+199,2017 Spring,1,Computer Science,197,205,Clg of Engineering,electrical engineering computer science
+200,2017 Spring,4,Computer Science,197,206,Clg of Engineering,electrical engineering computer science
+201,2017 Spring,13,Computer Science,197,212,Clg of Engineering,electrical engineering computer science
+202,2017 Spring,37,Computer Science,197,214,Clg of Engineering,electrical engineering computer science
+203,2017 Spring,4,Computer Science,197,215,Clg of Engineering,electrical engineering computer science
+204,2017 Spring,8,Computer Science,198,1,Clg of Engineering,electrical engineering computer science
+205,2017 Spring,1,Computer Science,198,2,Clg of Engineering,electrical engineering computer science
+206,2017 Spring,4,Computer Science,198,3,Clg of Engineering,electrical engineering computer science
+207,2017 Spring,3,Computer Science,198,48,Clg of Engineering,electrical engineering computer science
+208,2017 Spring,1,Computer Science,198,49,Clg of Engineering,electrical engineering computer science
+209,2017 Spring,10,Computer Science,198,56,Clg of Engineering,electrical engineering computer science
+210,2017 Spring,3,Computer Science,198,58,Clg of Engineering,electrical engineering computer science
+211,2017 Spring,12,Computer Science,198,61,Clg of Engineering,electrical engineering computer science
+212,2017 Spring,2,Computer Science,198,62,Clg of Engineering,electrical engineering computer science
+213,2017 Spring,5,Computer Science,198,64,Clg of Engineering,electrical engineering computer science
+214,2017 Spring,2,Computer Science,198,67,Clg of Engineering,electrical engineering computer science
+215,2017 Spring,3,Computer Science,198,68,Clg of Engineering,electrical engineering computer science
+216,2017 Spring,6,Computer Science,198,70,Clg of Engineering,electrical engineering computer science
+217,2017 Spring,4,Computer Science,198,71,Clg of Engineering,electrical engineering computer science
+218,2017 Spring,20,Computer Science,198,72,Clg of Engineering,electrical engineering computer science
+219,2017 Spring,10,Computer Science,198,75,Clg of Engineering,electrical engineering computer science
+220,2017 Spring,1,Computer Science,198,303,Clg of Engineering,electrical engineering computer science
+221,2017 Spring,2,Computer Science,198,642,Clg of Engineering,electrical engineering computer science
+222,2017 Spring,1,Design Innovation,15,1,Clg of Engineering,electrical engineering computer science
+223,2017 Spring,2,Design Innovation,21,1,Clg of Engineering,electrical engineering computer science
+224,2017 Spring,4,Design Innovation,22,1,Clg of Engineering,electrical engineering computer science
+225,2017 Spring,3,Design Innovation,98,1,Clg of Engineering,electrical engineering computer science
+226,2017 Spring,1,Design Innovation,190,2,Clg of Engineering,electrical engineering computer science
+227,2017 Spring,1,Design Innovation,198,1,Clg of Engineering,electrical engineering computer science
+228,2017 Spring,3,Design Innovation,198,2,Clg of Engineering,electrical engineering computer science
+229,2017 Spring,1,Development Studies,C10,1,Clg of Letters & Science,electrical engineering computer science
+230,2017 Spring,1,Dutch,2,1,Clg of Letters & Science,electrical engineering computer science
+231,2017 Spring,2,Dutch,166,1,Clg of Letters & Science,electrical engineering computer science
+232,2017 Spring,3,Earth & Planetary Science,130,1,Clg of Letters & Science,electrical engineering computer science
+233,2017 Spring,2,East Asian Languages,105,1,Clg of Letters & Science,electrical engineering computer science
+234,2017 Spring,1,East Asian Languages,C128,1,Clg of Letters & Science,electrical engineering computer science
+235,2017 Spring,5,Economics,1,1,Clg of Letters & Science,electrical engineering computer science
+236,2017 Spring,3,Economics,2,1,Clg of Letters & Science,electrical engineering computer science
+237,2017 Spring,3,Economics,100A,1,Clg of Letters & Science,electrical engineering computer science
+238,2017 Spring,3,Economics,100B,1,Clg of Letters & Science,electrical engineering computer science
+239,2017 Spring,6,Economics,101A,1,Clg of Letters & Science,electrical engineering computer science
+240,2017 Spring,4,Economics,101B,1,Clg of Letters & Science,electrical engineering computer science
+241,2017 Spring,5,Economics,136,1,Clg of Letters & Science,electrical engineering computer science
+242,2017 Spring,2,Economics,138,1,Clg of Letters & Science,electrical engineering computer science
+243,2017 Spring,1,Economics,139,1,Clg of Letters & Science,electrical engineering computer science
+244,2017 Spring,1,Economics,157,1,Clg of Letters & Science,electrical engineering computer science
+245,2017 Spring,1,Economics,C175,1,Clg of Letters & Science,electrical engineering computer science
+246,2017 Spring,1,Economics,C181,1,Clg of Letters & Science,electrical engineering computer science
+247,2017 Spring,1,Education,W140A,1,Grad School of Education,electrical engineering computer science
+248,2017 Spring,2,Education,W142,1,Grad School of Education,electrical engineering computer science
+249,2017 Spring,7,Education,182AC,1,Grad School of Education,electrical engineering computer science
+250,2017 Spring,2,Education,190AC,2,Grad School of Education,electrical engineering computer science
+251,2017 Spring,1,Education,198,9,Grad School of Education,electrical engineering computer science
+252,2017 Spring,1,Education,198,41,Grad School of Education,electrical engineering computer science
+253,2017 Spring,26,Electrical Eng & Computer Sci,151,1,Clg of Engineering,electrical engineering computer science
+254,2017 Spring,6,Electrical Eng & Computer Sci,151LA,101,Clg of Engineering,electrical engineering computer science
+255,2017 Spring,8,Electrical Eng & Computer Sci,151LB,101,Clg of Engineering,electrical engineering computer science
+256,2017 Spring,12,Electrical Eng & Computer Sci,151LB,102,Clg of Engineering,electrical engineering computer science
+257,2017 Spring,71,Electrical Engineering,16A,1,Clg of Engineering,electrical engineering computer science
+258,2017 Spring,345,Electrical Engineering,16B,1,Clg of Engineering,electrical engineering computer science
+259,2017 Spring,16,Electrical Engineering,105,1,Clg of Engineering,electrical engineering computer science
+260,2017 Spring,8,Electrical Engineering,C106B,1,Clg of Engineering,electrical engineering computer science
+261,2017 Spring,8,Electrical Engineering,113,1,Clg of Engineering,electrical engineering computer science
+262,2017 Spring,8,Electrical Engineering,117,1,Clg of Engineering,electrical engineering computer science
+263,2017 Spring,60,Electrical Engineering,120,1,Clg of Engineering,electrical engineering computer science
+264,2017 Spring,15,Electrical Engineering,122,1,Clg of Engineering,electrical engineering computer science
+265,2017 Spring,6,Electrical Engineering,123,1,Clg of Engineering,electrical engineering computer science
+266,2017 Spring,45,Electrical Engineering,126,1,Clg of Engineering,electrical engineering computer science
+267,2017 Spring,79,Electrical Engineering,127,1,Clg of Engineering,electrical engineering computer science
+268,2017 Spring,27,Electrical Engineering,C128,1,Clg of Engineering,electrical engineering computer science
+269,2017 Spring,10,Electrical Engineering,130,1,Clg of Engineering,electrical engineering computer science
+270,2017 Spring,1,Electrical Engineering,134,1,Clg of Engineering,electrical engineering computer science
+271,2017 Spring,4,Electrical Engineering,137B,1,Clg of Engineering,electrical engineering computer science
+272,2017 Spring,26,Electrical Engineering,140,1,Clg of Engineering,electrical engineering computer science
+273,2017 Spring,5,Electrical Engineering,143,1,Clg of Engineering,electrical engineering computer science
+274,2017 Spring,22,Electrical Engineering,192,1,Clg of Engineering,electrical engineering computer science
+275,2017 Spring,6,Electrical Engineering,194,1,Clg of Engineering,electrical engineering computer science
+276,2017 Spring,4,Electrical Engineering,198,1,Clg of Engineering,electrical engineering computer science
+277,2017 Spring,3,Electrical Engineering,198,2,Clg of Engineering,electrical engineering computer science
+278,2017 Spring,6,Electrical Engineering,198,6,Clg of Engineering,electrical engineering computer science
+279,2017 Spring,5,Electrical Engineering,198,13,Clg of Engineering,electrical engineering computer science
+280,2017 Spring,2,Electrical Engineering,198,14,Clg of Engineering,electrical engineering computer science
+281,2017 Spring,2,Engineering,7,1,Clg of Engineering,electrical engineering computer science
+282,2017 Spring,1,Engineering,25,1,Clg of Engineering,electrical engineering computer science
+283,2017 Spring,1,Engineering,26,1,Clg of Engineering,electrical engineering computer science
+284,2017 Spring,2,Engineering,27,1,Clg of Engineering,electrical engineering computer science
+285,2017 Spring,2,Engineering,98,1,Clg of Engineering,electrical engineering computer science
+286,2017 Spring,19,Engineering,120,1,Clg of Engineering,electrical engineering computer science
+287,2017 Spring,11,Engineering,157AC,1,Clg of Engineering,electrical engineering computer science
+288,2017 Spring,5,Engineering,198,1,Clg of Engineering,electrical engineering computer science
+289,2017 Spring,1,English,R1A,7,Clg of Letters & Science,electrical engineering computer science
+290,2017 Spring,1,English,R1B,1,Clg of Letters & Science,electrical engineering computer science
+291,2017 Spring,2,English,R1B,4,Clg of Letters & Science,electrical engineering computer science
+292,2017 Spring,1,English,24,2,Clg of Letters & Science,electrical engineering computer science
+293,2017 Spring,2,English,80K,1,Clg of Letters & Science,electrical engineering computer science
+294,2017 Spring,1,English,198,5,Clg of Letters & Science,electrical engineering computer science
+295,2017 Spring,1,English,198,6,Clg of Letters & Science,electrical engineering computer science
+296,2017 Spring,2,"Env Sci, Policy, & Mgmt",C11,1,Clg of Natural Resources,electrical engineering computer science
+297,2017 Spring,2,"Env Sci, Policy, & Mgmt",39,1,Clg of Natural Resources,electrical engineering computer science
+298,2017 Spring,2,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,electrical engineering computer science
+299,2017 Spring,9,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,electrical engineering computer science
+300,2017 Spring,2,"Env Sci, Policy, & Mgmt",98,2,Clg of Natural Resources,electrical engineering computer science
+301,2017 Spring,1,"Env Sci, Policy, & Mgmt",102D,1,Clg of Natural Resources,electrical engineering computer science
+302,2017 Spring,1,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,electrical engineering computer science
+303,2017 Spring,2,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,electrical engineering computer science
+304,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,15,Clg of Natural Resources,electrical engineering computer science
+305,2017 Spring,1,Environmental Design,R3B,1,Clg of Environmental Design,electrical engineering computer science
+306,2017 Spring,3,Environmental Design,100,1,Clg of Environmental Design,electrical engineering computer science
+307,2017 Spring,2,Ethnic Studies,122AC,1,Clg of Letters & Science,electrical engineering computer science
+308,2017 Spring,1,Ethnic Studies,173AC,1,Clg of Letters & Science,electrical engineering computer science
+309,2017 Spring,1,Ethnic Studies,198,5,Clg of Letters & Science,electrical engineering computer science
+310,2017 Spring,3,Film,R1B,1,Clg of Letters & Science,electrical engineering computer science
+311,2017 Spring,4,Film,R1B,4,Clg of Letters & Science,electrical engineering computer science
+312,2017 Spring,3,Film,R1B,5,Clg of Letters & Science,electrical engineering computer science
+313,2017 Spring,1,Film,20,1,Clg of Letters & Science,electrical engineering computer science
+314,2017 Spring,1,Film,108,3,Clg of Letters & Science,electrical engineering computer science
+315,2017 Spring,3,Film,140,1,Clg of Letters & Science,electrical engineering computer science
+316,2017 Spring,1,Film,140,2,Clg of Letters & Science,electrical engineering computer science
+317,2017 Spring,1,Film,160,2,Clg of Letters & Science,electrical engineering computer science
+318,2017 Spring,1,French,1,1,Clg of Letters & Science,electrical engineering computer science
+319,2017 Spring,1,French,1,8,Clg of Letters & Science,electrical engineering computer science
+320,2017 Spring,1,French,R1A,1,Clg of Letters & Science,electrical engineering computer science
+321,2017 Spring,3,French,R1B,1,Clg of Letters & Science,electrical engineering computer science
+322,2017 Spring,2,French,R1B,2,Clg of Letters & Science,electrical engineering computer science
+323,2017 Spring,1,French,R1B,3,Clg of Letters & Science,electrical engineering computer science
+324,2017 Spring,3,French,R1B,4,Clg of Letters & Science,electrical engineering computer science
+325,2017 Spring,1,French,4,1,Clg of Letters & Science,electrical engineering computer science
+326,2017 Spring,1,French,4,2,Clg of Letters & Science,electrical engineering computer science
+327,2017 Spring,1,French,119A,1,Clg of Letters & Science,electrical engineering computer science
+328,2017 Spring,1,French,120B,1,Clg of Letters & Science,electrical engineering computer science
+329,2017 Spring,1,French,178B,1,Clg of Letters & Science,electrical engineering computer science
+330,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,electrical engineering computer science
+331,2017 Spring,2,Gender & Womens Studies,134,1,Clg of Letters & Science,electrical engineering computer science
+332,2017 Spring,1,Gender & Womens Studies,198,4,Clg of Letters & Science,electrical engineering computer science
+333,2017 Spring,2,Geography,20,1,Clg of Letters & Science,electrical engineering computer science
+334,2017 Spring,1,Geography,70AC,1,Clg of Letters & Science,electrical engineering computer science
+335,2017 Spring,1,Geography,88,1,Clg of Letters & Science,electrical engineering computer science
+336,2017 Spring,1,Geography,170,4,Clg of Letters & Science,electrical engineering computer science
+337,2017 Spring,1,Geography,185,1,Clg of Letters & Science,electrical engineering computer science
+338,2017 Spring,1,German,1,2,Clg of Letters & Science,electrical engineering computer science
+339,2017 Spring,3,German,1,4,Clg of Letters & Science,electrical engineering computer science
+340,2017 Spring,2,German,2,3,Clg of Letters & Science,electrical engineering computer science
+341,2017 Spring,2,German,R5B,2,Clg of Letters & Science,electrical engineering computer science
+342,2017 Spring,3,German,R5B,4,Clg of Letters & Science,electrical engineering computer science
+343,2017 Spring,1,German,R5B,5,Clg of Letters & Science,electrical engineering computer science
+344,2017 Spring,2,German,24,1,Clg of Letters & Science,electrical engineering computer science
+345,2017 Spring,1,German,182,1,Clg of Letters & Science,electrical engineering computer science
+346,2017 Spring,1,Global Poverty & Practice,105,3,Clg of Letters & Science,electrical engineering computer science
+347,2017 Spring,1,Greek,101,1,Clg of Letters & Science,electrical engineering computer science
+348,2017 Spring,1,Hebrew,1B,1,Clg of Letters & Science,electrical engineering computer science
+349,2017 Spring,2,Hindi-Urdu,1B,1,Clg of Letters & Science,electrical engineering computer science
+350,2017 Spring,1,History,R1B,1,Clg of Letters & Science,electrical engineering computer science
+351,2017 Spring,3,History,R1B,2,Clg of Letters & Science,electrical engineering computer science
+352,2017 Spring,1,History,R1B,3,Clg of Letters & Science,electrical engineering computer science
+353,2017 Spring,1,History,6B,1,Clg of Letters & Science,electrical engineering computer science
+354,2017 Spring,9,History,7B,1,Clg of Letters & Science,electrical engineering computer science
+355,2017 Spring,1,History,8B,1,Clg of Letters & Science,electrical engineering computer science
+356,2017 Spring,1,History,88,1,Clg of Letters & Science,electrical engineering computer science
+357,2017 Spring,1,History,98,2,Clg of Letters & Science,electrical engineering computer science
+358,2017 Spring,2,History,98,3,Clg of Letters & Science,electrical engineering computer science
+359,2017 Spring,38,History,100AC,2,Clg of Letters & Science,electrical engineering computer science
+360,2017 Spring,3,History,100D,1,Clg of Letters & Science,electrical engineering computer science
+361,2017 Spring,1,History,100F,2,Clg of Letters & Science,electrical engineering computer science
+362,2017 Spring,2,History,100S,2,Clg of Letters & Science,electrical engineering computer science
+363,2017 Spring,4,History,100U,1,Clg of Letters & Science,electrical engineering computer science
+364,2017 Spring,1,History,109C,1,Clg of Letters & Science,electrical engineering computer science
+365,2017 Spring,2,History,111B,1,Clg of Letters & Science,electrical engineering computer science
+366,2017 Spring,3,History,114B,1,Clg of Letters & Science,electrical engineering computer science
+367,2017 Spring,2,History,119A,1,Clg of Letters & Science,electrical engineering computer science
+368,2017 Spring,6,History,122AC,1,Clg of Letters & Science,electrical engineering computer science
+369,2017 Spring,6,History,124B,1,Clg of Letters & Science,electrical engineering computer science
+370,2017 Spring,1,History,136B,1,Clg of Letters & Science,electrical engineering computer science
+371,2017 Spring,2,History,136C,1,Clg of Letters & Science,electrical engineering computer science
+372,2017 Spring,2,History,141B,1,Clg of Letters & Science,electrical engineering computer science
+373,2017 Spring,2,History,160,1,Clg of Letters & Science,electrical engineering computer science
+374,2017 Spring,7,History,162B,1,Clg of Letters & Science,electrical engineering computer science
+375,2017 Spring,2,History,164A,1,Clg of Letters & Science,electrical engineering computer science
+376,2017 Spring,1,History,171C,1,Clg of Letters & Science,electrical engineering computer science
+377,2017 Spring,1,History,180,1,Clg of Letters & Science,electrical engineering computer science
+378,2017 Spring,1,History,182A,1,Clg of Letters & Science,electrical engineering computer science
+379,2017 Spring,4,History,185B,1,Clg of Letters & Science,electrical engineering computer science
+380,2017 Spring,5,History,186,1,Clg of Letters & Science,electrical engineering computer science
+381,2017 Spring,2,History of Art,R1B,1,Clg of Letters & Science,electrical engineering computer science
+382,2017 Spring,3,History of Art,R1B,4,Clg of Letters & Science,electrical engineering computer science
+383,2017 Spring,1,History of Art,R1B,7,Clg of Letters & Science,electrical engineering computer science
+384,2017 Spring,1,History of Art,R1B,8,Clg of Letters & Science,electrical engineering computer science
+385,2017 Spring,1,History of Art,87AC,1,Clg of Letters & Science,electrical engineering computer science
+386,2017 Spring,1,History of Art,188A,1,Clg of Letters & Science,electrical engineering computer science
+387,2017 Spring,4,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,electrical engineering computer science
+388,2017 Spring,4,Industrial Eng & Ops Rsch,160,1,Clg of Engineering,electrical engineering computer science
+389,2017 Spring,4,Industrial Eng & Ops Rsch,165,1,Clg of Engineering,electrical engineering computer science
+390,2017 Spring,3,Industrial Eng & Ops Rsch,166,1,Clg of Engineering,electrical engineering computer science
+391,2017 Spring,2,Industrial Eng & Ops Rsch,170,1,Clg of Engineering,electrical engineering computer science
+392,2017 Spring,9,Industrial Eng & Ops Rsch,171,1,Clg of Engineering,electrical engineering computer science
+393,2017 Spring,6,Industrial Eng & Ops Rsch,173,1,Clg of Engineering,electrical engineering computer science
+394,2017 Spring,2,Industrial Eng & Ops Rsch,185,2,Clg of Engineering,electrical engineering computer science
+395,2017 Spring,8,Industrial Eng & Ops Rsch,186,1,Clg of Engineering,electrical engineering computer science
+396,2017 Spring,11,Industrial Eng & Ops Rsch,190C,1,Clg of Engineering,electrical engineering computer science
+397,2017 Spring,9,Industrial Eng & Ops Rsch,190D,1,Clg of Engineering,electrical engineering computer science
+398,2017 Spring,6,Industrial Eng & Ops Rsch,191,1,Clg of Engineering,electrical engineering computer science
+399,2017 Spring,3,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,electrical engineering computer science
+400,2017 Spring,10,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,electrical engineering computer science
+401,2017 Spring,2,Industrial Eng & Ops Rsch,198,3,Clg of Engineering,electrical engineering computer science
+402,2017 Spring,2,Information,88A,1,School of Information,electrical engineering computer science
+403,2017 Spring,2,Integrative Biology,31,1,Clg of Letters & Science,electrical engineering computer science
+404,2017 Spring,1,Integrative Biology,C32,1,Clg of Letters & Science,electrical engineering computer science
+405,2017 Spring,1,Integrative Biology,161,1,Clg of Letters & Science,electrical engineering computer science
+406,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,electrical engineering computer science
+407,2017 Spring,2,Integrative Biology,198,2,Clg of Letters & Science,electrical engineering computer science
+408,2017 Spring,2,Integrative Biology,198,6,Clg of Letters & Science,electrical engineering computer science
+409,2017 Spring,1,Interdisciplinary Studies,61,1,Clg of Letters & Science,electrical engineering computer science
+410,2017 Spring,11,Interdisciplinary Studies,100G,1,Clg of Letters & Science,electrical engineering computer science
+411,2017 Spring,3,International & Area Stds,157AC,1,Clg of Letters & Science,electrical engineering computer science
+412,2017 Spring,2,International & Area Stds,198,2,Clg of Letters & Science,electrical engineering computer science
+413,2017 Spring,1,Italian Studies,4,1,Clg of Letters & Science,electrical engineering computer science
+414,2017 Spring,1,Italian Studies,R5B,1,Clg of Letters & Science,electrical engineering computer science
+415,2017 Spring,2,Italian Studies,120,1,Clg of Letters & Science,electrical engineering computer science
+416,2017 Spring,1,Italian Studies,170,1,Clg of Letters & Science,electrical engineering computer science
+417,2017 Spring,2,Japanese,1B,1,Clg of Letters & Science,electrical engineering computer science
+418,2017 Spring,2,Japanese,1B,2,Clg of Letters & Science,electrical engineering computer science
+419,2017 Spring,1,Japanese,1B,3,Clg of Letters & Science,electrical engineering computer science
+420,2017 Spring,1,Japanese,1B,4,Clg of Letters & Science,electrical engineering computer science
+421,2017 Spring,2,Japanese,1B,5,Clg of Letters & Science,electrical engineering computer science
+422,2017 Spring,1,Japanese,1B,6,Clg of Letters & Science,electrical engineering computer science
+423,2017 Spring,2,Japanese,1B,7,Clg of Letters & Science,electrical engineering computer science
+424,2017 Spring,1,Japanese,10B,1,Clg of Letters & Science,electrical engineering computer science
+425,2017 Spring,1,Japanese,10B,3,Clg of Letters & Science,electrical engineering computer science
+426,2017 Spring,1,Japanese,80,1,Clg of Letters & Science,electrical engineering computer science
+427,2017 Spring,2,Japanese,100B,1,Clg of Letters & Science,electrical engineering computer science
+428,2017 Spring,1,Japanese,100B,2,Clg of Letters & Science,electrical engineering computer science
+429,2017 Spring,1,Japanese,100X,1,Clg of Letters & Science,electrical engineering computer science
+430,2017 Spring,1,Japanese,155,1,Clg of Letters & Science,electrical engineering computer science
+431,2017 Spring,2,Japanese,161,1,Clg of Letters & Science,electrical engineering computer science
+432,2017 Spring,1,Japanese,188,1,Clg of Letters & Science,electrical engineering computer science
+433,2017 Spring,1,Korean,1B,2,Clg of Letters & Science,electrical engineering computer science
+434,2017 Spring,1,Korean,1B,4,Clg of Letters & Science,electrical engineering computer science
+435,2017 Spring,2,Korean,1B,5,Clg of Letters & Science,electrical engineering computer science
+436,2017 Spring,1,Korean,1B,6,Clg of Letters & Science,electrical engineering computer science
+437,2017 Spring,1,Korean,1BX,1,Clg of Letters & Science,electrical engineering computer science
+438,2017 Spring,1,Korean,7B,1,Clg of Letters & Science,electrical engineering computer science
+439,2017 Spring,2,Korean,10B,2,Clg of Letters & Science,electrical engineering computer science
+440,2017 Spring,2,Korean,100BX,1,Clg of Letters & Science,electrical engineering computer science
+441,2017 Spring,1,Korean,112,1,Clg of Letters & Science,electrical engineering computer science
+442,2017 Spring,1,Korean,150,1,Clg of Letters & Science,electrical engineering computer science
+443,2017 Spring,1,Landscape Arch & Env Plan,198,1,Clg of Environmental Design,electrical engineering computer science
+444,2017 Spring,1,Latin,1,2,Clg of Letters & Science,electrical engineering computer science
+445,2017 Spring,1,Latin,100,1,Clg of Letters & Science,electrical engineering computer science
+446,2017 Spring,2,Legal Studies,R1B,1,School of Law,electrical engineering computer science
+447,2017 Spring,1,Legal Studies,105,1,School of Law,electrical engineering computer science
+448,2017 Spring,1,Legal Studies,132AC,1,School of Law,electrical engineering computer science
+449,2017 Spring,1,Legal Studies,138,1,School of Law,electrical engineering computer science
+450,2017 Spring,1,Legal Studies,152AC,1,School of Law,electrical engineering computer science
+451,2017 Spring,1,Legal Studies,177,1,School of Law,electrical engineering computer science
+452,2017 Spring,1,Legal Studies,185AC,1,School of Law,electrical engineering computer science
+453,2017 Spring,2,Letters & Science,22,1,Clg of Letters & Science,electrical engineering computer science
+454,2017 Spring,1,Letters & Science,70A,1,Clg of Letters & Science,electrical engineering computer science
+455,2017 Spring,2,Letters & Science,88,5,Clg of Letters & Science,electrical engineering computer science
+456,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,electrical engineering computer science
+457,2017 Spring,2,Letters & Science,160B,1,Clg of Letters & Science,electrical engineering computer science
+458,2017 Spring,6,Letters & Science,C180U,1,Clg of Letters & Science,electrical engineering computer science
+459,2017 Spring,3,Linguistics,R1B,1,Clg of Letters & Science,electrical engineering computer science
+460,2017 Spring,1,Linguistics,R1B,2,Clg of Letters & Science,electrical engineering computer science
+461,2017 Spring,1,Linguistics,24,1,Clg of Letters & Science,electrical engineering computer science
+462,2017 Spring,1,Linguistics,47,1,Clg of Letters & Science,electrical engineering computer science
+463,2017 Spring,6,Linguistics,100,1,Clg of Letters & Science,electrical engineering computer science
+464,2017 Spring,3,Linguistics,115,1,Clg of Letters & Science,electrical engineering computer science
+465,2017 Spring,4,Linguistics,120,1,Clg of Letters & Science,electrical engineering computer science
+466,2017 Spring,1,Linguistics,121,1,Clg of Letters & Science,electrical engineering computer science
+467,2017 Spring,1,Linguistics,C146,1,Clg of Letters & Science,electrical engineering computer science
+468,2017 Spring,1,Linguistics,C160,1,Clg of Letters & Science,electrical engineering computer science
+469,2017 Spring,1,Linguistics,197,1,Clg of Letters & Science,electrical engineering computer science
+470,2017 Spring,1,Malay/Indonesian,100B,1,Clg of Letters & Science,electrical engineering computer science
+471,2017 Spring,3,Materials Science & Eng,24,1,Clg of Engineering,electrical engineering computer science
+472,2017 Spring,2,Materials Science & Eng,117,1,Clg of Engineering,electrical engineering computer science
+473,2017 Spring,1,Mathematics,1A,1,Clg of Letters & Science,electrical engineering computer science
+474,2017 Spring,3,Mathematics,1B,1,Clg of Letters & Science,electrical engineering computer science
+475,2017 Spring,8,Mathematics,1B,2,Clg of Letters & Science,electrical engineering computer science
+476,2017 Spring,2,Mathematics,24,1,Clg of Letters & Science,electrical engineering computer science
+477,2017 Spring,45,Mathematics,53,1,Clg of Letters & Science,electrical engineering computer science
+478,2017 Spring,32,Mathematics,53,2,Clg of Letters & Science,electrical engineering computer science
+479,2017 Spring,3,Mathematics,H53,1,Clg of Letters & Science,electrical engineering computer science
+480,2017 Spring,42,Mathematics,54,1,Clg of Letters & Science,electrical engineering computer science
+481,2017 Spring,40,Mathematics,54,2,Clg of Letters & Science,electrical engineering computer science
+482,2017 Spring,1,Mathematics,55,1,Clg of Letters & Science,electrical engineering computer science
+483,2017 Spring,1,Mathematics,98,17,Clg of Letters & Science,electrical engineering computer science
+484,2017 Spring,1,Mathematics,98,30,Clg of Letters & Science,electrical engineering computer science
+485,2017 Spring,3,Mathematics,104,1,Clg of Letters & Science,electrical engineering computer science
+486,2017 Spring,2,Mathematics,104,2,Clg of Letters & Science,electrical engineering computer science
+487,2017 Spring,5,Mathematics,104,3,Clg of Letters & Science,electrical engineering computer science
+488,2017 Spring,5,Mathematics,104,4,Clg of Letters & Science,electrical engineering computer science
+489,2017 Spring,1,Mathematics,104,5,Clg of Letters & Science,electrical engineering computer science
+490,2017 Spring,2,Mathematics,104,6,Clg of Letters & Science,electrical engineering computer science
+491,2017 Spring,1,Mathematics,105,1,Clg of Letters & Science,electrical engineering computer science
+492,2017 Spring,28,Mathematics,110,1,Clg of Letters & Science,electrical engineering computer science
+493,2017 Spring,1,Mathematics,113,1,Clg of Letters & Science,electrical engineering computer science
+494,2017 Spring,2,Mathematics,113,2,Clg of Letters & Science,electrical engineering computer science
+495,2017 Spring,4,Mathematics,113,3,Clg of Letters & Science,electrical engineering computer science
+496,2017 Spring,1,Mathematics,113,4,Clg of Letters & Science,electrical engineering computer science
+497,2017 Spring,1,Mathematics,113,5,Clg of Letters & Science,electrical engineering computer science
+498,2017 Spring,3,Mathematics,113,6,Clg of Letters & Science,electrical engineering computer science
+499,2017 Spring,4,Mathematics,113,7,Clg of Letters & Science,electrical engineering computer science
+500,2017 Spring,3,Mathematics,H113,1,Clg of Letters & Science,electrical engineering computer science
+501,2017 Spring,1,Mathematics,115,1,Clg of Letters & Science,electrical engineering computer science
+502,2017 Spring,1,Mathematics,118,1,Clg of Letters & Science,electrical engineering computer science
+503,2017 Spring,1,Mathematics,126,1,Clg of Letters & Science,electrical engineering computer science
+504,2017 Spring,3,Mathematics,128A,1,Clg of Letters & Science,electrical engineering computer science
+505,2017 Spring,2,Mathematics,135,1,Clg of Letters & Science,electrical engineering computer science
+506,2017 Spring,1,Mathematics,160,1,Clg of Letters & Science,electrical engineering computer science
+507,2017 Spring,1,Mathematics,170,1,Clg of Letters & Science,electrical engineering computer science
+508,2017 Spring,1,Mathematics,185,1,Clg of Letters & Science,electrical engineering computer science
+509,2017 Spring,1,Mathematics,185,3,Clg of Letters & Science,electrical engineering computer science
+510,2017 Spring,1,Mathematics,185,4,Clg of Letters & Science,electrical engineering computer science
+511,2017 Spring,1,Mathematics,185,5,Clg of Letters & Science,electrical engineering computer science
+512,2017 Spring,1,Mathematics,191,1,Clg of Letters & Science,electrical engineering computer science
+513,2017 Spring,2,Mathematics,198,2,Clg of Letters & Science,electrical engineering computer science
+514,2017 Spring,1,Mathematics,198,3,Clg of Letters & Science,electrical engineering computer science
+515,2017 Spring,1,Mechanical Engineering,24,2,Clg of Engineering,electrical engineering computer science
+516,2017 Spring,1,Mechanical Engineering,40,1,Clg of Engineering,electrical engineering computer science
+517,2017 Spring,2,Mechanical Engineering,C85,1,Clg of Engineering,electrical engineering computer science
+518,2017 Spring,2,Mechanical Engineering,C85,2,Clg of Engineering,electrical engineering computer science
+519,2017 Spring,4,Mechanical Engineering,102B,1,Clg of Engineering,electrical engineering computer science
+520,2017 Spring,3,Mechanical Engineering,104,1,Clg of Engineering,electrical engineering computer science
+521,2017 Spring,2,Mechanical Engineering,106,1,Clg of Engineering,electrical engineering computer science
+522,2017 Spring,2,Mechanical Engineering,107,1,Clg of Engineering,electrical engineering computer science
+523,2017 Spring,2,Mechanical Engineering,108,1,Clg of Engineering,electrical engineering computer science
+524,2017 Spring,3,Mechanical Engineering,109,1,Clg of Engineering,electrical engineering computer science
+525,2017 Spring,1,Mechanical Engineering,110,1,Clg of Engineering,electrical engineering computer science
+526,2017 Spring,3,Mechanical Engineering,132,1,Clg of Engineering,electrical engineering computer science
+527,2017 Spring,3,Mechanical Engineering,135,1,Clg of Engineering,electrical engineering computer science
+528,2017 Spring,1,Mechanical Engineering,173,1,Clg of Engineering,electrical engineering computer science
+529,2017 Spring,2,Mechanical Engineering,C180,1,Clg of Engineering,electrical engineering computer science
+530,2017 Spring,4,Mechanical Engineering,191K,1,Clg of Engineering,electrical engineering computer science
+531,2017 Spring,1,Mechanical Engineering,193E,1,Clg of Engineering,electrical engineering computer science
+532,2017 Spring,3,Mechanical Engineering,198,50,Clg of Engineering,electrical engineering computer science
+533,2017 Spring,1,Middle Eastern Studies,130,1,Clg of Letters & Science,electrical engineering computer science
+534,2017 Spring,1,Molecular & Cell Biology,C61,1,Clg of Letters & Science,electrical engineering computer science
+535,2017 Spring,1,Molecular & Cell Biology,98,205,Clg of Letters & Science,electrical engineering computer science
+536,2017 Spring,2,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,electrical engineering computer science
+537,2017 Spring,1,Molecular & Cell Biology,140,1,Clg of Letters & Science,electrical engineering computer science
+538,2017 Spring,1,Molecular & Cell Biology,198,9,Clg of Letters & Science,electrical engineering computer science
+539,2017 Spring,1,Molecular & Cell Biology,198,11,Clg of Letters & Science,electrical engineering computer science
+540,2017 Spring,2,Music,R1B,1,Clg of Letters & Science,electrical engineering computer science
+541,2017 Spring,2,Music,20A,1,Clg of Letters & Science,electrical engineering computer science
+542,2017 Spring,1,Music,20A,2,Clg of Letters & Science,electrical engineering computer science
+543,2017 Spring,1,Music,20A,3,Clg of Letters & Science,electrical engineering computer science
+544,2017 Spring,1,Music,20A,5,Clg of Letters & Science,electrical engineering computer science
+545,2017 Spring,1,Music,20A,6,Clg of Letters & Science,electrical engineering computer science
+546,2017 Spring,1,Music,20B,1,Clg of Letters & Science,electrical engineering computer science
+547,2017 Spring,3,Music,25A,2,Clg of Letters & Science,electrical engineering computer science
+548,2017 Spring,20,Music,26AC,1,Clg of Letters & Science,electrical engineering computer science
+549,2017 Spring,2,Music,29,1,Clg of Letters & Science,electrical engineering computer science
+550,2017 Spring,1,Music,44,1,Clg of Letters & Science,electrical engineering computer science
+551,2017 Spring,3,Music,44,2,Clg of Letters & Science,electrical engineering computer science
+552,2017 Spring,1,Music,44,3,Clg of Letters & Science,electrical engineering computer science
+553,2017 Spring,1,Music,116B,1,Clg of Letters & Science,electrical engineering computer science
+554,2017 Spring,1,Music,128,1,Clg of Letters & Science,electrical engineering computer science
+555,2017 Spring,3,Music,139,1,Clg of Letters & Science,electrical engineering computer science
+556,2017 Spring,1,Music,140,1,Clg of Letters & Science,electrical engineering computer science
+557,2017 Spring,1,Music,140,3,Clg of Letters & Science,electrical engineering computer science
+558,2017 Spring,2,Music,141,1,Clg of Letters & Science,electrical engineering computer science
+559,2017 Spring,1,Music,142,1,Clg of Letters & Science,electrical engineering computer science
+560,2017 Spring,3,Music,142,2,Clg of Letters & Science,electrical engineering computer science
+561,2017 Spring,1,Music,148,1,Clg of Letters & Science,electrical engineering computer science
+562,2017 Spring,1,Music,149,1,Clg of Letters & Science,electrical engineering computer science
+563,2017 Spring,1,Music,150A,1,Clg of Letters & Science,electrical engineering computer science
+564,2017 Spring,1,Music,153B,1,Clg of Letters & Science,electrical engineering computer science
+565,2017 Spring,1,Music,154B,1,Clg of Letters & Science,electrical engineering computer science
+566,2017 Spring,3,Music,159,1,Clg of Letters & Science,electrical engineering computer science
+567,2017 Spring,1,Music,165,1,Clg of Letters & Science,electrical engineering computer science
+568,2017 Spring,1,Music,198,2,Clg of Letters & Science,electrical engineering computer science
+569,2017 Spring,4,Music,198,3,Clg of Letters & Science,electrical engineering computer science
+570,2017 Spring,2,Music,198,7,Clg of Letters & Science,electrical engineering computer science
+571,2017 Spring,1,Music,198,8,Clg of Letters & Science,electrical engineering computer science
+572,2017 Spring,1,Music,198,10,Clg of Letters & Science,electrical engineering computer science
+573,2017 Spring,1,Music,198BC,2,Clg of Letters & Science,electrical engineering computer science
+574,2017 Spring,1,Native American Studies,120AC,1,Clg of Letters & Science,electrical engineering computer science
+575,2017 Spring,1,Native American Studies,C152,1,Clg of Letters & Science,electrical engineering computer science
+576,2017 Spring,1,Native American Studies,173AC,1,Clg of Letters & Science,electrical engineering computer science
+577,2017 Spring,1,Naval Science,2,1,Clg of Letters & Science,electrical engineering computer science
+578,2017 Spring,1,Naval Science,10,1,Clg of Letters & Science,electrical engineering computer science
+579,2017 Spring,1,Near Eastern Studies,R1B,1,Clg of Letters & Science,electrical engineering computer science
+580,2017 Spring,1,Near Eastern Studies,39B,1,Clg of Letters & Science,electrical engineering computer science
+581,2017 Spring,1,Near Eastern Studies,109,1,Clg of Letters & Science,electrical engineering computer science
+582,2017 Spring,2,New Media,190,4,Clg of Engineering,electrical engineering computer science
+583,2017 Spring,2,Nuclear Engineering,24,2,Clg of Engineering,electrical engineering computer science
+584,2017 Spring,1,Nuclear Engineering,100,1,Clg of Engineering,electrical engineering computer science
+585,2017 Spring,6,Nutritional Science & Tox,10,1,Clg of Natural Resources,electrical engineering computer science
+586,2017 Spring,1,Nutritional Science & Tox,11,1,Clg of Natural Resources,electrical engineering computer science
+587,2017 Spring,2,Nutritional Science & Tox,20,1,Clg of Natural Resources,electrical engineering computer science
+588,2017 Spring,1,Nutritional Science & Tox,98,1,Clg of Natural Resources,electrical engineering computer science
+589,2017 Spring,1,Nutritional Science & Tox,98,2,Clg of Natural Resources,electrical engineering computer science
+590,2017 Spring,1,Nutritional Science & Tox,198,1,Clg of Natural Resources,electrical engineering computer science
+591,2017 Spring,3,Nutritional Science & Tox,198,2,Clg of Natural Resources,electrical engineering computer science
+592,2017 Spring,2,Peace & Conflict Studies,10,1,Clg of Letters & Science,electrical engineering computer science
+593,2017 Spring,2,Peace & Conflict Studies,135,1,Clg of Letters & Science,electrical engineering computer science
+594,2017 Spring,6,Persian,100B,1,Clg of Letters & Science,electrical engineering computer science
+595,2017 Spring,1,Persian,104B,1,Clg of Letters & Science,electrical engineering computer science
+596,2017 Spring,3,Philosophy,2,1,Clg of Letters & Science,electrical engineering computer science
+597,2017 Spring,2,Philosophy,12A,1,Clg of Letters & Science,electrical engineering computer science
+598,2017 Spring,2,Philosophy,25B,1,Clg of Letters & Science,electrical engineering computer science
+599,2017 Spring,1,Philosophy,100,1,Clg of Letters & Science,electrical engineering computer science
+600,2017 Spring,1,Philosophy,110,1,Clg of Letters & Science,electrical engineering computer science
+601,2017 Spring,3,Philosophy,122,1,Clg of Letters & Science,electrical engineering computer science
+602,2017 Spring,4,Philosophy,132,1,Clg of Letters & Science,electrical engineering computer science
+603,2017 Spring,1,Philosophy,133,1,Clg of Letters & Science,electrical engineering computer science
+604,2017 Spring,1,Philosophy,172,1,Clg of Letters & Science,electrical engineering computer science
+605,2017 Spring,1,Philosophy,198BC,3,Clg of Letters & Science,electrical engineering computer science
+606,2017 Spring,1,Physical Education,1,4,Clg of Letters & Science,electrical engineering computer science
+607,2017 Spring,2,Physical Education,1,6,Clg of Letters & Science,electrical engineering computer science
+608,2017 Spring,1,Physical Education,1,7,Clg of Letters & Science,electrical engineering computer science
+609,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,electrical engineering computer science
+610,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,electrical engineering computer science
+611,2017 Spring,1,Physical Education,1,13,Clg of Letters & Science,electrical engineering computer science
+612,2017 Spring,2,Physical Education,1,14,Clg of Letters & Science,electrical engineering computer science
+613,2017 Spring,1,Physical Education,1,15,Clg of Letters & Science,electrical engineering computer science
+614,2017 Spring,3,Physical Education,1,16,Clg of Letters & Science,electrical engineering computer science
+615,2017 Spring,4,Physical Education,1,17,Clg of Letters & Science,electrical engineering computer science
+616,2017 Spring,2,Physical Education,1,24,Clg of Letters & Science,electrical engineering computer science
+617,2017 Spring,1,Physical Education,1,27,Clg of Letters & Science,electrical engineering computer science
+618,2017 Spring,2,Physical Education,1,30,Clg of Letters & Science,electrical engineering computer science
+619,2017 Spring,2,Physical Education,1,31,Clg of Letters & Science,electrical engineering computer science
+620,2017 Spring,2,Physical Education,1,33,Clg of Letters & Science,electrical engineering computer science
+621,2017 Spring,1,Physical Education,1,34,Clg of Letters & Science,electrical engineering computer science
+622,2017 Spring,1,Physical Education,1,35,Clg of Letters & Science,electrical engineering computer science
+623,2017 Spring,2,Physical Education,1,36,Clg of Letters & Science,electrical engineering computer science
+624,2017 Spring,2,Physical Education,1,37,Clg of Letters & Science,electrical engineering computer science
+625,2017 Spring,1,Physical Education,1,39,Clg of Letters & Science,electrical engineering computer science
+626,2017 Spring,3,Physical Education,1,42,Clg of Letters & Science,electrical engineering computer science
+627,2017 Spring,3,Physical Education,1,44,Clg of Letters & Science,electrical engineering computer science
+628,2017 Spring,1,Physical Education,1,45,Clg of Letters & Science,electrical engineering computer science
+629,2017 Spring,1,Physical Education,2,8,Clg of Letters & Science,electrical engineering computer science
+630,2017 Spring,3,Physical Education,2,9,Clg of Letters & Science,electrical engineering computer science
+631,2017 Spring,2,Physical Education,2,12,Clg of Letters & Science,electrical engineering computer science
+632,2017 Spring,1,Physical Education,2,13,Clg of Letters & Science,electrical engineering computer science
+633,2017 Spring,1,Physical Education,2,14,Clg of Letters & Science,electrical engineering computer science
+634,2017 Spring,3,Physical Education,2,16,Clg of Letters & Science,electrical engineering computer science
+635,2017 Spring,2,Physical Education,2,19,Clg of Letters & Science,electrical engineering computer science
+636,2017 Spring,1,Physical Education,3,1,Clg of Letters & Science,electrical engineering computer science
+637,2017 Spring,1,Physical Education,3,2,Clg of Letters & Science,electrical engineering computer science
+638,2017 Spring,3,Physical Education,3,7,Clg of Letters & Science,electrical engineering computer science
+639,2017 Spring,5,Physical Education,3,8,Clg of Letters & Science,electrical engineering computer science
+640,2017 Spring,3,Physical Education,3,9,Clg of Letters & Science,electrical engineering computer science
+641,2017 Spring,2,Physical Education,3,11,Clg of Letters & Science,electrical engineering computer science
+642,2017 Spring,2,Physical Education,3,12,Clg of Letters & Science,electrical engineering computer science
+643,2017 Spring,1,Physical Education,4,1,Clg of Letters & Science,electrical engineering computer science
+644,2017 Spring,3,Physical Education,4,2,Clg of Letters & Science,electrical engineering computer science
+645,2017 Spring,1,Physical Education,4,3,Clg of Letters & Science,electrical engineering computer science
+646,2017 Spring,1,Physical Education,4,4,Clg of Letters & Science,electrical engineering computer science
+647,2017 Spring,2,Physical Education,4,5,Clg of Letters & Science,electrical engineering computer science
+648,2017 Spring,1,Physical Education,4,6,Clg of Letters & Science,electrical engineering computer science
+649,2017 Spring,5,Physical Education,4,7,Clg of Letters & Science,electrical engineering computer science
+650,2017 Spring,2,Physical Education,5,1,Clg of Letters & Science,electrical engineering computer science
+651,2017 Spring,1,Physical Education,32,1,Clg of Letters & Science,electrical engineering computer science
+652,2017 Spring,1,Physical Education,98,2,Clg of Letters & Science,electrical engineering computer science
+653,2017 Spring,3,Physical Education,198,1,Clg of Letters & Science,electrical engineering computer science
+654,2017 Spring,1,Physics,5A,1,Clg of Letters & Science,electrical engineering computer science
+655,2017 Spring,10,Physics,7A,1,Clg of Letters & Science,electrical engineering computer science
+656,2017 Spring,9,Physics,7A,2,Clg of Letters & Science,electrical engineering computer science
+657,2017 Spring,17,Physics,7A,3,Clg of Letters & Science,electrical engineering computer science
+658,2017 Spring,41,Physics,7B,2,Clg of Letters & Science,electrical engineering computer science
+659,2017 Spring,37,Physics,7B,3,Clg of Letters & Science,electrical engineering computer science
+660,2017 Spring,5,Physics,7C,1,Clg of Letters & Science,electrical engineering computer science
+661,2017 Spring,1,Physics,89,1,Clg of Letters & Science,electrical engineering computer science
+662,2017 Spring,1,Physics,98,1,Clg of Letters & Science,electrical engineering computer science
+663,2017 Spring,3,Physics,105,1,Clg of Letters & Science,electrical engineering computer science
+664,2017 Spring,1,Physics,110A,1,Clg of Letters & Science,electrical engineering computer science
+665,2017 Spring,1,Physics,111B,1,Clg of Letters & Science,electrical engineering computer science
+666,2017 Spring,1,Physics,137A,1,Clg of Letters & Science,electrical engineering computer science
+667,2017 Spring,2,Physics,137A,2,Clg of Letters & Science,electrical engineering computer science
+668,2017 Spring,1,Physics,137B,1,Clg of Letters & Science,electrical engineering computer science
+669,2017 Spring,1,Physics,137B,2,Clg of Letters & Science,electrical engineering computer science
+670,2017 Spring,1,Physics,138,1,Clg of Letters & Science,electrical engineering computer science
+671,2017 Spring,2,Physics,141A,1,Clg of Letters & Science,electrical engineering computer science
+672,2017 Spring,2,Physics,141B,1,Clg of Letters & Science,electrical engineering computer science
+673,2017 Spring,11,Physics,C191,1,Clg of Letters & Science,electrical engineering computer science
+674,2017 Spring,1,Physics,198BC,4,Clg of Letters & Science,electrical engineering computer science
+675,2017 Spring,1,Political Economy,100,1,Clg of Letters & Science,electrical engineering computer science
+676,2017 Spring,2,Political Economy,101,1,Clg of Letters & Science,electrical engineering computer science
+677,2017 Spring,6,Political Science,1,1,Clg of Letters & Science,electrical engineering computer science
+678,2017 Spring,2,Political Science,109H,1,Clg of Letters & Science,electrical engineering computer science
+679,2017 Spring,1,Political Science,111AC,1,Clg of Letters & Science,electrical engineering computer science
+680,2017 Spring,1,Political Science,143E,1,Clg of Letters & Science,electrical engineering computer science
+681,2017 Spring,3,Political Science,179,1,Clg of Letters & Science,electrical engineering computer science
+682,2017 Spring,1,Portuguese,101,2,Clg of Letters & Science,electrical engineering computer science
+683,2017 Spring,7,Psychology,1,1,Clg of Letters & Science,electrical engineering computer science
+684,2017 Spring,3,Psychology,W1,1,Clg of Letters & Science,electrical engineering computer science
+685,2017 Spring,3,Psychology,2,1,Clg of Letters & Science,electrical engineering computer science
+686,2017 Spring,1,Psychology,101,1,Clg of Letters & Science,electrical engineering computer science
+687,2017 Spring,1,Psychology,110,1,Clg of Letters & Science,electrical engineering computer science
+688,2017 Spring,3,Psychology,114,1,Clg of Letters & Science,electrical engineering computer science
+689,2017 Spring,1,Psychology,C126,1,Clg of Letters & Science,electrical engineering computer science
+690,2017 Spring,3,Psychology,130,1,Clg of Letters & Science,electrical engineering computer science
+691,2017 Spring,7,Psychology,131,1,Clg of Letters & Science,electrical engineering computer science
+692,2017 Spring,18,Psychology,133,1,Clg of Letters & Science,electrical engineering computer science
+693,2017 Spring,4,Psychology,C143,1,Clg of Letters & Science,electrical engineering computer science
+694,2017 Spring,1,Psychology,146,1,Clg of Letters & Science,electrical engineering computer science
+695,2017 Spring,6,Psychology,150,1,Clg of Letters & Science,electrical engineering computer science
+696,2017 Spring,8,Psychology,156,1,Clg of Letters & Science,electrical engineering computer science
+697,2017 Spring,13,Psychology,160,1,Clg of Letters & Science,electrical engineering computer science
+698,2017 Spring,10,Psychology,166AC,1,Clg of Letters & Science,electrical engineering computer science
+699,2017 Spring,1,Psychology,169,1,Clg of Letters & Science,electrical engineering computer science
+700,2017 Spring,1,Psychology,198,5,Clg of Letters & Science,electrical engineering computer science
+701,2017 Spring,2,Psychology,198,6,Clg of Letters & Science,electrical engineering computer science
+702,2017 Spring,1,Psychology,198,11,Clg of Letters & Science,electrical engineering computer science
+703,2017 Spring,2,Psychology,198,12,Clg of Letters & Science,electrical engineering computer science
+704,2017 Spring,1,Psychology,198,17,Clg of Letters & Science,electrical engineering computer science
+705,2017 Spring,1,Public Health,142,1,School of Public Health,electrical engineering computer science
+706,2017 Spring,2,Public Health,196,8,School of Public Health,electrical engineering computer science
+707,2017 Spring,1,Public Health,198,5,School of Public Health,electrical engineering computer science
+708,2017 Spring,1,Public Health,198,9,School of Public Health,electrical engineering computer science
+709,2017 Spring,31,Public Policy,C103,1,Goldman School Public Policy,electrical engineering computer science
+710,2017 Spring,1,Rhetoric,R1A,1,Clg of Letters & Science,electrical engineering computer science
+711,2017 Spring,2,Rhetoric,R1A,3,Clg of Letters & Science,electrical engineering computer science
+712,2017 Spring,1,Rhetoric,R1B,2,Clg of Letters & Science,electrical engineering computer science
+713,2017 Spring,1,Rhetoric,R1B,3,Clg of Letters & Science,electrical engineering computer science
+714,2017 Spring,1,Rhetoric,R1B,4,Clg of Letters & Science,electrical engineering computer science
+715,2017 Spring,3,Rhetoric,R1B,5,Clg of Letters & Science,electrical engineering computer science
+716,2017 Spring,1,Rhetoric,20,1,Clg of Letters & Science,electrical engineering computer science
+717,2017 Spring,1,Rhetoric,24,1,Clg of Letters & Science,electrical engineering computer science
+718,2017 Spring,2,Rhetoric,108,2,Clg of Letters & Science,electrical engineering computer science
+719,2017 Spring,1,Rhetoric,151,1,Clg of Letters & Science,electrical engineering computer science
+720,2017 Spring,1,Russian,1,1,Clg of Letters & Science,electrical engineering computer science
+721,2017 Spring,1,Russian,2,1,Clg of Letters & Science,electrical engineering computer science
+722,2017 Spring,1,Scandinavian,R5B,1,Clg of Letters & Science,electrical engineering computer science
+723,2017 Spring,2,Scandinavian,R5B,2,Clg of Letters & Science,electrical engineering computer science
+724,2017 Spring,1,Scandinavian,R5B,3,Clg of Letters & Science,electrical engineering computer science
+725,2017 Spring,1,Scandinavian,R5B,5,Clg of Letters & Science,electrical engineering computer science
+726,2017 Spring,1,Scandinavian,R5B,6,Clg of Letters & Science,electrical engineering computer science
+727,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,electrical engineering computer science
+728,2017 Spring,2,Scandinavian,160,1,Clg of Letters & Science,electrical engineering computer science
+729,2017 Spring,1,Slavic Languages & Lit,R5A,1,Clg of Letters & Science,electrical engineering computer science
+730,2017 Spring,1,Slavic Languages & Lit,R5A,3,Clg of Letters & Science,electrical engineering computer science
+731,2017 Spring,2,Slavic Languages & Lit,R5A,4,Clg of Letters & Science,electrical engineering computer science
+732,2017 Spring,1,Slavic Languages & Lit,R5B,1,Clg of Letters & Science,electrical engineering computer science
+733,2017 Spring,1,Slavic Languages & Lit,R5B,2,Clg of Letters & Science,electrical engineering computer science
+734,2017 Spring,3,Slavic Languages & Lit,R5B,3,Clg of Letters & Science,electrical engineering computer science
+735,2017 Spring,1,Slavic Languages & Lit,46,1,Clg of Letters & Science,electrical engineering computer science
+736,2017 Spring,1,Social Welfare,98,5,School of Social Welfare,electrical engineering computer science
+737,2017 Spring,7,Sociology,3AC,1,Clg of Letters & Science,electrical engineering computer science
+738,2017 Spring,3,Sociology,110,1,Clg of Letters & Science,electrical engineering computer science
+739,2017 Spring,3,Sociology,111AC,1,Clg of Letters & Science,electrical engineering computer science
+740,2017 Spring,3,Sociology,113AC,1,Clg of Letters & Science,electrical engineering computer science
+741,2017 Spring,11,Sociology,117,1,Clg of Letters & Science,electrical engineering computer science
+742,2017 Spring,5,Sociology,121,1,Clg of Letters & Science,electrical engineering computer science
+743,2017 Spring,1,Sociology,145,1,Clg of Letters & Science,electrical engineering computer science
+744,2017 Spring,3,Sociology,150,1,Clg of Letters & Science,electrical engineering computer science
+745,2017 Spring,5,Sociology,C167,1,Clg of Letters & Science,electrical engineering computer science
+746,2017 Spring,2,Sociology,180C,1,Clg of Letters & Science,electrical engineering computer science
+747,2017 Spring,1,Sociology,198,1,Clg of Letters & Science,electrical engineering computer science
+748,2017 Spring,2,Sociology,198,2,Clg of Letters & Science,electrical engineering computer science
+749,2017 Spring,3,Sociology,198,10,Clg of Letters & Science,electrical engineering computer science
+750,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,electrical engineering computer science
+751,2017 Spring,1,South & SE Asian Studies,R5B,1,Clg of Letters & Science,electrical engineering computer science
+752,2017 Spring,1,South & SE Asian Studies,R5B,2,Clg of Letters & Science,electrical engineering computer science
+753,2017 Spring,1,South & SE Asian Studies,R5B,3,Clg of Letters & Science,electrical engineering computer science
+754,2017 Spring,1,South & SE Asian Studies,150,1,Clg of Letters & Science,electrical engineering computer science
+755,2017 Spring,1,South Asian,1B,1,Clg of Letters & Science,electrical engineering computer science
+756,2017 Spring,3,South Asian,R5B,1,Clg of Letters & Science,electrical engineering computer science
+757,2017 Spring,2,South Asian,R5B,3,Clg of Letters & Science,electrical engineering computer science
+758,2017 Spring,3,South Asian,110,1,Clg of Letters & Science,electrical engineering computer science
+759,2017 Spring,6,South Asian,142,1,Clg of Letters & Science,electrical engineering computer science
+760,2017 Spring,2,Southeast Asian,10B,1,Clg of Letters & Science,electrical engineering computer science
+761,2017 Spring,1,Spanish,1,6,Clg of Letters & Science,electrical engineering computer science
+762,2017 Spring,1,Spanish,2,4,Clg of Letters & Science,electrical engineering computer science
+763,2017 Spring,1,Spanish,3,6,Clg of Letters & Science,electrical engineering computer science
+764,2017 Spring,1,Spanish,22,1,Clg of Letters & Science,electrical engineering computer science
+765,2017 Spring,1,Spanish,25,2,Clg of Letters & Science,electrical engineering computer science
+766,2017 Spring,1,Spanish,102A,1,Clg of Letters & Science,electrical engineering computer science
+767,2017 Spring,2,Spanish,198,1,Clg of Letters & Science,electrical engineering computer science
+768,2017 Spring,1,Statistics,2,1,Clg of Letters & Science,electrical engineering computer science
+769,2017 Spring,2,Statistics,28,1,Clg of Letters & Science,electrical engineering computer science
+770,2017 Spring,1,Statistics,88,1,Clg of Letters & Science,electrical engineering computer science
+771,2017 Spring,1,Statistics,89A,1,Clg of Letters & Science,electrical engineering computer science
+772,2017 Spring,1,Statistics,131A,1,Clg of Letters & Science,electrical engineering computer science
+773,2017 Spring,1,Statistics,133,1,Clg of Letters & Science,electrical engineering computer science
+774,2017 Spring,2,Statistics,133,2,Clg of Letters & Science,electrical engineering computer science
+775,2017 Spring,10,Statistics,134,1,Clg of Letters & Science,electrical engineering computer science
+776,2017 Spring,7,Statistics,135,1,Clg of Letters & Science,electrical engineering computer science
+777,2017 Spring,3,Statistics,140,1,Clg of Letters & Science,electrical engineering computer science
+778,2017 Spring,1,Statistics,151A,1,Clg of Letters & Science,electrical engineering computer science
+779,2017 Spring,3,Statistics,151A,2,Clg of Letters & Science,electrical engineering computer science
+780,2017 Spring,6,Statistics,153,1,Clg of Letters & Science,electrical engineering computer science
+781,2017 Spring,1,Statistics,154,1,Clg of Letters & Science,electrical engineering computer science
+782,2017 Spring,2,Statistics,155,1,Clg of Letters & Science,electrical engineering computer science
+783,2017 Spring,3,Statistics,198,2,Clg of Letters & Science,electrical engineering computer science
+784,2017 Spring,2,Statistics,198,5,Clg of Letters & Science,electrical engineering computer science
+785,2017 Spring,2,Statistics,198,7,Clg of Letters & Science,electrical engineering computer science
+786,2017 Spring,2,Theater Dance & Perf Stds,R1A,3,Clg of Letters & Science,electrical engineering computer science
+787,2017 Spring,2,Theater Dance & Perf Stds,R1B,1,Clg of Letters & Science,electrical engineering computer science
+788,2017 Spring,1,Theater Dance & Perf Stds,R1B,4,Clg of Letters & Science,electrical engineering computer science
+789,2017 Spring,1,Theater Dance & Perf Stds,R1B,5,Clg of Letters & Science,electrical engineering computer science
+790,2017 Spring,4,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,electrical engineering computer science
+791,2017 Spring,1,Theater Dance & Perf Stds,40,1,Clg of Letters & Science,electrical engineering computer science
+792,2017 Spring,1,Theater Dance & Perf Stds,100,1,Clg of Letters & Science,electrical engineering computer science
+793,2017 Spring,1,Theater Dance & Perf Stds,109,1,Clg of Letters & Science,electrical engineering computer science
+794,2017 Spring,1,Theater Dance & Perf Stds,125,2,Clg of Letters & Science,electrical engineering computer science
+795,2017 Spring,1,Theater Dance & Perf Stds,126,1,Clg of Letters & Science,electrical engineering computer science
+796,2017 Spring,1,Theater Dance & Perf Stds,142,1,Clg of Letters & Science,electrical engineering computer science
+797,2017 Spring,1,Theater Dance & Perf Stds,169,1,Clg of Letters & Science,electrical engineering computer science
+798,2017 Spring,1,Theater Dance & Perf Stds,174B,1,Clg of Letters & Science,electrical engineering computer science
+799,2017 Spring,1,Theater Dance & Perf Stds,176,1,Clg of Letters & Science,electrical engineering computer science
+800,2017 Spring,1,UGIS-UG Interdisc Studies,82,2,Clg of Letters & Science,electrical engineering computer science
+801,2017 Spring,1,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,electrical engineering computer science
+802,2017 Spring,1,UGIS-UG Interdisc Studies,198,3,Clg of Letters & Science,electrical engineering computer science
+803,2017 Spring,1,Vietnamese,100B,1,Clg of Letters & Science,electrical engineering computer science
+804,2017 Spring,4,Vietnamese,101B,1,Clg of Letters & Science,electrical engineering computer science
+805,2017 Spring,1,Vision Science,24,2,School of Optometry,electrical engineering computer science

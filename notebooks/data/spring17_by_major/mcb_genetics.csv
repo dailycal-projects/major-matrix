@@ -1,0 +1,186 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,142AC,1,Clg of Letters & Science,mcb genetics
+1,2017 Spring,1,African American Studies,156AC,1,Clg of Letters & Science,mcb genetics
+2,2017 Spring,1,African American Studies,197,3,Clg of Letters & Science,mcb genetics
+3,2017 Spring,1,Anthropology,137,1,Clg of Letters & Science,mcb genetics
+4,2017 Spring,1,Asian American Studies,198,1,Clg of Letters & Science,mcb genetics
+5,2017 Spring,1,Bioengineering,111,1,Clg of Engineering,mcb genetics
+6,2017 Spring,1,Bioengineering,135,1,Clg of Engineering,mcb genetics
+7,2017 Spring,2,Bioengineering,144,1,Clg of Engineering,mcb genetics
+8,2017 Spring,1,Bioengineering,163L,10,Clg of Engineering,mcb genetics
+9,2017 Spring,1,Business Admin-Undergrad,102B,2,Haas School of Business,mcb genetics
+10,2017 Spring,1,Business Admin-Undergrad,103,1,Haas School of Business,mcb genetics
+11,2017 Spring,1,Business Admin-Undergrad,103,2,Haas School of Business,mcb genetics
+12,2017 Spring,1,Business Admin-Undergrad,106,1,Haas School of Business,mcb genetics
+13,2017 Spring,1,Business Admin-Undergrad,155,1,Haas School of Business,mcb genetics
+14,2017 Spring,1,Business Admin-Undergrad,196,1,Haas School of Business,mcb genetics
+15,2017 Spring,1,Chemistry,3B,2,Clg of Chemistry,mcb genetics
+16,2017 Spring,1,Chemistry,3BL,2,Clg of Chemistry,mcb genetics
+17,2017 Spring,1,Chemistry,105,1,Clg of Chemistry,mcb genetics
+18,2017 Spring,2,Chemistry,114,1,Clg of Chemistry,mcb genetics
+19,2017 Spring,2,Chemistry,130B,1,Clg of Chemistry,mcb genetics
+20,2017 Spring,1,Chinese,1B,2,Clg of Letters & Science,mcb genetics
+21,2017 Spring,1,Chinese,10B,1,Clg of Letters & Science,mcb genetics
+22,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,mcb genetics
+23,2017 Spring,1,Computer Science,61A,1,Clg of Engineering,mcb genetics
+24,2017 Spring,1,Computer Science,61B,1,Clg of Engineering,mcb genetics
+25,2017 Spring,3,Computer Science,61C,1,Clg of Engineering,mcb genetics
+26,2017 Spring,1,Computer Science,160,3,Clg of Engineering,mcb genetics
+27,2017 Spring,1,Computer Science,184,1,Clg of Engineering,mcb genetics
+28,2017 Spring,3,Computer Science,186,1,Clg of Engineering,mcb genetics
+29,2017 Spring,1,Computer Science,188,1,Clg of Engineering,mcb genetics
+30,2017 Spring,1,Computer Science,189,1,Clg of Engineering,mcb genetics
+31,2017 Spring,1,Computer Science,197,1,Clg of Engineering,mcb genetics
+32,2017 Spring,1,Design Innovation,198,2,Clg of Engineering,mcb genetics
+33,2017 Spring,1,Dutch,166,1,Clg of Letters & Science,mcb genetics
+34,2017 Spring,1,Economics,115,1,Clg of Letters & Science,mcb genetics
+35,2017 Spring,1,Economics,131,1,Clg of Letters & Science,mcb genetics
+36,2017 Spring,1,Economics,133,1,Clg of Letters & Science,mcb genetics
+37,2017 Spring,1,Economics,138,1,Clg of Letters & Science,mcb genetics
+38,2017 Spring,1,Economics,140,1,Clg of Letters & Science,mcb genetics
+39,2017 Spring,2,Economics,151,1,Clg of Letters & Science,mcb genetics
+40,2017 Spring,1,Economics,C171,1,Clg of Letters & Science,mcb genetics
+41,2017 Spring,1,Economics,C175,1,Clg of Letters & Science,mcb genetics
+42,2017 Spring,1,Education,182AC,1,Grad School of Education,mcb genetics
+43,2017 Spring,1,Education,183,1,Grad School of Education,mcb genetics
+44,2017 Spring,1,Education,190AC,1,Grad School of Education,mcb genetics
+45,2017 Spring,1,Education,197,24,Grad School of Education,mcb genetics
+46,2017 Spring,2,Electrical Engineering,16A,1,Clg of Engineering,mcb genetics
+47,2017 Spring,1,English,132,1,Clg of Letters & Science,mcb genetics
+48,2017 Spring,2,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,mcb genetics
+49,2017 Spring,1,"Env Sci, Policy, & Mgmt",144,1,Clg of Natural Resources,mcb genetics
+50,2017 Spring,3,"Env Sci, Policy, & Mgmt",C148,1,Clg of Natural Resources,mcb genetics
+51,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,1,Clg of Natural Resources,mcb genetics
+52,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,5,Clg of Natural Resources,mcb genetics
+53,2017 Spring,1,Environ Econ & Policy,C101,1,Clg of Natural Resources,mcb genetics
+54,2017 Spring,1,Ethnic Studies,198,10,Clg of Letters & Science,mcb genetics
+55,2017 Spring,1,Filipino,1B,2,Clg of Letters & Science,mcb genetics
+56,2017 Spring,1,Film,108,3,Clg of Letters & Science,mcb genetics
+57,2017 Spring,1,French,1,2,Clg of Letters & Science,mcb genetics
+58,2017 Spring,1,French,2,1,Clg of Letters & Science,mcb genetics
+59,2017 Spring,1,French,14,1,Clg of Letters & Science,mcb genetics
+60,2017 Spring,1,French,102,1,Clg of Letters & Science,mcb genetics
+61,2017 Spring,1,French,103B,1,Clg of Letters & Science,mcb genetics
+62,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,mcb genetics
+63,2017 Spring,1,Geography,C32,1,Clg of Letters & Science,mcb genetics
+64,2017 Spring,1,Geography,130,1,Clg of Letters & Science,mcb genetics
+65,2017 Spring,1,German,1,3,Clg of Letters & Science,mcb genetics
+66,2017 Spring,1,German,108,1,Clg of Letters & Science,mcb genetics
+67,2017 Spring,1,Global Poverty & Practice,150,1,Clg of Letters & Science,mcb genetics
+68,2017 Spring,1,Health & Medical Sciences,C133,1,School of Public Health,mcb genetics
+69,2017 Spring,1,History,2,1,Clg of Letters & Science,mcb genetics
+70,2017 Spring,1,History,100AC,2,Clg of Letters & Science,mcb genetics
+71,2017 Spring,1,History,100D,1,Clg of Letters & Science,mcb genetics
+72,2017 Spring,1,History,100U,1,Clg of Letters & Science,mcb genetics
+73,2017 Spring,1,History,103M,1,Clg of Letters & Science,mcb genetics
+74,2017 Spring,1,History,114B,1,Clg of Letters & Science,mcb genetics
+75,2017 Spring,2,History,178,1,Clg of Letters & Science,mcb genetics
+76,2017 Spring,1,History,180,1,Clg of Letters & Science,mcb genetics
+77,2017 Spring,1,History,C191,1,Clg of Letters & Science,mcb genetics
+78,2017 Spring,2,History of Art,188A,1,Clg of Letters & Science,mcb genetics
+79,2017 Spring,1,Industrial Eng & Ops Rsch,171,1,Clg of Engineering,mcb genetics
+80,2017 Spring,1,Integrative Biology,104LF,1,Clg of Letters & Science,mcb genetics
+81,2017 Spring,1,Integrative Biology,114,1,Clg of Letters & Science,mcb genetics
+82,2017 Spring,1,Integrative Biology,132,1,Clg of Letters & Science,mcb genetics
+83,2017 Spring,1,Integrative Biology,132L,5,Clg of Letters & Science,mcb genetics
+84,2017 Spring,1,Integrative Biology,140,1,Clg of Letters & Science,mcb genetics
+85,2017 Spring,1,Integrative Biology,146LF,1,Clg of Letters & Science,mcb genetics
+86,2017 Spring,3,Integrative Biology,161,1,Clg of Letters & Science,mcb genetics
+87,2017 Spring,1,Integrative Biology,169,1,Clg of Letters & Science,mcb genetics
+88,2017 Spring,1,Integrative Biology,C195,1,Clg of Letters & Science,mcb genetics
+89,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,mcb genetics
+90,2017 Spring,2,Interdisciplinary Studies,61,1,Clg of Letters & Science,mcb genetics
+91,2017 Spring,1,Interdisciplinary Studies,100A,1,Clg of Letters & Science,mcb genetics
+92,2017 Spring,1,Interdisciplinary Studies,100C,1,Clg of Letters & Science,mcb genetics
+93,2017 Spring,1,Italian Studies,1,2,Clg of Letters & Science,mcb genetics
+94,2017 Spring,1,Japanese,C115,1,Clg of Letters & Science,mcb genetics
+95,2017 Spring,1,Landscape Arch & Env Plan,198,1,Clg of Environmental Design,mcb genetics
+96,2017 Spring,1,Latin,1,2,Clg of Letters & Science,mcb genetics
+97,2017 Spring,2,Letters & Science,160B,1,Clg of Letters & Science,mcb genetics
+98,2017 Spring,1,Mathematics,1A,1,Clg of Letters & Science,mcb genetics
+99,2017 Spring,1,Mathematics,10B,1,Clg of Letters & Science,mcb genetics
+100,2017 Spring,1,Mathematics,54,1,Clg of Letters & Science,mcb genetics
+101,2017 Spring,1,Mathematics,128B,1,Clg of Letters & Science,mcb genetics
+102,2017 Spring,1,Mathematics,185,3,Clg of Letters & Science,mcb genetics
+103,2017 Spring,1,Mechanical Engineering,191K,1,Clg of Engineering,mcb genetics
+104,2017 Spring,1,Molecular & Cell Biology,88,1,Clg of Letters & Science,mcb genetics
+105,2017 Spring,4,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,mcb genetics
+106,2017 Spring,3,Molecular & Cell Biology,100B,1,Clg of Letters & Science,mcb genetics
+107,2017 Spring,1,Molecular & Cell Biology,102,1,Clg of Letters & Science,mcb genetics
+108,2017 Spring,2,Molecular & Cell Biology,C103,1,Clg of Letters & Science,mcb genetics
+109,2017 Spring,8,Molecular & Cell Biology,104,1,Clg of Letters & Science,mcb genetics
+110,2017 Spring,10,Molecular & Cell Biology,110,1,Clg of Letters & Science,mcb genetics
+111,2017 Spring,2,Molecular & Cell Biology,C114,1,Clg of Letters & Science,mcb genetics
+112,2017 Spring,1,Molecular & Cell Biology,130,1,Clg of Letters & Science,mcb genetics
+113,2017 Spring,3,Molecular & Cell Biology,137L,1,Clg of Letters & Science,mcb genetics
+114,2017 Spring,10,Molecular & Cell Biology,140,1,Clg of Letters & Science,mcb genetics
+115,2017 Spring,46,Molecular & Cell Biology,140L,1,Clg of Letters & Science,mcb genetics
+116,2017 Spring,27,Molecular & Cell Biology,141,1,Clg of Letters & Science,mcb genetics
+117,2017 Spring,3,Molecular & Cell Biology,C148,1,Clg of Letters & Science,mcb genetics
+118,2017 Spring,3,Molecular & Cell Biology,150,1,Clg of Letters & Science,mcb genetics
+119,2017 Spring,1,Molecular & Cell Biology,180,1,Clg of Letters & Science,mcb genetics
+120,2017 Spring,2,Molecular & Cell Biology,198,1,Clg of Letters & Science,mcb genetics
+121,2017 Spring,1,Molecular & Cell Biology,198,5,Clg of Letters & Science,mcb genetics
+122,2017 Spring,1,Molecular & Cell Biology,198,201,Clg of Letters & Science,mcb genetics
+123,2017 Spring,1,Molecular & Cell Biology,198,207,Clg of Letters & Science,mcb genetics
+124,2017 Spring,1,Music,80,1,Clg of Letters & Science,mcb genetics
+125,2017 Spring,2,Music,141,1,Clg of Letters & Science,mcb genetics
+126,2017 Spring,1,Music,144,1,Clg of Letters & Science,mcb genetics
+127,2017 Spring,1,Music,149,1,Clg of Letters & Science,mcb genetics
+128,2017 Spring,1,Music,150C,1,Clg of Letters & Science,mcb genetics
+129,2017 Spring,1,Near Eastern Studies,165,1,Clg of Letters & Science,mcb genetics
+130,2017 Spring,1,Nutritional Science & Tox,121,1,Clg of Natural Resources,mcb genetics
+131,2017 Spring,3,Nutritional Science & Tox,160,1,Clg of Natural Resources,mcb genetics
+132,2017 Spring,1,Nutritional Science & Tox,170,2,Clg of Natural Resources,mcb genetics
+133,2017 Spring,1,Optometry,10,1,School of Optometry,mcb genetics
+134,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,mcb genetics
+135,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,mcb genetics
+136,2017 Spring,1,Physical Education,2,3,Clg of Letters & Science,mcb genetics
+137,2017 Spring,1,Physical Education,2,5,Clg of Letters & Science,mcb genetics
+138,2017 Spring,1,Physical Education,98,1,Clg of Letters & Science,mcb genetics
+139,2017 Spring,5,Physics,8B,1,Clg of Letters & Science,mcb genetics
+140,2017 Spring,7,Physics,8B,2,Clg of Letters & Science,mcb genetics
+141,2017 Spring,1,Plant & Microbial Biology,40,1,Clg of Natural Resources,mcb genetics
+142,2017 Spring,1,Plant & Microbial Biology,160,1,Clg of Natural Resources,mcb genetics
+143,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,mcb genetics
+144,2017 Spring,1,Political Science,179,1,Clg of Letters & Science,mcb genetics
+145,2017 Spring,1,Psychology,1,1,Clg of Letters & Science,mcb genetics
+146,2017 Spring,1,Psychology,130,1,Clg of Letters & Science,mcb genetics
+147,2017 Spring,1,Psychology,133,1,Clg of Letters & Science,mcb genetics
+148,2017 Spring,1,Psychology,146,1,Clg of Letters & Science,mcb genetics
+149,2017 Spring,1,Psychology,156,1,Clg of Letters & Science,mcb genetics
+150,2017 Spring,1,Public Health,104B,1,School of Public Health,mcb genetics
+151,2017 Spring,1,Public Health,C117,1,School of Public Health,mcb genetics
+152,2017 Spring,5,Public Health,142,1,School of Public Health,mcb genetics
+153,2017 Spring,2,Public Health,150A,1,School of Public Health,mcb genetics
+154,2017 Spring,1,Public Health,150D,1,School of Public Health,mcb genetics
+155,2017 Spring,2,Public Health,150E,1,School of Public Health,mcb genetics
+156,2017 Spring,1,Public Health,C155,1,School of Public Health,mcb genetics
+157,2017 Spring,1,Public Health,170C,1,School of Public Health,mcb genetics
+158,2017 Spring,1,Public Health,196,6,School of Public Health,mcb genetics
+159,2017 Spring,1,Public Health,196,8,School of Public Health,mcb genetics
+160,2017 Spring,3,Public Policy,C103,1,Goldman School Public Policy,mcb genetics
+161,2017 Spring,1,Rhetoric,107,1,Clg of Letters & Science,mcb genetics
+162,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,mcb genetics
+163,2017 Spring,1,Scandinavian,160,1,Clg of Letters & Science,mcb genetics
+164,2017 Spring,1,Slavic Languages & Lit,134C,1,Clg of Letters & Science,mcb genetics
+165,2017 Spring,1,Sociology,3AC,1,Clg of Letters & Science,mcb genetics
+166,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,mcb genetics
+167,2017 Spring,1,Sociology,198,14,Clg of Letters & Science,mcb genetics
+168,2017 Spring,1,South Asian,1B,1,Clg of Letters & Science,mcb genetics
+169,2017 Spring,1,Spanish,1,1,Clg of Letters & Science,mcb genetics
+170,2017 Spring,1,Spanish,1,4,Clg of Letters & Science,mcb genetics
+171,2017 Spring,1,Spanish,2,2,Clg of Letters & Science,mcb genetics
+172,2017 Spring,1,Spanish,2,6,Clg of Letters & Science,mcb genetics
+173,2017 Spring,1,Spanish,25,5,Clg of Letters & Science,mcb genetics
+174,2017 Spring,1,Spanish,135,3,Clg of Letters & Science,mcb genetics
+175,2017 Spring,1,Statistics,28,1,Clg of Letters & Science,mcb genetics
+176,2017 Spring,3,Statistics,131A,1,Clg of Letters & Science,mcb genetics
+177,2017 Spring,2,Statistics,134,1,Clg of Letters & Science,mcb genetics
+178,2017 Spring,1,Theater Dance & Perf Stds,10,2,Clg of Letters & Science,mcb genetics
+179,2017 Spring,1,Theater Dance & Perf Stds,60,1,Clg of Letters & Science,mcb genetics
+180,2017 Spring,1,Theater Dance & Perf Stds,112,1,Clg of Letters & Science,mcb genetics
+181,2017 Spring,1,Theater Dance & Perf Stds,119,1,Clg of Letters & Science,mcb genetics
+182,2017 Spring,1,Theater Dance & Perf Stds,142,1,Clg of Letters & Science,mcb genetics
+183,2017 Spring,1,Turkish,101B,1,Clg of Letters & Science,mcb genetics
+184,2017 Spring,1,Turkish,198,1,Clg of Letters & Science,mcb genetics

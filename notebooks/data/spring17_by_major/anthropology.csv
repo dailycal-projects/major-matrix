@@ -1,0 +1,331 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,115,1,Clg of Letters & Science,anthropology
+1,2017 Spring,1,African American Studies,139,2,Clg of Letters & Science,anthropology
+2,2017 Spring,1,African American Studies,142AC,1,Clg of Letters & Science,anthropology
+3,2017 Spring,1,African American Studies,156AC,1,Clg of Letters & Science,anthropology
+4,2017 Spring,3,Anthropology,1,1,Clg of Letters & Science,anthropology
+5,2017 Spring,12,Anthropology,2AC,1,Clg of Letters & Science,anthropology
+6,2017 Spring,4,Anthropology,3AC,1,Clg of Letters & Science,anthropology
+7,2017 Spring,1,Anthropology,84,1,Clg of Letters & Science,anthropology
+8,2017 Spring,8,Anthropology,C100,1,Clg of Letters & Science,anthropology
+9,2017 Spring,64,Anthropology,112,1,Clg of Letters & Science,anthropology
+10,2017 Spring,20,Anthropology,119,1,Clg of Letters & Science,anthropology
+11,2017 Spring,12,Anthropology,121AC,1,Clg of Letters & Science,anthropology
+12,2017 Spring,15,Anthropology,122E,1,Clg of Letters & Science,anthropology
+13,2017 Spring,10,Anthropology,127B,1,Clg of Letters & Science,anthropology
+14,2017 Spring,16,Anthropology,128,1,Clg of Letters & Science,anthropology
+15,2017 Spring,19,Anthropology,128,2,Clg of Letters & Science,anthropology
+16,2017 Spring,16,Anthropology,134,1,Clg of Letters & Science,anthropology
+17,2017 Spring,15,Anthropology,137,1,Clg of Letters & Science,anthropology
+18,2017 Spring,15,Anthropology,156,1,Clg of Letters & Science,anthropology
+19,2017 Spring,28,Anthropology,156A,1,Clg of Letters & Science,anthropology
+20,2017 Spring,20,Anthropology,160AC,1,Clg of Letters & Science,anthropology
+21,2017 Spring,4,Anthropology,162,1,Clg of Letters & Science,anthropology
+22,2017 Spring,16,Anthropology,169B,1,Clg of Letters & Science,anthropology
+23,2017 Spring,7,Anthropology,170,1,Clg of Letters & Science,anthropology
+24,2017 Spring,47,Anthropology,174AC,1,Clg of Letters & Science,anthropology
+25,2017 Spring,15,Anthropology,180,1,Clg of Letters & Science,anthropology
+26,2017 Spring,19,Anthropology,183,1,Clg of Letters & Science,anthropology
+27,2017 Spring,6,Anthropology,189,1,Clg of Letters & Science,anthropology
+28,2017 Spring,9,Anthropology,189,2,Clg of Letters & Science,anthropology
+29,2017 Spring,12,Anthropology,189,3,Clg of Letters & Science,anthropology
+30,2017 Spring,11,Anthropology,189,4,Clg of Letters & Science,anthropology
+31,2017 Spring,5,Anthropology,196,1,Clg of Letters & Science,anthropology
+32,2017 Spring,2,Anthropology,198,20,Clg of Letters & Science,anthropology
+33,2017 Spring,1,Art Practice,12,1,Clg of Letters & Science,anthropology
+34,2017 Spring,2,Art Practice,15,1,Clg of Letters & Science,anthropology
+35,2017 Spring,1,Art Practice,117,1,Clg of Letters & Science,anthropology
+36,2017 Spring,1,Art Practice,185,2,Clg of Letters & Science,anthropology
+37,2017 Spring,1,Asian American Studies,176,1,Clg of Letters & Science,anthropology
+38,2017 Spring,1,Astronomy,98,2,Clg of Letters & Science,anthropology
+39,2017 Spring,2,Biology,1B,1,Clg of Letters & Science,anthropology
+40,2017 Spring,2,Bosnian/Croatian/Serbian,117B,1,Clg of Letters & Science,anthropology
+41,2017 Spring,1,Business Admin-Undergrad,96,1,Haas School of Business,anthropology
+42,2017 Spring,1,Business Admin-Undergrad,192A,1,Haas School of Business,anthropology
+43,2017 Spring,1,Business Admin-Undergrad,198,4,Haas School of Business,anthropology
+44,2017 Spring,1,Business Admin-Undergrad,198,7,Haas School of Business,anthropology
+45,2017 Spring,2,Chemistry,1A,2,Clg of Chemistry,anthropology
+46,2017 Spring,1,Chemistry,1AL,1,Clg of Chemistry,anthropology
+47,2017 Spring,1,Chemistry,1AL,2,Clg of Chemistry,anthropology
+48,2017 Spring,1,Chemistry,3A,1,Clg of Chemistry,anthropology
+49,2017 Spring,1,Chemistry,3AL,2,Clg of Chemistry,anthropology
+50,2017 Spring,1,Chemistry,3B,1,Clg of Chemistry,anthropology
+51,2017 Spring,1,Chemistry,3BL,1,Clg of Chemistry,anthropology
+52,2017 Spring,1,Chicano Studies,141,1,Clg of Letters & Science,anthropology
+53,2017 Spring,2,Chicano Studies,174,1,Clg of Letters & Science,anthropology
+54,2017 Spring,1,Chicano Studies,176,1,Clg of Letters & Science,anthropology
+55,2017 Spring,2,Chicano Studies,180,1,Clg of Letters & Science,anthropology
+56,2017 Spring,1,Chinese,1B,4,Clg of Letters & Science,anthropology
+57,2017 Spring,1,Chinese,10Y,2,Clg of Letters & Science,anthropology
+58,2017 Spring,1,Classics,28,1,Clg of Letters & Science,anthropology
+59,2017 Spring,1,Classics,161,1,Clg of Letters & Science,anthropology
+60,2017 Spring,1,Classics,180,1,Clg of Letters & Science,anthropology
+61,2017 Spring,2,Cognitive Science,198,1,Clg of Letters & Science,anthropology
+62,2017 Spring,1,College Writing Programs,R1A,12,Clg of Letters & Science,anthropology
+63,2017 Spring,1,Comparative Literature,R1B,11,Clg of Letters & Science,anthropology
+64,2017 Spring,1,Comparative Literature,165,1,Clg of Letters & Science,anthropology
+65,2017 Spring,3,Computer Science,C8,1,Clg of Engineering,anthropology
+66,2017 Spring,1,Computer Science,10,1,Clg of Engineering,anthropology
+67,2017 Spring,2,Earth & Planetary Science,C12,1,Clg of Letters & Science,anthropology
+68,2017 Spring,1,Earth & Planetary Science,50,1,Clg of Letters & Science,anthropology
+69,2017 Spring,1,East Asian Languages,C128,1,Clg of Letters & Science,anthropology
+70,2017 Spring,2,Economics,1,1,Clg of Letters & Science,anthropology
+71,2017 Spring,1,Economics,100A,1,Clg of Letters & Science,anthropology
+72,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,anthropology
+73,2017 Spring,1,Economics,C175,1,Clg of Letters & Science,anthropology
+74,2017 Spring,1,Education,140AC,3,Grad School of Education,anthropology
+75,2017 Spring,1,Education,182AC,1,Grad School of Education,anthropology
+76,2017 Spring,1,Education,188B,1,Grad School of Education,anthropology
+77,2017 Spring,1,Education,190AC,1,Grad School of Education,anthropology
+78,2017 Spring,3,Education,197,1,Grad School of Education,anthropology
+79,2017 Spring,1,Education,198,24,Grad School of Education,anthropology
+80,2017 Spring,1,Education,198,31,Grad School of Education,anthropology
+81,2017 Spring,1,Education,198,32,Grad School of Education,anthropology
+82,2017 Spring,1,Education,198,33,Grad School of Education,anthropology
+83,2017 Spring,1,Energy and Resources,98,1,Clg of Natural Resources,anthropology
+84,2017 Spring,1,English,80K,1,Clg of Letters & Science,anthropology
+85,2017 Spring,1,English,117S,2,Clg of Letters & Science,anthropology
+86,2017 Spring,1,English,143B,1,Clg of Letters & Science,anthropology
+87,2017 Spring,1,English,143B,2,Clg of Letters & Science,anthropology
+88,2017 Spring,1,English,190,2,Clg of Letters & Science,anthropology
+89,2017 Spring,1,English,198,1,Clg of Letters & Science,anthropology
+90,2017 Spring,1,English,198,3,Clg of Letters & Science,anthropology
+91,2017 Spring,1,English,198,4,Clg of Letters & Science,anthropology
+92,2017 Spring,1,English,198,5,Clg of Letters & Science,anthropology
+93,2017 Spring,1,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,anthropology
+94,2017 Spring,1,"Env Sci, Policy, & Mgmt",72,1,Clg of Natural Resources,anthropology
+95,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,5,Clg of Natural Resources,anthropology
+96,2017 Spring,1,"Env Sci, Policy, & Mgmt",98BC,4,Clg of Natural Resources,anthropology
+97,2017 Spring,1,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,anthropology
+98,2017 Spring,1,"Env Sci, Policy, & Mgmt",134,1,Clg of Natural Resources,anthropology
+99,2017 Spring,1,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,anthropology
+100,2017 Spring,1,"Env Sci, Policy, & Mgmt",194B,1,Clg of Natural Resources,anthropology
+101,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,5,Clg of Natural Resources,anthropology
+102,2017 Spring,2,"Env Sci, Policy, & Mgmt",198,7,Clg of Natural Resources,anthropology
+103,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,10,Clg of Natural Resources,anthropology
+104,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,15,Clg of Natural Resources,anthropology
+105,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,5,Clg of Natural Resources,anthropology
+106,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,6,Clg of Natural Resources,anthropology
+107,2017 Spring,1,Ethnic Studies,11AC,1,Clg of Letters & Science,anthropology
+108,2017 Spring,2,Ethnic Studies,145,1,Clg of Letters & Science,anthropology
+109,2017 Spring,2,Ethnic Studies,180,1,Clg of Letters & Science,anthropology
+110,2017 Spring,2,Ethnic Studies,197,11,Clg of Letters & Science,anthropology
+111,2017 Spring,2,Ethnic Studies,198,8,Clg of Letters & Science,anthropology
+112,2017 Spring,1,Ethnic Studies,198,9,Clg of Letters & Science,anthropology
+113,2017 Spring,1,Ethnic Studies,198BC,1,Clg of Letters & Science,anthropology
+114,2017 Spring,2,Ethnic Studies,198BC,2,Clg of Letters & Science,anthropology
+115,2017 Spring,1,Film,108,2,Clg of Letters & Science,anthropology
+116,2017 Spring,1,French,1,6,Clg of Letters & Science,anthropology
+117,2017 Spring,1,French,4,5,Clg of Letters & Science,anthropology
+118,2017 Spring,1,French,35,1,Clg of Letters & Science,anthropology
+119,2017 Spring,1,Gender & Womens Studies,14,1,Clg of Letters & Science,anthropology
+120,2017 Spring,2,Gender & Womens Studies,100AC,1,Clg of Letters & Science,anthropology
+121,2017 Spring,1,Gender & Womens Studies,101,1,Clg of Letters & Science,anthropology
+122,2017 Spring,2,Gender & Womens Studies,104,1,Clg of Letters & Science,anthropology
+123,2017 Spring,1,Gender & Womens Studies,198,4,Clg of Letters & Science,anthropology
+124,2017 Spring,1,Geography,C112,1,Clg of Letters & Science,anthropology
+125,2017 Spring,1,Geography,157,1,Clg of Letters & Science,anthropology
+126,2017 Spring,1,Geography,180,1,Clg of Letters & Science,anthropology
+127,2017 Spring,1,Geography,185,1,Clg of Letters & Science,anthropology
+128,2017 Spring,1,German,4,2,Clg of Letters & Science,anthropology
+129,2017 Spring,1,German,182,1,Clg of Letters & Science,anthropology
+130,2017 Spring,1,Global Poverty & Practice,105,2,Clg of Letters & Science,anthropology
+131,2017 Spring,1,Global Poverty & Practice,196,1,Clg of Letters & Science,anthropology
+132,2017 Spring,1,Global Studies,110M,1,Clg of Letters & Science,anthropology
+133,2017 Spring,1,History,5,1,Clg of Letters & Science,anthropology
+134,2017 Spring,1,History,8B,1,Clg of Letters & Science,anthropology
+135,2017 Spring,1,History,100D,1,Clg of Letters & Science,anthropology
+136,2017 Spring,1,History,100U,1,Clg of Letters & Science,anthropology
+137,2017 Spring,1,History,103S,1,Clg of Letters & Science,anthropology
+138,2017 Spring,3,History,109C,1,Clg of Letters & Science,anthropology
+139,2017 Spring,2,History,122AC,1,Clg of Letters & Science,anthropology
+140,2017 Spring,2,History,124B,1,Clg of Letters & Science,anthropology
+141,2017 Spring,3,History,136C,1,Clg of Letters & Science,anthropology
+142,2017 Spring,1,History,141B,1,Clg of Letters & Science,anthropology
+143,2017 Spring,1,History,162B,1,Clg of Letters & Science,anthropology
+144,2017 Spring,1,History,171C,1,Clg of Letters & Science,anthropology
+145,2017 Spring,1,History,178,1,Clg of Letters & Science,anthropology
+146,2017 Spring,1,History,C191,1,Clg of Letters & Science,anthropology
+147,2017 Spring,1,History,C196A,1,Clg of Letters & Science,anthropology
+148,2017 Spring,1,History,C196B,1,Clg of Letters & Science,anthropology
+149,2017 Spring,2,History of Art,100,1,Clg of Letters & Science,anthropology
+150,2017 Spring,1,History of Art,C196A,1,Clg of Letters & Science,anthropology
+151,2017 Spring,1,History of Art,C196B,1,Clg of Letters & Science,anthropology
+152,2017 Spring,2,History of Art,198,1,Clg of Letters & Science,anthropology
+153,2017 Spring,1,Integrative Biology,31,1,Clg of Letters & Science,anthropology
+154,2017 Spring,1,Integrative Biology,113L,1,Clg of Letters & Science,anthropology
+155,2017 Spring,1,Integrative Biology,140,1,Clg of Letters & Science,anthropology
+156,2017 Spring,1,Integrative Biology,169,1,Clg of Letters & Science,anthropology
+157,2017 Spring,1,Integrative Biology,172,1,Clg of Letters & Science,anthropology
+158,2017 Spring,4,Integrative Biology,C185L,1,Clg of Letters & Science,anthropology
+159,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,anthropology
+160,2017 Spring,2,Integrative Biology,198,6,Clg of Letters & Science,anthropology
+161,2017 Spring,2,Interdisciplinary Studies,100A,1,Clg of Letters & Science,anthropology
+162,2017 Spring,3,Interdisciplinary Studies,198,5,Clg of Letters & Science,anthropology
+163,2017 Spring,1,International & Area Stds,45,1,Clg of Letters & Science,anthropology
+164,2017 Spring,1,International & Area Stds,102,1,Clg of Letters & Science,anthropology
+165,2017 Spring,1,International & Area Stds,198,3,Clg of Letters & Science,anthropology
+166,2017 Spring,1,Italian Studies,2,2,Clg of Letters & Science,anthropology
+167,2017 Spring,1,Italian Studies,30,1,Clg of Letters & Science,anthropology
+168,2017 Spring,1,Italian Studies,120,1,Clg of Letters & Science,anthropology
+169,2017 Spring,1,Journalism,198,1,Grad School of Journalism,anthropology
+170,2017 Spring,1,Korean,1B,3,Clg of Letters & Science,anthropology
+171,2017 Spring,1,Korean,153,1,Clg of Letters & Science,anthropology
+172,2017 Spring,1,LGBT Studies,146,1,Clg of Letters & Science,anthropology
+173,2017 Spring,1,Legal Studies,100,1,School of Law,anthropology
+174,2017 Spring,1,Legal Studies,105,1,School of Law,anthropology
+175,2017 Spring,2,Legal Studies,132AC,1,School of Law,anthropology
+176,2017 Spring,1,Legal Studies,139,1,School of Law,anthropology
+177,2017 Spring,2,Legal Studies,154,1,School of Law,anthropology
+178,2017 Spring,2,Legal Studies,173,1,School of Law,anthropology
+179,2017 Spring,1,Letters & Science,25,1,Clg of Letters & Science,anthropology
+180,2017 Spring,1,Letters & Science,70C,1,Clg of Letters & Science,anthropology
+181,2017 Spring,3,Letters & Science,C180U,1,Clg of Letters & Science,anthropology
+182,2017 Spring,1,Linguistics,115,1,Clg of Letters & Science,anthropology
+183,2017 Spring,1,Linguistics,198,1,Clg of Letters & Science,anthropology
+184,2017 Spring,1,Malay/Indonesian,1B,1,Clg of Letters & Science,anthropology
+185,2017 Spring,1,Malay/Indonesian,100B,1,Clg of Letters & Science,anthropology
+186,2017 Spring,1,Mathematics,1A,1,Clg of Letters & Science,anthropology
+187,2017 Spring,1,Mathematics,16A,1,Clg of Letters & Science,anthropology
+188,2017 Spring,1,Mathematics,198,1,Clg of Letters & Science,anthropology
+189,2017 Spring,1,Media Studies,101,1,Clg of Letters & Science,anthropology
+190,2017 Spring,1,Military Affairs,1,1,Clg of Letters & Science,anthropology
+191,2017 Spring,1,Military Science,1,1,Clg of Letters & Science,anthropology
+192,2017 Spring,1,Military Science,142,1,Clg of Letters & Science,anthropology
+193,2017 Spring,2,Molecular & Cell Biology,102,1,Clg of Letters & Science,anthropology
+194,2017 Spring,1,Molecular & Cell Biology,C103,1,Clg of Letters & Science,anthropology
+195,2017 Spring,1,Molecular & Cell Biology,150,1,Clg of Letters & Science,anthropology
+196,2017 Spring,1,Molecular & Cell Biology,150L,2,Clg of Letters & Science,anthropology
+197,2017 Spring,1,Molecular & Cell Biology,198,5,Clg of Letters & Science,anthropology
+198,2017 Spring,1,Music,20B,1,Clg of Letters & Science,anthropology
+199,2017 Spring,1,Music,140,2,Clg of Letters & Science,anthropology
+200,2017 Spring,1,Music,142,2,Clg of Letters & Science,anthropology
+201,2017 Spring,2,Music,143,1,Clg of Letters & Science,anthropology
+202,2017 Spring,2,Music,144,1,Clg of Letters & Science,anthropology
+203,2017 Spring,3,Native American Studies,173AC,1,Clg of Letters & Science,anthropology
+204,2017 Spring,1,Naval Science,2,1,Clg of Letters & Science,anthropology
+205,2017 Spring,1,Near Eastern Studies,R1B,1,Clg of Letters & Science,anthropology
+206,2017 Spring,2,Near Eastern Studies,C104,1,Clg of Letters & Science,anthropology
+207,2017 Spring,1,Near Eastern Studies,129,1,Clg of Letters & Science,anthropology
+208,2017 Spring,1,Near Eastern Studies,165,1,Clg of Letters & Science,anthropology
+209,2017 Spring,1,Near Eastern Studies,180,1,Clg of Letters & Science,anthropology
+210,2017 Spring,2,Nutritional Science & Tox,10,1,Clg of Natural Resources,anthropology
+211,2017 Spring,1,Nutritional Science & Tox,104,1,Clg of Natural Resources,anthropology
+212,2017 Spring,1,Nutritional Science & Tox,115,1,Clg of Natural Resources,anthropology
+213,2017 Spring,1,Nutritional Science & Tox,198,2,Clg of Natural Resources,anthropology
+214,2017 Spring,1,Optometry,10,1,School of Optometry,anthropology
+215,2017 Spring,1,Peace & Conflict Studies,135,1,Clg of Letters & Science,anthropology
+216,2017 Spring,2,Peace & Conflict Studies,151,1,Clg of Letters & Science,anthropology
+217,2017 Spring,1,Peace & Conflict Studies,190,1,Clg of Letters & Science,anthropology
+218,2017 Spring,2,Philosophy,12A,1,Clg of Letters & Science,anthropology
+219,2017 Spring,1,Philosophy,186B,1,Clg of Letters & Science,anthropology
+220,2017 Spring,1,Philosophy,198BC,4,Clg of Letters & Science,anthropology
+221,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,anthropology
+222,2017 Spring,1,Physical Education,1,14,Clg of Letters & Science,anthropology
+223,2017 Spring,1,Physical Education,1,15,Clg of Letters & Science,anthropology
+224,2017 Spring,2,Physical Education,1,18,Clg of Letters & Science,anthropology
+225,2017 Spring,1,Physical Education,1,22,Clg of Letters & Science,anthropology
+226,2017 Spring,1,Physical Education,1,23,Clg of Letters & Science,anthropology
+227,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,anthropology
+228,2017 Spring,1,Physical Education,1,26,Clg of Letters & Science,anthropology
+229,2017 Spring,1,Physical Education,1,37,Clg of Letters & Science,anthropology
+230,2017 Spring,1,Physical Education,1,39,Clg of Letters & Science,anthropology
+231,2017 Spring,2,Physical Education,1,45,Clg of Letters & Science,anthropology
+232,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,anthropology
+233,2017 Spring,1,Physical Education,2,11,Clg of Letters & Science,anthropology
+234,2017 Spring,1,Physical Education,2,13,Clg of Letters & Science,anthropology
+235,2017 Spring,1,Physical Education,3,7,Clg of Letters & Science,anthropology
+236,2017 Spring,1,Physical Education,3,9,Clg of Letters & Science,anthropology
+237,2017 Spring,1,Physical Education,4,5,Clg of Letters & Science,anthropology
+238,2017 Spring,1,Physical Education,11,5,Clg of Letters & Science,anthropology
+239,2017 Spring,1,Physical Education,11,6,Clg of Letters & Science,anthropology
+240,2017 Spring,1,Physical Education,11,7,Clg of Letters & Science,anthropology
+241,2017 Spring,1,Physical Education,11,8,Clg of Letters & Science,anthropology
+242,2017 Spring,2,Physical Education,11,25,Clg of Letters & Science,anthropology
+243,2017 Spring,2,Physical Education,11,26,Clg of Letters & Science,anthropology
+244,2017 Spring,1,Physical Education,12,23,Clg of Letters & Science,anthropology
+245,2017 Spring,1,Physical Education,12,24,Clg of Letters & Science,anthropology
+246,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,anthropology
+247,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,anthropology
+248,2017 Spring,1,Physics,8A,1,Clg of Letters & Science,anthropology
+249,2017 Spring,2,Physics,8A,2,Clg of Letters & Science,anthropology
+250,2017 Spring,2,Physics,8B,2,Clg of Letters & Science,anthropology
+251,2017 Spring,1,Plant & Microbial Biology,40,1,Clg of Natural Resources,anthropology
+252,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,anthropology
+253,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,anthropology
+254,2017 Spring,1,Political Science,109H,1,Clg of Letters & Science,anthropology
+255,2017 Spring,1,Political Science,116A,1,Clg of Letters & Science,anthropology
+256,2017 Spring,1,Political Science,124C,1,Clg of Letters & Science,anthropology
+257,2017 Spring,1,Political Science,148A,1,Clg of Letters & Science,anthropology
+258,2017 Spring,1,Political Science,157A,1,Clg of Letters & Science,anthropology
+259,2017 Spring,1,Political Science,161,1,Clg of Letters & Science,anthropology
+260,2017 Spring,4,Political Science,179,1,Clg of Letters & Science,anthropology
+261,2017 Spring,1,Political Science,198,3,Clg of Letters & Science,anthropology
+262,2017 Spring,2,Psychology,2,1,Clg of Letters & Science,anthropology
+263,2017 Spring,1,Psychology,C61,1,Clg of Letters & Science,anthropology
+264,2017 Spring,2,Psychology,101,1,Clg of Letters & Science,anthropology
+265,2017 Spring,1,Psychology,C127,1,Clg of Letters & Science,anthropology
+266,2017 Spring,1,Psychology,130,1,Clg of Letters & Science,anthropology
+267,2017 Spring,1,Psychology,131,1,Clg of Letters & Science,anthropology
+268,2017 Spring,1,Psychology,C143,1,Clg of Letters & Science,anthropology
+269,2017 Spring,1,Psychology,156,1,Clg of Letters & Science,anthropology
+270,2017 Spring,1,Psychology,160,1,Clg of Letters & Science,anthropology
+271,2017 Spring,1,Psychology,166AC,1,Clg of Letters & Science,anthropology
+272,2017 Spring,1,Public Health,150A,1,School of Public Health,anthropology
+273,2017 Spring,1,Public Health,150E,1,School of Public Health,anthropology
+274,2017 Spring,2,Public Health,C155,1,School of Public Health,anthropology
+275,2017 Spring,1,Public Health,196,6,School of Public Health,anthropology
+276,2017 Spring,1,Public Health,198,10,School of Public Health,anthropology
+277,2017 Spring,2,Public Health,198,12,School of Public Health,anthropology
+278,2017 Spring,2,Public Health,198,17,School of Public Health,anthropology
+279,2017 Spring,2,Public Policy,157,1,Goldman School Public Policy,anthropology
+280,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,anthropology
+281,2017 Spring,1,Rhetoric,20,1,Clg of Letters & Science,anthropology
+282,2017 Spring,1,Russian,2,1,Clg of Letters & Science,anthropology
+283,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,anthropology
+284,2017 Spring,1,Slavic Languages & Lit,134E,1,Clg of Letters & Science,anthropology
+285,2017 Spring,1,Social Welfare,98,5,School of Social Welfare,anthropology
+286,2017 Spring,1,Social Welfare,198BC,1,School of Social Welfare,anthropology
+287,2017 Spring,1,Sociology,102,1,Clg of Letters & Science,anthropology
+288,2017 Spring,1,Sociology,114,1,Clg of Letters & Science,anthropology
+289,2017 Spring,1,Sociology,117,1,Clg of Letters & Science,anthropology
+290,2017 Spring,1,Sociology,131AC,1,Clg of Letters & Science,anthropology
+291,2017 Spring,1,Sociology,150,1,Clg of Letters & Science,anthropology
+292,2017 Spring,1,Sociology,163,1,Clg of Letters & Science,anthropology
+293,2017 Spring,1,Sociology,190,1,Clg of Letters & Science,anthropology
+294,2017 Spring,1,Sociology,C196A,1,Clg of Letters & Science,anthropology
+295,2017 Spring,1,Sociology,C196B,1,Clg of Letters & Science,anthropology
+296,2017 Spring,1,Sociology,198,4,Clg of Letters & Science,anthropology
+297,2017 Spring,1,Sociology,198,5,Clg of Letters & Science,anthropology
+298,2017 Spring,1,Sociology,198,14,Clg of Letters & Science,anthropology
+299,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,anthropology
+300,2017 Spring,1,Sociology,198,24,Clg of Letters & Science,anthropology
+301,2017 Spring,1,Sociology,198BC,2,Clg of Letters & Science,anthropology
+302,2017 Spring,3,Sociology,198BC,7,Clg of Letters & Science,anthropology
+303,2017 Spring,1,South & SE Asian Studies,150,1,Clg of Letters & Science,anthropology
+304,2017 Spring,1,Spanish,1,1,Clg of Letters & Science,anthropology
+305,2017 Spring,1,Spanish,2,4,Clg of Letters & Science,anthropology
+306,2017 Spring,1,Spanish,4,3,Clg of Letters & Science,anthropology
+307,2017 Spring,1,Spanish,22,1,Clg of Letters & Science,anthropology
+308,2017 Spring,1,Spanish,25,6,Clg of Letters & Science,anthropology
+309,2017 Spring,2,Spanish,107B,1,Clg of Letters & Science,anthropology
+310,2017 Spring,1,Spanish,115,1,Clg of Letters & Science,anthropology
+311,2017 Spring,1,Spanish,135W,1,Clg of Letters & Science,anthropology
+312,2017 Spring,2,Statistics,2,1,Clg of Letters & Science,anthropology
+313,2017 Spring,1,Statistics,W21,1,Clg of Letters & Science,anthropology
+314,2017 Spring,1,Statistics,133,1,Clg of Letters & Science,anthropology
+315,2017 Spring,1,Statistics,198,1,Clg of Letters & Science,anthropology
+316,2017 Spring,2,Theater Dance & Perf Stds,40,1,Clg of Letters & Science,anthropology
+317,2017 Spring,1,Theater Dance & Perf Stds,100,1,Clg of Letters & Science,anthropology
+318,2017 Spring,1,Theater Dance & Perf Stds,109,1,Clg of Letters & Science,anthropology
+319,2017 Spring,1,Theater Dance & Perf Stds,110B,1,Clg of Letters & Science,anthropology
+320,2017 Spring,1,Theater Dance & Perf Stds,111,1,Clg of Letters & Science,anthropology
+321,2017 Spring,1,Theater Dance & Perf Stds,125,1,Clg of Letters & Science,anthropology
+322,2017 Spring,1,Theater Dance & Perf Stds,142,1,Clg of Letters & Science,anthropology
+323,2017 Spring,1,Theater Dance & Perf Stds,146B,1,Clg of Letters & Science,anthropology
+324,2017 Spring,1,Theater Dance & Perf Stds,148,1,Clg of Letters & Science,anthropology
+325,2017 Spring,1,Theater Dance & Perf Stds,167,1,Clg of Letters & Science,anthropology
+326,2017 Spring,1,Theater Dance & Perf Stds,172,2,Clg of Letters & Science,anthropology
+327,2017 Spring,1,Theater Dance & Perf Stds,180,1,Clg of Letters & Science,anthropology
+328,2017 Spring,1,UGIS-UG Interdisc Studies,162I,1,Clg of Letters & Science,anthropology
+329,2017 Spring,1,UGIS-UG Interdisc Studies,162W,1,Clg of Letters & Science,anthropology

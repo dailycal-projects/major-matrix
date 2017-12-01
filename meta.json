@@ -1,0 +1,25 @@
+{
+  "id": "75034642370",
+  "publishPath": "2017/major-matrix/",
+  "url": "http://projects.dailycal.org/2017/major-matrix/",
+  "timestamp": "2017-04-13T08:13-0400",
+  "dateline": "04/13/17 08:13 PM EDT",
+  "share": {
+    "fbook": {
+      "card_title": "major-matrix",
+      "card_description": "UC Berkeley's independent student-run newspaper"
+    },
+    "twitter": {
+      "card_title": "major-matrix",
+      "share_tweet": "UC Berkeley's independent student-run newspaper"
+    },
+    "image": {
+      "url": "http://projects.dailycal.org/2017/major-matrix/images/share.jpg",
+      "alt": "<Text>",
+      "type": "image/jpeg",
+      "width": "600",
+      "height": "300"
+    },
+    "keywords": "Daily Cal, news"
+  }
+}

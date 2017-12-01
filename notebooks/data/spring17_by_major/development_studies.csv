@@ -1,0 +1,135 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,101,1,Clg of Letters & Science,development studies
+1,2017 Spring,2,African American Studies,115,1,Clg of Letters & Science,development studies
+2,2017 Spring,1,African American Studies,131,1,Clg of Letters & Science,development studies
+3,2017 Spring,1,African American Studies,139,2,Clg of Letters & Science,development studies
+4,2017 Spring,1,African American Studies,159,1,Clg of Letters & Science,development studies
+5,2017 Spring,1,American Studies,191,2,Clg of Letters & Science,development studies
+6,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,development studies
+7,2017 Spring,2,Anthropology,156A,1,Clg of Letters & Science,development studies
+8,2017 Spring,3,Anthropology,170,1,Clg of Letters & Science,development studies
+9,2017 Spring,2,Anthropology,180,1,Clg of Letters & Science,development studies
+10,2017 Spring,2,Anthropology,183,1,Clg of Letters & Science,development studies
+11,2017 Spring,1,Asian American Studies,132AC,1,Clg of Letters & Science,development studies
+12,2017 Spring,1,Asian Studies,150,1,Clg of Letters & Science,development studies
+13,2017 Spring,2,Asian Studies,150,2,Clg of Letters & Science,development studies
+14,2017 Spring,1,Business Admin-Undergrad,96,1,Haas School of Business,development studies
+15,2017 Spring,1,Business Admin-Undergrad,101B,2,Haas School of Business,development studies
+16,2017 Spring,1,Business Admin-Undergrad,104,1,Haas School of Business,development studies
+17,2017 Spring,1,Business Admin-Undergrad,105,1,Haas School of Business,development studies
+18,2017 Spring,2,Business Admin-Undergrad,107,1,Haas School of Business,development studies
+19,2017 Spring,1,Business Admin-Undergrad,115,1,Haas School of Business,development studies
+20,2017 Spring,1,Celtic Studies,125,1,Clg of Letters & Science,development studies
+21,2017 Spring,1,Chicano Studies,50,1,Clg of Letters & Science,development studies
+22,2017 Spring,1,Chinese,1A,1,Clg of Letters & Science,development studies
+23,2017 Spring,1,Chinese,100XB,1,Clg of Letters & Science,development studies
+24,2017 Spring,1,College Writing Programs,151,1,Clg of Letters & Science,development studies
+25,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,development studies
+26,2017 Spring,21,Development Studies,C100,1,Clg of Letters & Science,development studies
+27,2017 Spring,3,Development Studies,H195,1,Clg of Letters & Science,development studies
+28,2017 Spring,1,Economics,100A,1,Clg of Letters & Science,development studies
+29,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,development studies
+30,2017 Spring,1,Economics,115,1,Clg of Letters & Science,development studies
+31,2017 Spring,3,Economics,151,1,Clg of Letters & Science,development studies
+32,2017 Spring,1,Economics,172,1,Clg of Letters & Science,development studies
+33,2017 Spring,1,Economics,174,1,Clg of Letters & Science,development studies
+34,2017 Spring,1,Education,98,9,Grad School of Education,development studies
+35,2017 Spring,1,Education,114A,1,Grad School of Education,development studies
+36,2017 Spring,1,Education,195B,1,Grad School of Education,development studies
+37,2017 Spring,1,Education,197,21,Grad School of Education,development studies
+38,2017 Spring,1,Energy and Resources,190,1,Clg of Natural Resources,development studies
+39,2017 Spring,1,Engineering,157AC,1,Clg of Engineering,development studies
+40,2017 Spring,1,Engineering,198,1,Clg of Engineering,development studies
+41,2017 Spring,1,English,166,4,Clg of Letters & Science,development studies
+42,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,7,Clg of Natural Resources,development studies
+43,2017 Spring,1,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,development studies
+44,2017 Spring,3,"Env Sci, Policy, & Mgmt",165,1,Clg of Natural Resources,development studies
+45,2017 Spring,3,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,development studies
+46,2017 Spring,2,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,development studies
+47,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,2,Clg of Natural Resources,development studies
+48,2017 Spring,1,Environ Econ & Policy,100,1,Clg of Natural Resources,development studies
+49,2017 Spring,1,Environ Econ & Policy,C101,1,Clg of Natural Resources,development studies
+50,2017 Spring,1,Environ Econ & Policy,C118,1,Clg of Natural Resources,development studies
+51,2017 Spring,1,Environ Econ & Policy,162,1,Clg of Natural Resources,development studies
+52,2017 Spring,3,Environmental Design,100,1,Clg of Environmental Design,development studies
+53,2017 Spring,1,Ethnic Studies,173AC,1,Clg of Letters & Science,development studies
+54,2017 Spring,1,Ethnic Studies,198,2,Clg of Letters & Science,development studies
+55,2017 Spring,1,Gender & Womens Studies,10,1,Clg of Letters & Science,development studies
+56,2017 Spring,1,Geography,130,1,Clg of Letters & Science,development studies
+57,2017 Spring,2,Geography,170,4,Clg of Letters & Science,development studies
+58,2017 Spring,1,German,1,4,Clg of Letters & Science,development studies
+59,2017 Spring,1,German,98,1,Clg of Letters & Science,development studies
+60,2017 Spring,3,Global Studies,110E,1,Clg of Letters & Science,development studies
+61,2017 Spring,1,Global Studies,110K,1,Clg of Letters & Science,development studies
+62,2017 Spring,3,Global Studies,110L,1,Clg of Letters & Science,development studies
+63,2017 Spring,1,Global Studies,110M,1,Clg of Letters & Science,development studies
+64,2017 Spring,1,History,100AC,2,Clg of Letters & Science,development studies
+65,2017 Spring,1,History,103B,1,Clg of Letters & Science,development studies
+66,2017 Spring,1,History,103F,1,Clg of Letters & Science,development studies
+67,2017 Spring,3,History,112C,1,Clg of Letters & Science,development studies
+68,2017 Spring,2,History,114B,1,Clg of Letters & Science,development studies
+69,2017 Spring,2,History,117A,1,Clg of Letters & Science,development studies
+70,2017 Spring,1,History,136C,1,Clg of Letters & Science,development studies
+71,2017 Spring,1,History,141B,1,Clg of Letters & Science,development studies
+72,2017 Spring,2,History,160,1,Clg of Letters & Science,development studies
+73,2017 Spring,1,History,164A,1,Clg of Letters & Science,development studies
+74,2017 Spring,2,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,development studies
+75,2017 Spring,1,Information,103,1,School of Information,development studies
+76,2017 Spring,2,International & Area Stds,106,1,Clg of Letters & Science,development studies
+77,2017 Spring,1,International & Area Stds,150,1,Clg of Letters & Science,development studies
+78,2017 Spring,1,International & Area Stds,150,2,Clg of Letters & Science,development studies
+79,2017 Spring,2,International & Area Stds,150,4,Clg of Letters & Science,development studies
+80,2017 Spring,1,International & Area Stds,150,5,Clg of Letters & Science,development studies
+81,2017 Spring,1,Italian Studies,4,1,Clg of Letters & Science,development studies
+82,2017 Spring,1,Jewish Studies,198,3,Clg of Letters & Science,development studies
+83,2017 Spring,1,Korean,150,1,Clg of Letters & Science,development studies
+84,2017 Spring,1,Legal Studies,153,1,School of Law,development studies
+85,2017 Spring,1,Letters & Science,C70T,1,Clg of Letters & Science,development studies
+86,2017 Spring,2,Letters & Science,C180U,1,Clg of Letters & Science,development studies
+87,2017 Spring,1,Mathematics,54,2,Clg of Letters & Science,development studies
+88,2017 Spring,1,Mathematics,55,1,Clg of Letters & Science,development studies
+89,2017 Spring,1,Media Studies,103,1,Clg of Letters & Science,development studies
+90,2017 Spring,1,Media Studies,104A,1,Clg of Letters & Science,development studies
+91,2017 Spring,3,Middle Eastern Studies,130,1,Clg of Letters & Science,development studies
+92,2017 Spring,1,Music,44,2,Clg of Letters & Science,development studies
+93,2017 Spring,1,Music,143,1,Clg of Letters & Science,development studies
+94,2017 Spring,1,Near Eastern Studies,150B,1,Clg of Letters & Science,development studies
+95,2017 Spring,1,Peace & Conflict Studies,100,1,Clg of Letters & Science,development studies
+96,2017 Spring,1,Philosophy,132,1,Clg of Letters & Science,development studies
+97,2017 Spring,1,Philosophy,189,1,Clg of Letters & Science,development studies
+98,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,development studies
+99,2017 Spring,1,Physical Education,1,19,Clg of Letters & Science,development studies
+100,2017 Spring,1,Physical Education,2,1,Clg of Letters & Science,development studies
+101,2017 Spring,1,Physical Education,2,11,Clg of Letters & Science,development studies
+102,2017 Spring,1,Physical Education,4,2,Clg of Letters & Science,development studies
+103,2017 Spring,1,Political Economy,100,1,Clg of Letters & Science,development studies
+104,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,development studies
+105,2017 Spring,1,Political Economy,197,2,Clg of Letters & Science,development studies
+106,2017 Spring,1,Political Science,140L,1,Clg of Letters & Science,development studies
+107,2017 Spring,1,Political Science,143B,1,Clg of Letters & Science,development studies
+108,2017 Spring,1,Political Science,149E,1,Clg of Letters & Science,development studies
+109,2017 Spring,1,Political Science,149S,1,Clg of Letters & Science,development studies
+110,2017 Spring,1,Political Science,191,5,Clg of Letters & Science,development studies
+111,2017 Spring,1,Psychology,101,1,Clg of Letters & Science,development studies
+112,2017 Spring,1,Psychology,166AC,1,Clg of Letters & Science,development studies
+113,2017 Spring,3,Public Policy,C103,1,Goldman School Public Policy,development studies
+114,2017 Spring,1,Public Policy,190,2,Goldman School Public Policy,development studies
+115,2017 Spring,2,Public Policy,198,1,Goldman School Public Policy,development studies
+116,2017 Spring,1,Rhetoric,151,1,Clg of Letters & Science,development studies
+117,2017 Spring,1,Slavic Languages & Lit,190,1,Clg of Letters & Science,development studies
+118,2017 Spring,1,Social Welfare,185AC,1,School of Social Welfare,development studies
+119,2017 Spring,1,Social Welfare,198BC,1,School of Social Welfare,development studies
+120,2017 Spring,1,Sociology,102,1,Clg of Letters & Science,development studies
+121,2017 Spring,1,Sociology,105,1,Clg of Letters & Science,development studies
+122,2017 Spring,1,Sociology,140,1,Clg of Letters & Science,development studies
+123,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,development studies
+124,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,development studies
+125,2017 Spring,1,South Asian,1B,1,Clg of Letters & Science,development studies
+126,2017 Spring,1,South Asian,142,1,Clg of Letters & Science,development studies
+127,2017 Spring,1,Spanish,2,6,Clg of Letters & Science,development studies
+128,2017 Spring,1,Spanish,4,4,Clg of Letters & Science,development studies
+129,2017 Spring,1,Spanish,4,6,Clg of Letters & Science,development studies
+130,2017 Spring,1,Spanish,104B,1,Clg of Letters & Science,development studies
+131,2017 Spring,1,Statistics,2,1,Clg of Letters & Science,development studies
+132,2017 Spring,1,Tibetan,115,1,Clg of Letters & Science,development studies
+133,2017 Spring,1,UGIS-UG Interdisc Studies,156,1,Clg of Letters & Science,development studies

@@ -1,0 +1,422 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,Aerospace Studies,135B,1,Clg of Letters & Science,mechanical engineering
+1,2017 Spring,1,African American Studies,115,1,Clg of Letters & Science,mechanical engineering
+2,2017 Spring,2,African American Studies,142AC,1,Clg of Letters & Science,mechanical engineering
+3,2017 Spring,1,Anthropology,1,1,Clg of Letters & Science,mechanical engineering
+4,2017 Spring,3,Anthropology,2AC,1,Clg of Letters & Science,mechanical engineering
+5,2017 Spring,6,Anthropology,3AC,1,Clg of Letters & Science,mechanical engineering
+6,2017 Spring,2,Anthropology,R5B,4,Clg of Letters & Science,mechanical engineering
+7,2017 Spring,3,Anthropology,121AC,1,Clg of Letters & Science,mechanical engineering
+8,2017 Spring,2,Anthropology,160AC,1,Clg of Letters & Science,mechanical engineering
+9,2017 Spring,1,Anthropology,174AC,1,Clg of Letters & Science,mechanical engineering
+10,2017 Spring,1,Anthropology,183,1,Clg of Letters & Science,mechanical engineering
+11,2017 Spring,1,Arabic,107,1,Clg of Letters & Science,mechanical engineering
+12,2017 Spring,2,Architecture,98,3,Clg of Environmental Design,mechanical engineering
+13,2017 Spring,1,Architecture,129,2,Clg of Environmental Design,mechanical engineering
+14,2017 Spring,1,Architecture,160,1,Clg of Environmental Design,mechanical engineering
+15,2017 Spring,1,Asian American Studies,20A,1,Clg of Letters & Science,mechanical engineering
+16,2017 Spring,3,Asian American Studies,132AC,1,Clg of Letters & Science,mechanical engineering
+17,2017 Spring,2,Astronomy,7B,1,Clg of Letters & Science,mechanical engineering
+18,2017 Spring,1,Bengali,101B,1,Clg of Letters & Science,mechanical engineering
+19,2017 Spring,1,Bioengineering,24,1,Clg of Engineering,mechanical engineering
+20,2017 Spring,1,Bioengineering,25,1,Clg of Engineering,mechanical engineering
+21,2017 Spring,1,Biology,1A,2,Clg of Letters & Science,mechanical engineering
+22,2017 Spring,2,Business Admin-Undergrad,C5,1,Haas School of Business,mechanical engineering
+23,2017 Spring,1,Business Admin-Undergrad,10,1,Haas School of Business,mechanical engineering
+24,2017 Spring,2,Business Admin-Undergrad,96,2,Haas School of Business,mechanical engineering
+25,2017 Spring,2,Business Admin-Undergrad,96,3,Haas School of Business,mechanical engineering
+26,2017 Spring,1,Business Admin-Undergrad,115,1,Haas School of Business,mechanical engineering
+27,2017 Spring,1,Business Admin-Undergrad,141,1,Haas School of Business,mechanical engineering
+28,2017 Spring,1,Business Admin-Undergrad,180,1,Haas School of Business,mechanical engineering
+29,2017 Spring,3,Chemical Engineering,198,3,Clg of Chemistry,mechanical engineering
+30,2017 Spring,1,Chemistry,1A,1,Clg of Chemistry,mechanical engineering
+31,2017 Spring,2,Chemistry,1A,2,Clg of Chemistry,mechanical engineering
+32,2017 Spring,3,Chemistry,1AL,1,Clg of Chemistry,mechanical engineering
+33,2017 Spring,1,Chemistry,4B,1,Clg of Chemistry,mechanical engineering
+34,2017 Spring,1,Chinese,1A,2,Clg of Letters & Science,mechanical engineering
+35,2017 Spring,1,Chinese,1A,4,Clg of Letters & Science,mechanical engineering
+36,2017 Spring,1,Chinese,10X,3,Clg of Letters & Science,mechanical engineering
+37,2017 Spring,1,Chinese,100XB,1,Clg of Letters & Science,mechanical engineering
+38,2017 Spring,1,City & Regional Planning,118AC,1,Clg of Environmental Design,mechanical engineering
+39,2017 Spring,2,Civil & Environmental Eng,11,1,Clg of Engineering,mechanical engineering
+40,2017 Spring,1,Civil & Environmental Eng,98,2,Clg of Engineering,mechanical engineering
+41,2017 Spring,2,Civil & Environmental Eng,98,5,Clg of Engineering,mechanical engineering
+42,2017 Spring,1,Civil & Environmental Eng,98,10,Clg of Engineering,mechanical engineering
+43,2017 Spring,3,Civil & Environmental Eng,107,1,Clg of Engineering,mechanical engineering
+44,2017 Spring,8,Civil & Environmental Eng,120,1,Clg of Engineering,mechanical engineering
+45,2017 Spring,5,Civil & Environmental Eng,130N,1,Clg of Engineering,mechanical engineering
+46,2017 Spring,2,Civil & Environmental Eng,C133,1,Clg of Engineering,mechanical engineering
+47,2017 Spring,4,Civil & Environmental Eng,198,6,Clg of Engineering,mechanical engineering
+48,2017 Spring,1,Civil & Environmental Eng,198,11,Clg of Engineering,mechanical engineering
+49,2017 Spring,1,Classics,17B,1,Clg of Letters & Science,mechanical engineering
+50,2017 Spring,1,Classics,161,1,Clg of Letters & Science,mechanical engineering
+51,2017 Spring,1,Cognitive Science,198,1,Clg of Letters & Science,mechanical engineering
+52,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,mechanical engineering
+53,2017 Spring,1,Cognitive Science,198,6,Clg of Letters & Science,mechanical engineering
+54,2017 Spring,1,College Writing Programs,R4B,3,Clg of Letters & Science,mechanical engineering
+55,2017 Spring,1,College Writing Programs,R4B,4,Clg of Letters & Science,mechanical engineering
+56,2017 Spring,1,College Writing Programs,R4B,14,Clg of Letters & Science,mechanical engineering
+57,2017 Spring,1,College Writing Programs,110,1,Clg of Letters & Science,mechanical engineering
+58,2017 Spring,1,Comparative Literature,R1A,3,Clg of Letters & Science,mechanical engineering
+59,2017 Spring,2,Comparative Literature,R1B,11,Clg of Letters & Science,mechanical engineering
+60,2017 Spring,4,Computer Science,C8,1,Clg of Engineering,mechanical engineering
+61,2017 Spring,1,Computer Science,9F,1,Clg of Engineering,mechanical engineering
+62,2017 Spring,1,Computer Science,9H,1,Clg of Engineering,mechanical engineering
+63,2017 Spring,1,Computer Science,24,2,Clg of Engineering,mechanical engineering
+64,2017 Spring,13,Computer Science,61A,1,Clg of Engineering,mechanical engineering
+65,2017 Spring,30,Computer Science,61B,1,Clg of Engineering,mechanical engineering
+66,2017 Spring,3,Computer Science,61C,1,Clg of Engineering,mechanical engineering
+67,2017 Spring,10,Computer Science,70,1,Clg of Engineering,mechanical engineering
+68,2017 Spring,1,Computer Science,97,205,Clg of Engineering,mechanical engineering
+69,2017 Spring,2,Computer Science,97,213,Clg of Engineering,mechanical engineering
+70,2017 Spring,1,Computer Science,160,2,Clg of Engineering,mechanical engineering
+71,2017 Spring,1,Computer Science,160,3,Clg of Engineering,mechanical engineering
+72,2017 Spring,3,Computer Science,161,1,Clg of Engineering,mechanical engineering
+73,2017 Spring,1,Computer Science,162,1,Clg of Engineering,mechanical engineering
+74,2017 Spring,5,Computer Science,170,1,Clg of Engineering,mechanical engineering
+75,2017 Spring,1,Computer Science,184,1,Clg of Engineering,mechanical engineering
+76,2017 Spring,2,Computer Science,186,1,Clg of Engineering,mechanical engineering
+77,2017 Spring,5,Computer Science,188,1,Clg of Engineering,mechanical engineering
+78,2017 Spring,8,Computer Science,189,1,Clg of Engineering,mechanical engineering
+79,2017 Spring,1,Computer Science,194,133,Clg of Engineering,mechanical engineering
+80,2017 Spring,1,Computer Science,195,1,Clg of Engineering,mechanical engineering
+81,2017 Spring,5,Computer Science,197,214,Clg of Engineering,mechanical engineering
+82,2017 Spring,4,Computer Science,198,58,Clg of Engineering,mechanical engineering
+83,2017 Spring,2,Computer Science,198,64,Clg of Engineering,mechanical engineering
+84,2017 Spring,1,Computer Science,198,71,Clg of Engineering,mechanical engineering
+85,2017 Spring,7,Computer Science,198,75,Clg of Engineering,mechanical engineering
+86,2017 Spring,1,Computer Science,198,642,Clg of Engineering,mechanical engineering
+87,2017 Spring,1,Demography,C175,1,Clg of Letters & Science,mechanical engineering
+88,2017 Spring,2,Design Innovation,21,1,Clg of Engineering,mechanical engineering
+89,2017 Spring,5,Design Innovation,22,1,Clg of Engineering,mechanical engineering
+90,2017 Spring,1,Design Innovation,190,3,Clg of Engineering,mechanical engineering
+91,2017 Spring,3,Design Innovation,198,2,Clg of Engineering,mechanical engineering
+92,2017 Spring,1,Dutch,2,1,Clg of Letters & Science,mechanical engineering
+93,2017 Spring,1,Earth & Planetary Science,50,1,Clg of Letters & Science,mechanical engineering
+94,2017 Spring,3,East Asian Languages,R1B,1,Clg of Letters & Science,mechanical engineering
+95,2017 Spring,1,Economics,1,1,Clg of Letters & Science,mechanical engineering
+96,2017 Spring,2,Economics,2,1,Clg of Letters & Science,mechanical engineering
+97,2017 Spring,2,Economics,100A,1,Clg of Letters & Science,mechanical engineering
+98,2017 Spring,1,Economics,136,1,Clg of Letters & Science,mechanical engineering
+99,2017 Spring,1,Economics,141,1,Clg of Letters & Science,mechanical engineering
+100,2017 Spring,1,Education,W140A,1,Grad School of Education,mechanical engineering
+101,2017 Spring,2,Education,140AC,1,Grad School of Education,mechanical engineering
+102,2017 Spring,1,Education,140AC,2,Grad School of Education,mechanical engineering
+103,2017 Spring,1,Education,140AC,3,Grad School of Education,mechanical engineering
+104,2017 Spring,2,Education,183,1,Grad School of Education,mechanical engineering
+105,2017 Spring,1,Education,198,9,Grad School of Education,mechanical engineering
+106,2017 Spring,1,Education,198,24,Grad School of Education,mechanical engineering
+107,2017 Spring,1,Education,198,38,Grad School of Education,mechanical engineering
+108,2017 Spring,130,Electrical Engineering,16A,1,Clg of Engineering,mechanical engineering
+109,2017 Spring,8,Electrical Engineering,16B,1,Clg of Engineering,mechanical engineering
+110,2017 Spring,1,Electrical Engineering,24,1,Clg of Engineering,mechanical engineering
+111,2017 Spring,1,Electrical Engineering,C106B,1,Clg of Engineering,mechanical engineering
+112,2017 Spring,1,Electrical Engineering,113,1,Clg of Engineering,mechanical engineering
+113,2017 Spring,1,Electrical Engineering,122,1,Clg of Engineering,mechanical engineering
+114,2017 Spring,1,Electrical Engineering,126,1,Clg of Engineering,mechanical engineering
+115,2017 Spring,2,Electrical Engineering,127,1,Clg of Engineering,mechanical engineering
+116,2017 Spring,5,Electrical Engineering,C128,1,Clg of Engineering,mechanical engineering
+117,2017 Spring,1,Electrical Engineering,134,1,Clg of Engineering,mechanical engineering
+118,2017 Spring,1,Electrical Engineering,143,1,Clg of Engineering,mechanical engineering
+119,2017 Spring,3,Electrical Engineering,192,1,Clg of Engineering,mechanical engineering
+120,2017 Spring,4,Electrical Engineering,198,1,Clg of Engineering,mechanical engineering
+121,2017 Spring,5,Electrical Engineering,198,2,Clg of Engineering,mechanical engineering
+122,2017 Spring,1,Electrical Engineering,198,6,Clg of Engineering,mechanical engineering
+123,2017 Spring,67,Engineering,7,1,Clg of Engineering,mechanical engineering
+124,2017 Spring,30,Engineering,25,1,Clg of Engineering,mechanical engineering
+125,2017 Spring,49,Engineering,26,1,Clg of Engineering,mechanical engineering
+126,2017 Spring,48,Engineering,27,1,Clg of Engineering,mechanical engineering
+127,2017 Spring,8,Engineering,45,1,Clg of Engineering,mechanical engineering
+128,2017 Spring,2,Engineering,45L,1,Clg of Engineering,mechanical engineering
+129,2017 Spring,1,Engineering,45L,4,Clg of Engineering,mechanical engineering
+130,2017 Spring,2,Engineering,98,1,Clg of Engineering,mechanical engineering
+131,2017 Spring,4,Engineering,120,1,Clg of Engineering,mechanical engineering
+132,2017 Spring,3,Engineering,157AC,1,Clg of Engineering,mechanical engineering
+133,2017 Spring,83,Engineering,177,1,Clg of Engineering,mechanical engineering
+134,2017 Spring,1,Engineering,198,1,Clg of Engineering,mechanical engineering
+135,2017 Spring,1,English,R1B,14,Clg of Letters & Science,mechanical engineering
+136,2017 Spring,1,English,84,1,Clg of Letters & Science,mechanical engineering
+137,2017 Spring,1,English,180Z,1,Clg of Letters & Science,mechanical engineering
+138,2017 Spring,1,English,198,6,Clg of Letters & Science,mechanical engineering
+139,2017 Spring,2,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,mechanical engineering
+140,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,3,Clg of Natural Resources,mechanical engineering
+141,2017 Spring,1,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,mechanical engineering
+142,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,1,Clg of Natural Resources,mechanical engineering
+143,2017 Spring,1,Environmental Design,R3B,1,Clg of Environmental Design,mechanical engineering
+144,2017 Spring,1,Environmental Design,4B,1,Clg of Environmental Design,mechanical engineering
+145,2017 Spring,1,Ethnic Studies,144AC,1,Clg of Letters & Science,mechanical engineering
+146,2017 Spring,1,Ethnic Studies,197,6,Clg of Letters & Science,mechanical engineering
+147,2017 Spring,2,Ethnic Studies,197,11,Clg of Letters & Science,mechanical engineering
+148,2017 Spring,1,Ethnic Studies,198,8,Clg of Letters & Science,mechanical engineering
+149,2017 Spring,1,Film,R1A,1,Clg of Letters & Science,mechanical engineering
+150,2017 Spring,1,Film,R1B,1,Clg of Letters & Science,mechanical engineering
+151,2017 Spring,2,Film,R1B,3,Clg of Letters & Science,mechanical engineering
+152,2017 Spring,2,Film,R1B,4,Clg of Letters & Science,mechanical engineering
+153,2017 Spring,1,French,1,2,Clg of Letters & Science,mechanical engineering
+154,2017 Spring,1,French,1,5,Clg of Letters & Science,mechanical engineering
+155,2017 Spring,2,French,R1B,1,Clg of Letters & Science,mechanical engineering
+156,2017 Spring,1,French,R1B,3,Clg of Letters & Science,mechanical engineering
+157,2017 Spring,1,French,2,1,Clg of Letters & Science,mechanical engineering
+158,2017 Spring,1,French,102,3,Clg of Letters & Science,mechanical engineering
+159,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,mechanical engineering
+160,2017 Spring,1,Geography,70AC,1,Clg of Letters & Science,mechanical engineering
+161,2017 Spring,1,Geography,C112,1,Clg of Letters & Science,mechanical engineering
+162,2017 Spring,1,Geography,130,1,Clg of Letters & Science,mechanical engineering
+163,2017 Spring,1,Geography,183,1,Clg of Letters & Science,mechanical engineering
+164,2017 Spring,1,German,1,3,Clg of Letters & Science,mechanical engineering
+165,2017 Spring,1,German,2,5,Clg of Letters & Science,mechanical engineering
+166,2017 Spring,1,German,R5B,2,Clg of Letters & Science,mechanical engineering
+167,2017 Spring,1,German,24,1,Clg of Letters & Science,mechanical engineering
+168,2017 Spring,1,Hindi-Urdu,1B,1,Clg of Letters & Science,mechanical engineering
+169,2017 Spring,1,History,R1B,4,Clg of Letters & Science,mechanical engineering
+170,2017 Spring,1,History,2,1,Clg of Letters & Science,mechanical engineering
+171,2017 Spring,1,History,8B,1,Clg of Letters & Science,mechanical engineering
+172,2017 Spring,1,History,84,1,Clg of Letters & Science,mechanical engineering
+173,2017 Spring,1,History,98,2,Clg of Letters & Science,mechanical engineering
+174,2017 Spring,1,History,98,3,Clg of Letters & Science,mechanical engineering
+175,2017 Spring,11,History,100AC,2,Clg of Letters & Science,mechanical engineering
+176,2017 Spring,2,History,100U,1,Clg of Letters & Science,mechanical engineering
+177,2017 Spring,1,History,104,1,Clg of Letters & Science,mechanical engineering
+178,2017 Spring,2,History,106B,1,Clg of Letters & Science,mechanical engineering
+179,2017 Spring,1,History,109C,1,Clg of Letters & Science,mechanical engineering
+180,2017 Spring,1,History,111B,1,Clg of Letters & Science,mechanical engineering
+181,2017 Spring,3,History,122AC,1,Clg of Letters & Science,mechanical engineering
+182,2017 Spring,1,History,124B,1,Clg of Letters & Science,mechanical engineering
+183,2017 Spring,3,History,136C,1,Clg of Letters & Science,mechanical engineering
+184,2017 Spring,2,History,160,1,Clg of Letters & Science,mechanical engineering
+185,2017 Spring,1,History,162B,1,Clg of Letters & Science,mechanical engineering
+186,2017 Spring,1,History,167D,1,Clg of Letters & Science,mechanical engineering
+187,2017 Spring,2,History,178,1,Clg of Letters & Science,mechanical engineering
+188,2017 Spring,1,History,180,1,Clg of Letters & Science,mechanical engineering
+189,2017 Spring,1,History,182A,1,Clg of Letters & Science,mechanical engineering
+190,2017 Spring,1,History,186,1,Clg of Letters & Science,mechanical engineering
+191,2017 Spring,1,History of Art,R1B,6,Clg of Letters & Science,mechanical engineering
+192,2017 Spring,1,History of Art,R1B,7,Clg of Letters & Science,mechanical engineering
+193,2017 Spring,1,History of Art,198,1,Clg of Letters & Science,mechanical engineering
+194,2017 Spring,1,Industrial Eng & Ops Rsch,153,1,Clg of Engineering,mechanical engineering
+195,2017 Spring,2,Industrial Eng & Ops Rsch,162,1,Clg of Engineering,mechanical engineering
+196,2017 Spring,2,Industrial Eng & Ops Rsch,165,1,Clg of Engineering,mechanical engineering
+197,2017 Spring,2,Industrial Eng & Ops Rsch,166,1,Clg of Engineering,mechanical engineering
+198,2017 Spring,8,Industrial Eng & Ops Rsch,170,1,Clg of Engineering,mechanical engineering
+199,2017 Spring,1,Industrial Eng & Ops Rsch,185,1,Clg of Engineering,mechanical engineering
+200,2017 Spring,3,Industrial Eng & Ops Rsch,190C,1,Clg of Engineering,mechanical engineering
+201,2017 Spring,1,Industrial Eng & Ops Rsch,190D,1,Clg of Engineering,mechanical engineering
+202,2017 Spring,1,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,mechanical engineering
+203,2017 Spring,6,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,mechanical engineering
+204,2017 Spring,1,Integrative Biology,24,2,Clg of Letters & Science,mechanical engineering
+205,2017 Spring,2,Integrative Biology,C32,1,Clg of Letters & Science,mechanical engineering
+206,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,mechanical engineering
+207,2017 Spring,1,Integrative Biology,198,2,Clg of Letters & Science,mechanical engineering
+208,2017 Spring,4,International & Area Stds,157AC,1,Clg of Letters & Science,mechanical engineering
+209,2017 Spring,1,International & Area Stds,198,2,Clg of Letters & Science,mechanical engineering
+210,2017 Spring,1,Italian Studies,1,1,Clg of Letters & Science,mechanical engineering
+211,2017 Spring,1,Italian Studies,R5B,1,Clg of Letters & Science,mechanical engineering
+212,2017 Spring,2,Japanese,1B,3,Clg of Letters & Science,mechanical engineering
+213,2017 Spring,1,Japanese,100B,2,Clg of Letters & Science,mechanical engineering
+214,2017 Spring,1,Korean,10B,2,Clg of Letters & Science,mechanical engineering
+215,2017 Spring,1,Korean,150,1,Clg of Letters & Science,mechanical engineering
+216,2017 Spring,2,Korean,153,1,Clg of Letters & Science,mechanical engineering
+217,2017 Spring,1,Korean,187,1,Clg of Letters & Science,mechanical engineering
+218,2017 Spring,1,Landscape Arch & Env Plan,1,1,Clg of Environmental Design,mechanical engineering
+219,2017 Spring,1,Latin,1,3,Clg of Letters & Science,mechanical engineering
+220,2017 Spring,1,Latin,100,1,Clg of Letters & Science,mechanical engineering
+221,2017 Spring,1,Legal Studies,185AC,1,School of Law,mechanical engineering
+222,2017 Spring,1,Letters & Science,22,1,Clg of Letters & Science,mechanical engineering
+223,2017 Spring,1,Letters & Science,C30Z,1,Clg of Letters & Science,mechanical engineering
+224,2017 Spring,4,Letters & Science,160B,1,Clg of Letters & Science,mechanical engineering
+225,2017 Spring,1,Letters & Science,C180U,1,Clg of Letters & Science,mechanical engineering
+226,2017 Spring,1,Linguistics,R1B,2,Clg of Letters & Science,mechanical engineering
+227,2017 Spring,1,Malay/Indonesian,1B,1,Clg of Letters & Science,mechanical engineering
+228,2017 Spring,1,Materials Science & Eng,24,2,Clg of Engineering,mechanical engineering
+229,2017 Spring,2,Materials Science & Eng,103,1,Clg of Engineering,mechanical engineering
+230,2017 Spring,2,Materials Science & Eng,104,1,Clg of Engineering,mechanical engineering
+231,2017 Spring,1,Materials Science & Eng,112,1,Clg of Engineering,mechanical engineering
+232,2017 Spring,1,Materials Science & Eng,151,1,Clg of Engineering,mechanical engineering
+233,2017 Spring,1,Mathematics,1B,1,Clg of Letters & Science,mechanical engineering
+234,2017 Spring,5,Mathematics,1B,2,Clg of Letters & Science,mechanical engineering
+235,2017 Spring,32,Mathematics,53,1,Clg of Letters & Science,mechanical engineering
+236,2017 Spring,34,Mathematics,53,2,Clg of Letters & Science,mechanical engineering
+237,2017 Spring,12,Mathematics,54,1,Clg of Letters & Science,mechanical engineering
+238,2017 Spring,25,Mathematics,54,2,Clg of Letters & Science,mechanical engineering
+239,2017 Spring,1,Mathematics,98,18,Clg of Letters & Science,mechanical engineering
+240,2017 Spring,2,Mathematics,98,30,Clg of Letters & Science,mechanical engineering
+241,2017 Spring,2,Mathematics,98,31,Clg of Letters & Science,mechanical engineering
+242,2017 Spring,1,Mathematics,98,33,Clg of Letters & Science,mechanical engineering
+243,2017 Spring,2,Mathematics,C103,1,Clg of Letters & Science,mechanical engineering
+244,2017 Spring,1,Mathematics,110,1,Clg of Letters & Science,mechanical engineering
+245,2017 Spring,1,Mathematics,113,5,Clg of Letters & Science,mechanical engineering
+246,2017 Spring,1,Mathematics,121B,1,Clg of Letters & Science,mechanical engineering
+247,2017 Spring,10,Mathematics,128A,1,Clg of Letters & Science,mechanical engineering
+248,2017 Spring,1,Mathematics,185,2,Clg of Letters & Science,mechanical engineering
+249,2017 Spring,2,Mathematics,198,2,Clg of Letters & Science,mechanical engineering
+250,2017 Spring,1,Mathematics,198,3,Clg of Letters & Science,mechanical engineering
+251,2017 Spring,1,Mathematics,198BC,1,Clg of Letters & Science,mechanical engineering
+252,2017 Spring,2,Mechanical Engineering,24,2,Clg of Engineering,mechanical engineering
+253,2017 Spring,86,Mechanical Engineering,40,1,Clg of Engineering,mechanical engineering
+254,2017 Spring,44,Mechanical Engineering,C85,1,Clg of Engineering,mechanical engineering
+255,2017 Spring,6,Mechanical Engineering,C85,2,Clg of Engineering,mechanical engineering
+256,2017 Spring,9,Mechanical Engineering,101,1,Clg of Engineering,mechanical engineering
+257,2017 Spring,58,Mechanical Engineering,102A,1,Clg of Engineering,mechanical engineering
+258,2017 Spring,128,Mechanical Engineering,102B,1,Clg of Engineering,mechanical engineering
+259,2017 Spring,65,Mechanical Engineering,104,1,Clg of Engineering,mechanical engineering
+260,2017 Spring,95,Mechanical Engineering,106,1,Clg of Engineering,mechanical engineering
+261,2017 Spring,76,Mechanical Engineering,107,1,Clg of Engineering,mechanical engineering
+262,2017 Spring,49,Mechanical Engineering,108,1,Clg of Engineering,mechanical engineering
+263,2017 Spring,66,Mechanical Engineering,109,1,Clg of Engineering,mechanical engineering
+264,2017 Spring,53,Mechanical Engineering,110,1,Clg of Engineering,mechanical engineering
+265,2017 Spring,25,Mechanical Engineering,118,1,Clg of Engineering,mechanical engineering
+266,2017 Spring,34,Mechanical Engineering,122,1,Clg of Engineering,mechanical engineering
+267,2017 Spring,109,Mechanical Engineering,132,1,Clg of Engineering,mechanical engineering
+268,2017 Spring,19,Mechanical Engineering,C134,1,Clg of Engineering,mechanical engineering
+269,2017 Spring,79,Mechanical Engineering,135,1,Clg of Engineering,mechanical engineering
+270,2017 Spring,2,Mechanical Engineering,151,1,Clg of Engineering,mechanical engineering
+271,2017 Spring,13,Mechanical Engineering,165,1,Clg of Engineering,mechanical engineering
+272,2017 Spring,14,Mechanical Engineering,170,1,Clg of Engineering,mechanical engineering
+273,2017 Spring,14,Mechanical Engineering,173,1,Clg of Engineering,mechanical engineering
+274,2017 Spring,35,Mechanical Engineering,C180,1,Clg of Engineering,mechanical engineering
+275,2017 Spring,20,Mechanical Engineering,191K,1,Clg of Engineering,mechanical engineering
+276,2017 Spring,17,Mechanical Engineering,193A,1,Clg of Engineering,mechanical engineering
+277,2017 Spring,3,Mechanical Engineering,193E,1,Clg of Engineering,mechanical engineering
+278,2017 Spring,3,Mechanical Engineering,197,1,Clg of Engineering,mechanical engineering
+279,2017 Spring,3,Mechanical Engineering,198,50,Clg of Engineering,mechanical engineering
+280,2017 Spring,14,Mechanical Engineering,198,51,Clg of Engineering,mechanical engineering
+281,2017 Spring,2,Military Affairs,1,1,Clg of Letters & Science,mechanical engineering
+282,2017 Spring,1,Military Affairs,145B,1,Clg of Letters & Science,mechanical engineering
+283,2017 Spring,2,Military Science,1,1,Clg of Letters & Science,mechanical engineering
+284,2017 Spring,1,Military Science,3,1,Clg of Letters & Science,mechanical engineering
+285,2017 Spring,1,Military Science,132,1,Clg of Letters & Science,mechanical engineering
+286,2017 Spring,1,Molecular & Cell Biology,C44,1,Clg of Letters & Science,mechanical engineering
+287,2017 Spring,1,Molecular & Cell Biology,90A,1,Clg of Letters & Science,mechanical engineering
+288,2017 Spring,1,Molecular & Cell Biology,98,205,Clg of Letters & Science,mechanical engineering
+289,2017 Spring,2,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,mechanical engineering
+290,2017 Spring,1,Molecular & Cell Biology,198,6,Clg of Letters & Science,mechanical engineering
+291,2017 Spring,1,Music,20A,3,Clg of Letters & Science,mechanical engineering
+292,2017 Spring,2,Music,20A,4,Clg of Letters & Science,mechanical engineering
+293,2017 Spring,5,Music,26AC,1,Clg of Letters & Science,mechanical engineering
+294,2017 Spring,2,Music,29,1,Clg of Letters & Science,mechanical engineering
+295,2017 Spring,2,Music,142,1,Clg of Letters & Science,mechanical engineering
+296,2017 Spring,5,Music,142,2,Clg of Letters & Science,mechanical engineering
+297,2017 Spring,1,Native American Studies,R1B,1,Clg of Letters & Science,mechanical engineering
+298,2017 Spring,1,Native American Studies,71,1,Clg of Letters & Science,mechanical engineering
+299,2017 Spring,2,Native American Studies,120AC,1,Clg of Letters & Science,mechanical engineering
+300,2017 Spring,1,Near Eastern Studies,109,1,Clg of Letters & Science,mechanical engineering
+301,2017 Spring,1,Near Eastern Studies,146B,1,Clg of Letters & Science,mechanical engineering
+302,2017 Spring,1,Nutritional Science & Tox,10,1,Clg of Natural Resources,mechanical engineering
+303,2017 Spring,3,Nutritional Science & Tox,198,1,Clg of Natural Resources,mechanical engineering
+304,2017 Spring,1,Peace & Conflict Studies,198,1,Clg of Letters & Science,mechanical engineering
+305,2017 Spring,1,Persian,20B,1,Clg of Letters & Science,mechanical engineering
+306,2017 Spring,2,Persian,100B,1,Clg of Letters & Science,mechanical engineering
+307,2017 Spring,1,Persian,104B,1,Clg of Letters & Science,mechanical engineering
+308,2017 Spring,1,Philosophy,25B,1,Clg of Letters & Science,mechanical engineering
+309,2017 Spring,2,Physical Education,1,7,Clg of Letters & Science,mechanical engineering
+310,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,mechanical engineering
+311,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,mechanical engineering
+312,2017 Spring,2,Physical Education,1,15,Clg of Letters & Science,mechanical engineering
+313,2017 Spring,1,Physical Education,1,16,Clg of Letters & Science,mechanical engineering
+314,2017 Spring,1,Physical Education,1,28,Clg of Letters & Science,mechanical engineering
+315,2017 Spring,2,Physical Education,1,30,Clg of Letters & Science,mechanical engineering
+316,2017 Spring,1,Physical Education,1,31,Clg of Letters & Science,mechanical engineering
+317,2017 Spring,1,Physical Education,1,34,Clg of Letters & Science,mechanical engineering
+318,2017 Spring,1,Physical Education,1,38,Clg of Letters & Science,mechanical engineering
+319,2017 Spring,1,Physical Education,2,4,Clg of Letters & Science,mechanical engineering
+320,2017 Spring,1,Physical Education,2,6,Clg of Letters & Science,mechanical engineering
+321,2017 Spring,1,Physical Education,2,11,Clg of Letters & Science,mechanical engineering
+322,2017 Spring,1,Physical Education,2,12,Clg of Letters & Science,mechanical engineering
+323,2017 Spring,1,Physical Education,2,17,Clg of Letters & Science,mechanical engineering
+324,2017 Spring,3,Physical Education,2,19,Clg of Letters & Science,mechanical engineering
+325,2017 Spring,1,Physical Education,3,2,Clg of Letters & Science,mechanical engineering
+326,2017 Spring,1,Physical Education,3,12,Clg of Letters & Science,mechanical engineering
+327,2017 Spring,1,Physical Education,4,1,Clg of Letters & Science,mechanical engineering
+328,2017 Spring,1,Physical Education,4,2,Clg of Letters & Science,mechanical engineering
+329,2017 Spring,1,Physical Education,5,1,Clg of Letters & Science,mechanical engineering
+330,2017 Spring,1,Physical Education,11,17,Clg of Letters & Science,mechanical engineering
+331,2017 Spring,1,Physical Education,11,18,Clg of Letters & Science,mechanical engineering
+332,2017 Spring,1,Physical Education,11,21,Clg of Letters & Science,mechanical engineering
+333,2017 Spring,1,Physical Education,11,22,Clg of Letters & Science,mechanical engineering
+334,2017 Spring,1,Physical Education,11,23,Clg of Letters & Science,mechanical engineering
+335,2017 Spring,1,Physical Education,11,24,Clg of Letters & Science,mechanical engineering
+336,2017 Spring,3,Physical Education,11,25,Clg of Letters & Science,mechanical engineering
+337,2017 Spring,3,Physical Education,11,26,Clg of Letters & Science,mechanical engineering
+338,2017 Spring,1,Physical Education,12,5,Clg of Letters & Science,mechanical engineering
+339,2017 Spring,1,Physical Education,12,6,Clg of Letters & Science,mechanical engineering
+340,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,mechanical engineering
+341,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,mechanical engineering
+342,2017 Spring,1,Physical Education,198,2,Clg of Letters & Science,mechanical engineering
+343,2017 Spring,11,Physics,7A,1,Clg of Letters & Science,mechanical engineering
+344,2017 Spring,12,Physics,7A,2,Clg of Letters & Science,mechanical engineering
+345,2017 Spring,14,Physics,7A,3,Clg of Letters & Science,mechanical engineering
+346,2017 Spring,23,Physics,7B,2,Clg of Letters & Science,mechanical engineering
+347,2017 Spring,28,Physics,7B,3,Clg of Letters & Science,mechanical engineering
+348,2017 Spring,4,Physics,7C,1,Clg of Letters & Science,mechanical engineering
+349,2017 Spring,1,Physics,89,1,Clg of Letters & Science,mechanical engineering
+350,2017 Spring,1,Physics,98BC,3,Clg of Letters & Science,mechanical engineering
+351,2017 Spring,3,Physics,110A,1,Clg of Letters & Science,mechanical engineering
+352,2017 Spring,1,Physics,110B,1,Clg of Letters & Science,mechanical engineering
+353,2017 Spring,2,Physics,112,1,Clg of Letters & Science,mechanical engineering
+354,2017 Spring,1,Physics,137A,1,Clg of Letters & Science,mechanical engineering
+355,2017 Spring,1,Physics,137A,2,Clg of Letters & Science,mechanical engineering
+356,2017 Spring,1,Physics,137B,1,Clg of Letters & Science,mechanical engineering
+357,2017 Spring,1,Physics,198BC,2,Clg of Letters & Science,mechanical engineering
+358,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,mechanical engineering
+359,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,mechanical engineering
+360,2017 Spring,2,Political Science,179,1,Clg of Letters & Science,mechanical engineering
+361,2017 Spring,1,Political Science,198,3,Clg of Letters & Science,mechanical engineering
+362,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,mechanical engineering
+363,2017 Spring,4,Psychology,2,1,Clg of Letters & Science,mechanical engineering
+364,2017 Spring,1,Psychology,133,1,Clg of Letters & Science,mechanical engineering
+365,2017 Spring,1,Psychology,C143,1,Clg of Letters & Science,mechanical engineering
+366,2017 Spring,1,Psychology,146,1,Clg of Letters & Science,mechanical engineering
+367,2017 Spring,2,Psychology,150,1,Clg of Letters & Science,mechanical engineering
+368,2017 Spring,1,Psychology,156,1,Clg of Letters & Science,mechanical engineering
+369,2017 Spring,1,Psychology,160,1,Clg of Letters & Science,mechanical engineering
+370,2017 Spring,2,Psychology,166AC,1,Clg of Letters & Science,mechanical engineering
+371,2017 Spring,1,Psychology,198,10,Clg of Letters & Science,mechanical engineering
+372,2017 Spring,1,Psychology,198,11,Clg of Letters & Science,mechanical engineering
+373,2017 Spring,4,Public Health,196,8,School of Public Health,mechanical engineering
+374,2017 Spring,4,Public Policy,C103,1,Goldman School Public Policy,mechanical engineering
+375,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,mechanical engineering
+376,2017 Spring,1,Rhetoric,R1A,3,Clg of Letters & Science,mechanical engineering
+377,2017 Spring,1,Rhetoric,R1B,2,Clg of Letters & Science,mechanical engineering
+378,2017 Spring,1,Rhetoric,R1B,3,Clg of Letters & Science,mechanical engineering
+379,2017 Spring,2,Rhetoric,R1B,5,Clg of Letters & Science,mechanical engineering
+380,2017 Spring,1,Scandinavian,R5B,2,Clg of Letters & Science,mechanical engineering
+381,2017 Spring,1,Scandinavian,R5B,5,Clg of Letters & Science,mechanical engineering
+382,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,mechanical engineering
+383,2017 Spring,1,Slavic Languages & Lit,R5A,3,Clg of Letters & Science,mechanical engineering
+384,2017 Spring,1,Slavic Languages & Lit,R5A,4,Clg of Letters & Science,mechanical engineering
+385,2017 Spring,2,Slavic Languages & Lit,R5B,1,Clg of Letters & Science,mechanical engineering
+386,2017 Spring,1,Slavic Languages & Lit,46,1,Clg of Letters & Science,mechanical engineering
+387,2017 Spring,1,Slavic Languages & Lit,50,1,Clg of Letters & Science,mechanical engineering
+388,2017 Spring,1,Sociology,3AC,1,Clg of Letters & Science,mechanical engineering
+389,2017 Spring,4,Sociology,110,1,Clg of Letters & Science,mechanical engineering
+390,2017 Spring,3,Sociology,111AC,1,Clg of Letters & Science,mechanical engineering
+391,2017 Spring,1,Sociology,116,1,Clg of Letters & Science,mechanical engineering
+392,2017 Spring,3,Sociology,117,1,Clg of Letters & Science,mechanical engineering
+393,2017 Spring,1,Sociology,121,1,Clg of Letters & Science,mechanical engineering
+394,2017 Spring,1,Sociology,131AC,1,Clg of Letters & Science,mechanical engineering
+395,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,mechanical engineering
+396,2017 Spring,1,Sociology,198,2,Clg of Letters & Science,mechanical engineering
+397,2017 Spring,1,Sociology,198,6,Clg of Letters & Science,mechanical engineering
+398,2017 Spring,1,Sociology,198,11,Clg of Letters & Science,mechanical engineering
+399,2017 Spring,1,South & SE Asian Studies,R5B,1,Clg of Letters & Science,mechanical engineering
+400,2017 Spring,1,South & SE Asian Studies,R5B,3,Clg of Letters & Science,mechanical engineering
+401,2017 Spring,1,South Asian,1B,1,Clg of Letters & Science,mechanical engineering
+402,2017 Spring,2,South Asian,142,1,Clg of Letters & Science,mechanical engineering
+403,2017 Spring,1,Spanish,198,1,Clg of Letters & Science,mechanical engineering
+404,2017 Spring,3,Statistics,20,1,Clg of Letters & Science,mechanical engineering
+405,2017 Spring,2,Statistics,20,2,Clg of Letters & Science,mechanical engineering
+406,2017 Spring,1,Statistics,W21,1,Clg of Letters & Science,mechanical engineering
+407,2017 Spring,1,Statistics,133,1,Clg of Letters & Science,mechanical engineering
+408,2017 Spring,1,Statistics,134,1,Clg of Letters & Science,mechanical engineering
+409,2017 Spring,1,Statistics,140,1,Clg of Letters & Science,mechanical engineering
+410,2017 Spring,1,Statistics,198,1,Clg of Letters & Science,mechanical engineering
+411,2017 Spring,1,Statistics,198,2,Clg of Letters & Science,mechanical engineering
+412,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,mechanical engineering
+413,2017 Spring,2,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,mechanical engineering
+414,2017 Spring,1,Theater Dance & Perf Stds,112,1,Clg of Letters & Science,mechanical engineering
+415,2017 Spring,1,Theater Dance & Perf Stds,141,2,Clg of Letters & Science,mechanical engineering
+416,2017 Spring,1,Theater Dance & Perf Stds,177,1,Clg of Letters & Science,mechanical engineering
+417,2017 Spring,1,Theater Dance & Perf Stds,177,101,Clg of Letters & Science,mechanical engineering
+418,2017 Spring,1,Tibetan,115,1,Clg of Letters & Science,mechanical engineering
+419,2017 Spring,1,Turkish,101B,1,Clg of Letters & Science,mechanical engineering
+420,2017 Spring,1,Vietnamese,101B,1,Clg of Letters & Science,mechanical engineering

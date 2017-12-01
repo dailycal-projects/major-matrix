@@ -1,0 +1,418 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,R1A,1,Clg of Letters & Science,social welfare
+1,2017 Spring,2,African American Studies,5B,1,Clg of Letters & Science,social welfare
+2,2017 Spring,1,African American Studies,10B,1,Clg of Letters & Science,social welfare
+3,2017 Spring,1,African American Studies,11B,1,Clg of Letters & Science,social welfare
+4,2017 Spring,1,African American Studies,115,1,Clg of Letters & Science,social welfare
+5,2017 Spring,3,African American Studies,117,1,Clg of Letters & Science,social welfare
+6,2017 Spring,4,African American Studies,131,1,Clg of Letters & Science,social welfare
+7,2017 Spring,3,African American Studies,139,2,Clg of Letters & Science,social welfare
+8,2017 Spring,4,African American Studies,142AC,1,Clg of Letters & Science,social welfare
+9,2017 Spring,4,African American Studies,156AC,1,Clg of Letters & Science,social welfare
+10,2017 Spring,1,African American Studies,197,1,Clg of Letters & Science,social welfare
+11,2017 Spring,1,African American Studies,197,3,Clg of Letters & Science,social welfare
+12,2017 Spring,2,American Studies,10,1,Clg of Letters & Science,social welfare
+13,2017 Spring,2,American Studies,101,1,Clg of Letters & Science,social welfare
+14,2017 Spring,1,American Studies,C172,1,Clg of Letters & Science,social welfare
+15,2017 Spring,1,Anthropology,1,1,Clg of Letters & Science,social welfare
+16,2017 Spring,1,Anthropology,112,1,Clg of Letters & Science,social welfare
+17,2017 Spring,2,Anthropology,119,1,Clg of Letters & Science,social welfare
+18,2017 Spring,3,Anthropology,121AC,1,Clg of Letters & Science,social welfare
+19,2017 Spring,1,Anthropology,137,1,Clg of Letters & Science,social welfare
+20,2017 Spring,1,Anthropology,183,1,Clg of Letters & Science,social welfare
+21,2017 Spring,1,Art Practice,13,2,Clg of Letters & Science,social welfare
+22,2017 Spring,1,Art Practice,14,1,Clg of Letters & Science,social welfare
+23,2017 Spring,1,Art Practice,102,1,Clg of Letters & Science,social welfare
+24,2017 Spring,1,Art Practice,119,1,Clg of Letters & Science,social welfare
+25,2017 Spring,1,Art Practice,123,1,Clg of Letters & Science,social welfare
+26,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,social welfare
+27,2017 Spring,1,Asian American Studies,132AC,1,Clg of Letters & Science,social welfare
+28,2017 Spring,1,Asian American Studies,144,1,Clg of Letters & Science,social welfare
+29,2017 Spring,2,Asian American Studies,151AC,1,Clg of Letters & Science,social welfare
+30,2017 Spring,2,Asian American Studies,197,1,Clg of Letters & Science,social welfare
+31,2017 Spring,1,Asian American Studies,197,2,Clg of Letters & Science,social welfare
+32,2017 Spring,1,Asian American Studies,197,11,Clg of Letters & Science,social welfare
+33,2017 Spring,1,Asian American Studies,197,12,Clg of Letters & Science,social welfare
+34,2017 Spring,1,Asian American Studies,197,13,Clg of Letters & Science,social welfare
+35,2017 Spring,1,Asian American Studies,197,15,Clg of Letters & Science,social welfare
+36,2017 Spring,1,Asian Studies,198,2,Clg of Letters & Science,social welfare
+37,2017 Spring,1,Astronomy,198,2,Clg of Letters & Science,social welfare
+38,2017 Spring,2,Business Admin-Undergrad,96,1,Haas School of Business,social welfare
+39,2017 Spring,1,Business Admin-Undergrad,96,2,Haas School of Business,social welfare
+40,2017 Spring,2,Business Admin-Undergrad,96,3,Haas School of Business,social welfare
+41,2017 Spring,1,Business Admin-Undergrad,101A,1,Haas School of Business,social welfare
+42,2017 Spring,1,Business Admin-Undergrad,103,1,Haas School of Business,social welfare
+43,2017 Spring,1,Business Admin-Undergrad,104,1,Haas School of Business,social welfare
+44,2017 Spring,1,Business Admin-Undergrad,106,1,Haas School of Business,social welfare
+45,2017 Spring,1,Business Admin-Undergrad,118,1,Haas School of Business,social welfare
+46,2017 Spring,1,Business Admin-Undergrad,141,1,Haas School of Business,social welfare
+47,2017 Spring,1,Business Admin-Undergrad,170,1,Haas School of Business,social welfare
+48,2017 Spring,1,Business Admin-Undergrad,195A,1,Haas School of Business,social welfare
+49,2017 Spring,1,Business Admin-Undergrad,196,1,Haas School of Business,social welfare
+50,2017 Spring,2,Celtic Studies,173,1,Clg of Letters & Science,social welfare
+51,2017 Spring,1,Chemistry,3A,2,Clg of Chemistry,social welfare
+52,2017 Spring,1,Chemistry,3AL,2,Clg of Chemistry,social welfare
+53,2017 Spring,2,Chemistry,3B,1,Clg of Chemistry,social welfare
+54,2017 Spring,1,Chemistry,3B,2,Clg of Chemistry,social welfare
+55,2017 Spring,1,Chemistry,3BL,1,Clg of Chemistry,social welfare
+56,2017 Spring,2,Chicano Studies,110,1,Clg of Letters & Science,social welfare
+57,2017 Spring,3,Chicano Studies,150B,1,Clg of Letters & Science,social welfare
+58,2017 Spring,2,Chicano Studies,174,1,Clg of Letters & Science,social welfare
+59,2017 Spring,4,Chicano Studies,176,1,Clg of Letters & Science,social welfare
+60,2017 Spring,5,Chicano Studies,180,1,Clg of Letters & Science,social welfare
+61,2017 Spring,1,Chicano Studies,180,2,Clg of Letters & Science,social welfare
+62,2017 Spring,2,Chicano Studies,180AC,1,Clg of Letters & Science,social welfare
+63,2017 Spring,1,Chicano Studies,194B,1,Clg of Letters & Science,social welfare
+64,2017 Spring,3,Chicano Studies,197,1,Clg of Letters & Science,social welfare
+65,2017 Spring,1,Chicano Studies,197,2,Clg of Letters & Science,social welfare
+66,2017 Spring,2,Chicano Studies,197,4,Clg of Letters & Science,social welfare
+67,2017 Spring,2,Chicano Studies,198,2,Clg of Letters & Science,social welfare
+68,2017 Spring,1,Chinese,10Y,2,Clg of Letters & Science,social welfare
+69,2017 Spring,1,Chinese,100XB,2,Clg of Letters & Science,social welfare
+70,2017 Spring,3,City & Regional Planning,113B,1,Clg of Environmental Design,social welfare
+71,2017 Spring,1,City & Regional Planning,114,1,Clg of Environmental Design,social welfare
+72,2017 Spring,1,City & Regional Planning,120,1,Clg of Environmental Design,social welfare
+73,2017 Spring,1,City & Regional Planning,198,1,Clg of Environmental Design,social welfare
+74,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,social welfare
+75,2017 Spring,1,Classics,161,1,Clg of Letters & Science,social welfare
+76,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,social welfare
+77,2017 Spring,1,College Writing Programs,1,1,Clg of Letters & Science,social welfare
+78,2017 Spring,1,College Writing Programs,R1A,12,Clg of Letters & Science,social welfare
+79,2017 Spring,1,Comparative Literature,R1B,12,Clg of Letters & Science,social welfare
+80,2017 Spring,1,Comparative Literature,151,1,Clg of Letters & Science,social welfare
+81,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,social welfare
+82,2017 Spring,1,Computer Science,198,67,Clg of Engineering,social welfare
+83,2017 Spring,1,Demography,C175,1,Clg of Letters & Science,social welfare
+84,2017 Spring,1,Design Innovation,98,1,Clg of Engineering,social welfare
+85,2017 Spring,1,Design Innovation,198,1,Clg of Engineering,social welfare
+86,2017 Spring,2,Earth & Planetary Science,C12,1,Clg of Letters & Science,social welfare
+87,2017 Spring,1,Earth & Planetary Science,102,1,Clg of Letters & Science,social welfare
+88,2017 Spring,1,East Asian Languages,C128,1,Clg of Letters & Science,social welfare
+89,2017 Spring,1,Economics,1,1,Clg of Letters & Science,social welfare
+90,2017 Spring,1,Economics,2,1,Clg of Letters & Science,social welfare
+91,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,social welfare
+92,2017 Spring,2,Economics,157,1,Clg of Letters & Science,social welfare
+93,2017 Spring,2,Education,40AC,1,Grad School of Education,social welfare
+94,2017 Spring,1,Education,98,35,Grad School of Education,social welfare
+95,2017 Spring,7,Education,114A,1,Grad School of Education,social welfare
+96,2017 Spring,1,Education,130,1,Grad School of Education,social welfare
+97,2017 Spring,1,Education,W140A,1,Grad School of Education,social welfare
+98,2017 Spring,1,Education,140AC,2,Grad School of Education,social welfare
+99,2017 Spring,2,Education,W142,1,Grad School of Education,social welfare
+100,2017 Spring,6,Education,182AC,1,Grad School of Education,social welfare
+101,2017 Spring,2,Education,183,1,Grad School of Education,social welfare
+102,2017 Spring,2,Education,188B,1,Grad School of Education,social welfare
+103,2017 Spring,1,Education,188F,1,Grad School of Education,social welfare
+104,2017 Spring,1,Education,190AC,1,Grad School of Education,social welfare
+105,2017 Spring,1,Education,190AC,2,Grad School of Education,social welfare
+106,2017 Spring,4,Education,190AC,3,Grad School of Education,social welfare
+107,2017 Spring,3,Education,195B,1,Grad School of Education,social welfare
+108,2017 Spring,2,Education,197,1,Grad School of Education,social welfare
+109,2017 Spring,1,Education,197,12,Grad School of Education,social welfare
+110,2017 Spring,3,Education,197,21,Grad School of Education,social welfare
+111,2017 Spring,1,Education,197,24,Grad School of Education,social welfare
+112,2017 Spring,4,Education,197,63,Grad School of Education,social welfare
+113,2017 Spring,1,Education,198,21,Grad School of Education,social welfare
+114,2017 Spring,2,Education,198,24,Grad School of Education,social welfare
+115,2017 Spring,1,Education,198,33,Grad School of Education,social welfare
+116,2017 Spring,1,Education,198,36,Grad School of Education,social welfare
+117,2017 Spring,2,Education,198,42,Grad School of Education,social welfare
+118,2017 Spring,1,English,43A,1,Clg of Letters & Science,social welfare
+119,2017 Spring,1,English,139,1,Clg of Letters & Science,social welfare
+120,2017 Spring,1,English,143C,1,Clg of Letters & Science,social welfare
+121,2017 Spring,1,English,180A,1,Clg of Letters & Science,social welfare
+122,2017 Spring,1,English,180Z,1,Clg of Letters & Science,social welfare
+123,2017 Spring,1,English,198,2,Clg of Letters & Science,social welfare
+124,2017 Spring,1,English,198,5,Clg of Letters & Science,social welfare
+125,2017 Spring,1,English,198,7,Clg of Letters & Science,social welfare
+126,2017 Spring,2,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,social welfare
+127,2017 Spring,1,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,social welfare
+128,2017 Spring,2,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,social welfare
+129,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,2,Clg of Natural Resources,social welfare
+130,2017 Spring,2,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,social welfare
+131,2017 Spring,2,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,social welfare
+132,2017 Spring,1,"Env Sci, Policy, & Mgmt",194B,2,Clg of Natural Resources,social welfare
+133,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,2,Clg of Natural Resources,social welfare
+134,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,5,Clg of Natural Resources,social welfare
+135,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,9,Clg of Natural Resources,social welfare
+136,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,6,Clg of Natural Resources,social welfare
+137,2017 Spring,1,Ethnic Studies,11AC,1,Clg of Letters & Science,social welfare
+138,2017 Spring,1,Ethnic Studies,21AC,1,Clg of Letters & Science,social welfare
+139,2017 Spring,1,Ethnic Studies,100,1,Clg of Letters & Science,social welfare
+140,2017 Spring,1,Ethnic Studies,101B,1,Clg of Letters & Science,social welfare
+141,2017 Spring,2,Ethnic Studies,144AC,1,Clg of Letters & Science,social welfare
+142,2017 Spring,1,Ethnic Studies,145,1,Clg of Letters & Science,social welfare
+143,2017 Spring,1,Ethnic Studies,176,1,Clg of Letters & Science,social welfare
+144,2017 Spring,1,Ethnic Studies,181AC,1,Clg of Letters & Science,social welfare
+145,2017 Spring,2,Ethnic Studies,197,1,Clg of Letters & Science,social welfare
+146,2017 Spring,1,Ethnic Studies,197,3,Clg of Letters & Science,social welfare
+147,2017 Spring,1,Ethnic Studies,197,9,Clg of Letters & Science,social welfare
+148,2017 Spring,5,Ethnic Studies,197,11,Clg of Letters & Science,social welfare
+149,2017 Spring,1,Ethnic Studies,198,5,Clg of Letters & Science,social welfare
+150,2017 Spring,1,Ethnic Studies,198,8,Clg of Letters & Science,social welfare
+151,2017 Spring,1,Film,198,1,Clg of Letters & Science,social welfare
+152,2017 Spring,1,French,1,2,Clg of Letters & Science,social welfare
+153,2017 Spring,4,Gender & Womens Studies,14,1,Clg of Letters & Science,social welfare
+154,2017 Spring,6,Gender & Womens Studies,100AC,1,Clg of Letters & Science,social welfare
+155,2017 Spring,2,Gender & Womens Studies,101,1,Clg of Letters & Science,social welfare
+156,2017 Spring,6,Gender & Womens Studies,134,1,Clg of Letters & Science,social welfare
+157,2017 Spring,2,Geography,130,1,Clg of Letters & Science,social welfare
+158,2017 Spring,1,Geography,C155,1,Clg of Letters & Science,social welfare
+159,2017 Spring,1,German,155,1,Clg of Letters & Science,social welfare
+160,2017 Spring,1,German,182,1,Clg of Letters & Science,social welfare
+161,2017 Spring,1,Global Poverty & Practice,105,2,Clg of Letters & Science,social welfare
+162,2017 Spring,1,Global Poverty & Practice,105,3,Clg of Letters & Science,social welfare
+163,2017 Spring,1,Global Poverty & Practice,150,1,Clg of Letters & Science,social welfare
+164,2017 Spring,2,Global Poverty & Practice,196,1,Clg of Letters & Science,social welfare
+165,2017 Spring,1,Greek,2,1,Clg of Letters & Science,social welfare
+166,2017 Spring,1,Health & Medical Sciences,C133,1,School of Public Health,social welfare
+167,2017 Spring,1,Hindi-Urdu,2B,1,Clg of Letters & Science,social welfare
+168,2017 Spring,2,History,7B,1,Clg of Letters & Science,social welfare
+169,2017 Spring,1,History,98,2,Clg of Letters & Science,social welfare
+170,2017 Spring,1,History,100D,1,Clg of Letters & Science,social welfare
+171,2017 Spring,1,History,100S,2,Clg of Letters & Science,social welfare
+172,2017 Spring,2,History,111B,1,Clg of Letters & Science,social welfare
+173,2017 Spring,1,History,125B,1,Clg of Letters & Science,social welfare
+174,2017 Spring,2,History,136B,1,Clg of Letters & Science,social welfare
+175,2017 Spring,2,History,136C,1,Clg of Letters & Science,social welfare
+176,2017 Spring,2,History,141B,1,Clg of Letters & Science,social welfare
+177,2017 Spring,1,History,160,1,Clg of Letters & Science,social welfare
+178,2017 Spring,2,History,162B,1,Clg of Letters & Science,social welfare
+179,2017 Spring,1,History,185B,1,Clg of Letters & Science,social welfare
+180,2017 Spring,1,History,198BC,1,Clg of Letters & Science,social welfare
+181,2017 Spring,1,Hungarian,100,1,Clg of Letters & Science,social welfare
+182,2017 Spring,1,Information,C167,1,School of Information,social welfare
+183,2017 Spring,2,Integrative Biology,169,1,Clg of Letters & Science,social welfare
+184,2017 Spring,2,Integrative Biology,198,2,Clg of Letters & Science,social welfare
+185,2017 Spring,2,Integrative Biology,198,6,Clg of Letters & Science,social welfare
+186,2017 Spring,1,Interdisciplinary Studies,61,1,Clg of Letters & Science,social welfare
+187,2017 Spring,1,Interdisciplinary Studies,189,3,Clg of Letters & Science,social welfare
+188,2017 Spring,1,International & Area Stds,45,1,Clg of Letters & Science,social welfare
+189,2017 Spring,1,International & Area Stds,150,2,Clg of Letters & Science,social welfare
+190,2017 Spring,1,International & Area Stds,198,4,Clg of Letters & Science,social welfare
+191,2017 Spring,2,Jewish Studies,101,1,Clg of Letters & Science,social welfare
+192,2017 Spring,1,Korean,1B,2,Clg of Letters & Science,social welfare
+193,2017 Spring,2,Korean,1B,5,Clg of Letters & Science,social welfare
+194,2017 Spring,1,Korean,1BX,1,Clg of Letters & Science,social welfare
+195,2017 Spring,1,Korean,100B,1,Clg of Letters & Science,social welfare
+196,2017 Spring,4,LGBT Studies,146,1,Clg of Letters & Science,social welfare
+197,2017 Spring,2,Legal Studies,100,1,School of Law,social welfare
+198,2017 Spring,1,Legal Studies,102,1,School of Law,social welfare
+199,2017 Spring,2,Legal Studies,105,1,School of Law,social welfare
+200,2017 Spring,4,Legal Studies,132AC,1,School of Law,social welfare
+201,2017 Spring,1,Legal Studies,138,1,School of Law,social welfare
+202,2017 Spring,2,Legal Studies,154,1,School of Law,social welfare
+203,2017 Spring,1,Legal Studies,159,1,School of Law,social welfare
+204,2017 Spring,1,Legal Studies,160,1,School of Law,social welfare
+205,2017 Spring,1,Legal Studies,173,1,School of Law,social welfare
+206,2017 Spring,2,Legal Studies,177,1,School of Law,social welfare
+207,2017 Spring,1,Legal Studies,185AC,1,School of Law,social welfare
+208,2017 Spring,1,Legal Studies,190,4,School of Law,social welfare
+209,2017 Spring,4,Letters & Science,22,1,Clg of Letters & Science,social welfare
+210,2017 Spring,4,Letters & Science,70C,1,Clg of Letters & Science,social welfare
+211,2017 Spring,1,Letters & Science,105,1,Clg of Letters & Science,social welfare
+212,2017 Spring,3,Letters & Science,160B,1,Clg of Letters & Science,social welfare
+213,2017 Spring,2,Letters & Science,C180U,1,Clg of Letters & Science,social welfare
+214,2017 Spring,3,Linguistics,1B,1,Clg of Letters & Science,social welfare
+215,2017 Spring,3,Linguistics,1B,2,Clg of Letters & Science,social welfare
+216,2017 Spring,1,Linguistics,10,1,Clg of Letters & Science,social welfare
+217,2017 Spring,1,Linguistics,100,1,Clg of Letters & Science,social welfare
+218,2017 Spring,1,Mathematics,16B,2,Clg of Letters & Science,social welfare
+219,2017 Spring,1,Mathematics,32,1,Clg of Letters & Science,social welfare
+220,2017 Spring,2,Mathematics,198,2,Clg of Letters & Science,social welfare
+221,2017 Spring,1,Mathematics,198,3,Clg of Letters & Science,social welfare
+222,2017 Spring,2,Mechanical Engineering,191K,1,Clg of Engineering,social welfare
+223,2017 Spring,1,Media Studies,101,1,Clg of Letters & Science,social welfare
+224,2017 Spring,1,Media Studies,160,1,Clg of Letters & Science,social welfare
+225,2017 Spring,1,Molecular & Cell Biology,15,1,Clg of Letters & Science,social welfare
+226,2017 Spring,1,Molecular & Cell Biology,C103,1,Clg of Letters & Science,social welfare
+227,2017 Spring,1,Molecular & Cell Biology,104,1,Clg of Letters & Science,social welfare
+228,2017 Spring,1,Molecular & Cell Biology,165,1,Clg of Letters & Science,social welfare
+229,2017 Spring,1,Music,20A,5,Clg of Letters & Science,social welfare
+230,2017 Spring,3,Music,26AC,1,Clg of Letters & Science,social welfare
+231,2017 Spring,4,Music,29,1,Clg of Letters & Science,social welfare
+232,2017 Spring,1,Music,44,2,Clg of Letters & Science,social welfare
+233,2017 Spring,2,Music,143,1,Clg of Letters & Science,social welfare
+234,2017 Spring,1,Near Eastern Studies,101,1,Clg of Letters & Science,social welfare
+235,2017 Spring,1,Near Eastern Studies,190H,101,Clg of Letters & Science,social welfare
+236,2017 Spring,3,Nutritional Science & Tox,10,1,Clg of Natural Resources,social welfare
+237,2017 Spring,4,Nutritional Science & Tox,11,1,Clg of Natural Resources,social welfare
+238,2017 Spring,1,Nutritional Science & Tox,20,1,Clg of Natural Resources,social welfare
+239,2017 Spring,1,Optometry,10,1,School of Optometry,social welfare
+240,2017 Spring,2,Philosophy,2,1,Clg of Letters & Science,social welfare
+241,2017 Spring,1,Philosophy,25B,1,Clg of Letters & Science,social welfare
+242,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,social welfare
+243,2017 Spring,1,Physical Education,1,15,Clg of Letters & Science,social welfare
+244,2017 Spring,1,Physical Education,1,17,Clg of Letters & Science,social welfare
+245,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,social welfare
+246,2017 Spring,1,Physical Education,1,26,Clg of Letters & Science,social welfare
+247,2017 Spring,1,Physical Education,1,36,Clg of Letters & Science,social welfare
+248,2017 Spring,2,Physical Education,1,42,Clg of Letters & Science,social welfare
+249,2017 Spring,1,Physical Education,2,3,Clg of Letters & Science,social welfare
+250,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,social welfare
+251,2017 Spring,1,Physical Education,2,12,Clg of Letters & Science,social welfare
+252,2017 Spring,1,Physical Education,2,14,Clg of Letters & Science,social welfare
+253,2017 Spring,2,Physical Education,2,18,Clg of Letters & Science,social welfare
+254,2017 Spring,1,Physical Education,3,12,Clg of Letters & Science,social welfare
+255,2017 Spring,1,Physical Education,11,3,Clg of Letters & Science,social welfare
+256,2017 Spring,1,Physical Education,11,4,Clg of Letters & Science,social welfare
+257,2017 Spring,2,Physical Education,11,7,Clg of Letters & Science,social welfare
+258,2017 Spring,2,Physical Education,11,8,Clg of Letters & Science,social welfare
+259,2017 Spring,2,Physical Education,11,11,Clg of Letters & Science,social welfare
+260,2017 Spring,2,Physical Education,11,12,Clg of Letters & Science,social welfare
+261,2017 Spring,3,Physical Education,11,15,Clg of Letters & Science,social welfare
+262,2017 Spring,3,Physical Education,11,16,Clg of Letters & Science,social welfare
+263,2017 Spring,1,Physical Education,11,21,Clg of Letters & Science,social welfare
+264,2017 Spring,1,Physical Education,11,22,Clg of Letters & Science,social welfare
+265,2017 Spring,9,Physical Education,11,25,Clg of Letters & Science,social welfare
+266,2017 Spring,9,Physical Education,11,26,Clg of Letters & Science,social welfare
+267,2017 Spring,1,Physical Education,12,7,Clg of Letters & Science,social welfare
+268,2017 Spring,1,Physical Education,12,8,Clg of Letters & Science,social welfare
+269,2017 Spring,3,Physical Education,12,11,Clg of Letters & Science,social welfare
+270,2017 Spring,3,Physical Education,12,12,Clg of Letters & Science,social welfare
+271,2017 Spring,1,Physical Education,12,17,Clg of Letters & Science,social welfare
+272,2017 Spring,1,Physical Education,12,18,Clg of Letters & Science,social welfare
+273,2017 Spring,1,Physical Education,12,23,Clg of Letters & Science,social welfare
+274,2017 Spring,1,Physical Education,12,24,Clg of Letters & Science,social welfare
+275,2017 Spring,5,Physical Education,12,29,Clg of Letters & Science,social welfare
+276,2017 Spring,5,Physical Education,12,30,Clg of Letters & Science,social welfare
+277,2017 Spring,2,Physics,8B,2,Clg of Letters & Science,social welfare
+278,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,social welfare
+279,2017 Spring,2,Political Science,1,1,Clg of Letters & Science,social welfare
+280,2017 Spring,1,Political Science,106A,1,Clg of Letters & Science,social welfare
+281,2017 Spring,1,Political Science,123M,1,Clg of Letters & Science,social welfare
+282,2017 Spring,1,Political Science,124A,1,Clg of Letters & Science,social welfare
+283,2017 Spring,1,Political Science,124C,1,Clg of Letters & Science,social welfare
+284,2017 Spring,1,Political Science,143B,1,Clg of Letters & Science,social welfare
+285,2017 Spring,1,Political Science,143E,1,Clg of Letters & Science,social welfare
+286,2017 Spring,1,Political Science,157A,1,Clg of Letters & Science,social welfare
+287,2017 Spring,4,Political Science,179,1,Clg of Letters & Science,social welfare
+288,2017 Spring,1,Political Science,198,3,Clg of Letters & Science,social welfare
+289,2017 Spring,2,Political Science,198,5,Clg of Letters & Science,social welfare
+290,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,social welfare
+291,2017 Spring,1,Psychology,10,1,Clg of Letters & Science,social welfare
+292,2017 Spring,2,Psychology,101,1,Clg of Letters & Science,social welfare
+293,2017 Spring,3,Psychology,110,1,Clg of Letters & Science,social welfare
+294,2017 Spring,2,Psychology,C126,1,Clg of Letters & Science,social welfare
+295,2017 Spring,1,Psychology,C127,1,Clg of Letters & Science,social welfare
+296,2017 Spring,10,Psychology,130,1,Clg of Letters & Science,social welfare
+297,2017 Spring,22,Psychology,131,1,Clg of Letters & Science,social welfare
+298,2017 Spring,9,Psychology,133,1,Clg of Letters & Science,social welfare
+299,2017 Spring,3,Psychology,C143,1,Clg of Letters & Science,social welfare
+300,2017 Spring,6,Psychology,150,1,Clg of Letters & Science,social welfare
+301,2017 Spring,10,Psychology,156,1,Clg of Letters & Science,social welfare
+302,2017 Spring,2,Psychology,160,1,Clg of Letters & Science,social welfare
+303,2017 Spring,10,Psychology,166AC,1,Clg of Letters & Science,social welfare
+304,2017 Spring,1,Psychology,197,27,Clg of Letters & Science,social welfare
+305,2017 Spring,1,Psychology,198,4,Clg of Letters & Science,social welfare
+306,2017 Spring,1,Psychology,198,10,Clg of Letters & Science,social welfare
+307,2017 Spring,3,Psychology,198,11,Clg of Letters & Science,social welfare
+308,2017 Spring,2,Public Health,15,1,School of Public Health,social welfare
+309,2017 Spring,1,Public Health,104B,1,School of Public Health,social welfare
+310,2017 Spring,1,Public Health,116,1,School of Public Health,social welfare
+311,2017 Spring,4,Public Health,126,1,School of Public Health,social welfare
+312,2017 Spring,6,Public Health,142,1,School of Public Health,social welfare
+313,2017 Spring,4,Public Health,150A,1,School of Public Health,social welfare
+314,2017 Spring,3,Public Health,150D,1,School of Public Health,social welfare
+315,2017 Spring,4,Public Health,150E,1,School of Public Health,social welfare
+316,2017 Spring,1,Public Health,C155,1,School of Public Health,social welfare
+317,2017 Spring,4,Public Health,196,6,School of Public Health,social welfare
+318,2017 Spring,1,Public Health,196,7,School of Public Health,social welfare
+319,2017 Spring,1,Public Health,198,2,School of Public Health,social welfare
+320,2017 Spring,2,Public Health,198,4,School of Public Health,social welfare
+321,2017 Spring,1,Public Health,198,17,School of Public Health,social welfare
+322,2017 Spring,5,Public Policy,101,1,Goldman School Public Policy,social welfare
+323,2017 Spring,16,Public Policy,C103,1,Goldman School Public Policy,social welfare
+324,2017 Spring,1,Public Policy,190,11,Goldman School Public Policy,social welfare
+325,2017 Spring,1,Public Policy,198,3,Goldman School Public Policy,social welfare
+326,2017 Spring,1,Rhetoric,R1B,5,Clg of Letters & Science,social welfare
+327,2017 Spring,1,Rhetoric,20,1,Clg of Letters & Science,social welfare
+328,2017 Spring,1,Rhetoric,105T,1,Clg of Letters & Science,social welfare
+329,2017 Spring,1,Rhetoric,107,1,Clg of Letters & Science,social welfare
+330,2017 Spring,1,Rhetoric,129,1,Clg of Letters & Science,social welfare
+331,2017 Spring,1,Rhetoric,168,1,Clg of Letters & Science,social welfare
+332,2017 Spring,1,Rhetoric,198,1,Clg of Letters & Science,social welfare
+333,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,social welfare
+334,2017 Spring,36,Social Welfare,107,1,School of Social Welfare,social welfare
+335,2017 Spring,97,Social Welfare,112,1,School of Social Welfare,social welfare
+336,2017 Spring,48,Social Welfare,114,1,School of Social Welfare,social welfare
+337,2017 Spring,48,Social Welfare,148,1,School of Social Welfare,social welfare
+338,2017 Spring,30,Social Welfare,155,1,School of Social Welfare,social welfare
+339,2017 Spring,19,Social Welfare,181,1,School of Social Welfare,social welfare
+340,2017 Spring,8,Social Welfare,185AC,1,School of Social Welfare,social welfare
+341,2017 Spring,4,Social Welfare,197,1,School of Social Welfare,social welfare
+342,2017 Spring,5,Social Welfare,197,2,School of Social Welfare,social welfare
+343,2017 Spring,1,Social Welfare,197,3,School of Social Welfare,social welfare
+344,2017 Spring,1,Social Welfare,197,5,School of Social Welfare,social welfare
+345,2017 Spring,1,Social Welfare,198,1,School of Social Welfare,social welfare
+346,2017 Spring,2,Social Welfare,198,3,School of Social Welfare,social welfare
+347,2017 Spring,1,Social Welfare,198,4,School of Social Welfare,social welfare
+348,2017 Spring,1,Social Welfare,198,5,School of Social Welfare,social welfare
+349,2017 Spring,9,Social Welfare,198BC,1,School of Social Welfare,social welfare
+350,2017 Spring,1,Sociology,1,1,Clg of Letters & Science,social welfare
+351,2017 Spring,4,Sociology,5,1,Clg of Letters & Science,social welfare
+352,2017 Spring,1,Sociology,98BC,2,Clg of Letters & Science,social welfare
+353,2017 Spring,2,Sociology,101,1,Clg of Letters & Science,social welfare
+354,2017 Spring,3,Sociology,102,1,Clg of Letters & Science,social welfare
+355,2017 Spring,4,Sociology,110,1,Clg of Letters & Science,social welfare
+356,2017 Spring,12,Sociology,111AC,1,Clg of Letters & Science,social welfare
+357,2017 Spring,5,Sociology,112,1,Clg of Letters & Science,social welfare
+358,2017 Spring,4,Sociology,113AC,1,Clg of Letters & Science,social welfare
+359,2017 Spring,6,Sociology,114,1,Clg of Letters & Science,social welfare
+360,2017 Spring,9,Sociology,C115,1,Clg of Letters & Science,social welfare
+361,2017 Spring,11,Sociology,116,1,Clg of Letters & Science,social welfare
+362,2017 Spring,8,Sociology,117,1,Clg of Letters & Science,social welfare
+363,2017 Spring,6,Sociology,120,1,Clg of Letters & Science,social welfare
+364,2017 Spring,5,Sociology,121,1,Clg of Letters & Science,social welfare
+365,2017 Spring,4,Sociology,130,1,Clg of Letters & Science,social welfare
+366,2017 Spring,8,Sociology,133,1,Clg of Letters & Science,social welfare
+367,2017 Spring,4,Sociology,136,1,Clg of Letters & Science,social welfare
+368,2017 Spring,1,Sociology,139F,1,Clg of Letters & Science,social welfare
+369,2017 Spring,2,Sociology,140,1,Clg of Letters & Science,social welfare
+370,2017 Spring,8,Sociology,145,1,Clg of Letters & Science,social welfare
+371,2017 Spring,10,Sociology,146,1,Clg of Letters & Science,social welfare
+372,2017 Spring,5,Sociology,150,1,Clg of Letters & Science,social welfare
+373,2017 Spring,7,Sociology,160,1,Clg of Letters & Science,social welfare
+374,2017 Spring,3,Sociology,163,1,Clg of Letters & Science,social welfare
+375,2017 Spring,8,Sociology,C167,1,Clg of Letters & Science,social welfare
+376,2017 Spring,1,Sociology,169C,2,Clg of Letters & Science,social welfare
+377,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,social welfare
+378,2017 Spring,2,Sociology,H190B,1,Clg of Letters & Science,social welfare
+379,2017 Spring,1,Sociology,198,5,Clg of Letters & Science,social welfare
+380,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,social welfare
+381,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,social welfare
+382,2017 Spring,1,Sociology,198BC,1,Clg of Letters & Science,social welfare
+383,2017 Spring,1,Sociology,198BC,4,Clg of Letters & Science,social welfare
+384,2017 Spring,1,Sociology,198BC,6,Clg of Letters & Science,social welfare
+385,2017 Spring,1,South & SE Asian Studies,C145,1,Clg of Letters & Science,social welfare
+386,2017 Spring,1,Spanish,2,1,Clg of Letters & Science,social welfare
+387,2017 Spring,2,Spanish,2,5,Clg of Letters & Science,social welfare
+388,2017 Spring,1,Spanish,3,1,Clg of Letters & Science,social welfare
+389,2017 Spring,1,Spanish,3,2,Clg of Letters & Science,social welfare
+390,2017 Spring,2,Spanish,21,1,Clg of Letters & Science,social welfare
+391,2017 Spring,2,Spanish,22,1,Clg of Letters & Science,social welfare
+392,2017 Spring,1,Spanish,25,6,Clg of Letters & Science,social welfare
+393,2017 Spring,3,Spanish,100,1,Clg of Letters & Science,social welfare
+394,2017 Spring,1,Spanish,109,1,Clg of Letters & Science,social welfare
+395,2017 Spring,1,Spanish,135,1,Clg of Letters & Science,social welfare
+396,2017 Spring,2,Spanish,135,2,Clg of Letters & Science,social welfare
+397,2017 Spring,2,Spanish,135,3,Clg of Letters & Science,social welfare
+398,2017 Spring,1,Spanish,163,1,Clg of Letters & Science,social welfare
+399,2017 Spring,6,Statistics,2,1,Clg of Letters & Science,social welfare
+400,2017 Spring,1,Statistics,W21,1,Clg of Letters & Science,social welfare
+401,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,social welfare
+402,2017 Spring,1,Tamil,1B,1,Clg of Letters & Science,social welfare
+403,2017 Spring,1,Theater Dance & Perf Stds,10,1,Clg of Letters & Science,social welfare
+404,2017 Spring,1,Theater Dance & Perf Stds,40,1,Clg of Letters & Science,social welfare
+405,2017 Spring,1,Theater Dance & Perf Stds,110B,2,Clg of Letters & Science,social welfare
+406,2017 Spring,1,Theater Dance & Perf Stds,114,1,Clg of Letters & Science,social welfare
+407,2017 Spring,1,Theater Dance & Perf Stds,119,1,Clg of Letters & Science,social welfare
+408,2017 Spring,1,Theater Dance & Perf Stds,141,2,Clg of Letters & Science,social welfare
+409,2017 Spring,1,Theater Dance & Perf Stds,142,1,Clg of Letters & Science,social welfare
+410,2017 Spring,1,Theater Dance & Perf Stds,179,1,Clg of Letters & Science,social welfare
+411,2017 Spring,1,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,social welfare
+412,2017 Spring,6,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,social welfare
+413,2017 Spring,1,UGIS-UG Interdisc Studies,120,1,Clg of Letters & Science,social welfare
+414,2017 Spring,1,UGIS-UG Interdisc Studies,140,1,Clg of Letters & Science,social welfare
+415,2017 Spring,1,UGIS-UG Interdisc Studies,198,3,Clg of Letters & Science,social welfare
+416,2017 Spring,1,Vietnamese,100B,1,Clg of Letters & Science,social welfare

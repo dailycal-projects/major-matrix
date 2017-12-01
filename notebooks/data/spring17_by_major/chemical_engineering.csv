@@ -1,0 +1,358 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,Aerospace Studies,135B,1,Clg of Letters & Science,chemical engineering
+1,2017 Spring,1,African American Studies,28AC,1,Clg of Letters & Science,chemical engineering
+2,2017 Spring,1,African American Studies,142AC,1,Clg of Letters & Science,chemical engineering
+3,2017 Spring,1,African American Studies,158B,1,Clg of Letters & Science,chemical engineering
+4,2017 Spring,1,African American Studies,194B,1,Clg of Letters & Science,chemical engineering
+5,2017 Spring,5,Anthropology,2AC,1,Clg of Letters & Science,chemical engineering
+6,2017 Spring,4,Anthropology,3AC,1,Clg of Letters & Science,chemical engineering
+7,2017 Spring,1,Anthropology,174AC,1,Clg of Letters & Science,chemical engineering
+8,2017 Spring,1,Architecture,24,1,Clg of Environmental Design,chemical engineering
+9,2017 Spring,1,Architecture,98,1,Clg of Environmental Design,chemical engineering
+10,2017 Spring,1,Architecture,98,6,Clg of Environmental Design,chemical engineering
+11,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,chemical engineering
+12,2017 Spring,1,Asian American Studies,197,8,Clg of Letters & Science,chemical engineering
+13,2017 Spring,1,Asian Studies,198,3,Clg of Letters & Science,chemical engineering
+14,2017 Spring,3,Astronomy,7B,1,Clg of Letters & Science,chemical engineering
+15,2017 Spring,2,Astronomy,C12,1,Clg of Letters & Science,chemical engineering
+16,2017 Spring,2,Astronomy,98,2,Clg of Letters & Science,chemical engineering
+17,2017 Spring,1,Astronomy,198,2,Clg of Letters & Science,chemical engineering
+18,2017 Spring,44,Bioengineering,11,1,Clg of Engineering,chemical engineering
+19,2017 Spring,1,Bioengineering,24,1,Clg of Engineering,chemical engineering
+20,2017 Spring,3,Bioengineering,25,1,Clg of Engineering,chemical engineering
+21,2017 Spring,5,Bioengineering,104,1,Clg of Engineering,chemical engineering
+22,2017 Spring,11,Bioengineering,110,1,Clg of Engineering,chemical engineering
+23,2017 Spring,14,Bioengineering,111,1,Clg of Engineering,chemical engineering
+24,2017 Spring,1,Bioengineering,135,1,Clg of Engineering,chemical engineering
+25,2017 Spring,15,Biology,1A,1,Clg of Letters & Science,chemical engineering
+26,2017 Spring,3,Biology,1A,2,Clg of Letters & Science,chemical engineering
+27,2017 Spring,2,Biology,1AL,2,Clg of Letters & Science,chemical engineering
+28,2017 Spring,1,Biology,1B,1,Clg of Letters & Science,chemical engineering
+29,2017 Spring,1,Business Admin-Undergrad,96,1,Haas School of Business,chemical engineering
+30,2017 Spring,2,Business Admin-Undergrad,96,2,Haas School of Business,chemical engineering
+31,2017 Spring,1,Business Admin-Undergrad,96,3,Haas School of Business,chemical engineering
+32,2017 Spring,10,Business Admin-Undergrad,102A,1,Haas School of Business,chemical engineering
+33,2017 Spring,1,Business Admin-Undergrad,106,1,Haas School of Business,chemical engineering
+34,2017 Spring,1,Business Admin-Undergrad,115,1,Haas School of Business,chemical engineering
+35,2017 Spring,1,Business Admin-Undergrad,141,1,Haas School of Business,chemical engineering
+36,2017 Spring,1,Business Admin-Undergrad,152,1,Haas School of Business,chemical engineering
+37,2017 Spring,1,Business Admin-Undergrad,170,1,Haas School of Business,chemical engineering
+38,2017 Spring,2,Business Admin-Undergrad,190T,3,Haas School of Business,chemical engineering
+39,2017 Spring,1,Business Admin-Undergrad,195A,1,Haas School of Business,chemical engineering
+40,2017 Spring,1,Business Admin-Undergrad,198,1,Haas School of Business,chemical engineering
+41,2017 Spring,1,Celtic Studies,86,1,Clg of Letters & Science,chemical engineering
+42,2017 Spring,29,Chemical Engineering,90,1,Clg of Chemistry,chemical engineering
+43,2017 Spring,124,Chemical Engineering,141,1,Clg of Chemistry,chemical engineering
+44,2017 Spring,12,Chemical Engineering,143,1,Clg of Chemistry,chemical engineering
+45,2017 Spring,128,Chemical Engineering,150A,1,Clg of Chemistry,chemical engineering
+46,2017 Spring,44,Chemical Engineering,154,1,Clg of Chemistry,chemical engineering
+47,2017 Spring,70,Chemical Engineering,160,1,Clg of Chemistry,chemical engineering
+48,2017 Spring,70,Chemical Engineering,162,1,Clg of Chemistry,chemical engineering
+49,2017 Spring,64,Chemical Engineering,185,1,Clg of Chemistry,chemical engineering
+50,2017 Spring,1,Chemical Engineering,197,22,Clg of Chemistry,chemical engineering
+51,2017 Spring,4,Chemical Engineering,198,3,Clg of Chemistry,chemical engineering
+52,2017 Spring,2,Chemistry,1A,1,Clg of Chemistry,chemical engineering
+53,2017 Spring,1,Chemistry,1A,2,Clg of Chemistry,chemical engineering
+54,2017 Spring,2,Chemistry,1AL,1,Clg of Chemistry,chemical engineering
+55,2017 Spring,2,Chemistry,1AL,2,Clg of Chemistry,chemical engineering
+56,2017 Spring,1,Chemistry,3A,2,Clg of Chemistry,chemical engineering
+57,2017 Spring,1,Chemistry,3AL,2,Clg of Chemistry,chemical engineering
+58,2017 Spring,1,Chemistry,3B,2,Clg of Chemistry,chemical engineering
+59,2017 Spring,109,Chemistry,4B,1,Clg of Chemistry,chemical engineering
+60,2017 Spring,2,Chemistry,98,3,Clg of Chemistry,chemical engineering
+61,2017 Spring,2,Chemistry,98W,1,Clg of Chemistry,chemical engineering
+62,2017 Spring,3,Chemistry,104B,1,Clg of Chemistry,chemical engineering
+63,2017 Spring,1,Chemistry,105,1,Clg of Chemistry,chemical engineering
+64,2017 Spring,16,Chemistry,112B,1,Clg of Chemistry,chemical engineering
+65,2017 Spring,2,Chemistry,114,1,Clg of Chemistry,chemical engineering
+66,2017 Spring,1,Chemistry,115,1,Clg of Chemistry,chemical engineering
+67,2017 Spring,28,Chemistry,120A,1,Clg of Chemistry,chemical engineering
+68,2017 Spring,1,Chemistry,122,1,Clg of Chemistry,chemical engineering
+69,2017 Spring,1,Chicano Studies,180,1,Clg of Letters & Science,chemical engineering
+70,2017 Spring,2,Chinese,1A,4,Clg of Letters & Science,chemical engineering
+71,2017 Spring,1,Chinese,100XB,2,Clg of Letters & Science,chemical engineering
+72,2017 Spring,1,Civil & Environmental Eng,24,2,Clg of Engineering,chemical engineering
+73,2017 Spring,1,Civil & Environmental Eng,C30,2,Clg of Engineering,chemical engineering
+74,2017 Spring,1,Civil & Environmental Eng,103,1,Clg of Engineering,chemical engineering
+75,2017 Spring,9,Civil & Environmental Eng,C106,1,Clg of Engineering,chemical engineering
+76,2017 Spring,22,Civil & Environmental Eng,107,1,Clg of Engineering,chemical engineering
+77,2017 Spring,5,Civil & Environmental Eng,110,1,Clg of Engineering,chemical engineering
+78,2017 Spring,4,Civil & Environmental Eng,113,1,Clg of Engineering,chemical engineering
+79,2017 Spring,1,Civil & Environmental Eng,C116,1,Clg of Engineering,chemical engineering
+80,2017 Spring,1,Civil & Environmental Eng,180,1,Clg of Engineering,chemical engineering
+81,2017 Spring,1,Civil & Environmental Eng,198,3,Clg of Engineering,chemical engineering
+82,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,chemical engineering
+83,2017 Spring,1,Classics,161,1,Clg of Letters & Science,chemical engineering
+84,2017 Spring,1,Cognitive Science,1,1,Clg of Letters & Science,chemical engineering
+85,2017 Spring,1,Cognitive Science,198,1,Clg of Letters & Science,chemical engineering
+86,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,chemical engineering
+87,2017 Spring,2,Cognitive Science,198,6,Clg of Letters & Science,chemical engineering
+88,2017 Spring,1,College Writing Programs,1,1,Clg of Letters & Science,chemical engineering
+89,2017 Spring,1,College Writing Programs,R1A,2,Clg of Letters & Science,chemical engineering
+90,2017 Spring,1,College Writing Programs,R1A,21,Clg of Letters & Science,chemical engineering
+91,2017 Spring,1,College Writing Programs,R4B,3,Clg of Letters & Science,chemical engineering
+92,2017 Spring,1,College Writing Programs,R4B,7,Clg of Letters & Science,chemical engineering
+93,2017 Spring,1,College Writing Programs,10A,2,Clg of Letters & Science,chemical engineering
+94,2017 Spring,1,Comparative Literature,R1A,1,Clg of Letters & Science,chemical engineering
+95,2017 Spring,1,Comparative Literature,R1A,3,Clg of Letters & Science,chemical engineering
+96,2017 Spring,1,Comparative Literature,R1A,6,Clg of Letters & Science,chemical engineering
+97,2017 Spring,1,Comparative Literature,R1B,10,Clg of Letters & Science,chemical engineering
+98,2017 Spring,1,Comparative Literature,R1B,13,Clg of Letters & Science,chemical engineering
+99,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,chemical engineering
+100,2017 Spring,2,Computer Science,9H,1,Clg of Engineering,chemical engineering
+101,2017 Spring,6,Computer Science,61A,1,Clg of Engineering,chemical engineering
+102,2017 Spring,9,Computer Science,61B,1,Clg of Engineering,chemical engineering
+103,2017 Spring,3,Computer Science,61C,1,Clg of Engineering,chemical engineering
+104,2017 Spring,7,Computer Science,70,1,Clg of Engineering,chemical engineering
+105,2017 Spring,1,Computer Science,160,1,Clg of Engineering,chemical engineering
+106,2017 Spring,2,Computer Science,161,1,Clg of Engineering,chemical engineering
+107,2017 Spring,3,Computer Science,162,1,Clg of Engineering,chemical engineering
+108,2017 Spring,2,Computer Science,170,1,Clg of Engineering,chemical engineering
+109,2017 Spring,2,Computer Science,186,1,Clg of Engineering,chemical engineering
+110,2017 Spring,3,Computer Science,188,1,Clg of Engineering,chemical engineering
+111,2017 Spring,4,Computer Science,189,1,Clg of Engineering,chemical engineering
+112,2017 Spring,2,Computer Science,197,214,Clg of Engineering,chemical engineering
+113,2017 Spring,2,Computer Science,198,58,Clg of Engineering,chemical engineering
+114,2017 Spring,1,Computer Science,198,153,Clg of Engineering,chemical engineering
+115,2017 Spring,1,Computer Science,198,642,Clg of Engineering,chemical engineering
+116,2017 Spring,1,Czech,163,1,Clg of Letters & Science,chemical engineering
+117,2017 Spring,1,Design Innovation,198,2,Clg of Engineering,chemical engineering
+118,2017 Spring,1,Earth & Planetary Science,100B,1,Clg of Letters & Science,chemical engineering
+119,2017 Spring,1,Earth & Planetary Science,102,1,Clg of Letters & Science,chemical engineering
+120,2017 Spring,1,Earth & Planetary Science,103,1,Clg of Letters & Science,chemical engineering
+121,2017 Spring,1,East Asian Languages,110,1,Clg of Letters & Science,chemical engineering
+122,2017 Spring,1,Economics,1,1,Clg of Letters & Science,chemical engineering
+123,2017 Spring,1,Economics,2,1,Clg of Letters & Science,chemical engineering
+124,2017 Spring,2,Economics,100A,1,Clg of Letters & Science,chemical engineering
+125,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,chemical engineering
+126,2017 Spring,1,Economics,115,1,Clg of Letters & Science,chemical engineering
+127,2017 Spring,2,Economics,138,1,Clg of Letters & Science,chemical engineering
+128,2017 Spring,1,Economics,C175,1,Clg of Letters & Science,chemical engineering
+129,2017 Spring,1,Education,98,6,Grad School of Education,chemical engineering
+130,2017 Spring,1,Education,182AC,1,Grad School of Education,chemical engineering
+131,2017 Spring,1,Education,197,10,Grad School of Education,chemical engineering
+132,2017 Spring,1,Education,198,9,Grad School of Education,chemical engineering
+133,2017 Spring,3,Electrical Engineering,16A,1,Clg of Engineering,chemical engineering
+134,2017 Spring,1,Electrical Engineering,16B,1,Clg of Engineering,chemical engineering
+135,2017 Spring,2,Electrical Engineering,126,1,Clg of Engineering,chemical engineering
+136,2017 Spring,2,Electrical Engineering,134,1,Clg of Engineering,chemical engineering
+137,2017 Spring,1,Electrical Engineering,137B,1,Clg of Engineering,chemical engineering
+138,2017 Spring,1,Electrical Engineering,143,1,Clg of Engineering,chemical engineering
+139,2017 Spring,1,Electrical Engineering,198,1,Clg of Engineering,chemical engineering
+140,2017 Spring,1,Energy and Resources,190,1,Clg of Natural Resources,chemical engineering
+141,2017 Spring,109,Engineering,7,1,Clg of Engineering,chemical engineering
+142,2017 Spring,2,Engineering,26,1,Clg of Engineering,chemical engineering
+143,2017 Spring,16,Engineering,45,1,Clg of Engineering,chemical engineering
+144,2017 Spring,6,Engineering,45L,1,Clg of Engineering,chemical engineering
+145,2017 Spring,5,Engineering,45L,2,Clg of Engineering,chemical engineering
+146,2017 Spring,4,Engineering,45L,3,Clg of Engineering,chemical engineering
+147,2017 Spring,2,Engineering,45L,4,Clg of Engineering,chemical engineering
+148,2017 Spring,15,Engineering,120,1,Clg of Engineering,chemical engineering
+149,2017 Spring,1,Engineering,177,1,Clg of Engineering,chemical engineering
+150,2017 Spring,1,English,R1B,1,Clg of Letters & Science,chemical engineering
+151,2017 Spring,1,English,45B,1,Clg of Letters & Science,chemical engineering
+152,2017 Spring,1,English,117S,2,Clg of Letters & Science,chemical engineering
+153,2017 Spring,1,English,166AC,1,Clg of Letters & Science,chemical engineering
+154,2017 Spring,1,English,198,3,Clg of Letters & Science,chemical engineering
+155,2017 Spring,2,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,chemical engineering
+156,2017 Spring,1,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,chemical engineering
+157,2017 Spring,2,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,chemical engineering
+158,2017 Spring,2,"Env Sci, Policy, & Mgmt",98,2,Clg of Natural Resources,chemical engineering
+159,2017 Spring,1,"Env Sci, Policy, & Mgmt",113,1,Clg of Natural Resources,chemical engineering
+160,2017 Spring,1,"Env Sci, Policy, & Mgmt",C179B,1,Clg of Natural Resources,chemical engineering
+161,2017 Spring,1,"Env Sci, Policy, & Mgmt",C180,1,Clg of Natural Resources,chemical engineering
+162,2017 Spring,2,"Env Sci, Policy, & Mgmt",198BC,2,Clg of Natural Resources,chemical engineering
+163,2017 Spring,1,Environ Econ & Policy,100,1,Clg of Natural Resources,chemical engineering
+164,2017 Spring,1,Environ Econ & Policy,C101,1,Clg of Natural Resources,chemical engineering
+165,2017 Spring,1,Environ Econ & Policy,147,1,Clg of Natural Resources,chemical engineering
+166,2017 Spring,1,Ethnic Studies,197,6,Clg of Letters & Science,chemical engineering
+167,2017 Spring,1,Ethnic Studies,198,1,Clg of Letters & Science,chemical engineering
+168,2017 Spring,1,Filipino,W100B,1,Clg of Letters & Science,chemical engineering
+169,2017 Spring,1,Film,R1A,1,Clg of Letters & Science,chemical engineering
+170,2017 Spring,1,French,1,5,Clg of Letters & Science,chemical engineering
+171,2017 Spring,1,French,R1A,1,Clg of Letters & Science,chemical engineering
+172,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,chemical engineering
+173,2017 Spring,1,Gender & Womens Studies,198,3,Clg of Letters & Science,chemical engineering
+174,2017 Spring,1,Geography,140A,1,Clg of Letters & Science,chemical engineering
+175,2017 Spring,2,Geography,143,1,Clg of Letters & Science,chemical engineering
+176,2017 Spring,2,German,R5B,2,Clg of Letters & Science,chemical engineering
+177,2017 Spring,1,History,R1B,1,Clg of Letters & Science,chemical engineering
+178,2017 Spring,1,History,100D,1,Clg of Letters & Science,chemical engineering
+179,2017 Spring,2,History,100U,1,Clg of Letters & Science,chemical engineering
+180,2017 Spring,3,History,106B,1,Clg of Letters & Science,chemical engineering
+181,2017 Spring,1,History,114B,1,Clg of Letters & Science,chemical engineering
+182,2017 Spring,4,History,122AC,1,Clg of Letters & Science,chemical engineering
+183,2017 Spring,1,History,160,1,Clg of Letters & Science,chemical engineering
+184,2017 Spring,1,History,164A,1,Clg of Letters & Science,chemical engineering
+185,2017 Spring,2,History,171C,1,Clg of Letters & Science,chemical engineering
+186,2017 Spring,1,History,180,1,Clg of Letters & Science,chemical engineering
+187,2017 Spring,1,History,180T,1,Clg of Letters & Science,chemical engineering
+188,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,chemical engineering
+189,2017 Spring,1,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,chemical engineering
+190,2017 Spring,4,Industrial Eng & Ops Rsch,153,1,Clg of Engineering,chemical engineering
+191,2017 Spring,5,Industrial Eng & Ops Rsch,160,1,Clg of Engineering,chemical engineering
+192,2017 Spring,3,Industrial Eng & Ops Rsch,165,1,Clg of Engineering,chemical engineering
+193,2017 Spring,2,Industrial Eng & Ops Rsch,166,1,Clg of Engineering,chemical engineering
+194,2017 Spring,6,Industrial Eng & Ops Rsch,170,1,Clg of Engineering,chemical engineering
+195,2017 Spring,1,Industrial Eng & Ops Rsch,173,1,Clg of Engineering,chemical engineering
+196,2017 Spring,2,Industrial Eng & Ops Rsch,185,1,Clg of Engineering,chemical engineering
+197,2017 Spring,1,Industrial Eng & Ops Rsch,185,2,Clg of Engineering,chemical engineering
+198,2017 Spring,3,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,chemical engineering
+199,2017 Spring,3,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,chemical engineering
+200,2017 Spring,1,Information,88A,1,School of Information,chemical engineering
+201,2017 Spring,1,Integrative Biology,24,2,Clg of Letters & Science,chemical engineering
+202,2017 Spring,1,Integrative Biology,198,2,Clg of Letters & Science,chemical engineering
+203,2017 Spring,1,Integrative Biology,198,3,Clg of Letters & Science,chemical engineering
+204,2017 Spring,1,Italian Studies,30,1,Clg of Letters & Science,chemical engineering
+205,2017 Spring,1,Japanese,1B,3,Clg of Letters & Science,chemical engineering
+206,2017 Spring,1,Japanese,7B,1,Clg of Letters & Science,chemical engineering
+207,2017 Spring,1,Korean,1B,1,Clg of Letters & Science,chemical engineering
+208,2017 Spring,1,Korean,1BX,1,Clg of Letters & Science,chemical engineering
+209,2017 Spring,1,Korean,7B,1,Clg of Letters & Science,chemical engineering
+210,2017 Spring,1,Latin,102,1,Clg of Letters & Science,chemical engineering
+211,2017 Spring,1,Legal Studies,39D,1,School of Law,chemical engineering
+212,2017 Spring,1,Letters & Science,70A,1,Clg of Letters & Science,chemical engineering
+213,2017 Spring,2,Letters & Science,160B,1,Clg of Letters & Science,chemical engineering
+214,2017 Spring,1,Linguistics,100,1,Clg of Letters & Science,chemical engineering
+215,2017 Spring,2,Linguistics,C146,1,Clg of Letters & Science,chemical engineering
+216,2017 Spring,1,Malay/Indonesian,1B,1,Clg of Letters & Science,chemical engineering
+217,2017 Spring,3,Materials Science & Eng,103,1,Clg of Engineering,chemical engineering
+218,2017 Spring,3,Materials Science & Eng,104,1,Clg of Engineering,chemical engineering
+219,2017 Spring,18,Materials Science & Eng,111,1,Clg of Engineering,chemical engineering
+220,2017 Spring,7,Materials Science & Eng,112,1,Clg of Engineering,chemical engineering
+221,2017 Spring,5,Materials Science & Eng,151,1,Clg of Engineering,chemical engineering
+222,2017 Spring,1,Mathematics,1A,1,Clg of Letters & Science,chemical engineering
+223,2017 Spring,9,Mathematics,1B,1,Clg of Letters & Science,chemical engineering
+224,2017 Spring,10,Mathematics,1B,2,Clg of Letters & Science,chemical engineering
+225,2017 Spring,17,Mathematics,53,1,Clg of Letters & Science,chemical engineering
+226,2017 Spring,16,Mathematics,53,2,Clg of Letters & Science,chemical engineering
+227,2017 Spring,32,Mathematics,54,1,Clg of Letters & Science,chemical engineering
+228,2017 Spring,38,Mathematics,54,2,Clg of Letters & Science,chemical engineering
+229,2017 Spring,1,Mathematics,98,16,Clg of Letters & Science,chemical engineering
+230,2017 Spring,3,Mathematics,98,30,Clg of Letters & Science,chemical engineering
+231,2017 Spring,1,Mathematics,98,31,Clg of Letters & Science,chemical engineering
+232,2017 Spring,2,Mathematics,98,33,Clg of Letters & Science,chemical engineering
+233,2017 Spring,1,Mathematics,104,2,Clg of Letters & Science,chemical engineering
+234,2017 Spring,1,Mathematics,113,5,Clg of Letters & Science,chemical engineering
+235,2017 Spring,1,Mathematics,126,1,Clg of Letters & Science,chemical engineering
+236,2017 Spring,1,Mathematics,160,1,Clg of Letters & Science,chemical engineering
+237,2017 Spring,1,Mechanical Engineering,110,1,Clg of Engineering,chemical engineering
+238,2017 Spring,4,Mechanical Engineering,122,1,Clg of Engineering,chemical engineering
+239,2017 Spring,1,Mechanical Engineering,135,1,Clg of Engineering,chemical engineering
+240,2017 Spring,1,Mechanical Engineering,165,1,Clg of Engineering,chemical engineering
+241,2017 Spring,1,Mechanical Engineering,198,50,Clg of Engineering,chemical engineering
+242,2017 Spring,1,Military Affairs,145B,1,Clg of Letters & Science,chemical engineering
+243,2017 Spring,1,Molecular & Cell Biology,50,1,Clg of Letters & Science,chemical engineering
+244,2017 Spring,2,Molecular & Cell Biology,98,205,Clg of Letters & Science,chemical engineering
+245,2017 Spring,1,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,chemical engineering
+246,2017 Spring,3,Molecular & Cell Biology,102,1,Clg of Letters & Science,chemical engineering
+247,2017 Spring,2,Molecular & Cell Biology,104,1,Clg of Letters & Science,chemical engineering
+248,2017 Spring,3,Molecular & Cell Biology,130,1,Clg of Letters & Science,chemical engineering
+249,2017 Spring,2,Molecular & Cell Biology,150,1,Clg of Letters & Science,chemical engineering
+250,2017 Spring,1,Molecular & Cell Biology,165,1,Clg of Letters & Science,chemical engineering
+251,2017 Spring,2,Music,20A,3,Clg of Letters & Science,chemical engineering
+252,2017 Spring,1,Music,20A,4,Clg of Letters & Science,chemical engineering
+253,2017 Spring,1,Music,20A,5,Clg of Letters & Science,chemical engineering
+254,2017 Spring,1,Music,25A,2,Clg of Letters & Science,chemical engineering
+255,2017 Spring,6,Music,26AC,1,Clg of Letters & Science,chemical engineering
+256,2017 Spring,1,Music,41A,1,Clg of Letters & Science,chemical engineering
+257,2017 Spring,2,Music,128,1,Clg of Letters & Science,chemical engineering
+258,2017 Spring,2,Music,140,1,Clg of Letters & Science,chemical engineering
+259,2017 Spring,3,Music,141,1,Clg of Letters & Science,chemical engineering
+260,2017 Spring,3,Music,142,1,Clg of Letters & Science,chemical engineering
+261,2017 Spring,2,Music,142,2,Clg of Letters & Science,chemical engineering
+262,2017 Spring,1,Native American Studies,120AC,1,Clg of Letters & Science,chemical engineering
+263,2017 Spring,1,Natural Resources,24,2,Clg of Natural Resources,chemical engineering
+264,2017 Spring,2,Nuclear Engineering,24,1,Clg of Engineering,chemical engineering
+265,2017 Spring,1,Nuclear Engineering,100,1,Clg of Engineering,chemical engineering
+266,2017 Spring,2,Nuclear Engineering,104,1,Clg of Engineering,chemical engineering
+267,2017 Spring,1,Nuclear Engineering,130,1,Clg of Engineering,chemical engineering
+268,2017 Spring,2,Nuclear Engineering,150,1,Clg of Engineering,chemical engineering
+269,2017 Spring,1,Nuclear Engineering,162,1,Clg of Engineering,chemical engineering
+270,2017 Spring,6,Nutritional Science & Tox,10,1,Clg of Natural Resources,chemical engineering
+271,2017 Spring,3,Nutritional Science & Tox,11,1,Clg of Natural Resources,chemical engineering
+272,2017 Spring,1,Nutritional Science & Tox,198,1,Clg of Natural Resources,chemical engineering
+273,2017 Spring,1,Nutritional Science & Tox,198,2,Clg of Natural Resources,chemical engineering
+274,2017 Spring,1,Peace & Conflict Studies,151,1,Clg of Letters & Science,chemical engineering
+275,2017 Spring,3,Philosophy,3,1,Clg of Letters & Science,chemical engineering
+276,2017 Spring,1,Physical Education,1,6,Clg of Letters & Science,chemical engineering
+277,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,chemical engineering
+278,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,chemical engineering
+279,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,chemical engineering
+280,2017 Spring,2,Physical Education,1,15,Clg of Letters & Science,chemical engineering
+281,2017 Spring,1,Physical Education,1,19,Clg of Letters & Science,chemical engineering
+282,2017 Spring,1,Physical Education,1,20,Clg of Letters & Science,chemical engineering
+283,2017 Spring,2,Physical Education,1,26,Clg of Letters & Science,chemical engineering
+284,2017 Spring,1,Physical Education,1,27,Clg of Letters & Science,chemical engineering
+285,2017 Spring,1,Physical Education,1,28,Clg of Letters & Science,chemical engineering
+286,2017 Spring,1,Physical Education,1,29,Clg of Letters & Science,chemical engineering
+287,2017 Spring,1,Physical Education,1,31,Clg of Letters & Science,chemical engineering
+288,2017 Spring,2,Physical Education,1,36,Clg of Letters & Science,chemical engineering
+289,2017 Spring,1,Physical Education,1,40,Clg of Letters & Science,chemical engineering
+290,2017 Spring,1,Physical Education,1,42,Clg of Letters & Science,chemical engineering
+291,2017 Spring,1,Physical Education,2,2,Clg of Letters & Science,chemical engineering
+292,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,chemical engineering
+293,2017 Spring,1,Physical Education,2,18,Clg of Letters & Science,chemical engineering
+294,2017 Spring,1,Physical Education,3,3,Clg of Letters & Science,chemical engineering
+295,2017 Spring,1,Physical Education,3,4,Clg of Letters & Science,chemical engineering
+296,2017 Spring,1,Physical Education,3,10,Clg of Letters & Science,chemical engineering
+297,2017 Spring,1,Physical Education,4,6,Clg of Letters & Science,chemical engineering
+298,2017 Spring,1,Physical Education,98,1,Clg of Letters & Science,chemical engineering
+299,2017 Spring,2,Physics,5A,1,Clg of Letters & Science,chemical engineering
+300,2017 Spring,45,Physics,7A,1,Clg of Letters & Science,chemical engineering
+301,2017 Spring,25,Physics,7A,2,Clg of Letters & Science,chemical engineering
+302,2017 Spring,27,Physics,7A,3,Clg of Letters & Science,chemical engineering
+303,2017 Spring,5,Physics,7B,2,Clg of Letters & Science,chemical engineering
+304,2017 Spring,5,Physics,7B,3,Clg of Letters & Science,chemical engineering
+305,2017 Spring,4,Physics,7C,1,Clg of Letters & Science,chemical engineering
+306,2017 Spring,1,Physics,8A,1,Clg of Letters & Science,chemical engineering
+307,2017 Spring,1,Physics,8B,1,Clg of Letters & Science,chemical engineering
+308,2017 Spring,1,Physics,77,1,Clg of Letters & Science,chemical engineering
+309,2017 Spring,3,Physics,105,1,Clg of Letters & Science,chemical engineering
+310,2017 Spring,33,Physics,137A,1,Clg of Letters & Science,chemical engineering
+311,2017 Spring,3,Physics,137A,2,Clg of Letters & Science,chemical engineering
+312,2017 Spring,1,Physics,137B,1,Clg of Letters & Science,chemical engineering
+313,2017 Spring,1,Physics,139,1,Clg of Letters & Science,chemical engineering
+314,2017 Spring,3,Plant & Microbial Biology,40,1,Clg of Natural Resources,chemical engineering
+315,2017 Spring,1,Portuguese,101,1,Clg of Letters & Science,chemical engineering
+316,2017 Spring,3,Psychology,W1,1,Clg of Letters & Science,chemical engineering
+317,2017 Spring,1,Psychology,2,1,Clg of Letters & Science,chemical engineering
+318,2017 Spring,1,Psychology,C61,1,Clg of Letters & Science,chemical engineering
+319,2017 Spring,1,Psychology,110,1,Clg of Letters & Science,chemical engineering
+320,2017 Spring,4,Psychology,130,1,Clg of Letters & Science,chemical engineering
+321,2017 Spring,1,Psychology,133,1,Clg of Letters & Science,chemical engineering
+322,2017 Spring,1,Psychology,C143,1,Clg of Letters & Science,chemical engineering
+323,2017 Spring,2,Psychology,160,1,Clg of Letters & Science,chemical engineering
+324,2017 Spring,1,Psychology,166AC,1,Clg of Letters & Science,chemical engineering
+325,2017 Spring,1,Psychology,198,11,Clg of Letters & Science,chemical engineering
+326,2017 Spring,1,Psychology,198,12,Clg of Letters & Science,chemical engineering
+327,2017 Spring,1,Psychology,198,17,Clg of Letters & Science,chemical engineering
+328,2017 Spring,1,Public Policy,98,3,Goldman School Public Policy,chemical engineering
+329,2017 Spring,1,Rhetoric,R1A,2,Clg of Letters & Science,chemical engineering
+330,2017 Spring,1,Rhetoric,105T,1,Clg of Letters & Science,chemical engineering
+331,2017 Spring,1,Rhetoric,198,1,Clg of Letters & Science,chemical engineering
+332,2017 Spring,1,Scandinavian,R5B,3,Clg of Letters & Science,chemical engineering
+333,2017 Spring,2,Slavic Languages & Lit,R5A,2,Clg of Letters & Science,chemical engineering
+334,2017 Spring,1,Slavic Languages & Lit,50,1,Clg of Letters & Science,chemical engineering
+335,2017 Spring,3,Sociology,111AC,1,Clg of Letters & Science,chemical engineering
+336,2017 Spring,4,Sociology,121,1,Clg of Letters & Science,chemical engineering
+337,2017 Spring,1,Sociology,137AC,1,Clg of Letters & Science,chemical engineering
+338,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,chemical engineering
+339,2017 Spring,1,Sociology,198,2,Clg of Letters & Science,chemical engineering
+340,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,chemical engineering
+341,2017 Spring,1,Sociology,198,25,Clg of Letters & Science,chemical engineering
+342,2017 Spring,1,South Asian,142,1,Clg of Letters & Science,chemical engineering
+343,2017 Spring,1,Spanish,3,2,Clg of Letters & Science,chemical engineering
+344,2017 Spring,1,Spanish,4,4,Clg of Letters & Science,chemical engineering
+345,2017 Spring,1,Statistics,131A,1,Clg of Letters & Science,chemical engineering
+346,2017 Spring,1,Statistics,198,7,Clg of Letters & Science,chemical engineering
+347,2017 Spring,1,Telugu,1B,1,Clg of Letters & Science,chemical engineering
+348,2017 Spring,1,Theater Dance & Perf Stds,119,1,Clg of Letters & Science,chemical engineering
+349,2017 Spring,1,Turkish,101B,1,Clg of Letters & Science,chemical engineering
+350,2017 Spring,1,UGIS-UG Interdisc Studies,82,1,Clg of Letters & Science,chemical engineering
+351,2017 Spring,1,UGIS-UG Interdisc Studies,82,2,Clg of Letters & Science,chemical engineering
+352,2017 Spring,1,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,chemical engineering
+353,2017 Spring,1,UGIS-UG Interdisc Studies,140,2,Clg of Letters & Science,chemical engineering
+354,2017 Spring,1,UGIS-UG Interdisc Studies,187,1,Clg of Letters & Science,chemical engineering
+355,2017 Spring,1,Vietnamese,101B,1,Clg of Letters & Science,chemical engineering
+356,2017 Spring,1,Vision Science,24,1,School of Optometry,chemical engineering

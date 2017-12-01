@@ -1,0 +1,420 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,115,1,Clg of Letters & Science,political economy
+1,2017 Spring,1,African American Studies,142AC,1,Clg of Letters & Science,political economy
+2,2017 Spring,1,African American Studies,197,3,Clg of Letters & Science,political economy
+3,2017 Spring,1,American Studies,101,1,Clg of Letters & Science,political economy
+4,2017 Spring,1,American Studies,C172,1,Clg of Letters & Science,political economy
+5,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,political economy
+6,2017 Spring,1,Anthropology,121AC,1,Clg of Letters & Science,political economy
+7,2017 Spring,3,Anthropology,137,1,Clg of Letters & Science,political economy
+8,2017 Spring,1,Anthropology,160AC,1,Clg of Letters & Science,political economy
+9,2017 Spring,2,Anthropology,180,1,Clg of Letters & Science,political economy
+10,2017 Spring,2,Anthropology,198,20,Clg of Letters & Science,political economy
+11,2017 Spring,1,Arabic,20B,2,Clg of Letters & Science,political economy
+12,2017 Spring,1,Arabic,20B,3,Clg of Letters & Science,political economy
+13,2017 Spring,3,Arabic,100B,1,Clg of Letters & Science,political economy
+14,2017 Spring,1,Arabic,107,1,Clg of Letters & Science,political economy
+15,2017 Spring,1,Architecture,170B,1,Clg of Environmental Design,political economy
+16,2017 Spring,2,Asian American Studies,121,1,Clg of Letters & Science,political economy
+17,2017 Spring,2,Asian American Studies,132AC,1,Clg of Letters & Science,political economy
+18,2017 Spring,1,Asian American Studies,197,1,Clg of Letters & Science,political economy
+19,2017 Spring,1,Asian American Studies,197,2,Clg of Letters & Science,political economy
+20,2017 Spring,2,Asian Studies,150,1,Clg of Letters & Science,political economy
+21,2017 Spring,1,Asian Studies,150,2,Clg of Letters & Science,political economy
+22,2017 Spring,1,Asian Studies,198,1,Clg of Letters & Science,political economy
+23,2017 Spring,1,Asian Studies,198,2,Clg of Letters & Science,political economy
+24,2017 Spring,1,Asian Studies,198,4,Clg of Letters & Science,political economy
+25,2017 Spring,1,Asian Studies,198,5,Clg of Letters & Science,political economy
+26,2017 Spring,2,Astronomy,198,2,Clg of Letters & Science,political economy
+27,2017 Spring,1,Buddhist Studies,190,1,Clg of Letters & Science,political economy
+28,2017 Spring,1,Business Admin-Undergrad,96,1,Haas School of Business,political economy
+29,2017 Spring,1,Business Admin-Undergrad,101A,1,Haas School of Business,political economy
+30,2017 Spring,2,Business Admin-Undergrad,101B,1,Haas School of Business,political economy
+31,2017 Spring,3,Business Admin-Undergrad,101B,2,Haas School of Business,political economy
+32,2017 Spring,1,Business Admin-Undergrad,101B,3,Haas School of Business,political economy
+33,2017 Spring,3,Business Admin-Undergrad,101B,4,Haas School of Business,political economy
+34,2017 Spring,2,Business Admin-Undergrad,101B,5,Haas School of Business,political economy
+35,2017 Spring,3,Business Admin-Undergrad,102A,1,Haas School of Business,political economy
+36,2017 Spring,3,Business Admin-Undergrad,103,1,Haas School of Business,political economy
+37,2017 Spring,1,Business Admin-Undergrad,103,2,Haas School of Business,political economy
+38,2017 Spring,2,Business Admin-Undergrad,106,1,Haas School of Business,political economy
+39,2017 Spring,1,Business Admin-Undergrad,107,1,Haas School of Business,political economy
+40,2017 Spring,14,Business Admin-Undergrad,118,1,Haas School of Business,political economy
+41,2017 Spring,2,Business Admin-Undergrad,155,1,Haas School of Business,political economy
+42,2017 Spring,2,Business Admin-Undergrad,161,1,Haas School of Business,political economy
+43,2017 Spring,1,Business Admin-Undergrad,167,1,Haas School of Business,political economy
+44,2017 Spring,10,Business Admin-Undergrad,C172,1,Haas School of Business,political economy
+45,2017 Spring,1,Business Admin-Undergrad,179,1,Haas School of Business,political economy
+46,2017 Spring,1,Business Admin-Undergrad,190T,2,Haas School of Business,political economy
+47,2017 Spring,1,Business Admin-Undergrad,191P,2,Haas School of Business,political economy
+48,2017 Spring,1,Business Admin-Undergrad,192T,1,Haas School of Business,political economy
+49,2017 Spring,1,Business Admin-Undergrad,196,1,Haas School of Business,political economy
+50,2017 Spring,1,Business Admin-Undergrad,198,4,Haas School of Business,political economy
+51,2017 Spring,1,Business Admin-Undergrad,198,5,Haas School of Business,political economy
+52,2017 Spring,1,Chemistry,105,1,Clg of Chemistry,political economy
+53,2017 Spring,1,Chemistry,114,1,Clg of Chemistry,political economy
+54,2017 Spring,1,Chicano Studies,174,1,Clg of Letters & Science,political economy
+55,2017 Spring,1,Chicano Studies,180,1,Clg of Letters & Science,political economy
+56,2017 Spring,1,Chicano Studies,197,1,Clg of Letters & Science,political economy
+57,2017 Spring,1,Chinese,1A,1,Clg of Letters & Science,political economy
+58,2017 Spring,1,Chinese,1B,2,Clg of Letters & Science,political economy
+59,2017 Spring,1,Chinese,1B,4,Clg of Letters & Science,political economy
+60,2017 Spring,1,Chinese,1B,5,Clg of Letters & Science,political economy
+61,2017 Spring,2,Chinese,10B,2,Clg of Letters & Science,political economy
+62,2017 Spring,1,Chinese,10X,3,Clg of Letters & Science,political economy
+63,2017 Spring,2,Chinese,100B,1,Clg of Letters & Science,political economy
+64,2017 Spring,1,Chinese,100XB,1,Clg of Letters & Science,political economy
+65,2017 Spring,1,City & Regional Planning,101,1,Clg of Environmental Design,political economy
+66,2017 Spring,2,City & Regional Planning,113B,1,Clg of Environmental Design,political economy
+67,2017 Spring,2,City & Regional Planning,114,1,Clg of Environmental Design,political economy
+68,2017 Spring,1,Civil & Environmental Eng,198,2,Clg of Engineering,political economy
+69,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,political economy
+70,2017 Spring,1,Classics,28,1,Clg of Letters & Science,political economy
+71,2017 Spring,2,Classics,161,1,Clg of Letters & Science,political economy
+72,2017 Spring,1,Cognitive Science,C126,1,Clg of Letters & Science,political economy
+73,2017 Spring,1,College Writing Programs,10B,1,Clg of Letters & Science,political economy
+74,2017 Spring,1,College Writing Programs,25AC,1,Clg of Letters & Science,political economy
+75,2017 Spring,1,College Writing Programs,130,1,Clg of Letters & Science,political economy
+76,2017 Spring,1,Computer Science,161,1,Clg of Engineering,political economy
+77,2017 Spring,1,Computer Science,189,1,Clg of Engineering,political economy
+78,2017 Spring,1,Computer Science,198,56,Clg of Engineering,political economy
+79,2017 Spring,1,Computer Science,198,75,Clg of Engineering,political economy
+80,2017 Spring,1,Design Innovation,198,2,Clg of Engineering,political economy
+81,2017 Spring,26,Development Studies,C100,1,Clg of Letters & Science,political economy
+82,2017 Spring,1,Development Studies,198,1,Clg of Letters & Science,political economy
+83,2017 Spring,1,Dutch,166,1,Clg of Letters & Science,political economy
+84,2017 Spring,2,East Asian Languages,105,1,Clg of Letters & Science,political economy
+85,2017 Spring,3,Economics,100A,1,Clg of Letters & Science,political economy
+86,2017 Spring,9,Economics,100B,1,Clg of Letters & Science,political economy
+87,2017 Spring,1,Economics,101A,1,Clg of Letters & Science,political economy
+88,2017 Spring,4,Economics,113,1,Clg of Letters & Science,political economy
+89,2017 Spring,8,Economics,115,1,Clg of Letters & Science,political economy
+90,2017 Spring,2,Economics,121,1,Clg of Letters & Science,political economy
+91,2017 Spring,2,Economics,131,1,Clg of Letters & Science,political economy
+92,2017 Spring,32,Economics,133,1,Clg of Letters & Science,political economy
+93,2017 Spring,2,Economics,136,1,Clg of Letters & Science,political economy
+94,2017 Spring,1,Economics,138,1,Clg of Letters & Science,political economy
+95,2017 Spring,2,Economics,140,1,Clg of Letters & Science,political economy
+96,2017 Spring,1,Economics,C142,1,Clg of Letters & Science,political economy
+97,2017 Spring,12,Economics,151,1,Clg of Letters & Science,political economy
+98,2017 Spring,4,Economics,157,1,Clg of Letters & Science,political economy
+99,2017 Spring,6,Economics,C171,1,Clg of Letters & Science,political economy
+100,2017 Spring,1,Economics,172,1,Clg of Letters & Science,political economy
+101,2017 Spring,6,Economics,174,1,Clg of Letters & Science,political economy
+102,2017 Spring,4,Economics,C175,1,Clg of Letters & Science,political economy
+103,2017 Spring,8,Economics,C181,1,Clg of Letters & Science,political economy
+104,2017 Spring,1,Education,W140A,1,Grad School of Education,political economy
+105,2017 Spring,4,Education,182AC,1,Grad School of Education,political economy
+106,2017 Spring,1,Education,183,1,Grad School of Education,political economy
+107,2017 Spring,1,Education,197,50,Grad School of Education,political economy
+108,2017 Spring,1,Engineering,157AC,1,Clg of Engineering,political economy
+109,2017 Spring,1,English,114A,1,Clg of Letters & Science,political economy
+110,2017 Spring,1,English,117S,2,Clg of Letters & Science,political economy
+111,2017 Spring,1,English,137B,1,Clg of Letters & Science,political economy
+112,2017 Spring,1,English,166,1,Clg of Letters & Science,political economy
+113,2017 Spring,1,English,180Z,1,Clg of Letters & Science,political economy
+114,2017 Spring,1,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,political economy
+115,2017 Spring,2,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,political economy
+116,2017 Spring,1,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,political economy
+117,2017 Spring,2,"Env Sci, Policy, & Mgmt",98,3,Clg of Natural Resources,political economy
+118,2017 Spring,2,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,political economy
+119,2017 Spring,7,"Env Sci, Policy, & Mgmt",165,1,Clg of Natural Resources,political economy
+120,2017 Spring,5,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,political economy
+121,2017 Spring,2,"Env Sci, Policy, & Mgmt",198,6,Clg of Natural Resources,political economy
+122,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,12,Clg of Natural Resources,political economy
+123,2017 Spring,2,Environ Econ & Policy,C118,1,Clg of Natural Resources,political economy
+124,2017 Spring,3,Environ Econ & Policy,143,1,Clg of Natural Resources,political economy
+125,2017 Spring,1,Environ Econ & Policy,C181,1,Clg of Natural Resources,political economy
+126,2017 Spring,2,Ethnic Studies,173AC,1,Clg of Letters & Science,political economy
+127,2017 Spring,1,Ethnic Studies,197,3,Clg of Letters & Science,political economy
+128,2017 Spring,3,Ethnic Studies,197,11,Clg of Letters & Science,political economy
+129,2017 Spring,3,Ethnic Studies,197,13,Clg of Letters & Science,political economy
+130,2017 Spring,2,Ethnic Studies,198,1,Clg of Letters & Science,political economy
+131,2017 Spring,1,Ethnic Studies,198,5,Clg of Letters & Science,political economy
+132,2017 Spring,3,Filipino,100B,1,Clg of Letters & Science,political economy
+133,2017 Spring,1,Film,108,1,Clg of Letters & Science,political economy
+134,2017 Spring,1,Film,128,1,Clg of Letters & Science,political economy
+135,2017 Spring,1,Film,140,1,Clg of Letters & Science,political economy
+136,2017 Spring,3,Film,140,2,Clg of Letters & Science,political economy
+137,2017 Spring,1,Finnish,102B,1,Clg of Letters & Science,political economy
+138,2017 Spring,1,French,1,4,Clg of Letters & Science,political economy
+139,2017 Spring,1,French,3,6,Clg of Letters & Science,political economy
+140,2017 Spring,2,French,4,1,Clg of Letters & Science,political economy
+141,2017 Spring,1,French,4,2,Clg of Letters & Science,political economy
+142,2017 Spring,1,French,4,5,Clg of Letters & Science,political economy
+143,2017 Spring,1,French,103B,1,Clg of Letters & Science,political economy
+144,2017 Spring,1,French,117A,1,Clg of Letters & Science,political economy
+145,2017 Spring,1,French,197,1,Clg of Letters & Science,political economy
+146,2017 Spring,1,French,197,2,Clg of Letters & Science,political economy
+147,2017 Spring,1,Gender & Womens Studies,101,1,Clg of Letters & Science,political economy
+148,2017 Spring,1,Gender & Womens Studies,104,1,Clg of Letters & Science,political economy
+149,2017 Spring,2,Gender & Womens Studies,134,1,Clg of Letters & Science,political economy
+150,2017 Spring,3,Gender & Womens Studies,198,1,Clg of Letters & Science,political economy
+151,2017 Spring,2,Geography,20,1,Clg of Letters & Science,political economy
+152,2017 Spring,2,Geography,C112,1,Clg of Letters & Science,political economy
+153,2017 Spring,2,Geography,130,1,Clg of Letters & Science,political economy
+154,2017 Spring,2,Geography,C155,1,Clg of Letters & Science,political economy
+155,2017 Spring,1,Geography,157,1,Clg of Letters & Science,political economy
+156,2017 Spring,6,Geography,164,1,Clg of Letters & Science,political economy
+157,2017 Spring,1,Geography,170,3,Clg of Letters & Science,political economy
+158,2017 Spring,1,German,1,4,Clg of Letters & Science,political economy
+159,2017 Spring,1,German,2,1,Clg of Letters & Science,political economy
+160,2017 Spring,1,German,2,5,Clg of Letters & Science,political economy
+161,2017 Spring,1,German,4,2,Clg of Letters & Science,political economy
+162,2017 Spring,1,German,98,1,Clg of Letters & Science,political economy
+163,2017 Spring,1,German,102A,1,Clg of Letters & Science,political economy
+164,2017 Spring,1,Global Poverty & Practice,105,3,Clg of Letters & Science,political economy
+165,2017 Spring,1,Global Poverty & Practice,150,1,Clg of Letters & Science,political economy
+166,2017 Spring,1,Global Poverty & Practice,196,1,Clg of Letters & Science,political economy
+167,2017 Spring,3,Global Studies,110E,1,Clg of Letters & Science,political economy
+168,2017 Spring,1,Global Studies,110K,1,Clg of Letters & Science,political economy
+169,2017 Spring,2,Global Studies,110L,1,Clg of Letters & Science,political economy
+170,2017 Spring,3,Global Studies,110M,1,Clg of Letters & Science,political economy
+171,2017 Spring,10,Global Studies,110Q,1,Clg of Letters & Science,political economy
+172,2017 Spring,1,Hebrew,104B,1,Clg of Letters & Science,political economy
+173,2017 Spring,2,Hindi-Urdu,1B,1,Clg of Letters & Science,political economy
+174,2017 Spring,1,Hindi-Urdu,2B,1,Clg of Letters & Science,political economy
+175,2017 Spring,1,Hindi-Urdu,101B,1,Clg of Letters & Science,political economy
+176,2017 Spring,1,Hindi-Urdu,103B,1,Clg of Letters & Science,political economy
+177,2017 Spring,1,History,5,1,Clg of Letters & Science,political economy
+178,2017 Spring,1,History,98,2,Clg of Letters & Science,political economy
+179,2017 Spring,1,History,100AC,2,Clg of Letters & Science,political economy
+180,2017 Spring,1,History,100F,2,Clg of Letters & Science,political economy
+181,2017 Spring,1,History,100U,1,Clg of Letters & Science,political economy
+182,2017 Spring,1,History,103M,1,Clg of Letters & Science,political economy
+183,2017 Spring,3,History,109C,1,Clg of Letters & Science,political economy
+184,2017 Spring,1,History,111B,1,Clg of Letters & Science,political economy
+185,2017 Spring,1,History,112C,1,Clg of Letters & Science,political economy
+186,2017 Spring,1,History,114B,1,Clg of Letters & Science,political economy
+187,2017 Spring,1,History,117A,1,Clg of Letters & Science,political economy
+188,2017 Spring,2,History,119A,1,Clg of Letters & Science,political economy
+189,2017 Spring,5,History,124B,1,Clg of Letters & Science,political economy
+190,2017 Spring,4,History,125B,1,Clg of Letters & Science,political economy
+191,2017 Spring,22,History,160,1,Clg of Letters & Science,political economy
+192,2017 Spring,13,History,162B,1,Clg of Letters & Science,political economy
+193,2017 Spring,1,History,167D,1,Clg of Letters & Science,political economy
+194,2017 Spring,2,History,171C,1,Clg of Letters & Science,political economy
+195,2017 Spring,1,History,178,1,Clg of Letters & Science,political economy
+196,2017 Spring,5,History,182A,1,Clg of Letters & Science,political economy
+197,2017 Spring,6,History,186,1,Clg of Letters & Science,political economy
+198,2017 Spring,1,History,198BC,1,Clg of Letters & Science,political economy
+199,2017 Spring,1,History,198BC,2,Clg of Letters & Science,political economy
+200,2017 Spring,1,History of Art,134A,1,Clg of Letters & Science,political economy
+201,2017 Spring,1,History of Art,C145A,1,Clg of Letters & Science,political economy
+202,2017 Spring,1,History of Art,192DH,1,Clg of Letters & Science,political economy
+203,2017 Spring,1,History of Art,198,1,Clg of Letters & Science,political economy
+204,2017 Spring,1,Industrial Eng & Ops Rsch,185,2,Clg of Engineering,political economy
+205,2017 Spring,1,Industrial Eng & Ops Rsch,186,1,Clg of Engineering,political economy
+206,2017 Spring,1,Industrial Eng & Ops Rsch,190C,1,Clg of Engineering,political economy
+207,2017 Spring,1,Industrial Eng & Ops Rsch,191,1,Clg of Engineering,political economy
+208,2017 Spring,2,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,political economy
+209,2017 Spring,1,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,political economy
+210,2017 Spring,1,Information,190,2,School of Information,political economy
+211,2017 Spring,2,Interdisciplinary Studies,198,5,Clg of Letters & Science,political economy
+212,2017 Spring,52,International & Area Stds,106,1,Clg of Letters & Science,political economy
+213,2017 Spring,2,International & Area Stds,C118,1,Clg of Letters & Science,political economy
+214,2017 Spring,1,International & Area Stds,150,1,Clg of Letters & Science,political economy
+215,2017 Spring,15,International & Area Stds,150,2,Clg of Letters & Science,political economy
+216,2017 Spring,2,International & Area Stds,150,4,Clg of Letters & Science,political economy
+217,2017 Spring,9,International & Area Stds,150,5,Clg of Letters & Science,political economy
+218,2017 Spring,7,International & Area Stds,194,1,Clg of Letters & Science,political economy
+219,2017 Spring,1,Italian Studies,1,1,Clg of Letters & Science,political economy
+220,2017 Spring,1,Italian Studies,1,2,Clg of Letters & Science,political economy
+221,2017 Spring,1,Italian Studies,2,1,Clg of Letters & Science,political economy
+222,2017 Spring,1,Italian Studies,30,1,Clg of Letters & Science,political economy
+223,2017 Spring,1,Italian Studies,101,1,Clg of Letters & Science,political economy
+224,2017 Spring,1,Italian Studies,198,8,Clg of Letters & Science,political economy
+225,2017 Spring,2,Japanese,10B,2,Clg of Letters & Science,political economy
+226,2017 Spring,1,Japanese,100B,1,Clg of Letters & Science,political economy
+227,2017 Spring,1,Japanese,C115,1,Clg of Letters & Science,political economy
+228,2017 Spring,1,Japanese,155,1,Clg of Letters & Science,political economy
+229,2017 Spring,1,Korean,7B,1,Clg of Letters & Science,political economy
+230,2017 Spring,3,Korean,10B,2,Clg of Letters & Science,political economy
+231,2017 Spring,3,Korean,10BX,1,Clg of Letters & Science,political economy
+232,2017 Spring,1,Korean,102,1,Clg of Letters & Science,political economy
+233,2017 Spring,2,Korean,150,1,Clg of Letters & Science,political economy
+234,2017 Spring,1,Korean,187,1,Clg of Letters & Science,political economy
+235,2017 Spring,1,Legal Studies,88,1,School of Law,political economy
+236,2017 Spring,1,Legal Studies,105,1,School of Law,political economy
+237,2017 Spring,4,Legal Studies,132AC,1,School of Law,political economy
+238,2017 Spring,1,Legal Studies,152AC,1,School of Law,political economy
+239,2017 Spring,6,Legal Studies,153,1,School of Law,political economy
+240,2017 Spring,1,Legal Studies,159,1,School of Law,political economy
+241,2017 Spring,3,Legal Studies,160,1,School of Law,political economy
+242,2017 Spring,1,Legal Studies,185AC,1,School of Law,political economy
+243,2017 Spring,1,Legal Studies,198,2,School of Law,political economy
+244,2017 Spring,2,Letters & Science,C5,1,Clg of Letters & Science,political economy
+245,2017 Spring,1,Letters & Science,22,1,Clg of Letters & Science,political economy
+246,2017 Spring,1,Letters & Science,C30V,1,Clg of Letters & Science,political economy
+247,2017 Spring,2,Letters & Science,C30Y,1,Clg of Letters & Science,political economy
+248,2017 Spring,2,Letters & Science,70A,1,Clg of Letters & Science,political economy
+249,2017 Spring,3,Letters & Science,70C,1,Clg of Letters & Science,political economy
+250,2017 Spring,1,Letters & Science,C70T,1,Clg of Letters & Science,political economy
+251,2017 Spring,1,Letters & Science,105,1,Clg of Letters & Science,political economy
+252,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,political economy
+253,2017 Spring,3,Letters & Science,C180U,1,Clg of Letters & Science,political economy
+254,2017 Spring,1,Linguistics,120,1,Clg of Letters & Science,political economy
+255,2017 Spring,1,Linguistics,C160,1,Clg of Letters & Science,political economy
+256,2017 Spring,1,Mathematics,53,2,Clg of Letters & Science,political economy
+257,2017 Spring,1,Mathematics,54,2,Clg of Letters & Science,political economy
+258,2017 Spring,1,Mathematics,118,1,Clg of Letters & Science,political economy
+259,2017 Spring,1,Mathematics,160,1,Clg of Letters & Science,political economy
+260,2017 Spring,1,Mathematics,172,1,Clg of Letters & Science,political economy
+261,2017 Spring,1,Media Studies,101,1,Clg of Letters & Science,political economy
+262,2017 Spring,2,Media Studies,103,1,Clg of Letters & Science,political economy
+263,2017 Spring,1,Media Studies,170,1,Clg of Letters & Science,political economy
+264,2017 Spring,1,Media Studies,H195,1,Clg of Letters & Science,political economy
+265,2017 Spring,1,Middle Eastern Studies,130,1,Clg of Letters & Science,political economy
+266,2017 Spring,1,Military Science,101,1,Clg of Letters & Science,political economy
+267,2017 Spring,1,Molecular & Cell Biology,198,1,Clg of Letters & Science,political economy
+268,2017 Spring,1,Mongolian,C117,1,Clg of Letters & Science,political economy
+269,2017 Spring,1,Music,20A,4,Clg of Letters & Science,political economy
+270,2017 Spring,1,Music,20A,5,Clg of Letters & Science,political economy
+271,2017 Spring,1,Music,26AC,1,Clg of Letters & Science,political economy
+272,2017 Spring,1,Music,128V,1,Clg of Letters & Science,political economy
+273,2017 Spring,1,Music,139,1,Clg of Letters & Science,political economy
+274,2017 Spring,1,Music,142,1,Clg of Letters & Science,political economy
+275,2017 Spring,1,Music,146B,1,Clg of Letters & Science,political economy
+276,2017 Spring,1,Music,148,1,Clg of Letters & Science,political economy
+277,2017 Spring,1,Music,198BC,2,Clg of Letters & Science,political economy
+278,2017 Spring,1,Near Eastern Studies,150B,1,Clg of Letters & Science,political economy
+279,2017 Spring,1,New Media,198,1,Clg of Engineering,political economy
+280,2017 Spring,1,Nuclear Engineering,198,1,Clg of Engineering,political economy
+281,2017 Spring,3,Nutritional Science & Tox,10,1,Clg of Natural Resources,political economy
+282,2017 Spring,2,Peace & Conflict Studies,100,1,Clg of Letters & Science,political economy
+283,2017 Spring,2,Peace & Conflict Studies,127,1,Clg of Letters & Science,political economy
+284,2017 Spring,4,Peace & Conflict Studies,130,1,Clg of Letters & Science,political economy
+285,2017 Spring,1,Peace & Conflict Studies,135,1,Clg of Letters & Science,political economy
+286,2017 Spring,1,Persian,11B,1,Clg of Letters & Science,political economy
+287,2017 Spring,1,Philosophy,198BC,2,Clg of Letters & Science,political economy
+288,2017 Spring,1,Physical Education,1,4,Clg of Letters & Science,political economy
+289,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,political economy
+290,2017 Spring,1,Physical Education,1,26,Clg of Letters & Science,political economy
+291,2017 Spring,1,Physical Education,1,29,Clg of Letters & Science,political economy
+292,2017 Spring,1,Physical Education,1,33,Clg of Letters & Science,political economy
+293,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,political economy
+294,2017 Spring,2,Physical Education,2,17,Clg of Letters & Science,political economy
+295,2017 Spring,1,Physical Education,3,6,Clg of Letters & Science,political economy
+296,2017 Spring,1,Physical Education,3,12,Clg of Letters & Science,political economy
+297,2017 Spring,1,Physical Education,11,1,Clg of Letters & Science,political economy
+298,2017 Spring,1,Physical Education,11,2,Clg of Letters & Science,political economy
+299,2017 Spring,1,Physical Education,11,13,Clg of Letters & Science,political economy
+300,2017 Spring,1,Physical Education,11,14,Clg of Letters & Science,political economy
+301,2017 Spring,1,Physical Education,11,17,Clg of Letters & Science,political economy
+302,2017 Spring,1,Physical Education,11,18,Clg of Letters & Science,political economy
+303,2017 Spring,2,Physical Education,11,25,Clg of Letters & Science,political economy
+304,2017 Spring,2,Physical Education,11,26,Clg of Letters & Science,political economy
+305,2017 Spring,2,Physical Education,12,13,Clg of Letters & Science,political economy
+306,2017 Spring,2,Physical Education,12,14,Clg of Letters & Science,political economy
+307,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,political economy
+308,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,political economy
+309,2017 Spring,1,Physics,8A,2,Clg of Letters & Science,political economy
+310,2017 Spring,25,Political Economy,100,1,Clg of Letters & Science,political economy
+311,2017 Spring,51,Political Economy,101,1,Clg of Letters & Science,political economy
+312,2017 Spring,9,Political Economy,160,1,Clg of Letters & Science,political economy
+313,2017 Spring,2,Political Economy,H195,1,Clg of Letters & Science,political economy
+314,2017 Spring,1,Political Economy,197,1,Clg of Letters & Science,political economy
+315,2017 Spring,1,Political Economy,197,2,Clg of Letters & Science,political economy
+316,2017 Spring,1,Political Economy,197,3,Clg of Letters & Science,political economy
+317,2017 Spring,2,Political Science,1,1,Clg of Letters & Science,political economy
+318,2017 Spring,1,Political Science,106A,1,Clg of Letters & Science,political economy
+319,2017 Spring,1,Political Science,109H,1,Clg of Letters & Science,political economy
+320,2017 Spring,1,Political Science,110B,1,Clg of Letters & Science,political economy
+321,2017 Spring,1,Political Science,124A,1,Clg of Letters & Science,political economy
+322,2017 Spring,1,Political Science,124C,1,Clg of Letters & Science,political economy
+323,2017 Spring,18,Political Science,138E,1,Clg of Letters & Science,political economy
+324,2017 Spring,1,Political Science,140L,1,Clg of Letters & Science,political economy
+325,2017 Spring,1,Political Science,141C,1,Clg of Letters & Science,political economy
+326,2017 Spring,2,Political Science,143B,1,Clg of Letters & Science,political economy
+327,2017 Spring,10,Political Science,143E,1,Clg of Letters & Science,political economy
+328,2017 Spring,1,Political Science,148A,1,Clg of Letters & Science,political economy
+329,2017 Spring,1,Political Science,149S,1,Clg of Letters & Science,political economy
+330,2017 Spring,2,Political Science,157A,1,Clg of Letters & Science,political economy
+331,2017 Spring,8,Political Science,179,1,Clg of Letters & Science,political economy
+332,2017 Spring,2,Political Science,186,1,Clg of Letters & Science,political economy
+333,2017 Spring,1,Political Science,198,2,Clg of Letters & Science,political economy
+334,2017 Spring,1,Portuguese,135,2,Clg of Letters & Science,political economy
+335,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,political economy
+336,2017 Spring,3,Psychology,2,1,Clg of Letters & Science,political economy
+337,2017 Spring,1,Psychology,C61,1,Clg of Letters & Science,political economy
+338,2017 Spring,1,Psychology,131,1,Clg of Letters & Science,political economy
+339,2017 Spring,1,Psychology,146,1,Clg of Letters & Science,political economy
+340,2017 Spring,1,Psychology,169,1,Clg of Letters & Science,political economy
+341,2017 Spring,1,Psychology,198,11,Clg of Letters & Science,political economy
+342,2017 Spring,1,Public Health,116,1,School of Public Health,political economy
+343,2017 Spring,3,Public Health,126,1,School of Public Health,political economy
+344,2017 Spring,1,Public Health,150A,1,School of Public Health,political economy
+345,2017 Spring,1,Public Health,C155,1,School of Public Health,political economy
+346,2017 Spring,2,Public Health,C160,1,School of Public Health,political economy
+347,2017 Spring,1,Public Health,196,6,School of Public Health,political economy
+348,2017 Spring,1,Public Health,198,4,School of Public Health,political economy
+349,2017 Spring,1,Public Health,198,8,School of Public Health,political economy
+350,2017 Spring,1,Public Health,198,9,School of Public Health,political economy
+351,2017 Spring,1,Public Health,198,12,School of Public Health,political economy
+352,2017 Spring,1,Public Policy,98,1,Goldman School Public Policy,political economy
+353,2017 Spring,1,Public Policy,98,2,Goldman School Public Policy,political economy
+354,2017 Spring,2,Public Policy,101,1,Goldman School Public Policy,political economy
+355,2017 Spring,22,Public Policy,C103,1,Goldman School Public Policy,political economy
+356,2017 Spring,1,Public Policy,190,1,Goldman School Public Policy,political economy
+357,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,political economy
+358,2017 Spring,1,Rhetoric,103B,1,Clg of Letters & Science,political economy
+359,2017 Spring,1,Rhetoric,104,1,Clg of Letters & Science,political economy
+360,2017 Spring,1,Rhetoric,137,1,Clg of Letters & Science,political economy
+361,2017 Spring,1,Rhetoric,189,1,Clg of Letters & Science,political economy
+362,2017 Spring,2,Russian,4,1,Clg of Letters & Science,political economy
+363,2017 Spring,1,Slavic Languages & Lit,46,1,Clg of Letters & Science,political economy
+364,2017 Spring,1,Social Welfare,112,1,School of Social Welfare,political economy
+365,2017 Spring,1,Social Welfare,148,1,School of Social Welfare,political economy
+366,2017 Spring,1,Social Welfare,198BC,1,School of Social Welfare,political economy
+367,2017 Spring,1,Sociology,1,1,Clg of Letters & Science,political economy
+368,2017 Spring,1,Sociology,5,1,Clg of Letters & Science,political economy
+369,2017 Spring,1,Sociology,7,1,Clg of Letters & Science,political economy
+370,2017 Spring,1,Sociology,110,1,Clg of Letters & Science,political economy
+371,2017 Spring,2,Sociology,111AC,1,Clg of Letters & Science,political economy
+372,2017 Spring,3,Sociology,113AC,1,Clg of Letters & Science,political economy
+373,2017 Spring,1,Sociology,114,1,Clg of Letters & Science,political economy
+374,2017 Spring,1,Sociology,116,1,Clg of Letters & Science,political economy
+375,2017 Spring,2,Sociology,117,1,Clg of Letters & Science,political economy
+376,2017 Spring,15,Sociology,120,1,Clg of Letters & Science,political economy
+377,2017 Spring,3,Sociology,130,1,Clg of Letters & Science,political economy
+378,2017 Spring,1,Sociology,131AC,1,Clg of Letters & Science,political economy
+379,2017 Spring,2,Sociology,136,1,Clg of Letters & Science,political economy
+380,2017 Spring,1,Sociology,139F,1,Clg of Letters & Science,political economy
+381,2017 Spring,1,Sociology,140,1,Clg of Letters & Science,political economy
+382,2017 Spring,1,Sociology,146,1,Clg of Letters & Science,political economy
+383,2017 Spring,2,Sociology,C167,1,Clg of Letters & Science,political economy
+384,2017 Spring,1,Sociology,169C,2,Clg of Letters & Science,political economy
+385,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,political economy
+386,2017 Spring,1,Sociology,C196A,1,Clg of Letters & Science,political economy
+387,2017 Spring,1,Sociology,C196B,1,Clg of Letters & Science,political economy
+388,2017 Spring,1,Sociology,198,11,Clg of Letters & Science,political economy
+389,2017 Spring,1,Sociology,198BC,6,Clg of Letters & Science,political economy
+390,2017 Spring,1,South & SE Asian Studies,120,1,Clg of Letters & Science,political economy
+391,2017 Spring,1,Spanish,3,1,Clg of Letters & Science,political economy
+392,2017 Spring,2,Spanish,3,2,Clg of Letters & Science,political economy
+393,2017 Spring,2,Spanish,3,3,Clg of Letters & Science,political economy
+394,2017 Spring,1,Spanish,3,4,Clg of Letters & Science,political economy
+395,2017 Spring,1,Spanish,3,5,Clg of Letters & Science,political economy
+396,2017 Spring,1,Spanish,3,6,Clg of Letters & Science,political economy
+397,2017 Spring,1,Spanish,4,2,Clg of Letters & Science,political economy
+398,2017 Spring,1,Spanish,4,3,Clg of Letters & Science,political economy
+399,2017 Spring,4,Spanish,4,4,Clg of Letters & Science,political economy
+400,2017 Spring,2,Spanish,4,6,Clg of Letters & Science,political economy
+401,2017 Spring,1,Spanish,21,1,Clg of Letters & Science,political economy
+402,2017 Spring,1,Spanish,100,1,Clg of Letters & Science,political economy
+403,2017 Spring,1,Spanish,102A,2,Clg of Letters & Science,political economy
+404,2017 Spring,1,Spanish,107B,1,Clg of Letters & Science,political economy
+405,2017 Spring,1,Spanish,135,2,Clg of Letters & Science,political economy
+406,2017 Spring,1,Spanish,179,1,Clg of Letters & Science,political economy
+407,2017 Spring,2,Spanish,198,1,Clg of Letters & Science,political economy
+408,2017 Spring,1,Spanish,198,2,Clg of Letters & Science,political economy
+409,2017 Spring,1,Statistics,2,1,Clg of Letters & Science,political economy
+410,2017 Spring,1,Statistics,134,1,Clg of Letters & Science,political economy
+411,2017 Spring,1,Theater Dance & Perf Stds,10,1,Clg of Letters & Science,political economy
+412,2017 Spring,1,Theater Dance & Perf Stds,10,4,Clg of Letters & Science,political economy
+413,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,political economy
+414,2017 Spring,1,Theater Dance & Perf Stds,126,2,Clg of Letters & Science,political economy
+415,2017 Spring,1,Tibetan,115,1,Clg of Letters & Science,political economy
+416,2017 Spring,1,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,political economy
+417,2017 Spring,1,UGIS-UG Interdisc Studies,162I,1,Clg of Letters & Science,political economy
+418,2017 Spring,3,Vietnamese,100B,1,Clg of Letters & Science,political economy

@@ -1,0 +1,386 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,2,African American Studies,142AC,1,Clg of Letters & Science,history
+1,2017 Spring,1,American Studies,101,1,Clg of Letters & Science,history
+2,2017 Spring,2,Anthropology,160AC,1,Clg of Letters & Science,history
+3,2017 Spring,3,Anthropology,174AC,1,Clg of Letters & Science,history
+4,2017 Spring,1,Anthropology,196,1,Clg of Letters & Science,history
+5,2017 Spring,2,Arabic,1B,2,Clg of Letters & Science,history
+6,2017 Spring,1,Arabic,20B,2,Clg of Letters & Science,history
+7,2017 Spring,1,Architecture,198,4,Clg of Environmental Design,history
+8,2017 Spring,1,Armenian,126,1,Clg of Letters & Science,history
+9,2017 Spring,1,Art Practice,13,1,Clg of Letters & Science,history
+10,2017 Spring,1,Art Practice,14,1,Clg of Letters & Science,history
+11,2017 Spring,1,Asian American Studies,20A,1,Clg of Letters & Science,history
+12,2017 Spring,2,Asian American Studies,121,1,Clg of Letters & Science,history
+13,2017 Spring,1,Asian American Studies,132AC,1,Clg of Letters & Science,history
+14,2017 Spring,1,Asian American Studies,138,1,Clg of Letters & Science,history
+15,2017 Spring,1,Business Admin-Undergrad,96,2,Haas School of Business,history
+16,2017 Spring,1,Business Admin-Undergrad,106,1,Haas School of Business,history
+17,2017 Spring,1,Business Admin-Undergrad,107,1,Haas School of Business,history
+18,2017 Spring,1,Business Admin-Undergrad,196,2,Haas School of Business,history
+19,2017 Spring,1,Celtic Studies,173,1,Clg of Letters & Science,history
+20,2017 Spring,1,Chicano Studies,180,1,Clg of Letters & Science,history
+21,2017 Spring,1,Chicano Studies,197,1,Clg of Letters & Science,history
+22,2017 Spring,1,Chinese,101,2,Clg of Letters & Science,history
+23,2017 Spring,1,City & Regional Planning,118AC,1,Clg of Environmental Design,history
+24,2017 Spring,1,Civil & Environmental Eng,110,1,Clg of Engineering,history
+25,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,history
+26,2017 Spring,1,Classics,170A,1,Clg of Letters & Science,history
+27,2017 Spring,2,Classics,180,1,Clg of Letters & Science,history
+28,2017 Spring,1,College Writing Programs,R4B,11,Clg of Letters & Science,history
+29,2017 Spring,1,College Writing Programs,130,1,Clg of Letters & Science,history
+30,2017 Spring,1,College Writing Programs,151,1,Clg of Letters & Science,history
+31,2017 Spring,1,Computer Science,10,1,Clg of Engineering,history
+32,2017 Spring,2,Computer Science,61A,1,Clg of Engineering,history
+33,2017 Spring,1,Computer Science,97,213,Clg of Engineering,history
+34,2017 Spring,1,Computer Science,170,1,Clg of Engineering,history
+35,2017 Spring,1,Computer Science,C191,1,Clg of Engineering,history
+36,2017 Spring,1,Computer Science,198,3,Clg of Engineering,history
+37,2017 Spring,1,Computer Science,198,67,Clg of Engineering,history
+38,2017 Spring,1,Dutch,166,1,Clg of Letters & Science,history
+39,2017 Spring,1,East Asian Languages,110,1,Clg of Letters & Science,history
+40,2017 Spring,1,East Asian Languages,191,1,Clg of Letters & Science,history
+41,2017 Spring,3,Economics,1,1,Clg of Letters & Science,history
+42,2017 Spring,1,Economics,100A,1,Clg of Letters & Science,history
+43,2017 Spring,1,Economics,C103,1,Clg of Letters & Science,history
+44,2017 Spring,2,Economics,113,1,Clg of Letters & Science,history
+45,2017 Spring,1,Economics,115,1,Clg of Letters & Science,history
+46,2017 Spring,1,Economics,133,1,Clg of Letters & Science,history
+47,2017 Spring,1,Economics,151,1,Clg of Letters & Science,history
+48,2017 Spring,1,Economics,172,1,Clg of Letters & Science,history
+49,2017 Spring,2,Education,40AC,1,Grad School of Education,history
+50,2017 Spring,2,Education,114A,1,Grad School of Education,history
+51,2017 Spring,1,Education,W140A,1,Grad School of Education,history
+52,2017 Spring,1,Education,140AC,3,Grad School of Education,history
+53,2017 Spring,7,Education,182AC,1,Grad School of Education,history
+54,2017 Spring,2,Education,183,1,Grad School of Education,history
+55,2017 Spring,3,Education,188B,1,Grad School of Education,history
+56,2017 Spring,2,Education,188F,1,Grad School of Education,history
+57,2017 Spring,1,Education,190AC,1,Grad School of Education,history
+58,2017 Spring,1,Education,190AC,2,Grad School of Education,history
+59,2017 Spring,1,Education,197,3,Grad School of Education,history
+60,2017 Spring,2,Education,197,50,Grad School of Education,history
+61,2017 Spring,1,Education,197,58,Grad School of Education,history
+62,2017 Spring,1,Education,197,63,Grad School of Education,history
+63,2017 Spring,1,Education,198,3,Grad School of Education,history
+64,2017 Spring,3,Education,198,24,Grad School of Education,history
+65,2017 Spring,1,Electrical Engineering,126,1,Clg of Engineering,history
+66,2017 Spring,1,English,117S,1,Clg of Letters & Science,history
+67,2017 Spring,1,English,125E,1,Clg of Letters & Science,history
+68,2017 Spring,1,English,132,1,Clg of Letters & Science,history
+69,2017 Spring,1,English,C136,1,Clg of Letters & Science,history
+70,2017 Spring,1,English,139,1,Clg of Letters & Science,history
+71,2017 Spring,2,English,143A,3,Clg of Letters & Science,history
+72,2017 Spring,1,English,180Z,1,Clg of Letters & Science,history
+73,2017 Spring,1,English,190,10,Clg of Letters & Science,history
+74,2017 Spring,1,English,198,6,Clg of Letters & Science,history
+75,2017 Spring,1,English,198,7,Clg of Letters & Science,history
+76,2017 Spring,1,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,history
+77,2017 Spring,2,"Env Sci, Policy, & Mgmt",C11,1,Clg of Natural Resources,history
+78,2017 Spring,1,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,history
+79,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,3,Clg of Natural Resources,history
+80,2017 Spring,2,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,history
+81,2017 Spring,1,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,history
+82,2017 Spring,2,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,history
+83,2017 Spring,1,"Env Sci, Policy, & Mgmt",194B,1,Clg of Natural Resources,history
+84,2017 Spring,1,"Env Sci, Policy, & Mgmt",197,15,Clg of Natural Resources,history
+85,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,4,Clg of Natural Resources,history
+86,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,6,Clg of Natural Resources,history
+87,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,4,Clg of Natural Resources,history
+88,2017 Spring,1,Ethnic Studies,101B,1,Clg of Letters & Science,history
+89,2017 Spring,1,Ethnic Studies,176,1,Clg of Letters & Science,history
+90,2017 Spring,1,Ethnic Studies,190,1,Clg of Letters & Science,history
+91,2017 Spring,1,Ethnic Studies,197,4,Clg of Letters & Science,history
+92,2017 Spring,1,Ethnic Studies,197,11,Clg of Letters & Science,history
+93,2017 Spring,1,Ethnic Studies,198,5,Clg of Letters & Science,history
+94,2017 Spring,1,Ethnic Studies,198BC,1,Clg of Letters & Science,history
+95,2017 Spring,1,Film,151,1,Clg of Letters & Science,history
+96,2017 Spring,2,Film,198,2,Clg of Letters & Science,history
+97,2017 Spring,1,French,1,2,Clg of Letters & Science,history
+98,2017 Spring,1,French,2,4,Clg of Letters & Science,history
+99,2017 Spring,1,French,3,6,Clg of Letters & Science,history
+100,2017 Spring,1,French,4,1,Clg of Letters & Science,history
+101,2017 Spring,1,French,119A,1,Clg of Letters & Science,history
+102,2017 Spring,2,French,161B,1,Clg of Letters & Science,history
+103,2017 Spring,1,Gender & Womens Studies,14,1,Clg of Letters & Science,history
+104,2017 Spring,1,Gender & Womens Studies,101,1,Clg of Letters & Science,history
+105,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,history
+106,2017 Spring,1,Gender & Womens Studies,C196A,1,Clg of Letters & Science,history
+107,2017 Spring,1,Gender & Womens Studies,C196B,1,Clg of Letters & Science,history
+108,2017 Spring,1,Gender & Womens Studies,198,4,Clg of Letters & Science,history
+109,2017 Spring,1,Geography,130,1,Clg of Letters & Science,history
+110,2017 Spring,1,Geography,C160B,1,Clg of Letters & Science,history
+111,2017 Spring,1,Geography,187,1,Clg of Letters & Science,history
+112,2017 Spring,1,German,4,1,Clg of Letters & Science,history
+113,2017 Spring,1,German,4,2,Clg of Letters & Science,history
+114,2017 Spring,1,German,100,1,Clg of Letters & Science,history
+115,2017 Spring,1,German,101,1,Clg of Letters & Science,history
+116,2017 Spring,1,German,157A,1,Clg of Letters & Science,history
+117,2017 Spring,1,Global Studies,110E,1,Clg of Letters & Science,history
+118,2017 Spring,1,Global Studies,110K,1,Clg of Letters & Science,history
+119,2017 Spring,1,Global Studies,110M,1,Clg of Letters & Science,history
+120,2017 Spring,1,Greek,101,1,Clg of Letters & Science,history
+121,2017 Spring,1,Greek,122,1,Clg of Letters & Science,history
+122,2017 Spring,1,History,R1B,2,Clg of Letters & Science,history
+123,2017 Spring,4,History,2,1,Clg of Letters & Science,history
+124,2017 Spring,5,History,4B,1,Clg of Letters & Science,history
+125,2017 Spring,1,History,5,1,Clg of Letters & Science,history
+126,2017 Spring,7,History,6B,1,Clg of Letters & Science,history
+127,2017 Spring,7,History,7B,1,Clg of Letters & Science,history
+128,2017 Spring,6,History,8B,1,Clg of Letters & Science,history
+129,2017 Spring,2,History,84,1,Clg of Letters & Science,history
+130,2017 Spring,1,History,98,2,Clg of Letters & Science,history
+131,2017 Spring,1,History,98BC,1,Clg of Letters & Science,history
+132,2017 Spring,1,History,98BC,2,Clg of Letters & Science,history
+133,2017 Spring,2,History,98BC,3,Clg of Letters & Science,history
+134,2017 Spring,1,History,100AC,2,Clg of Letters & Science,history
+135,2017 Spring,3,History,100AP,2,Clg of Letters & Science,history
+136,2017 Spring,6,History,100D,1,Clg of Letters & Science,history
+137,2017 Spring,3,History,100F,1,Clg of Letters & Science,history
+138,2017 Spring,4,History,100F,2,Clg of Letters & Science,history
+139,2017 Spring,3,History,100S,2,Clg of Letters & Science,history
+140,2017 Spring,9,History,100U,1,Clg of Letters & Science,history
+141,2017 Spring,11,History,101,1,Clg of Letters & Science,history
+142,2017 Spring,3,History,101,2,Clg of Letters & Science,history
+143,2017 Spring,14,History,101,3,Clg of Letters & Science,history
+144,2017 Spring,14,History,101,4,Clg of Letters & Science,history
+145,2017 Spring,8,History,101,5,Clg of Letters & Science,history
+146,2017 Spring,5,History,101,8,Clg of Letters & Science,history
+147,2017 Spring,5,History,101,9,Clg of Letters & Science,history
+148,2017 Spring,15,History,101,10,Clg of Letters & Science,history
+149,2017 Spring,13,History,101,11,Clg of Letters & Science,history
+150,2017 Spring,14,History,101,12,Clg of Letters & Science,history
+151,2017 Spring,11,History,101,13,Clg of Letters & Science,history
+152,2017 Spring,10,History,101,14,Clg of Letters & Science,history
+153,2017 Spring,1,History,103B,1,Clg of Letters & Science,history
+154,2017 Spring,1,History,103B,2,Clg of Letters & Science,history
+155,2017 Spring,10,History,103B,3,Clg of Letters & Science,history
+156,2017 Spring,4,History,103B,4,Clg of Letters & Science,history
+157,2017 Spring,7,History,103D,1,Clg of Letters & Science,history
+158,2017 Spring,4,History,103D,2,Clg of Letters & Science,history
+159,2017 Spring,5,History,103E,1,Clg of Letters & Science,history
+160,2017 Spring,1,History,103F,1,Clg of Letters & Science,history
+161,2017 Spring,4,History,103F,2,Clg of Letters & Science,history
+162,2017 Spring,1,History,103M,1,Clg of Letters & Science,history
+163,2017 Spring,4,History,103S,1,Clg of Letters & Science,history
+164,2017 Spring,6,History,103U,1,Clg of Letters & Science,history
+165,2017 Spring,7,History,103U,2,Clg of Letters & Science,history
+166,2017 Spring,6,History,103U,3,Clg of Letters & Science,history
+167,2017 Spring,14,History,104,1,Clg of Letters & Science,history
+168,2017 Spring,26,History,106B,1,Clg of Letters & Science,history
+169,2017 Spring,6,History,109C,1,Clg of Letters & Science,history
+170,2017 Spring,2,History,111B,1,Clg of Letters & Science,history
+171,2017 Spring,8,History,112C,1,Clg of Letters & Science,history
+172,2017 Spring,2,History,114B,1,Clg of Letters & Science,history
+173,2017 Spring,3,History,117A,1,Clg of Letters & Science,history
+174,2017 Spring,10,History,119A,1,Clg of Letters & Science,history
+175,2017 Spring,13,History,121B,1,Clg of Letters & Science,history
+176,2017 Spring,15,History,122AC,1,Clg of Letters & Science,history
+177,2017 Spring,10,History,124B,1,Clg of Letters & Science,history
+178,2017 Spring,5,History,125B,1,Clg of Letters & Science,history
+179,2017 Spring,7,History,136B,1,Clg of Letters & Science,history
+180,2017 Spring,19,History,136C,1,Clg of Letters & Science,history
+181,2017 Spring,12,History,141B,1,Clg of Letters & Science,history
+182,2017 Spring,9,History,151A,1,Clg of Letters & Science,history
+183,2017 Spring,3,History,160,1,Clg of Letters & Science,history
+184,2017 Spring,6,History,162B,1,Clg of Letters & Science,history
+185,2017 Spring,1,History,164A,1,Clg of Letters & Science,history
+186,2017 Spring,16,History,167D,1,Clg of Letters & Science,history
+187,2017 Spring,10,History,171C,1,Clg of Letters & Science,history
+188,2017 Spring,10,History,178,1,Clg of Letters & Science,history
+189,2017 Spring,2,History,180,1,Clg of Letters & Science,history
+190,2017 Spring,4,History,182A,1,Clg of Letters & Science,history
+191,2017 Spring,5,History,185B,1,Clg of Letters & Science,history
+192,2017 Spring,21,History,186,1,Clg of Letters & Science,history
+193,2017 Spring,5,History,C191,1,Clg of Letters & Science,history
+194,2017 Spring,3,History,198BC,1,Clg of Letters & Science,history
+195,2017 Spring,8,History,198BC,2,Clg of Letters & Science,history
+196,2017 Spring,6,History,198BC,3,Clg of Letters & Science,history
+197,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,history
+198,2017 Spring,1,History of Art,C109,1,Clg of Letters & Science,history
+199,2017 Spring,1,History of Art,134A,1,Clg of Letters & Science,history
+200,2017 Spring,1,History of Art,C145A,1,Clg of Letters & Science,history
+201,2017 Spring,1,History of Art,198,1,Clg of Letters & Science,history
+202,2017 Spring,2,Integrative Biology,198,6,Clg of Letters & Science,history
+203,2017 Spring,8,Interdisciplinary Studies,198,5,Clg of Letters & Science,history
+204,2017 Spring,2,International & Area Stds,45,1,Clg of Letters & Science,history
+205,2017 Spring,1,International & Area Stds,106,1,Clg of Letters & Science,history
+206,2017 Spring,2,Italian Studies,2,1,Clg of Letters & Science,history
+207,2017 Spring,1,Italian Studies,3,1,Clg of Letters & Science,history
+208,2017 Spring,1,Italian Studies,R5B,1,Clg of Letters & Science,history
+209,2017 Spring,1,Italian Studies,105,1,Clg of Letters & Science,history
+210,2017 Spring,1,Italian Studies,120,1,Clg of Letters & Science,history
+211,2017 Spring,1,Japanese,1B,5,Clg of Letters & Science,history
+212,2017 Spring,1,Japanese,80,1,Clg of Letters & Science,history
+213,2017 Spring,1,Japanese,C115,1,Clg of Letters & Science,history
+214,2017 Spring,1,Japanese,C141,1,Clg of Letters & Science,history
+215,2017 Spring,1,Korean,112,1,Clg of Letters & Science,history
+216,2017 Spring,1,Latin,2,2,Clg of Letters & Science,history
+217,2017 Spring,1,Latin,40,1,Clg of Letters & Science,history
+218,2017 Spring,3,Latin,101,1,Clg of Letters & Science,history
+219,2017 Spring,4,Latin,102,1,Clg of Letters & Science,history
+220,2017 Spring,1,Latin,140,1,Clg of Letters & Science,history
+221,2017 Spring,1,Legal Studies,39D,2,School of Law,history
+222,2017 Spring,1,Legal Studies,100,1,School of Law,history
+223,2017 Spring,1,Legal Studies,102,1,School of Law,history
+224,2017 Spring,1,Legal Studies,138,1,School of Law,history
+225,2017 Spring,2,Legal Studies,154,1,School of Law,history
+226,2017 Spring,1,Legal Studies,159,1,School of Law,history
+227,2017 Spring,1,Legal Studies,190,1,School of Law,history
+228,2017 Spring,1,Legal Studies,198,2,School of Law,history
+229,2017 Spring,1,Letters & Science,C5,1,Clg of Letters & Science,history
+230,2017 Spring,1,Letters & Science,C30V,1,Clg of Letters & Science,history
+231,2017 Spring,1,Letters & Science,C30Y,1,Clg of Letters & Science,history
+232,2017 Spring,1,Letters & Science,70C,1,Clg of Letters & Science,history
+233,2017 Spring,1,Letters & Science,C70T,1,Clg of Letters & Science,history
+234,2017 Spring,3,Letters & Science,C180U,1,Clg of Letters & Science,history
+235,2017 Spring,1,Linguistics,120,1,Clg of Letters & Science,history
+236,2017 Spring,1,Linguistics,C160,1,Clg of Letters & Science,history
+237,2017 Spring,1,Mathematics,104,6,Clg of Letters & Science,history
+238,2017 Spring,1,Mathematics,113,5,Clg of Letters & Science,history
+239,2017 Spring,1,Media Studies,104A,1,Clg of Letters & Science,history
+240,2017 Spring,1,Molecular & Cell Biology,102,1,Clg of Letters & Science,history
+241,2017 Spring,1,Molecular & Cell Biology,C103,1,Clg of Letters & Science,history
+242,2017 Spring,1,Molecular & Cell Biology,118,1,Clg of Letters & Science,history
+243,2017 Spring,1,Molecular & Cell Biology,150L,1,Clg of Letters & Science,history
+244,2017 Spring,1,Molecular & Cell Biology,180,1,Clg of Letters & Science,history
+245,2017 Spring,1,Music,116B,1,Clg of Letters & Science,history
+246,2017 Spring,1,Music,141,1,Clg of Letters & Science,history
+247,2017 Spring,1,Music,146B,1,Clg of Letters & Science,history
+248,2017 Spring,1,Music,198,8,Clg of Letters & Science,history
+249,2017 Spring,1,Music,198BC,2,Clg of Letters & Science,history
+250,2017 Spring,1,Native American Studies,173AC,1,Clg of Letters & Science,history
+251,2017 Spring,1,Near Eastern Studies,39B,1,Clg of Letters & Science,history
+252,2017 Spring,1,Near Eastern Studies,101,1,Clg of Letters & Science,history
+253,2017 Spring,1,Near Eastern Studies,114,1,Clg of Letters & Science,history
+254,2017 Spring,1,Near Eastern Studies,165,1,Clg of Letters & Science,history
+255,2017 Spring,2,Near Eastern Studies,180,1,Clg of Letters & Science,history
+256,2017 Spring,1,Near Eastern Studies,190A,1,Clg of Letters & Science,history
+257,2017 Spring,1,Near Eastern Studies,190A,3,Clg of Letters & Science,history
+258,2017 Spring,6,Nutritional Science & Tox,10,1,Clg of Natural Resources,history
+259,2017 Spring,1,Nutritional Science & Tox,11,1,Clg of Natural Resources,history
+260,2017 Spring,1,Peace & Conflict Studies,10,1,Clg of Letters & Science,history
+261,2017 Spring,1,Peace & Conflict Studies,127,1,Clg of Letters & Science,history
+262,2017 Spring,1,Peace & Conflict Studies,130,1,Clg of Letters & Science,history
+263,2017 Spring,1,Peace & Conflict Studies,151,1,Clg of Letters & Science,history
+264,2017 Spring,1,Persian,1B,1,Clg of Letters & Science,history
+265,2017 Spring,1,Persian,100B,1,Clg of Letters & Science,history
+266,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,history
+267,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,history
+268,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,history
+269,2017 Spring,1,Physical Education,1,13,Clg of Letters & Science,history
+270,2017 Spring,1,Physical Education,1,16,Clg of Letters & Science,history
+271,2017 Spring,2,Physical Education,1,19,Clg of Letters & Science,history
+272,2017 Spring,1,Physical Education,1,21,Clg of Letters & Science,history
+273,2017 Spring,1,Physical Education,1,23,Clg of Letters & Science,history
+274,2017 Spring,1,Physical Education,1,30,Clg of Letters & Science,history
+275,2017 Spring,1,Physical Education,1,34,Clg of Letters & Science,history
+276,2017 Spring,1,Physical Education,1,38,Clg of Letters & Science,history
+277,2017 Spring,1,Physical Education,1,43,Clg of Letters & Science,history
+278,2017 Spring,2,Physical Education,1,44,Clg of Letters & Science,history
+279,2017 Spring,2,Physical Education,2,8,Clg of Letters & Science,history
+280,2017 Spring,1,Physical Education,2,14,Clg of Letters & Science,history
+281,2017 Spring,2,Physical Education,2,18,Clg of Letters & Science,history
+282,2017 Spring,1,Physical Education,4,4,Clg of Letters & Science,history
+283,2017 Spring,1,Physical Education,11,1,Clg of Letters & Science,history
+284,2017 Spring,1,Physical Education,11,2,Clg of Letters & Science,history
+285,2017 Spring,1,Physical Education,11,5,Clg of Letters & Science,history
+286,2017 Spring,1,Physical Education,11,6,Clg of Letters & Science,history
+287,2017 Spring,1,Physical Education,11,25,Clg of Letters & Science,history
+288,2017 Spring,1,Physical Education,11,26,Clg of Letters & Science,history
+289,2017 Spring,1,Physical Education,12,19,Clg of Letters & Science,history
+290,2017 Spring,1,Physical Education,12,20,Clg of Letters & Science,history
+291,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,history
+292,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,history
+293,2017 Spring,1,Physical Education,C129,1,Clg of Letters & Science,history
+294,2017 Spring,1,Physics,111B,1,Clg of Letters & Science,history
+295,2017 Spring,1,Physics,112,1,Clg of Letters & Science,history
+296,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,history
+297,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,history
+298,2017 Spring,1,Political Science,106A,1,Clg of Letters & Science,history
+299,2017 Spring,2,Political Science,110B,1,Clg of Letters & Science,history
+300,2017 Spring,1,Political Science,124A,1,Clg of Letters & Science,history
+301,2017 Spring,2,Political Science,124C,1,Clg of Letters & Science,history
+302,2017 Spring,2,Political Science,138E,1,Clg of Letters & Science,history
+303,2017 Spring,2,Political Science,140L,1,Clg of Letters & Science,history
+304,2017 Spring,1,Political Science,143B,1,Clg of Letters & Science,history
+305,2017 Spring,2,Political Science,147G,1,Clg of Letters & Science,history
+306,2017 Spring,1,Political Science,148A,1,Clg of Letters & Science,history
+307,2017 Spring,2,Political Science,149E,1,Clg of Letters & Science,history
+308,2017 Spring,4,Political Science,157A,1,Clg of Letters & Science,history
+309,2017 Spring,5,Political Science,179,1,Clg of Letters & Science,history
+310,2017 Spring,2,Political Science,H190B,2,Clg of Letters & Science,history
+311,2017 Spring,1,Political Science,191,7,Clg of Letters & Science,history
+312,2017 Spring,3,Political Science,198,2,Clg of Letters & Science,history
+313,2017 Spring,2,Political Science,198,5,Clg of Letters & Science,history
+314,2017 Spring,1,Political Science,198,6,Clg of Letters & Science,history
+315,2017 Spring,1,Portuguese,101,2,Clg of Letters & Science,history
+316,2017 Spring,1,Portuguese,102,1,Clg of Letters & Science,history
+317,2017 Spring,1,Psychology,C116,1,Clg of Letters & Science,history
+318,2017 Spring,1,Psychology,131,1,Clg of Letters & Science,history
+319,2017 Spring,1,Psychology,198,11,Clg of Letters & Science,history
+320,2017 Spring,1,Public Health,150D,1,School of Public Health,history
+321,2017 Spring,1,Public Health,198,10,School of Public Health,history
+322,2017 Spring,2,Public Policy,98,1,Goldman School Public Policy,history
+323,2017 Spring,2,Public Policy,101,1,Goldman School Public Policy,history
+324,2017 Spring,5,Public Policy,C103,1,Goldman School Public Policy,history
+325,2017 Spring,1,Public Policy,157,1,Goldman School Public Policy,history
+326,2017 Spring,1,Rhetoric,104,1,Clg of Letters & Science,history
+327,2017 Spring,1,Rhetoric,131T,1,Clg of Letters & Science,history
+328,2017 Spring,1,Rhetoric,135T,1,Clg of Letters & Science,history
+329,2017 Spring,1,Rhetoric,151,1,Clg of Letters & Science,history
+330,2017 Spring,1,Rhetoric,168,1,Clg of Letters & Science,history
+331,2017 Spring,1,Rhetoric,198,1,Clg of Letters & Science,history
+332,2017 Spring,1,Russian,1,2,Clg of Letters & Science,history
+333,2017 Spring,1,Russian,3,1,Clg of Letters & Science,history
+334,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,history
+335,2017 Spring,1,Scandinavian,160,1,Clg of Letters & Science,history
+336,2017 Spring,1,Slavic Languages & Lit,50,1,Clg of Letters & Science,history
+337,2017 Spring,2,Slavic Languages & Lit,134C,1,Clg of Letters & Science,history
+338,2017 Spring,1,Slavic Languages & Lit,138,1,Clg of Letters & Science,history
+339,2017 Spring,1,Social Welfare,185AC,1,School of Social Welfare,history
+340,2017 Spring,1,Social Welfare,198,1,School of Social Welfare,history
+341,2017 Spring,2,Social Welfare,198,3,School of Social Welfare,history
+342,2017 Spring,1,Sociology,110,1,Clg of Letters & Science,history
+343,2017 Spring,1,Sociology,114,1,Clg of Letters & Science,history
+344,2017 Spring,1,Sociology,131AC,1,Clg of Letters & Science,history
+345,2017 Spring,1,Sociology,133,1,Clg of Letters & Science,history
+346,2017 Spring,1,Sociology,146,1,Clg of Letters & Science,history
+347,2017 Spring,1,Sociology,160,1,Clg of Letters & Science,history
+348,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,history
+349,2017 Spring,1,Sociology,198,1,Clg of Letters & Science,history
+350,2017 Spring,1,Sociology,198,2,Clg of Letters & Science,history
+351,2017 Spring,1,Sociology,198,5,Clg of Letters & Science,history
+352,2017 Spring,1,Sociology,198,6,Clg of Letters & Science,history
+353,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,history
+354,2017 Spring,1,South & SE Asian Studies,150,1,Clg of Letters & Science,history
+355,2017 Spring,1,Spanish,1,3,Clg of Letters & Science,history
+356,2017 Spring,1,Spanish,1,5,Clg of Letters & Science,history
+357,2017 Spring,1,Spanish,3,6,Clg of Letters & Science,history
+358,2017 Spring,1,Spanish,21,1,Clg of Letters & Science,history
+359,2017 Spring,1,Spanish,22,1,Clg of Letters & Science,history
+360,2017 Spring,1,Spanish,25,5,Clg of Letters & Science,history
+361,2017 Spring,1,Spanish,107B,1,Clg of Letters & Science,history
+362,2017 Spring,1,Spanish,135,3,Clg of Letters & Science,history
+363,2017 Spring,1,Spanish,135,5,Clg of Letters & Science,history
+364,2017 Spring,1,Statistics,2,1,Clg of Letters & Science,history
+365,2017 Spring,1,Statistics,135,1,Clg of Letters & Science,history
+366,2017 Spring,1,Statistics,154,1,Clg of Letters & Science,history
+367,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,history
+368,2017 Spring,1,Theater Dance & Perf Stds,110B,1,Clg of Letters & Science,history
+369,2017 Spring,1,Theater Dance & Perf Stds,171,2,Clg of Letters & Science,history
+370,2017 Spring,1,Theater Dance & Perf Stds,171,3,Clg of Letters & Science,history
+371,2017 Spring,1,Theater Dance & Perf Stds,175B,1,Clg of Letters & Science,history
+372,2017 Spring,1,Theater Dance & Perf Stds,176,1,Clg of Letters & Science,history
+373,2017 Spring,1,Theater Dance & Perf Stds,177,1,Clg of Letters & Science,history
+374,2017 Spring,1,Theater Dance & Perf Stds,177,101,Clg of Letters & Science,history
+375,2017 Spring,1,Theater Dance & Perf Stds,196,2,Clg of Letters & Science,history
+376,2017 Spring,2,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,history
+377,2017 Spring,1,UGIS-UG Interdisc Studies,120,1,Clg of Letters & Science,history
+378,2017 Spring,1,UGIS-UG Interdisc Studies,140,1,Clg of Letters & Science,history
+379,2017 Spring,1,UGIS-UG Interdisc Studies,140,2,Clg of Letters & Science,history
+380,2017 Spring,1,UGIS-UG Interdisc Studies,156,1,Clg of Letters & Science,history
+381,2017 Spring,1,UGIS-UG Interdisc Studies,172C,1,Clg of Letters & Science,history
+382,2017 Spring,1,Vietnamese,100B,1,Clg of Letters & Science,history
+383,2017 Spring,1,Visual Studies,185X,1,Clg of Environmental Design,history
+384,2017 Spring,1,Visual Studies,198,1,Clg of Environmental Design,history

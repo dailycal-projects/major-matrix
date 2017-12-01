@@ -1,0 +1,91 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,Biology,1A,1,Clg of Letters & Science,engineering math and statistics
+1,2017 Spring,1,Biology,1AL,1,Clg of Letters & Science,engineering math and statistics
+2,2017 Spring,1,Chemistry,1AL,2,Clg of Chemistry,engineering math and statistics
+3,2017 Spring,1,Civil & Environmental Eng,11,1,Clg of Engineering,engineering math and statistics
+4,2017 Spring,1,Civil & Environmental Eng,110,1,Clg of Engineering,engineering math and statistics
+5,2017 Spring,1,Comparative Literature,R1B,10,Clg of Letters & Science,engineering math and statistics
+6,2017 Spring,1,Comparative Literature,R1B,11,Clg of Letters & Science,engineering math and statistics
+7,2017 Spring,5,Computer Science,C8,1,Clg of Engineering,engineering math and statistics
+8,2017 Spring,2,Computer Science,61A,1,Clg of Engineering,engineering math and statistics
+9,2017 Spring,7,Computer Science,61B,1,Clg of Engineering,engineering math and statistics
+10,2017 Spring,2,Computer Science,61C,1,Clg of Engineering,engineering math and statistics
+11,2017 Spring,4,Computer Science,70,1,Clg of Engineering,engineering math and statistics
+12,2017 Spring,1,Computer Science,97,212,Clg of Engineering,engineering math and statistics
+13,2017 Spring,1,Computer Science,97,213,Clg of Engineering,engineering math and statistics
+14,2017 Spring,1,Computer Science,C100,1,Clg of Engineering,engineering math and statistics
+15,2017 Spring,3,Computer Science,161,1,Clg of Engineering,engineering math and statistics
+16,2017 Spring,1,Computer Science,162,1,Clg of Engineering,engineering math and statistics
+17,2017 Spring,1,Computer Science,170,1,Clg of Engineering,engineering math and statistics
+18,2017 Spring,1,Computer Science,184,1,Clg of Engineering,engineering math and statistics
+19,2017 Spring,1,Computer Science,186,1,Clg of Engineering,engineering math and statistics
+20,2017 Spring,3,Computer Science,189,1,Clg of Engineering,engineering math and statistics
+21,2017 Spring,1,Design Innovation,15,1,Clg of Engineering,engineering math and statistics
+22,2017 Spring,1,Economics,1,1,Clg of Letters & Science,engineering math and statistics
+23,2017 Spring,1,Education,197,10,Grad School of Education,engineering math and statistics
+24,2017 Spring,2,Electrical Engineering,16A,1,Clg of Engineering,engineering math and statistics
+25,2017 Spring,2,Electrical Engineering,122,1,Clg of Engineering,engineering math and statistics
+26,2017 Spring,1,Electrical Engineering,123,1,Clg of Engineering,engineering math and statistics
+27,2017 Spring,1,Electrical Engineering,126,1,Clg of Engineering,engineering math and statistics
+28,2017 Spring,1,Electrical Engineering,127,1,Clg of Engineering,engineering math and statistics
+29,2017 Spring,2,Electrical Engineering,C128,1,Clg of Engineering,engineering math and statistics
+30,2017 Spring,1,Engineering,7,1,Clg of Engineering,engineering math and statistics
+31,2017 Spring,1,Engineering,27,1,Clg of Engineering,engineering math and statistics
+32,2017 Spring,2,Engineering,120,1,Clg of Engineering,engineering math and statistics
+33,2017 Spring,1,English,190,3,Clg of Letters & Science,engineering math and statistics
+34,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,engineering math and statistics
+35,2017 Spring,2,History,100AC,2,Clg of Letters & Science,engineering math and statistics
+36,2017 Spring,1,History,106B,1,Clg of Letters & Science,engineering math and statistics
+37,2017 Spring,2,History,124B,1,Clg of Letters & Science,engineering math and statistics
+38,2017 Spring,1,History of Art,R1B,8,Clg of Letters & Science,engineering math and statistics
+39,2017 Spring,1,Industrial Eng & Ops Rsch,160,1,Clg of Engineering,engineering math and statistics
+40,2017 Spring,2,Industrial Eng & Ops Rsch,166,1,Clg of Engineering,engineering math and statistics
+41,2017 Spring,1,Industrial Eng & Ops Rsch,171,1,Clg of Engineering,engineering math and statistics
+42,2017 Spring,1,Mathematics,1B,2,Clg of Letters & Science,engineering math and statistics
+43,2017 Spring,1,Mathematics,53,2,Clg of Letters & Science,engineering math and statistics
+44,2017 Spring,2,Mathematics,54,1,Clg of Letters & Science,engineering math and statistics
+45,2017 Spring,3,Mathematics,54,2,Clg of Letters & Science,engineering math and statistics
+46,2017 Spring,1,Mathematics,55,1,Clg of Letters & Science,engineering math and statistics
+47,2017 Spring,1,Mathematics,104,1,Clg of Letters & Science,engineering math and statistics
+48,2017 Spring,1,Mathematics,104,2,Clg of Letters & Science,engineering math and statistics
+49,2017 Spring,1,Mathematics,104,3,Clg of Letters & Science,engineering math and statistics
+50,2017 Spring,2,Mathematics,104,4,Clg of Letters & Science,engineering math and statistics
+51,2017 Spring,1,Mathematics,104,5,Clg of Letters & Science,engineering math and statistics
+52,2017 Spring,1,Mathematics,104,6,Clg of Letters & Science,engineering math and statistics
+53,2017 Spring,2,Mathematics,105,1,Clg of Letters & Science,engineering math and statistics
+54,2017 Spring,2,Mathematics,110,1,Clg of Letters & Science,engineering math and statistics
+55,2017 Spring,1,Mathematics,113,2,Clg of Letters & Science,engineering math and statistics
+56,2017 Spring,1,Mathematics,113,4,Clg of Letters & Science,engineering math and statistics
+57,2017 Spring,1,Mathematics,113,7,Clg of Letters & Science,engineering math and statistics
+58,2017 Spring,1,Mathematics,126,1,Clg of Letters & Science,engineering math and statistics
+59,2017 Spring,4,Mathematics,128A,1,Clg of Letters & Science,engineering math and statistics
+60,2017 Spring,1,Mathematics,128B,1,Clg of Letters & Science,engineering math and statistics
+61,2017 Spring,1,Mathematics,142,1,Clg of Letters & Science,engineering math and statistics
+62,2017 Spring,4,Mathematics,170,1,Clg of Letters & Science,engineering math and statistics
+63,2017 Spring,1,Mathematics,185,1,Clg of Letters & Science,engineering math and statistics
+64,2017 Spring,1,Mathematics,185,5,Clg of Letters & Science,engineering math and statistics
+65,2017 Spring,1,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,engineering math and statistics
+66,2017 Spring,1,Music,142,2,Clg of Letters & Science,engineering math and statistics
+67,2017 Spring,1,Physical Education,2,13,Clg of Letters & Science,engineering math and statistics
+68,2017 Spring,1,Physical Education,11,13,Clg of Letters & Science,engineering math and statistics
+69,2017 Spring,1,Physical Education,11,14,Clg of Letters & Science,engineering math and statistics
+70,2017 Spring,1,Physical Education,11,25,Clg of Letters & Science,engineering math and statistics
+71,2017 Spring,1,Physical Education,11,26,Clg of Letters & Science,engineering math and statistics
+72,2017 Spring,2,Physics,7A,3,Clg of Letters & Science,engineering math and statistics
+73,2017 Spring,3,Physics,7B,2,Clg of Letters & Science,engineering math and statistics
+74,2017 Spring,1,Physics,7B,3,Clg of Letters & Science,engineering math and statistics
+75,2017 Spring,3,Physics,7C,1,Clg of Letters & Science,engineering math and statistics
+76,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,engineering math and statistics
+77,2017 Spring,2,Psychology,156,1,Clg of Letters & Science,engineering math and statistics
+78,2017 Spring,1,Rhetoric,108,2,Clg of Letters & Science,engineering math and statistics
+79,2017 Spring,1,Scandinavian,R5B,1,Clg of Letters & Science,engineering math and statistics
+80,2017 Spring,1,Sociology,150,1,Clg of Letters & Science,engineering math and statistics
+81,2017 Spring,1,South Asian,R5B,1,Clg of Letters & Science,engineering math and statistics
+82,2017 Spring,1,Spanish,3,3,Clg of Letters & Science,engineering math and statistics
+83,2017 Spring,1,Statistics,133,1,Clg of Letters & Science,engineering math and statistics
+84,2017 Spring,6,Statistics,134,1,Clg of Letters & Science,engineering math and statistics
+85,2017 Spring,3,Statistics,135,1,Clg of Letters & Science,engineering math and statistics
+86,2017 Spring,1,Statistics,140,1,Clg of Letters & Science,engineering math and statistics
+87,2017 Spring,3,Statistics,153,1,Clg of Letters & Science,engineering math and statistics
+88,2017 Spring,1,Statistics,154,1,Clg of Letters & Science,engineering math and statistics
+89,2017 Spring,1,UGIS-UG Interdisc Studies,188,1,Clg of Letters & Science,engineering math and statistics

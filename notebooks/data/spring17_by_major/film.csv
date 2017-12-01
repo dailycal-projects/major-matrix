@@ -1,0 +1,131 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,117,1,Clg of Letters & Science,film
+1,2017 Spring,1,African American Studies,120,1,Clg of Letters & Science,film
+2,2017 Spring,2,African American Studies,142AC,1,Clg of Letters & Science,film
+3,2017 Spring,1,African American Studies,156AC,1,Clg of Letters & Science,film
+4,2017 Spring,1,African American Studies,159,1,Clg of Letters & Science,film
+5,2017 Spring,1,African American Studies,198BC,2,Clg of Letters & Science,film
+6,2017 Spring,1,Anthropology,1,1,Clg of Letters & Science,film
+7,2017 Spring,1,Anthropology,121AC,1,Clg of Letters & Science,film
+8,2017 Spring,1,Architecture,198BC,2,Clg of Environmental Design,film
+9,2017 Spring,1,Art Practice,118,1,Clg of Letters & Science,film
+10,2017 Spring,2,Art Practice,160,2,Clg of Letters & Science,film
+11,2017 Spring,1,Asian Studies,198,1,Clg of Letters & Science,film
+12,2017 Spring,1,Business Admin-Undergrad,198,7,Haas School of Business,film
+13,2017 Spring,1,Classics,28,1,Clg of Letters & Science,film
+14,2017 Spring,1,Comparative Literature,100,1,Clg of Letters & Science,film
+15,2017 Spring,1,Comparative Literature,151,1,Clg of Letters & Science,film
+16,2017 Spring,1,Comparative Literature,165,1,Clg of Letters & Science,film
+17,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,film
+18,2017 Spring,1,Computer Science,61A,1,Clg of Engineering,film
+19,2017 Spring,1,Computer Science,170,1,Clg of Engineering,film
+20,2017 Spring,2,Computer Science,186,1,Clg of Engineering,film
+21,2017 Spring,1,Computer Science,197,214,Clg of Engineering,film
+22,2017 Spring,1,Computer Science,198,303,Clg of Engineering,film
+23,2017 Spring,1,Design Innovation,198,2,Clg of Engineering,film
+24,2017 Spring,1,Economics,133,1,Clg of Letters & Science,film
+25,2017 Spring,1,Education,190AC,3,Grad School of Education,film
+26,2017 Spring,1,Education,198,23,Grad School of Education,film
+27,2017 Spring,1,Electrical Engineering,16A,1,Clg of Engineering,film
+28,2017 Spring,1,English,80K,1,Clg of Letters & Science,film
+29,2017 Spring,1,English,105,1,Clg of Letters & Science,film
+30,2017 Spring,1,English,141,1,Clg of Letters & Science,film
+31,2017 Spring,1,English,165,1,Clg of Letters & Science,film
+32,2017 Spring,1,English,166,3,Clg of Letters & Science,film
+33,2017 Spring,1,English,166,5,Clg of Letters & Science,film
+34,2017 Spring,1,Ethnic Studies,122AC,1,Clg of Letters & Science,film
+35,2017 Spring,7,Film,20,1,Clg of Letters & Science,film
+36,2017 Spring,5,Film,25A,1,Clg of Letters & Science,film
+37,2017 Spring,11,Film,25B,1,Clg of Letters & Science,film
+38,2017 Spring,8,Film,108,1,Clg of Letters & Science,film
+39,2017 Spring,4,Film,108,2,Clg of Letters & Science,film
+40,2017 Spring,10,Film,108,3,Clg of Letters & Science,film
+41,2017 Spring,30,Film,128,1,Clg of Letters & Science,film
+42,2017 Spring,17,Film,140,1,Clg of Letters & Science,film
+43,2017 Spring,14,Film,140,2,Clg of Letters & Science,film
+44,2017 Spring,3,Film,140,3,Clg of Letters & Science,film
+45,2017 Spring,6,Film,151,1,Clg of Letters & Science,film
+46,2017 Spring,5,Film,160,1,Clg of Letters & Science,film
+47,2017 Spring,8,Film,160,2,Clg of Letters & Science,film
+48,2017 Spring,13,Film,180,1,Clg of Letters & Science,film
+49,2017 Spring,10,Film,181,1,Clg of Letters & Science,film
+50,2017 Spring,9,Film,187,1,Clg of Letters & Science,film
+51,2017 Spring,2,Film,197C,1,Clg of Letters & Science,film
+52,2017 Spring,1,Film,198,1,Clg of Letters & Science,film
+53,2017 Spring,2,Film,198,2,Clg of Letters & Science,film
+54,2017 Spring,1,French,1,2,Clg of Letters & Science,film
+55,2017 Spring,1,French,2,2,Clg of Letters & Science,film
+56,2017 Spring,1,French,2,5,Clg of Letters & Science,film
+57,2017 Spring,1,French,2,7,Clg of Letters & Science,film
+58,2017 Spring,1,French,3,4,Clg of Letters & Science,film
+59,2017 Spring,1,French,140D,1,Clg of Letters & Science,film
+60,2017 Spring,2,French,178B,1,Clg of Letters & Science,film
+61,2017 Spring,1,German,1,1,Clg of Letters & Science,film
+62,2017 Spring,4,German,182,1,Clg of Letters & Science,film
+63,2017 Spring,2,History,7B,1,Clg of Letters & Science,film
+64,2017 Spring,1,History,109C,1,Clg of Letters & Science,film
+65,2017 Spring,1,History,119A,1,Clg of Letters & Science,film
+66,2017 Spring,1,History of Art,C109,1,Clg of Letters & Science,film
+67,2017 Spring,1,History of Art,134A,1,Clg of Letters & Science,film
+68,2017 Spring,1,History of Art,C145A,1,Clg of Letters & Science,film
+69,2017 Spring,1,History of Art,192DH,1,Clg of Letters & Science,film
+70,2017 Spring,1,Integrative Biology,31,1,Clg of Letters & Science,film
+71,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,film
+72,2017 Spring,1,Integrative Biology,198,6,Clg of Letters & Science,film
+73,2017 Spring,2,Italian Studies,170,1,Clg of Letters & Science,film
+74,2017 Spring,1,Japanese,1B,3,Clg of Letters & Science,film
+75,2017 Spring,2,Japanese,188,1,Clg of Letters & Science,film
+76,2017 Spring,1,Korean,1B,3,Clg of Letters & Science,film
+77,2017 Spring,1,Korean,150,1,Clg of Letters & Science,film
+78,2017 Spring,2,Korean,187,1,Clg of Letters & Science,film
+79,2017 Spring,1,Latin,2,2,Clg of Letters & Science,film
+80,2017 Spring,1,Letters & Science,105,1,Clg of Letters & Science,film
+81,2017 Spring,1,Linguistics,47,1,Clg of Letters & Science,film
+82,2017 Spring,1,Linguistics,120,1,Clg of Letters & Science,film
+83,2017 Spring,1,Linguistics,197,1,Clg of Letters & Science,film
+84,2017 Spring,1,Mathematics,32,1,Clg of Letters & Science,film
+85,2017 Spring,1,Mathematics,98BC,1,Clg of Letters & Science,film
+86,2017 Spring,1,Media Studies,104A,1,Clg of Letters & Science,film
+87,2017 Spring,1,Media Studies,170,1,Clg of Letters & Science,film
+88,2017 Spring,1,Military Science,101,1,Clg of Letters & Science,film
+89,2017 Spring,1,Music,20A,2,Clg of Letters & Science,film
+90,2017 Spring,1,Music,26AC,1,Clg of Letters & Science,film
+91,2017 Spring,1,Music,80,1,Clg of Letters & Science,film
+92,2017 Spring,1,Music,170,1,Clg of Letters & Science,film
+93,2017 Spring,1,Music,198BC,1,Clg of Letters & Science,film
+94,2017 Spring,2,Music,198BC,2,Clg of Letters & Science,film
+95,2017 Spring,1,Near Eastern Studies,165,1,Clg of Letters & Science,film
+96,2017 Spring,3,New Media,190,4,Clg of Engineering,film
+97,2017 Spring,1,Nutritional Science & Tox,10,1,Clg of Natural Resources,film
+98,2017 Spring,1,Philosophy,2,1,Clg of Letters & Science,film
+99,2017 Spring,1,Philosophy,110,1,Clg of Letters & Science,film
+100,2017 Spring,1,Philosophy,198BC,4,Clg of Letters & Science,film
+101,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,film
+102,2017 Spring,1,Physical Education,1,42,Clg of Letters & Science,film
+103,2017 Spring,1,Plant & Microbial Biology,40,1,Clg of Natural Resources,film
+104,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,film
+105,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,film
+106,2017 Spring,1,Psychology,C126,1,Clg of Letters & Science,film
+107,2017 Spring,1,Psychology,133,1,Clg of Letters & Science,film
+108,2017 Spring,1,Psychology,150,1,Clg of Letters & Science,film
+109,2017 Spring,1,Psychology,160,1,Clg of Letters & Science,film
+110,2017 Spring,1,Psychology,166AC,1,Clg of Letters & Science,film
+111,2017 Spring,1,Rhetoric,24,1,Clg of Letters & Science,film
+112,2017 Spring,2,Rhetoric,131T,1,Clg of Letters & Science,film
+113,2017 Spring,7,Rhetoric,189,3,Clg of Letters & Science,film
+114,2017 Spring,1,Russian,3,1,Clg of Letters & Science,film
+115,2017 Spring,2,Social Welfare,198,2,School of Social Welfare,film
+116,2017 Spring,1,Sociology,131AC,1,Clg of Letters & Science,film
+117,2017 Spring,1,Sociology,133,1,Clg of Letters & Science,film
+118,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,film
+119,2017 Spring,2,Sociology,198,10,Clg of Letters & Science,film
+120,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,film
+121,2017 Spring,1,Sociology,198BC,2,Clg of Letters & Science,film
+122,2017 Spring,2,Sociology,198BC,5,Clg of Letters & Science,film
+123,2017 Spring,1,Spanish,2,3,Clg of Letters & Science,film
+124,2017 Spring,1,Spanish,21,1,Clg of Letters & Science,film
+125,2017 Spring,1,Statistics,W21,1,Clg of Letters & Science,film
+126,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,film
+127,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,film
+128,2017 Spring,1,Theater Dance & Perf Stds,177,1,Clg of Letters & Science,film
+129,2017 Spring,1,Theater Dance & Perf Stds,177,101,Clg of Letters & Science,film

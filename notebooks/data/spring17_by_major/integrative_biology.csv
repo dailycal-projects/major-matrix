@@ -1,0 +1,522 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,Aerospace Studies,135B,1,Clg of Letters & Science,integrative biology
+1,2017 Spring,1,African American Studies,30B,1,Clg of Letters & Science,integrative biology
+2,2017 Spring,1,African American Studies,115,1,Clg of Letters & Science,integrative biology
+3,2017 Spring,1,African American Studies,118,1,Clg of Letters & Science,integrative biology
+4,2017 Spring,5,African American Studies,131,1,Clg of Letters & Science,integrative biology
+5,2017 Spring,1,African American Studies,C156,1,Clg of Letters & Science,integrative biology
+6,2017 Spring,2,African American Studies,156AC,1,Clg of Letters & Science,integrative biology
+7,2017 Spring,1,Anthropology,2AC,1,Clg of Letters & Science,integrative biology
+8,2017 Spring,2,Anthropology,3AC,1,Clg of Letters & Science,integrative biology
+9,2017 Spring,2,Anthropology,R5B,1,Clg of Letters & Science,integrative biology
+10,2017 Spring,2,Anthropology,112,1,Clg of Letters & Science,integrative biology
+11,2017 Spring,1,Anthropology,121AC,1,Clg of Letters & Science,integrative biology
+12,2017 Spring,1,Anthropology,127B,1,Clg of Letters & Science,integrative biology
+13,2017 Spring,2,Anthropology,134,1,Clg of Letters & Science,integrative biology
+14,2017 Spring,2,Anthropology,156A,1,Clg of Letters & Science,integrative biology
+15,2017 Spring,2,Anthropology,160AC,1,Clg of Letters & Science,integrative biology
+16,2017 Spring,2,Anthropology,170,1,Clg of Letters & Science,integrative biology
+17,2017 Spring,3,Anthropology,180,1,Clg of Letters & Science,integrative biology
+18,2017 Spring,1,Anthropology,196,1,Clg of Letters & Science,integrative biology
+19,2017 Spring,1,Arabic,1B,6,Clg of Letters & Science,integrative biology
+20,2017 Spring,1,Arabic,1B,7,Clg of Letters & Science,integrative biology
+21,2017 Spring,1,Arabic,107,1,Clg of Letters & Science,integrative biology
+22,2017 Spring,1,Armenian,101B,1,Clg of Letters & Science,integrative biology
+23,2017 Spring,1,Art Practice,12,1,Clg of Letters & Science,integrative biology
+24,2017 Spring,1,Art Practice,13,1,Clg of Letters & Science,integrative biology
+25,2017 Spring,1,Art Practice,15,1,Clg of Letters & Science,integrative biology
+26,2017 Spring,1,Art Practice,118,1,Clg of Letters & Science,integrative biology
+27,2017 Spring,2,Art Practice,120,1,Clg of Letters & Science,integrative biology
+28,2017 Spring,1,Asian American Studies,20A,1,Clg of Letters & Science,integrative biology
+29,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,integrative biology
+30,2017 Spring,2,Asian American Studies,132AC,1,Clg of Letters & Science,integrative biology
+31,2017 Spring,2,Asian American Studies,144,1,Clg of Letters & Science,integrative biology
+32,2017 Spring,1,Asian American Studies,176,1,Clg of Letters & Science,integrative biology
+33,2017 Spring,1,Asian American Studies,197,2,Clg of Letters & Science,integrative biology
+34,2017 Spring,1,Asian American Studies,198,5,Clg of Letters & Science,integrative biology
+35,2017 Spring,1,Asian Studies,198,4,Clg of Letters & Science,integrative biology
+36,2017 Spring,1,Astronomy,C12,1,Clg of Letters & Science,integrative biology
+37,2017 Spring,1,Astronomy,98,2,Clg of Letters & Science,integrative biology
+38,2017 Spring,1,Astronomy,198,2,Clg of Letters & Science,integrative biology
+39,2017 Spring,1,Bioengineering,110,1,Clg of Engineering,integrative biology
+40,2017 Spring,1,Bioengineering,111,1,Clg of Engineering,integrative biology
+41,2017 Spring,4,Biology,1A,1,Clg of Letters & Science,integrative biology
+42,2017 Spring,4,Biology,1A,2,Clg of Letters & Science,integrative biology
+43,2017 Spring,7,Biology,1AL,1,Clg of Letters & Science,integrative biology
+44,2017 Spring,1,Biology,1AL,2,Clg of Letters & Science,integrative biology
+45,2017 Spring,1,Biology,1B,1,Clg of Letters & Science,integrative biology
+46,2017 Spring,3,Biology,1B,2,Clg of Letters & Science,integrative biology
+47,2017 Spring,2,Buddhist Studies,C128,1,Clg of Letters & Science,integrative biology
+48,2017 Spring,5,Business Admin-Undergrad,96,1,Haas School of Business,integrative biology
+49,2017 Spring,2,Business Admin-Undergrad,96,2,Haas School of Business,integrative biology
+50,2017 Spring,1,Business Admin-Undergrad,96,3,Haas School of Business,integrative biology
+51,2017 Spring,1,Business Admin-Undergrad,106,1,Haas School of Business,integrative biology
+52,2017 Spring,1,Business Admin-Undergrad,170,1,Haas School of Business,integrative biology
+53,2017 Spring,1,Business Admin-Undergrad,195A,1,Haas School of Business,integrative biology
+54,2017 Spring,1,Business Admin-Undergrad,195T,1,Haas School of Business,integrative biology
+55,2017 Spring,1,Business Admin-Undergrad,196,1,Haas School of Business,integrative biology
+56,2017 Spring,2,Business Admin-Undergrad,196,2,Haas School of Business,integrative biology
+57,2017 Spring,2,Celtic Studies,125,1,Clg of Letters & Science,integrative biology
+58,2017 Spring,1,Celtic Studies,173,1,Clg of Letters & Science,integrative biology
+59,2017 Spring,1,Chemical Engineering,198,3,Clg of Chemistry,integrative biology
+60,2017 Spring,6,Chemistry,1B,1,Clg of Chemistry,integrative biology
+61,2017 Spring,3,Chemistry,3B,1,Clg of Chemistry,integrative biology
+62,2017 Spring,3,Chemistry,3B,2,Clg of Chemistry,integrative biology
+63,2017 Spring,3,Chemistry,3BL,1,Clg of Chemistry,integrative biology
+64,2017 Spring,1,Chemistry,3BL,2,Clg of Chemistry,integrative biology
+65,2017 Spring,1,Chemistry,98,3,Clg of Chemistry,integrative biology
+66,2017 Spring,1,Chemistry,C130,1,Clg of Chemistry,integrative biology
+67,2017 Spring,1,Chicano Studies,50,1,Clg of Letters & Science,integrative biology
+68,2017 Spring,1,Chinese,1B,2,Clg of Letters & Science,integrative biology
+69,2017 Spring,1,Chinese,10X,2,Clg of Letters & Science,integrative biology
+70,2017 Spring,1,Chinese,10Y,1,Clg of Letters & Science,integrative biology
+71,2017 Spring,1,Chinese,112,1,Clg of Letters & Science,integrative biology
+72,2017 Spring,1,Civil & Environmental Eng,198,3,Clg of Engineering,integrative biology
+73,2017 Spring,2,Classics,10B,1,Clg of Letters & Science,integrative biology
+74,2017 Spring,2,Classics,17B,1,Clg of Letters & Science,integrative biology
+75,2017 Spring,1,Classics,28,1,Clg of Letters & Science,integrative biology
+76,2017 Spring,1,Classics,35,1,Clg of Letters & Science,integrative biology
+77,2017 Spring,3,Classics,161,1,Clg of Letters & Science,integrative biology
+78,2017 Spring,1,Classics,170A,1,Clg of Letters & Science,integrative biology
+79,2017 Spring,2,Classics,180,1,Clg of Letters & Science,integrative biology
+80,2017 Spring,3,Cognitive Science,198,5,Clg of Letters & Science,integrative biology
+81,2017 Spring,1,College Writing Programs,R4B,8,Clg of Letters & Science,integrative biology
+82,2017 Spring,1,College Writing Programs,10A,2,Clg of Letters & Science,integrative biology
+83,2017 Spring,2,College Writing Programs,10A,4,Clg of Letters & Science,integrative biology
+84,2017 Spring,3,College Writing Programs,151,1,Clg of Letters & Science,integrative biology
+85,2017 Spring,1,College Writing Programs,161,1,Clg of Letters & Science,integrative biology
+86,2017 Spring,1,Comparative Literature,50,1,Clg of Letters & Science,integrative biology
+87,2017 Spring,1,Comparative Literature,165,1,Clg of Letters & Science,integrative biology
+88,2017 Spring,2,Comparative Literature,171,1,Clg of Letters & Science,integrative biology
+89,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,integrative biology
+90,2017 Spring,4,Computer Science,61A,1,Clg of Engineering,integrative biology
+91,2017 Spring,2,Computer Science,61B,1,Clg of Engineering,integrative biology
+92,2017 Spring,1,Computer Science,61C,1,Clg of Engineering,integrative biology
+93,2017 Spring,1,Computer Science,160,3,Clg of Engineering,integrative biology
+94,2017 Spring,1,Computer Science,170,1,Clg of Engineering,integrative biology
+95,2017 Spring,1,Computer Science,198,1,Clg of Engineering,integrative biology
+96,2017 Spring,1,Computer Science,198,56,Clg of Engineering,integrative biology
+97,2017 Spring,1,Computer Science,198,64,Clg of Engineering,integrative biology
+98,2017 Spring,1,Computer Science,198,642,Clg of Engineering,integrative biology
+99,2017 Spring,5,Development Studies,C10,1,Clg of Letters & Science,integrative biology
+100,2017 Spring,1,Dutch,166,1,Clg of Letters & Science,integrative biology
+101,2017 Spring,2,Earth & Planetary Science,102,1,Clg of Letters & Science,integrative biology
+102,2017 Spring,2,Earth & Planetary Science,103,1,Clg of Letters & Science,integrative biology
+103,2017 Spring,1,Earth & Planetary Science,150,1,Clg of Letters & Science,integrative biology
+104,2017 Spring,4,East Asian Languages,105,1,Clg of Letters & Science,integrative biology
+105,2017 Spring,4,East Asian Languages,110,1,Clg of Letters & Science,integrative biology
+106,2017 Spring,1,East Asian Languages,112,1,Clg of Letters & Science,integrative biology
+107,2017 Spring,2,East Asian Languages,C128,1,Clg of Letters & Science,integrative biology
+108,2017 Spring,1,East Asian Languages,191,1,Clg of Letters & Science,integrative biology
+109,2017 Spring,5,Economics,1,1,Clg of Letters & Science,integrative biology
+110,2017 Spring,2,Education,130,1,Grad School of Education,integrative biology
+111,2017 Spring,3,Education,131AC,1,Grad School of Education,integrative biology
+112,2017 Spring,1,Education,W140A,1,Grad School of Education,integrative biology
+113,2017 Spring,1,Education,183,1,Grad School of Education,integrative biology
+114,2017 Spring,1,Education,190AC,1,Grad School of Education,integrative biology
+115,2017 Spring,1,Education,197,1,Grad School of Education,integrative biology
+116,2017 Spring,2,Education,197,18,Grad School of Education,integrative biology
+117,2017 Spring,2,Education,197,58,Grad School of Education,integrative biology
+118,2017 Spring,1,Education,197,63,Grad School of Education,integrative biology
+119,2017 Spring,1,Education,198,5,Grad School of Education,integrative biology
+120,2017 Spring,1,Education,198,9,Grad School of Education,integrative biology
+121,2017 Spring,1,Education,198,18,Grad School of Education,integrative biology
+122,2017 Spring,1,Electrical Engineering,16A,1,Clg of Engineering,integrative biology
+123,2017 Spring,2,Energy and Resources,98,1,Clg of Natural Resources,integrative biology
+124,2017 Spring,2,English,45A,1,Clg of Letters & Science,integrative biology
+125,2017 Spring,5,English,80K,1,Clg of Letters & Science,integrative biology
+126,2017 Spring,2,English,114A,1,Clg of Letters & Science,integrative biology
+127,2017 Spring,1,English,125C,1,Clg of Letters & Science,integrative biology
+128,2017 Spring,1,English,166AC,1,Clg of Letters & Science,integrative biology
+129,2017 Spring,2,English,180L,1,Clg of Letters & Science,integrative biology
+130,2017 Spring,1,English,190,7,Clg of Letters & Science,integrative biology
+131,2017 Spring,1,English,190,11,Clg of Letters & Science,integrative biology
+132,2017 Spring,1,English,198,1,Clg of Letters & Science,integrative biology
+133,2017 Spring,1,English,198,7,Clg of Letters & Science,integrative biology
+134,2017 Spring,8,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,integrative biology
+135,2017 Spring,2,"Env Sci, Policy, & Mgmt",72,1,Clg of Natural Resources,integrative biology
+136,2017 Spring,8,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,integrative biology
+137,2017 Spring,9,"Env Sci, Policy, & Mgmt",132,1,Clg of Natural Resources,integrative biology
+138,2017 Spring,10,"Env Sci, Policy, & Mgmt",144,1,Clg of Natural Resources,integrative biology
+139,2017 Spring,1,"Env Sci, Policy, & Mgmt",C148,1,Clg of Natural Resources,integrative biology
+140,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,1,Clg of Natural Resources,integrative biology
+141,2017 Spring,2,"Env Sci, Policy, & Mgmt",150,2,Clg of Natural Resources,integrative biology
+142,2017 Spring,1,"Env Sci, Policy, & Mgmt",152,1,Clg of Natural Resources,integrative biology
+143,2017 Spring,1,"Env Sci, Policy, & Mgmt",165,1,Clg of Natural Resources,integrative biology
+144,2017 Spring,2,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,integrative biology
+145,2017 Spring,2,"Env Sci, Policy, & Mgmt",186,1,Clg of Natural Resources,integrative biology
+146,2017 Spring,1,"Env Sci, Policy, & Mgmt",197,4,Clg of Natural Resources,integrative biology
+147,2017 Spring,1,"Env Sci, Policy, & Mgmt",197,15,Clg of Natural Resources,integrative biology
+148,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,1,Clg of Natural Resources,integrative biology
+149,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,13,Clg of Natural Resources,integrative biology
+150,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,5,Clg of Natural Resources,integrative biology
+151,2017 Spring,3,"Env Sci, Policy, & Mgmt",198BC,6,Clg of Natural Resources,integrative biology
+152,2017 Spring,1,Environ Econ & Policy,C101,1,Clg of Natural Resources,integrative biology
+153,2017 Spring,2,Environmental Design,100,1,Clg of Environmental Design,integrative biology
+154,2017 Spring,1,Environmental Design,101A,1,Clg of Environmental Design,integrative biology
+155,2017 Spring,1,Ethnic Studies,100,1,Clg of Letters & Science,integrative biology
+156,2017 Spring,2,Ethnic Studies,176,1,Clg of Letters & Science,integrative biology
+157,2017 Spring,1,Ethnic Studies,197,6,Clg of Letters & Science,integrative biology
+158,2017 Spring,1,Ethnic Studies,197,13,Clg of Letters & Science,integrative biology
+159,2017 Spring,1,Ethnic Studies,198,4,Clg of Letters & Science,integrative biology
+160,2017 Spring,1,Ethnic Studies,198,5,Clg of Letters & Science,integrative biology
+161,2017 Spring,1,Ethnic Studies,198BC,2,Clg of Letters & Science,integrative biology
+162,2017 Spring,1,Filipino,1B,1,Clg of Letters & Science,integrative biology
+163,2017 Spring,1,Filipino,W1Y,1,Clg of Letters & Science,integrative biology
+164,2017 Spring,1,Filipino,100B,1,Clg of Letters & Science,integrative biology
+165,2017 Spring,1,Film,25B,1,Clg of Letters & Science,integrative biology
+166,2017 Spring,1,Film,128,1,Clg of Letters & Science,integrative biology
+167,2017 Spring,1,French,1,8,Clg of Letters & Science,integrative biology
+168,2017 Spring,1,French,2,1,Clg of Letters & Science,integrative biology
+169,2017 Spring,1,French,14,1,Clg of Letters & Science,integrative biology
+170,2017 Spring,1,French,161B,1,Clg of Letters & Science,integrative biology
+171,2017 Spring,1,French,178B,1,Clg of Letters & Science,integrative biology
+172,2017 Spring,1,French,197,2,Clg of Letters & Science,integrative biology
+173,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,integrative biology
+174,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,integrative biology
+175,2017 Spring,1,Gender & Womens Studies,198,1,Clg of Letters & Science,integrative biology
+176,2017 Spring,2,Geography,20,1,Clg of Letters & Science,integrative biology
+177,2017 Spring,1,Geography,C32,1,Clg of Letters & Science,integrative biology
+178,2017 Spring,1,German,1,3,Clg of Letters & Science,integrative biology
+179,2017 Spring,1,German,2,3,Clg of Letters & Science,integrative biology
+180,2017 Spring,1,German,98,1,Clg of Letters & Science,integrative biology
+181,2017 Spring,1,German,102A,1,Clg of Letters & Science,integrative biology
+182,2017 Spring,2,Global Poverty & Practice,105,3,Clg of Letters & Science,integrative biology
+183,2017 Spring,1,Global Poverty & Practice,196,1,Clg of Letters & Science,integrative biology
+184,2017 Spring,2,Hindi-Urdu,100B,1,Clg of Letters & Science,integrative biology
+185,2017 Spring,1,Hindi-Urdu,103B,1,Clg of Letters & Science,integrative biology
+186,2017 Spring,1,History,84,1,Clg of Letters & Science,integrative biology
+187,2017 Spring,2,History,100U,1,Clg of Letters & Science,integrative biology
+188,2017 Spring,3,History,106B,1,Clg of Letters & Science,integrative biology
+189,2017 Spring,2,History,114B,1,Clg of Letters & Science,integrative biology
+190,2017 Spring,1,History,117A,1,Clg of Letters & Science,integrative biology
+191,2017 Spring,1,History,121B,1,Clg of Letters & Science,integrative biology
+192,2017 Spring,1,History,151A,1,Clg of Letters & Science,integrative biology
+193,2017 Spring,1,History,160,1,Clg of Letters & Science,integrative biology
+194,2017 Spring,1,History,162B,1,Clg of Letters & Science,integrative biology
+195,2017 Spring,2,History,178,1,Clg of Letters & Science,integrative biology
+196,2017 Spring,3,History,180T,1,Clg of Letters & Science,integrative biology
+197,2017 Spring,2,History,182A,1,Clg of Letters & Science,integrative biology
+198,2017 Spring,1,History,C191,1,Clg of Letters & Science,integrative biology
+199,2017 Spring,2,History of Art,11,1,Clg of Letters & Science,integrative biology
+200,2017 Spring,1,History of Art,C145A,1,Clg of Letters & Science,integrative biology
+201,2017 Spring,3,History of Art,198,1,Clg of Letters & Science,integrative biology
+202,2017 Spring,1,Industrial Eng & Ops Rsch,185,2,Clg of Engineering,integrative biology
+203,2017 Spring,1,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,integrative biology
+204,2017 Spring,1,Information,190,2,School of Information,integrative biology
+205,2017 Spring,5,Integrative Biology,C32,1,Clg of Letters & Science,integrative biology
+206,2017 Spring,13,Integrative Biology,104LF,1,Clg of Letters & Science,integrative biology
+207,2017 Spring,62,Integrative Biology,113L,1,Clg of Letters & Science,integrative biology
+208,2017 Spring,39,Integrative Biology,114,1,Clg of Letters & Science,integrative biology
+209,2017 Spring,14,Integrative Biology,C129L,1,Clg of Letters & Science,integrative biology
+210,2017 Spring,2,Integrative Biology,131L,2,Clg of Letters & Science,integrative biology
+211,2017 Spring,2,Integrative Biology,131L,3,Clg of Letters & Science,integrative biology
+212,2017 Spring,1,Integrative Biology,131L,4,Clg of Letters & Science,integrative biology
+213,2017 Spring,89,Integrative Biology,132,1,Clg of Letters & Science,integrative biology
+214,2017 Spring,15,Integrative Biology,132L,1,Clg of Letters & Science,integrative biology
+215,2017 Spring,12,Integrative Biology,132L,2,Clg of Letters & Science,integrative biology
+216,2017 Spring,14,Integrative Biology,132L,3,Clg of Letters & Science,integrative biology
+217,2017 Spring,17,Integrative Biology,132L,4,Clg of Letters & Science,integrative biology
+218,2017 Spring,16,Integrative Biology,132L,5,Clg of Letters & Science,integrative biology
+219,2017 Spring,7,Integrative Biology,132L,6,Clg of Letters & Science,integrative biology
+220,2017 Spring,7,Integrative Biology,132L,7,Clg of Letters & Science,integrative biology
+221,2017 Spring,8,Integrative Biology,132L,8,Clg of Letters & Science,integrative biology
+222,2017 Spring,7,Integrative Biology,138,1,Clg of Letters & Science,integrative biology
+223,2017 Spring,67,Integrative Biology,140,1,Clg of Letters & Science,integrative biology
+224,2017 Spring,36,Integrative Biology,C143B,1,Clg of Letters & Science,integrative biology
+225,2017 Spring,7,Integrative Biology,146LF,1,Clg of Letters & Science,integrative biology
+226,2017 Spring,13,Integrative Biology,150,1,Clg of Letters & Science,integrative biology
+227,2017 Spring,15,Integrative Biology,161,1,Clg of Letters & Science,integrative biology
+228,2017 Spring,7,Integrative Biology,168L,1,Clg of Letters & Science,integrative biology
+229,2017 Spring,155,Integrative Biology,169,1,Clg of Letters & Science,integrative biology
+230,2017 Spring,4,Integrative Biology,170LF,1,Clg of Letters & Science,integrative biology
+231,2017 Spring,13,Integrative Biology,172,1,Clg of Letters & Science,integrative biology
+232,2017 Spring,13,Integrative Biology,174LF,1,Clg of Letters & Science,integrative biology
+233,2017 Spring,16,Integrative Biology,C176L,1,Clg of Letters & Science,integrative biology
+234,2017 Spring,8,Integrative Biology,C185L,1,Clg of Letters & Science,integrative biology
+235,2017 Spring,1,Integrative Biology,194,1,Clg of Letters & Science,integrative biology
+236,2017 Spring,3,Integrative Biology,194,100,Clg of Letters & Science,integrative biology
+237,2017 Spring,1,Integrative Biology,194,210,Clg of Letters & Science,integrative biology
+238,2017 Spring,1,Integrative Biology,194,310,Clg of Letters & Science,integrative biology
+239,2017 Spring,1,Integrative Biology,197,80,Clg of Letters & Science,integrative biology
+240,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,integrative biology
+241,2017 Spring,4,Integrative Biology,198,2,Clg of Letters & Science,integrative biology
+242,2017 Spring,2,Integrative Biology,198,3,Clg of Letters & Science,integrative biology
+243,2017 Spring,8,Integrative Biology,198,4,Clg of Letters & Science,integrative biology
+244,2017 Spring,6,Integrative Biology,198,6,Clg of Letters & Science,integrative biology
+245,2017 Spring,10,Integrative Biology,198,8,Clg of Letters & Science,integrative biology
+246,2017 Spring,2,Interdisciplinary Studies,61,1,Clg of Letters & Science,integrative biology
+247,2017 Spring,2,Interdisciplinary Studies,100C,1,Clg of Letters & Science,integrative biology
+248,2017 Spring,1,International & Area Stds,150,1,Clg of Letters & Science,integrative biology
+249,2017 Spring,1,International & Area Stds,150,4,Clg of Letters & Science,integrative biology
+250,2017 Spring,1,Italian Studies,120,1,Clg of Letters & Science,integrative biology
+251,2017 Spring,1,Italian Studies,160,1,Clg of Letters & Science,integrative biology
+252,2017 Spring,1,Japanese,1B,6,Clg of Letters & Science,integrative biology
+253,2017 Spring,1,Japanese,1B,8,Clg of Letters & Science,integrative biology
+254,2017 Spring,1,Japanese,100B,1,Clg of Letters & Science,integrative biology
+255,2017 Spring,1,Japanese,100X,1,Clg of Letters & Science,integrative biology
+256,2017 Spring,1,Jewish Studies,101,1,Clg of Letters & Science,integrative biology
+257,2017 Spring,1,Korean,1A,1,Clg of Letters & Science,integrative biology
+258,2017 Spring,1,Korean,1BX,1,Clg of Letters & Science,integrative biology
+259,2017 Spring,1,Korean,10BX,1,Clg of Letters & Science,integrative biology
+260,2017 Spring,2,Korean,102,1,Clg of Letters & Science,integrative biology
+261,2017 Spring,1,Korean,112,1,Clg of Letters & Science,integrative biology
+262,2017 Spring,1,Korean,187,1,Clg of Letters & Science,integrative biology
+263,2017 Spring,1,Landscape Arch & Env Plan,198,1,Clg of Environmental Design,integrative biology
+264,2017 Spring,1,Legal Studies,100,1,School of Law,integrative biology
+265,2017 Spring,1,Legal Studies,160,1,School of Law,integrative biology
+266,2017 Spring,2,Letters & Science,22,1,Clg of Letters & Science,integrative biology
+267,2017 Spring,1,Letters & Science,25,1,Clg of Letters & Science,integrative biology
+268,2017 Spring,2,Letters & Science,C30Z,1,Clg of Letters & Science,integrative biology
+269,2017 Spring,1,Letters & Science,70A,1,Clg of Letters & Science,integrative biology
+270,2017 Spring,2,Letters & Science,70C,1,Clg of Letters & Science,integrative biology
+271,2017 Spring,1,Letters & Science,C70T,1,Clg of Letters & Science,integrative biology
+272,2017 Spring,4,Letters & Science,124,1,Clg of Letters & Science,integrative biology
+273,2017 Spring,1,Letters & Science,160B,1,Clg of Letters & Science,integrative biology
+274,2017 Spring,1,Letters & Science,C180U,1,Clg of Letters & Science,integrative biology
+275,2017 Spring,1,Linguistics,10,1,Clg of Letters & Science,integrative biology
+276,2017 Spring,1,Linguistics,100,1,Clg of Letters & Science,integrative biology
+277,2017 Spring,1,Linguistics,115,1,Clg of Letters & Science,integrative biology
+278,2017 Spring,1,Linguistics,121,1,Clg of Letters & Science,integrative biology
+279,2017 Spring,1,Linguistics,198,2,Clg of Letters & Science,integrative biology
+280,2017 Spring,1,Mathematics,198,1,Clg of Letters & Science,integrative biology
+281,2017 Spring,1,Mathematics,198,2,Clg of Letters & Science,integrative biology
+282,2017 Spring,1,Media Studies,101,1,Clg of Letters & Science,integrative biology
+283,2017 Spring,1,Media Studies,103,1,Clg of Letters & Science,integrative biology
+284,2017 Spring,1,Media Studies,190,1,Clg of Letters & Science,integrative biology
+285,2017 Spring,1,Military Affairs,1,1,Clg of Letters & Science,integrative biology
+286,2017 Spring,2,Military Science,101,1,Clg of Letters & Science,integrative biology
+287,2017 Spring,3,Molecular & Cell Biology,15,1,Clg of Letters & Science,integrative biology
+288,2017 Spring,1,Molecular & Cell Biology,50,1,Clg of Letters & Science,integrative biology
+289,2017 Spring,1,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,integrative biology
+290,2017 Spring,64,Molecular & Cell Biology,102,1,Clg of Letters & Science,integrative biology
+291,2017 Spring,3,Molecular & Cell Biology,C103,1,Clg of Letters & Science,integrative biology
+292,2017 Spring,4,Molecular & Cell Biology,104,1,Clg of Letters & Science,integrative biology
+293,2017 Spring,1,Molecular & Cell Biology,C112L,1,Clg of Letters & Science,integrative biology
+294,2017 Spring,2,Molecular & Cell Biology,118,1,Clg of Letters & Science,integrative biology
+295,2017 Spring,1,Molecular & Cell Biology,137L,1,Clg of Letters & Science,integrative biology
+296,2017 Spring,1,Molecular & Cell Biology,140,1,Clg of Letters & Science,integrative biology
+297,2017 Spring,2,Molecular & Cell Biology,140L,1,Clg of Letters & Science,integrative biology
+298,2017 Spring,1,Molecular & Cell Biology,141,1,Clg of Letters & Science,integrative biology
+299,2017 Spring,9,Molecular & Cell Biology,150,1,Clg of Letters & Science,integrative biology
+300,2017 Spring,1,Molecular & Cell Biology,150L,1,Clg of Letters & Science,integrative biology
+301,2017 Spring,1,Molecular & Cell Biology,161,1,Clg of Letters & Science,integrative biology
+302,2017 Spring,1,Molecular & Cell Biology,165,1,Clg of Letters & Science,integrative biology
+303,2017 Spring,1,Molecular & Cell Biology,180,1,Clg of Letters & Science,integrative biology
+304,2017 Spring,1,Molecular & Cell Biology,198,4,Clg of Letters & Science,integrative biology
+305,2017 Spring,1,Molecular & Cell Biology,198,5,Clg of Letters & Science,integrative biology
+306,2017 Spring,1,Molecular & Cell Biology,198,6,Clg of Letters & Science,integrative biology
+307,2017 Spring,1,Mongolian,C117,1,Clg of Letters & Science,integrative biology
+308,2017 Spring,1,Music,20A,1,Clg of Letters & Science,integrative biology
+309,2017 Spring,1,Music,20A,2,Clg of Letters & Science,integrative biology
+310,2017 Spring,1,Music,20A,4,Clg of Letters & Science,integrative biology
+311,2017 Spring,2,Music,25A,1,Clg of Letters & Science,integrative biology
+312,2017 Spring,1,Music,25A,2,Clg of Letters & Science,integrative biology
+313,2017 Spring,6,Music,26AC,1,Clg of Letters & Science,integrative biology
+314,2017 Spring,5,Music,29,1,Clg of Letters & Science,integrative biology
+315,2017 Spring,1,Music,44,1,Clg of Letters & Science,integrative biology
+316,2017 Spring,1,Music,44,2,Clg of Letters & Science,integrative biology
+317,2017 Spring,2,Music,139,1,Clg of Letters & Science,integrative biology
+318,2017 Spring,2,Music,140,1,Clg of Letters & Science,integrative biology
+319,2017 Spring,1,Music,140,3,Clg of Letters & Science,integrative biology
+320,2017 Spring,1,Music,141,1,Clg of Letters & Science,integrative biology
+321,2017 Spring,2,Music,142,1,Clg of Letters & Science,integrative biology
+322,2017 Spring,1,Music,143,1,Clg of Letters & Science,integrative biology
+323,2017 Spring,1,Music,144,1,Clg of Letters & Science,integrative biology
+324,2017 Spring,2,Music,198,3,Clg of Letters & Science,integrative biology
+325,2017 Spring,1,Native American Studies,71,1,Clg of Letters & Science,integrative biology
+326,2017 Spring,1,Naval Science,12B,1,Clg of Letters & Science,integrative biology
+327,2017 Spring,3,Near Eastern Studies,15,1,Clg of Letters & Science,integrative biology
+328,2017 Spring,2,Near Eastern Studies,101,1,Clg of Letters & Science,integrative biology
+329,2017 Spring,1,Near Eastern Studies,165,1,Clg of Letters & Science,integrative biology
+330,2017 Spring,1,Near Eastern Studies,180,1,Clg of Letters & Science,integrative biology
+331,2017 Spring,1,Near Eastern Studies,190A,2,Clg of Letters & Science,integrative biology
+332,2017 Spring,1,Near Eastern Studies,190H,101,Clg of Letters & Science,integrative biology
+333,2017 Spring,1,New Media,198,1,Clg of Engineering,integrative biology
+334,2017 Spring,17,Nutritional Science & Tox,10,1,Clg of Natural Resources,integrative biology
+335,2017 Spring,13,Nutritional Science & Tox,11,1,Clg of Natural Resources,integrative biology
+336,2017 Spring,1,Nutritional Science & Tox,20,2,Clg of Natural Resources,integrative biology
+337,2017 Spring,6,Nutritional Science & Tox,104,1,Clg of Natural Resources,integrative biology
+338,2017 Spring,3,Nutritional Science & Tox,C114,1,Clg of Natural Resources,integrative biology
+339,2017 Spring,7,Nutritional Science & Tox,115,1,Clg of Natural Resources,integrative biology
+340,2017 Spring,6,Nutritional Science & Tox,121,1,Clg of Natural Resources,integrative biology
+341,2017 Spring,6,Nutritional Science & Tox,160,1,Clg of Natural Resources,integrative biology
+342,2017 Spring,1,Nutritional Science & Tox,170,2,Clg of Natural Resources,integrative biology
+343,2017 Spring,1,Nutritional Science & Tox,190,1,Clg of Natural Resources,integrative biology
+344,2017 Spring,2,Nutritional Science & Tox,193,1,Clg of Natural Resources,integrative biology
+345,2017 Spring,2,Nutritional Science & Tox,198,1,Clg of Natural Resources,integrative biology
+346,2017 Spring,1,Nutritional Science & Tox,198,2,Clg of Natural Resources,integrative biology
+347,2017 Spring,2,Optometry,10,1,School of Optometry,integrative biology
+348,2017 Spring,4,Peace & Conflict Studies,135,1,Clg of Letters & Science,integrative biology
+349,2017 Spring,2,Peace & Conflict Studies,151,1,Clg of Letters & Science,integrative biology
+350,2017 Spring,1,Persian,11B,1,Clg of Letters & Science,integrative biology
+351,2017 Spring,1,Persian,20B,1,Clg of Letters & Science,integrative biology
+352,2017 Spring,1,Philosophy,2,1,Clg of Letters & Science,integrative biology
+353,2017 Spring,1,Philosophy,3,1,Clg of Letters & Science,integrative biology
+354,2017 Spring,1,Philosophy,110,1,Clg of Letters & Science,integrative biology
+355,2017 Spring,1,Philosophy,172,1,Clg of Letters & Science,integrative biology
+356,2017 Spring,1,Physical Education,1,3,Clg of Letters & Science,integrative biology
+357,2017 Spring,1,Physical Education,1,4,Clg of Letters & Science,integrative biology
+358,2017 Spring,1,Physical Education,1,6,Clg of Letters & Science,integrative biology
+359,2017 Spring,1,Physical Education,1,16,Clg of Letters & Science,integrative biology
+360,2017 Spring,2,Physical Education,1,20,Clg of Letters & Science,integrative biology
+361,2017 Spring,1,Physical Education,1,21,Clg of Letters & Science,integrative biology
+362,2017 Spring,1,Physical Education,1,22,Clg of Letters & Science,integrative biology
+363,2017 Spring,2,Physical Education,1,26,Clg of Letters & Science,integrative biology
+364,2017 Spring,2,Physical Education,1,28,Clg of Letters & Science,integrative biology
+365,2017 Spring,1,Physical Education,1,30,Clg of Letters & Science,integrative biology
+366,2017 Spring,1,Physical Education,1,32,Clg of Letters & Science,integrative biology
+367,2017 Spring,1,Physical Education,1,33,Clg of Letters & Science,integrative biology
+368,2017 Spring,2,Physical Education,2,1,Clg of Letters & Science,integrative biology
+369,2017 Spring,1,Physical Education,2,5,Clg of Letters & Science,integrative biology
+370,2017 Spring,2,Physical Education,2,8,Clg of Letters & Science,integrative biology
+371,2017 Spring,1,Physical Education,2,9,Clg of Letters & Science,integrative biology
+372,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,integrative biology
+373,2017 Spring,5,Physical Education,2,11,Clg of Letters & Science,integrative biology
+374,2017 Spring,1,Physical Education,2,18,Clg of Letters & Science,integrative biology
+375,2017 Spring,1,Physical Education,3,4,Clg of Letters & Science,integrative biology
+376,2017 Spring,1,Physical Education,3,8,Clg of Letters & Science,integrative biology
+377,2017 Spring,2,Physical Education,3,11,Clg of Letters & Science,integrative biology
+378,2017 Spring,2,Physical Education,4,1,Clg of Letters & Science,integrative biology
+379,2017 Spring,1,Physical Education,4,2,Clg of Letters & Science,integrative biology
+380,2017 Spring,1,Physical Education,4,3,Clg of Letters & Science,integrative biology
+381,2017 Spring,1,Physical Education,5,1,Clg of Letters & Science,integrative biology
+382,2017 Spring,1,Physical Education,11,3,Clg of Letters & Science,integrative biology
+383,2017 Spring,1,Physical Education,11,4,Clg of Letters & Science,integrative biology
+384,2017 Spring,1,Physical Education,11,7,Clg of Letters & Science,integrative biology
+385,2017 Spring,1,Physical Education,11,8,Clg of Letters & Science,integrative biology
+386,2017 Spring,1,Physical Education,11,11,Clg of Letters & Science,integrative biology
+387,2017 Spring,1,Physical Education,11,12,Clg of Letters & Science,integrative biology
+388,2017 Spring,1,Physical Education,11,13,Clg of Letters & Science,integrative biology
+389,2017 Spring,1,Physical Education,11,14,Clg of Letters & Science,integrative biology
+390,2017 Spring,2,Physical Education,11,25,Clg of Letters & Science,integrative biology
+391,2017 Spring,2,Physical Education,11,26,Clg of Letters & Science,integrative biology
+392,2017 Spring,2,Physical Education,12,13,Clg of Letters & Science,integrative biology
+393,2017 Spring,2,Physical Education,12,14,Clg of Letters & Science,integrative biology
+394,2017 Spring,2,Physical Education,12,21,Clg of Letters & Science,integrative biology
+395,2017 Spring,2,Physical Education,12,22,Clg of Letters & Science,integrative biology
+396,2017 Spring,1,Physical Education,12,23,Clg of Letters & Science,integrative biology
+397,2017 Spring,1,Physical Education,12,24,Clg of Letters & Science,integrative biology
+398,2017 Spring,1,Physical Education,12,27,Clg of Letters & Science,integrative biology
+399,2017 Spring,1,Physical Education,12,28,Clg of Letters & Science,integrative biology
+400,2017 Spring,4,Physical Education,12,29,Clg of Letters & Science,integrative biology
+401,2017 Spring,4,Physical Education,12,30,Clg of Letters & Science,integrative biology
+402,2017 Spring,6,Physical Education,C129,1,Clg of Letters & Science,integrative biology
+403,2017 Spring,2,Physical Education,197,2,Clg of Letters & Science,integrative biology
+404,2017 Spring,3,Physics,8A,1,Clg of Letters & Science,integrative biology
+405,2017 Spring,5,Physics,8A,2,Clg of Letters & Science,integrative biology
+406,2017 Spring,27,Physics,8B,1,Clg of Letters & Science,integrative biology
+407,2017 Spring,20,Physics,8B,2,Clg of Letters & Science,integrative biology
+408,2017 Spring,2,Physics,98,1,Clg of Letters & Science,integrative biology
+409,2017 Spring,2,Plant & Microbial Biology,40,1,Clg of Natural Resources,integrative biology
+410,2017 Spring,3,Plant & Microbial Biology,122,1,Clg of Natural Resources,integrative biology
+411,2017 Spring,2,Plant & Microbial Biology,165,1,Clg of Natural Resources,integrative biology
+412,2017 Spring,1,Polish,25B,1,Clg of Letters & Science,integrative biology
+413,2017 Spring,1,Political Science,4,1,Clg of Letters & Science,integrative biology
+414,2017 Spring,5,Political Science,179,1,Clg of Letters & Science,integrative biology
+415,2017 Spring,1,Political Science,198,4,Clg of Letters & Science,integrative biology
+416,2017 Spring,2,Psychology,1,1,Clg of Letters & Science,integrative biology
+417,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,integrative biology
+418,2017 Spring,5,Psychology,2,1,Clg of Letters & Science,integrative biology
+419,2017 Spring,5,Psychology,110,1,Clg of Letters & Science,integrative biology
+420,2017 Spring,1,Psychology,114,1,Clg of Letters & Science,integrative biology
+421,2017 Spring,2,Psychology,C126,1,Clg of Letters & Science,integrative biology
+422,2017 Spring,4,Psychology,130,1,Clg of Letters & Science,integrative biology
+423,2017 Spring,9,Psychology,131,1,Clg of Letters & Science,integrative biology
+424,2017 Spring,8,Psychology,133,1,Clg of Letters & Science,integrative biology
+425,2017 Spring,2,Psychology,C143,1,Clg of Letters & Science,integrative biology
+426,2017 Spring,3,Psychology,150,1,Clg of Letters & Science,integrative biology
+427,2017 Spring,4,Psychology,156,1,Clg of Letters & Science,integrative biology
+428,2017 Spring,2,Psychology,166AC,1,Clg of Letters & Science,integrative biology
+429,2017 Spring,1,Psychology,169,1,Clg of Letters & Science,integrative biology
+430,2017 Spring,2,Psychology,198,2,Clg of Letters & Science,integrative biology
+431,2017 Spring,1,Psychology,198,7,Clg of Letters & Science,integrative biology
+432,2017 Spring,1,Psychology,198,10,Clg of Letters & Science,integrative biology
+433,2017 Spring,3,Psychology,198,11,Clg of Letters & Science,integrative biology
+434,2017 Spring,1,Public Health,15,1,School of Public Health,integrative biology
+435,2017 Spring,1,Public Health,104B,1,School of Public Health,integrative biology
+436,2017 Spring,2,Public Health,116,1,School of Public Health,integrative biology
+437,2017 Spring,3,Public Health,126,1,School of Public Health,integrative biology
+438,2017 Spring,21,Public Health,142,1,School of Public Health,integrative biology
+439,2017 Spring,3,Public Health,150A,1,School of Public Health,integrative biology
+440,2017 Spring,6,Public Health,150D,1,School of Public Health,integrative biology
+441,2017 Spring,7,Public Health,150E,1,School of Public Health,integrative biology
+442,2017 Spring,1,Public Health,C155,1,School of Public Health,integrative biology
+443,2017 Spring,2,Public Health,170C,1,School of Public Health,integrative biology
+444,2017 Spring,4,Public Health,196,5,School of Public Health,integrative biology
+445,2017 Spring,3,Public Health,196,6,School of Public Health,integrative biology
+446,2017 Spring,2,Public Health,196,7,School of Public Health,integrative biology
+447,2017 Spring,1,Public Health,196,8,School of Public Health,integrative biology
+448,2017 Spring,1,Public Health,198,2,School of Public Health,integrative biology
+449,2017 Spring,1,Public Health,198,3,School of Public Health,integrative biology
+450,2017 Spring,1,Public Health,198,5,School of Public Health,integrative biology
+451,2017 Spring,2,Public Health,198,7,School of Public Health,integrative biology
+452,2017 Spring,1,Public Health,198,9,School of Public Health,integrative biology
+453,2017 Spring,1,Public Health,198,11,School of Public Health,integrative biology
+454,2017 Spring,2,Public Health,198,17,School of Public Health,integrative biology
+455,2017 Spring,1,Public Health,198,51,School of Public Health,integrative biology
+456,2017 Spring,4,Public Policy,C103,1,Goldman School Public Policy,integrative biology
+457,2017 Spring,2,Punjabi,100B,1,Clg of Letters & Science,integrative biology
+458,2017 Spring,1,Rhetoric,103B,1,Clg of Letters & Science,integrative biology
+459,2017 Spring,1,Rhetoric,108,1,Clg of Letters & Science,integrative biology
+460,2017 Spring,1,Rhetoric,151,1,Clg of Letters & Science,integrative biology
+461,2017 Spring,1,Rhetoric,189,1,Clg of Letters & Science,integrative biology
+462,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,integrative biology
+463,2017 Spring,5,Slavic Languages & Lit,50,1,Clg of Letters & Science,integrative biology
+464,2017 Spring,1,Social Welfare,112,1,School of Social Welfare,integrative biology
+465,2017 Spring,1,Social Welfare,185AC,1,School of Social Welfare,integrative biology
+466,2017 Spring,1,Social Welfare,198,2,School of Social Welfare,integrative biology
+467,2017 Spring,3,Sociology,1,1,Clg of Letters & Science,integrative biology
+468,2017 Spring,4,Sociology,3AC,1,Clg of Letters & Science,integrative biology
+469,2017 Spring,1,Sociology,102,1,Clg of Letters & Science,integrative biology
+470,2017 Spring,1,Sociology,110,1,Clg of Letters & Science,integrative biology
+471,2017 Spring,3,Sociology,111AC,1,Clg of Letters & Science,integrative biology
+472,2017 Spring,1,Sociology,112,1,Clg of Letters & Science,integrative biology
+473,2017 Spring,2,Sociology,C115,1,Clg of Letters & Science,integrative biology
+474,2017 Spring,3,Sociology,117,1,Clg of Letters & Science,integrative biology
+475,2017 Spring,2,Sociology,C167,1,Clg of Letters & Science,integrative biology
+476,2017 Spring,1,Sociology,198,4,Clg of Letters & Science,integrative biology
+477,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,integrative biology
+478,2017 Spring,1,Sociology,198BC,2,Clg of Letters & Science,integrative biology
+479,2017 Spring,2,South & SE Asian Studies,120,1,Clg of Letters & Science,integrative biology
+480,2017 Spring,1,South & SE Asian Studies,C145,1,Clg of Letters & Science,integrative biology
+481,2017 Spring,1,South & SE Asian Studies,150,1,Clg of Letters & Science,integrative biology
+482,2017 Spring,1,South Asian,1B,1,Clg of Letters & Science,integrative biology
+483,2017 Spring,3,South Asian,142,1,Clg of Letters & Science,integrative biology
+484,2017 Spring,1,Southeast Asian,10B,1,Clg of Letters & Science,integrative biology
+485,2017 Spring,1,Spanish,1,2,Clg of Letters & Science,integrative biology
+486,2017 Spring,1,Spanish,1,6,Clg of Letters & Science,integrative biology
+487,2017 Spring,1,Spanish,2,1,Clg of Letters & Science,integrative biology
+488,2017 Spring,2,Spanish,2,3,Clg of Letters & Science,integrative biology
+489,2017 Spring,1,Spanish,2,5,Clg of Letters & Science,integrative biology
+490,2017 Spring,1,Spanish,3,3,Clg of Letters & Science,integrative biology
+491,2017 Spring,1,Spanish,25,2,Clg of Letters & Science,integrative biology
+492,2017 Spring,1,Spanish,100,1,Clg of Letters & Science,integrative biology
+493,2017 Spring,1,Spanish,135,3,Clg of Letters & Science,integrative biology
+494,2017 Spring,1,Spanish,162,1,Clg of Letters & Science,integrative biology
+495,2017 Spring,3,Spanish,179,1,Clg of Letters & Science,integrative biology
+496,2017 Spring,1,Spanish,198,1,Clg of Letters & Science,integrative biology
+497,2017 Spring,5,Statistics,2,1,Clg of Letters & Science,integrative biology
+498,2017 Spring,1,Statistics,28,1,Clg of Letters & Science,integrative biology
+499,2017 Spring,6,Statistics,131A,1,Clg of Letters & Science,integrative biology
+500,2017 Spring,1,Statistics,133,1,Clg of Letters & Science,integrative biology
+501,2017 Spring,1,Statistics,133,2,Clg of Letters & Science,integrative biology
+502,2017 Spring,1,Statistics,140,1,Clg of Letters & Science,integrative biology
+503,2017 Spring,1,Theater Dance & Perf Stds,10,3,Clg of Letters & Science,integrative biology
+504,2017 Spring,1,Theater Dance & Perf Stds,125,2,Clg of Letters & Science,integrative biology
+505,2017 Spring,1,Theater Dance & Perf Stds,148,1,Clg of Letters & Science,integrative biology
+506,2017 Spring,1,Theater Dance & Perf Stds,180,1,Clg of Letters & Science,integrative biology
+507,2017 Spring,2,Tibetan,115,1,Clg of Letters & Science,integrative biology
+508,2017 Spring,1,UGIS-UG Interdisc Studies,82,1,Clg of Letters & Science,integrative biology
+509,2017 Spring,1,UGIS-UG Interdisc Studies,82,3,Clg of Letters & Science,integrative biology
+510,2017 Spring,2,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,integrative biology
+511,2017 Spring,1,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,integrative biology
+512,2017 Spring,1,UGIS-UG Interdisc Studies,120,1,Clg of Letters & Science,integrative biology
+513,2017 Spring,1,UGIS-UG Interdisc Studies,140,2,Clg of Letters & Science,integrative biology
+514,2017 Spring,1,UGIS-UG Interdisc Studies,187,1,Clg of Letters & Science,integrative biology
+515,2017 Spring,1,UGIS-UG Interdisc Studies,198,3,Clg of Letters & Science,integrative biology
+516,2017 Spring,1,Vietnamese,1B,1,Clg of Letters & Science,integrative biology
+517,2017 Spring,1,Vietnamese,100B,1,Clg of Letters & Science,integrative biology
+518,2017 Spring,1,Visual Studies,185X,1,Clg of Environmental Design,integrative biology
+519,2017 Spring,1,Visual Studies,198,1,Clg of Environmental Design,integrative biology
+520,2017 Spring,1,Yiddish,102,1,Clg of Letters & Science,integrative biology

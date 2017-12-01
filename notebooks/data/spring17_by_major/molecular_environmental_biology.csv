@@ -1,0 +1,488 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,98BC,1,Clg of Letters & Science,molecular environmental biology
+1,2017 Spring,1,African American Studies,131,1,Clg of Letters & Science,molecular environmental biology
+2,2017 Spring,1,African American Studies,197,3,Clg of Letters & Science,molecular environmental biology
+3,2017 Spring,1,African American Studies,198,2,Clg of Letters & Science,molecular environmental biology
+4,2017 Spring,3,Anthropology,1,1,Clg of Letters & Science,molecular environmental biology
+5,2017 Spring,1,Anthropology,2AC,1,Clg of Letters & Science,molecular environmental biology
+6,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,molecular environmental biology
+7,2017 Spring,1,Anthropology,128,1,Clg of Letters & Science,molecular environmental biology
+8,2017 Spring,2,Anthropology,137,1,Clg of Letters & Science,molecular environmental biology
+9,2017 Spring,1,Anthropology,189,1,Clg of Letters & Science,molecular environmental biology
+10,2017 Spring,1,Anthropology,196,1,Clg of Letters & Science,molecular environmental biology
+11,2017 Spring,1,Anthropology,198,20,Clg of Letters & Science,molecular environmental biology
+12,2017 Spring,1,Arabic,107,1,Clg of Letters & Science,molecular environmental biology
+13,2017 Spring,1,Art Practice,8,1,Clg of Letters & Science,molecular environmental biology
+14,2017 Spring,1,Art Practice,13,2,Clg of Letters & Science,molecular environmental biology
+15,2017 Spring,1,Art Practice,15,1,Clg of Letters & Science,molecular environmental biology
+16,2017 Spring,1,Art Practice,123,1,Clg of Letters & Science,molecular environmental biology
+17,2017 Spring,1,Asian American Studies,R2A,1,Clg of Letters & Science,molecular environmental biology
+18,2017 Spring,1,Asian American Studies,R2B,1,Clg of Letters & Science,molecular environmental biology
+19,2017 Spring,1,Asian American Studies,176,1,Clg of Letters & Science,molecular environmental biology
+20,2017 Spring,1,Asian American Studies,197,1,Clg of Letters & Science,molecular environmental biology
+21,2017 Spring,1,Asian American Studies,198,1,Clg of Letters & Science,molecular environmental biology
+22,2017 Spring,1,Astronomy,98,2,Clg of Letters & Science,molecular environmental biology
+23,2017 Spring,1,Bioengineering,25,1,Clg of Engineering,molecular environmental biology
+24,2017 Spring,20,Biology,1A,1,Clg of Letters & Science,molecular environmental biology
+25,2017 Spring,12,Biology,1A,2,Clg of Letters & Science,molecular environmental biology
+26,2017 Spring,28,Biology,1AL,1,Clg of Letters & Science,molecular environmental biology
+27,2017 Spring,5,Biology,1AL,2,Clg of Letters & Science,molecular environmental biology
+28,2017 Spring,15,Biology,1B,1,Clg of Letters & Science,molecular environmental biology
+29,2017 Spring,9,Biology,1B,2,Clg of Letters & Science,molecular environmental biology
+30,2017 Spring,2,Biology,1B,3,Clg of Letters & Science,molecular environmental biology
+31,2017 Spring,1,Business Admin-Undergrad,96,1,Haas School of Business,molecular environmental biology
+32,2017 Spring,1,Business Admin-Undergrad,107,1,Haas School of Business,molecular environmental biology
+33,2017 Spring,2,Business Admin-Undergrad,170,1,Haas School of Business,molecular environmental biology
+34,2017 Spring,1,Business Admin-Undergrad,191P,1,Haas School of Business,molecular environmental biology
+35,2017 Spring,1,Business Admin-Undergrad,192N,1,Haas School of Business,molecular environmental biology
+36,2017 Spring,3,Business Admin-Undergrad,196,2,Haas School of Business,molecular environmental biology
+37,2017 Spring,1,Business Admin-Undergrad,198,8,Haas School of Business,molecular environmental biology
+38,2017 Spring,1,Celtic Studies,R1B,1,Clg of Letters & Science,molecular environmental biology
+39,2017 Spring,2,Chemical Engineering,198,3,Clg of Chemistry,molecular environmental biology
+40,2017 Spring,15,Chemistry,1A,1,Clg of Chemistry,molecular environmental biology
+41,2017 Spring,13,Chemistry,1A,2,Clg of Chemistry,molecular environmental biology
+42,2017 Spring,12,Chemistry,1AL,1,Clg of Chemistry,molecular environmental biology
+43,2017 Spring,15,Chemistry,1AL,2,Clg of Chemistry,molecular environmental biology
+44,2017 Spring,3,Chemistry,1B,1,Clg of Chemistry,molecular environmental biology
+45,2017 Spring,8,Chemistry,3A,1,Clg of Chemistry,molecular environmental biology
+46,2017 Spring,23,Chemistry,3A,2,Clg of Chemistry,molecular environmental biology
+47,2017 Spring,16,Chemistry,3AL,1,Clg of Chemistry,molecular environmental biology
+48,2017 Spring,10,Chemistry,3AL,2,Clg of Chemistry,molecular environmental biology
+49,2017 Spring,16,Chemistry,3B,1,Clg of Chemistry,molecular environmental biology
+50,2017 Spring,15,Chemistry,3B,2,Clg of Chemistry,molecular environmental biology
+51,2017 Spring,18,Chemistry,3BL,1,Clg of Chemistry,molecular environmental biology
+52,2017 Spring,9,Chemistry,3BL,2,Clg of Chemistry,molecular environmental biology
+53,2017 Spring,1,Chinese,1A,4,Clg of Letters & Science,molecular environmental biology
+54,2017 Spring,1,Chinese,10X,1,Clg of Letters & Science,molecular environmental biology
+55,2017 Spring,1,Chinese,10X,3,Clg of Letters & Science,molecular environmental biology
+56,2017 Spring,1,City & Regional Planning,118AC,1,Clg of Environmental Design,molecular environmental biology
+57,2017 Spring,1,Civil & Environmental Eng,11,1,Clg of Engineering,molecular environmental biology
+58,2017 Spring,2,Civil & Environmental Eng,107,1,Clg of Engineering,molecular environmental biology
+59,2017 Spring,1,Civil & Environmental Eng,198,2,Clg of Engineering,molecular environmental biology
+60,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,molecular environmental biology
+61,2017 Spring,1,Classics,17B,1,Clg of Letters & Science,molecular environmental biology
+62,2017 Spring,1,Classics,28,1,Clg of Letters & Science,molecular environmental biology
+63,2017 Spring,1,Cognitive Science,C126,1,Clg of Letters & Science,molecular environmental biology
+64,2017 Spring,1,College Writing Programs,R4B,2,Clg of Letters & Science,molecular environmental biology
+65,2017 Spring,1,College Writing Programs,10A,1,Clg of Letters & Science,molecular environmental biology
+66,2017 Spring,1,College Writing Programs,130,1,Clg of Letters & Science,molecular environmental biology
+67,2017 Spring,1,Comparative Literature,R1A,1,Clg of Letters & Science,molecular environmental biology
+68,2017 Spring,1,Comparative Literature,R1A,3,Clg of Letters & Science,molecular environmental biology
+69,2017 Spring,1,Comparative Literature,R1A,5,Clg of Letters & Science,molecular environmental biology
+70,2017 Spring,1,Comparative Literature,R1A,9,Clg of Letters & Science,molecular environmental biology
+71,2017 Spring,1,Comparative Literature,R1B,10,Clg of Letters & Science,molecular environmental biology
+72,2017 Spring,1,Comparative Literature,R1B,11,Clg of Letters & Science,molecular environmental biology
+73,2017 Spring,1,Comparative Literature,R1B,13,Clg of Letters & Science,molecular environmental biology
+74,2017 Spring,1,Comparative Literature,R1B,14,Clg of Letters & Science,molecular environmental biology
+75,2017 Spring,1,Comparative Literature,R1B,23,Clg of Letters & Science,molecular environmental biology
+76,2017 Spring,2,Comparative Literature,152,1,Clg of Letters & Science,molecular environmental biology
+77,2017 Spring,8,Computer Science,C8,1,Clg of Engineering,molecular environmental biology
+78,2017 Spring,3,Computer Science,61A,1,Clg of Engineering,molecular environmental biology
+79,2017 Spring,2,Computer Science,61B,1,Clg of Engineering,molecular environmental biology
+80,2017 Spring,1,Computer Science,C100,1,Clg of Engineering,molecular environmental biology
+81,2017 Spring,1,Computer Science,197,214,Clg of Engineering,molecular environmental biology
+82,2017 Spring,1,Design Innovation,198,2,Clg of Engineering,molecular environmental biology
+83,2017 Spring,1,Dutch,2,1,Clg of Letters & Science,molecular environmental biology
+84,2017 Spring,1,Earth & Planetary Science,C12,1,Clg of Letters & Science,molecular environmental biology
+85,2017 Spring,2,Earth & Planetary Science,50,1,Clg of Letters & Science,molecular environmental biology
+86,2017 Spring,2,Earth & Planetary Science,102,1,Clg of Letters & Science,molecular environmental biology
+87,2017 Spring,1,Earth & Planetary Science,103,1,Clg of Letters & Science,molecular environmental biology
+88,2017 Spring,1,Economics,1,1,Clg of Letters & Science,molecular environmental biology
+89,2017 Spring,1,Economics,2,1,Clg of Letters & Science,molecular environmental biology
+90,2017 Spring,1,Economics,C3,1,Clg of Letters & Science,molecular environmental biology
+91,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,molecular environmental biology
+92,2017 Spring,1,Economics,140,1,Clg of Letters & Science,molecular environmental biology
+93,2017 Spring,1,Education,98,5,Grad School of Education,molecular environmental biology
+94,2017 Spring,2,Education,98,14,Grad School of Education,molecular environmental biology
+95,2017 Spring,3,Education,130,1,Grad School of Education,molecular environmental biology
+96,2017 Spring,1,Education,131AC,1,Grad School of Education,molecular environmental biology
+97,2017 Spring,2,Education,183,1,Grad School of Education,molecular environmental biology
+98,2017 Spring,1,Education,197,10,Grad School of Education,molecular environmental biology
+99,2017 Spring,1,Education,198,24,Grad School of Education,molecular environmental biology
+100,2017 Spring,1,Education,198,41,Grad School of Education,molecular environmental biology
+101,2017 Spring,1,Electrical Engineering,16A,1,Clg of Engineering,molecular environmental biology
+102,2017 Spring,2,Energy and Resources,102,1,Clg of Natural Resources,molecular environmental biology
+103,2017 Spring,1,Energy and Resources,190,1,Clg of Natural Resources,molecular environmental biology
+104,2017 Spring,1,Engineering,25,1,Clg of Engineering,molecular environmental biology
+105,2017 Spring,1,Engineering,157AC,1,Clg of Engineering,molecular environmental biology
+106,2017 Spring,1,Engineering,198,1,Clg of Engineering,molecular environmental biology
+107,2017 Spring,1,English,R1A,1,Clg of Letters & Science,molecular environmental biology
+108,2017 Spring,1,English,R1A,2,Clg of Letters & Science,molecular environmental biology
+109,2017 Spring,1,English,R1A,4,Clg of Letters & Science,molecular environmental biology
+110,2017 Spring,1,English,R1A,7,Clg of Letters & Science,molecular environmental biology
+111,2017 Spring,1,English,R1B,16,Clg of Letters & Science,molecular environmental biology
+112,2017 Spring,1,English,R1B,17,Clg of Letters & Science,molecular environmental biology
+113,2017 Spring,1,English,80K,1,Clg of Letters & Science,molecular environmental biology
+114,2017 Spring,1,English,198,4,Clg of Letters & Science,molecular environmental biology
+115,2017 Spring,12,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,molecular environmental biology
+116,2017 Spring,9,"Env Sci, Policy, & Mgmt",C11,1,Clg of Natural Resources,molecular environmental biology
+117,2017 Spring,14,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,molecular environmental biology
+118,2017 Spring,1,"Env Sci, Policy, & Mgmt",39,1,Clg of Natural Resources,molecular environmental biology
+119,2017 Spring,1,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,molecular environmental biology
+120,2017 Spring,25,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,molecular environmental biology
+121,2017 Spring,4,"Env Sci, Policy, & Mgmt",72,1,Clg of Natural Resources,molecular environmental biology
+122,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,7,Clg of Natural Resources,molecular environmental biology
+123,2017 Spring,1,"Env Sci, Policy, & Mgmt",98BC,4,Clg of Natural Resources,molecular environmental biology
+124,2017 Spring,2,"Env Sci, Policy, & Mgmt",98BC,5,Clg of Natural Resources,molecular environmental biology
+125,2017 Spring,2,"Env Sci, Policy, & Mgmt",98BC,6,Clg of Natural Resources,molecular environmental biology
+126,2017 Spring,1,"Env Sci, Policy, & Mgmt",102C,1,Clg of Natural Resources,molecular environmental biology
+127,2017 Spring,1,"Env Sci, Policy, & Mgmt",102D,1,Clg of Natural Resources,molecular environmental biology
+128,2017 Spring,11,"Env Sci, Policy, & Mgmt",112,1,Clg of Natural Resources,molecular environmental biology
+129,2017 Spring,3,"Env Sci, Policy, & Mgmt",112L,1,Clg of Natural Resources,molecular environmental biology
+130,2017 Spring,6,"Env Sci, Policy, & Mgmt",113,1,Clg of Natural Resources,molecular environmental biology
+131,2017 Spring,40,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,molecular environmental biology
+132,2017 Spring,15,"Env Sci, Policy, & Mgmt",C115C,1,Clg of Natural Resources,molecular environmental biology
+133,2017 Spring,1,"Env Sci, Policy, & Mgmt",C128,1,Clg of Natural Resources,molecular environmental biology
+134,2017 Spring,8,"Env Sci, Policy, & Mgmt",131,1,Clg of Natural Resources,molecular environmental biology
+135,2017 Spring,16,"Env Sci, Policy, & Mgmt",132,1,Clg of Natural Resources,molecular environmental biology
+136,2017 Spring,3,"Env Sci, Policy, & Mgmt",134,1,Clg of Natural Resources,molecular environmental biology
+137,2017 Spring,4,"Env Sci, Policy, & Mgmt",C138,1,Clg of Natural Resources,molecular environmental biology
+138,2017 Spring,15,"Env Sci, Policy, & Mgmt",144,1,Clg of Natural Resources,molecular environmental biology
+139,2017 Spring,3,"Env Sci, Policy, & Mgmt",147,1,Clg of Natural Resources,molecular environmental biology
+140,2017 Spring,4,"Env Sci, Policy, & Mgmt",C148,1,Clg of Natural Resources,molecular environmental biology
+141,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,1,Clg of Natural Resources,molecular environmental biology
+142,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,2,Clg of Natural Resources,molecular environmental biology
+143,2017 Spring,14,"Env Sci, Policy, & Mgmt",152,1,Clg of Natural Resources,molecular environmental biology
+144,2017 Spring,7,"Env Sci, Policy, & Mgmt",158,1,Clg of Natural Resources,molecular environmental biology
+145,2017 Spring,6,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,molecular environmental biology
+146,2017 Spring,1,"Env Sci, Policy, & Mgmt",165,1,Clg of Natural Resources,molecular environmental biology
+147,2017 Spring,32,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,molecular environmental biology
+148,2017 Spring,2,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,molecular environmental biology
+149,2017 Spring,3,"Env Sci, Policy, & Mgmt",174,1,Clg of Natural Resources,molecular environmental biology
+150,2017 Spring,1,"Env Sci, Policy, & Mgmt",C177,1,Clg of Natural Resources,molecular environmental biology
+151,2017 Spring,4,"Env Sci, Policy, & Mgmt",181A,1,Clg of Natural Resources,molecular environmental biology
+152,2017 Spring,2,"Env Sci, Policy, & Mgmt",186,1,Clg of Natural Resources,molecular environmental biology
+153,2017 Spring,15,"Env Sci, Policy, & Mgmt",C192,1,Clg of Natural Resources,molecular environmental biology
+154,2017 Spring,1,"Env Sci, Policy, & Mgmt",197,15,Clg of Natural Resources,molecular environmental biology
+155,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,3,Clg of Natural Resources,molecular environmental biology
+156,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,5,Clg of Natural Resources,molecular environmental biology
+157,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,6,Clg of Natural Resources,molecular environmental biology
+158,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,7,Clg of Natural Resources,molecular environmental biology
+159,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,9,Clg of Natural Resources,molecular environmental biology
+160,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,12,Clg of Natural Resources,molecular environmental biology
+161,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,25,Clg of Natural Resources,molecular environmental biology
+162,2017 Spring,4,"Env Sci, Policy, & Mgmt",198BC,1,Clg of Natural Resources,molecular environmental biology
+163,2017 Spring,3,"Env Sci, Policy, & Mgmt",198BC,2,Clg of Natural Resources,molecular environmental biology
+164,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,4,Clg of Natural Resources,molecular environmental biology
+165,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,5,Clg of Natural Resources,molecular environmental biology
+166,2017 Spring,4,Environ Econ & Policy,C1,1,Clg of Natural Resources,molecular environmental biology
+167,2017 Spring,1,Environ Econ & Policy,C101,1,Clg of Natural Resources,molecular environmental biology
+168,2017 Spring,1,Environmental Design,R3B,1,Clg of Environmental Design,molecular environmental biology
+169,2017 Spring,1,Ethnic Studies,197,9,Clg of Letters & Science,molecular environmental biology
+170,2017 Spring,1,Ethnic Studies,197,11,Clg of Letters & Science,molecular environmental biology
+171,2017 Spring,1,Ethnic Studies,198,6,Clg of Letters & Science,molecular environmental biology
+172,2017 Spring,1,Ethnic Studies,198,7,Clg of Letters & Science,molecular environmental biology
+173,2017 Spring,1,Ethnic Studies,198,14,Clg of Letters & Science,molecular environmental biology
+174,2017 Spring,1,Filipino,1B,1,Clg of Letters & Science,molecular environmental biology
+175,2017 Spring,1,Filipino,1B,2,Clg of Letters & Science,molecular environmental biology
+176,2017 Spring,1,Film,25B,1,Clg of Letters & Science,molecular environmental biology
+177,2017 Spring,1,Film,108,3,Clg of Letters & Science,molecular environmental biology
+178,2017 Spring,1,Film,160,2,Clg of Letters & Science,molecular environmental biology
+179,2017 Spring,1,French,1,2,Clg of Letters & Science,molecular environmental biology
+180,2017 Spring,1,French,1,3,Clg of Letters & Science,molecular environmental biology
+181,2017 Spring,1,French,1,9,Clg of Letters & Science,molecular environmental biology
+182,2017 Spring,1,French,R1B,3,Clg of Letters & Science,molecular environmental biology
+183,2017 Spring,1,French,3,3,Clg of Letters & Science,molecular environmental biology
+184,2017 Spring,1,Gender & Womens Studies,10,1,Clg of Letters & Science,molecular environmental biology
+185,2017 Spring,2,Gender & Womens Studies,100AC,1,Clg of Letters & Science,molecular environmental biology
+186,2017 Spring,1,Gender & Womens Studies,198,1,Clg of Letters & Science,molecular environmental biology
+187,2017 Spring,2,Gender & Womens Studies,198,2,Clg of Letters & Science,molecular environmental biology
+188,2017 Spring,2,Geography,20,1,Clg of Letters & Science,molecular environmental biology
+189,2017 Spring,1,Geography,70AC,1,Clg of Letters & Science,molecular environmental biology
+190,2017 Spring,5,Geography,130,1,Clg of Letters & Science,molecular environmental biology
+191,2017 Spring,1,Geography,140A,1,Clg of Letters & Science,molecular environmental biology
+192,2017 Spring,1,Geography,143,1,Clg of Letters & Science,molecular environmental biology
+193,2017 Spring,1,Geography,183,1,Clg of Letters & Science,molecular environmental biology
+194,2017 Spring,1,Geography,187,1,Clg of Letters & Science,molecular environmental biology
+195,2017 Spring,1,German,1,3,Clg of Letters & Science,molecular environmental biology
+196,2017 Spring,1,German,2,1,Clg of Letters & Science,molecular environmental biology
+197,2017 Spring,1,German,R5B,5,Clg of Letters & Science,molecular environmental biology
+198,2017 Spring,1,Global Poverty & Practice,105,2,Clg of Letters & Science,molecular environmental biology
+199,2017 Spring,1,Global Studies,100S,1,Clg of Letters & Science,molecular environmental biology
+200,2017 Spring,1,Health & Medical Sciences,C133,1,School of Public Health,molecular environmental biology
+201,2017 Spring,1,Hindi-Urdu,2B,1,Clg of Letters & Science,molecular environmental biology
+202,2017 Spring,1,History,2,1,Clg of Letters & Science,molecular environmental biology
+203,2017 Spring,1,History,4B,1,Clg of Letters & Science,molecular environmental biology
+204,2017 Spring,1,History,7B,1,Clg of Letters & Science,molecular environmental biology
+205,2017 Spring,1,History,98BC,3,Clg of Letters & Science,molecular environmental biology
+206,2017 Spring,1,History,100F,1,Clg of Letters & Science,molecular environmental biology
+207,2017 Spring,1,History,162B,1,Clg of Letters & Science,molecular environmental biology
+208,2017 Spring,1,History,178,1,Clg of Letters & Science,molecular environmental biology
+209,2017 Spring,2,History,180T,1,Clg of Letters & Science,molecular environmental biology
+210,2017 Spring,3,History,C191,1,Clg of Letters & Science,molecular environmental biology
+211,2017 Spring,1,History of Art,R1B,4,Clg of Letters & Science,molecular environmental biology
+212,2017 Spring,1,History of Art,R1B,5,Clg of Letters & Science,molecular environmental biology
+213,2017 Spring,2,History of Art,R1B,6,Clg of Letters & Science,molecular environmental biology
+214,2017 Spring,2,History of Art,11,1,Clg of Letters & Science,molecular environmental biology
+215,2017 Spring,1,History of Art,35,1,Clg of Letters & Science,molecular environmental biology
+216,2017 Spring,4,History of Art,198,1,Clg of Letters & Science,molecular environmental biology
+217,2017 Spring,1,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,molecular environmental biology
+218,2017 Spring,1,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,molecular environmental biology
+219,2017 Spring,1,Integrative Biology,24,2,Clg of Letters & Science,molecular environmental biology
+220,2017 Spring,1,Integrative Biology,24,3,Clg of Letters & Science,molecular environmental biology
+221,2017 Spring,2,Integrative Biology,31,1,Clg of Letters & Science,molecular environmental biology
+222,2017 Spring,1,Integrative Biology,C32,1,Clg of Letters & Science,molecular environmental biology
+223,2017 Spring,1,Integrative Biology,95,1,Clg of Letters & Science,molecular environmental biology
+224,2017 Spring,13,Integrative Biology,104LF,1,Clg of Letters & Science,molecular environmental biology
+225,2017 Spring,2,Integrative Biology,114,1,Clg of Letters & Science,molecular environmental biology
+226,2017 Spring,1,Integrative Biology,131L,4,Clg of Letters & Science,molecular environmental biology
+227,2017 Spring,11,Integrative Biology,132,1,Clg of Letters & Science,molecular environmental biology
+228,2017 Spring,1,Integrative Biology,132L,1,Clg of Letters & Science,molecular environmental biology
+229,2017 Spring,1,Integrative Biology,132L,2,Clg of Letters & Science,molecular environmental biology
+230,2017 Spring,1,Integrative Biology,132L,3,Clg of Letters & Science,molecular environmental biology
+231,2017 Spring,1,Integrative Biology,132L,5,Clg of Letters & Science,molecular environmental biology
+232,2017 Spring,1,Integrative Biology,132L,6,Clg of Letters & Science,molecular environmental biology
+233,2017 Spring,1,Integrative Biology,132L,7,Clg of Letters & Science,molecular environmental biology
+234,2017 Spring,1,Integrative Biology,138,1,Clg of Letters & Science,molecular environmental biology
+235,2017 Spring,14,Integrative Biology,140,1,Clg of Letters & Science,molecular environmental biology
+236,2017 Spring,12,Integrative Biology,C143B,1,Clg of Letters & Science,molecular environmental biology
+237,2017 Spring,4,Integrative Biology,146LF,1,Clg of Letters & Science,molecular environmental biology
+238,2017 Spring,2,Integrative Biology,150,1,Clg of Letters & Science,molecular environmental biology
+239,2017 Spring,3,Integrative Biology,161,1,Clg of Letters & Science,molecular environmental biology
+240,2017 Spring,1,Integrative Biology,168L,1,Clg of Letters & Science,molecular environmental biology
+241,2017 Spring,2,Integrative Biology,169,1,Clg of Letters & Science,molecular environmental biology
+242,2017 Spring,1,Integrative Biology,172,1,Clg of Letters & Science,molecular environmental biology
+243,2017 Spring,3,Integrative Biology,174LF,1,Clg of Letters & Science,molecular environmental biology
+244,2017 Spring,1,Integrative Biology,C176L,1,Clg of Letters & Science,molecular environmental biology
+245,2017 Spring,1,Integrative Biology,194,100,Clg of Letters & Science,molecular environmental biology
+246,2017 Spring,1,Integrative Biology,194,375,Clg of Letters & Science,molecular environmental biology
+247,2017 Spring,5,Integrative Biology,198,2,Clg of Letters & Science,molecular environmental biology
+248,2017 Spring,1,Integrative Biology,198,3,Clg of Letters & Science,molecular environmental biology
+249,2017 Spring,1,Integrative Biology,198,4,Clg of Letters & Science,molecular environmental biology
+250,2017 Spring,3,Integrative Biology,198,6,Clg of Letters & Science,molecular environmental biology
+251,2017 Spring,1,International & Area Stds,150,5,Clg of Letters & Science,molecular environmental biology
+252,2017 Spring,1,Italian Studies,R5B,2,Clg of Letters & Science,molecular environmental biology
+253,2017 Spring,2,Italian Studies,120,1,Clg of Letters & Science,molecular environmental biology
+254,2017 Spring,1,Japanese,1B,2,Clg of Letters & Science,molecular environmental biology
+255,2017 Spring,1,Japanese,1B,3,Clg of Letters & Science,molecular environmental biology
+256,2017 Spring,1,Japanese,7B,1,Clg of Letters & Science,molecular environmental biology
+257,2017 Spring,1,Japanese,100B,2,Clg of Letters & Science,molecular environmental biology
+258,2017 Spring,1,Korean,1B,1,Clg of Letters & Science,molecular environmental biology
+259,2017 Spring,1,Korean,1B,3,Clg of Letters & Science,molecular environmental biology
+260,2017 Spring,1,Korean,102,1,Clg of Letters & Science,molecular environmental biology
+261,2017 Spring,1,Korean,112,1,Clg of Letters & Science,molecular environmental biology
+262,2017 Spring,1,LGBT Studies,146,1,Clg of Letters & Science,molecular environmental biology
+263,2017 Spring,1,Landscape Arch & Env Plan,C177,1,Clg of Environmental Design,molecular environmental biology
+264,2017 Spring,1,Legal Studies,39D,2,School of Law,molecular environmental biology
+265,2017 Spring,1,Legal Studies,185AC,1,School of Law,molecular environmental biology
+266,2017 Spring,1,Letters & Science,C30Y,1,Clg of Letters & Science,molecular environmental biology
+267,2017 Spring,1,Letters & Science,C30Z,1,Clg of Letters & Science,molecular environmental biology
+268,2017 Spring,1,Letters & Science,70C,1,Clg of Letters & Science,molecular environmental biology
+269,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,molecular environmental biology
+270,2017 Spring,2,Letters & Science,160B,1,Clg of Letters & Science,molecular environmental biology
+271,2017 Spring,4,Letters & Science,C180U,1,Clg of Letters & Science,molecular environmental biology
+272,2017 Spring,1,Malay/Indonesian,100B,1,Clg of Letters & Science,molecular environmental biology
+273,2017 Spring,4,Mathematics,1A,1,Clg of Letters & Science,molecular environmental biology
+274,2017 Spring,1,Mathematics,1B,1,Clg of Letters & Science,molecular environmental biology
+275,2017 Spring,2,Mathematics,1B,2,Clg of Letters & Science,molecular environmental biology
+276,2017 Spring,2,Mathematics,10B,1,Clg of Letters & Science,molecular environmental biology
+277,2017 Spring,5,Mathematics,10B,2,Clg of Letters & Science,molecular environmental biology
+278,2017 Spring,5,Mathematics,16A,1,Clg of Letters & Science,molecular environmental biology
+279,2017 Spring,15,Mathematics,16B,1,Clg of Letters & Science,molecular environmental biology
+280,2017 Spring,18,Mathematics,16B,2,Clg of Letters & Science,molecular environmental biology
+281,2017 Spring,1,Mathematics,53,2,Clg of Letters & Science,molecular environmental biology
+282,2017 Spring,2,Mathematics,54,1,Clg of Letters & Science,molecular environmental biology
+283,2017 Spring,2,Mathematics,54,2,Clg of Letters & Science,molecular environmental biology
+284,2017 Spring,1,Mathematics,98,13,Clg of Letters & Science,molecular environmental biology
+285,2017 Spring,1,Mathematics,98,15,Clg of Letters & Science,molecular environmental biology
+286,2017 Spring,1,Mathematics,98,18,Clg of Letters & Science,molecular environmental biology
+287,2017 Spring,1,Mathematics,98,21,Clg of Letters & Science,molecular environmental biology
+288,2017 Spring,1,Mathematics,98,22,Clg of Letters & Science,molecular environmental biology
+289,2017 Spring,1,Mathematics,98,26,Clg of Letters & Science,molecular environmental biology
+290,2017 Spring,3,Mathematics,98,27,Clg of Letters & Science,molecular environmental biology
+291,2017 Spring,3,Mathematics,98,28,Clg of Letters & Science,molecular environmental biology
+292,2017 Spring,4,Mathematics,98,29,Clg of Letters & Science,molecular environmental biology
+293,2017 Spring,1,Mathematics,98,31,Clg of Letters & Science,molecular environmental biology
+294,2017 Spring,1,Mathematics,198,2,Clg of Letters & Science,molecular environmental biology
+295,2017 Spring,1,Mathematics,198BC,1,Clg of Letters & Science,molecular environmental biology
+296,2017 Spring,2,Mechanical Engineering,198,50,Clg of Engineering,molecular environmental biology
+297,2017 Spring,1,Media Studies,101,1,Clg of Letters & Science,molecular environmental biology
+298,2017 Spring,3,Molecular & Cell Biology,15,1,Clg of Letters & Science,molecular environmental biology
+299,2017 Spring,1,Molecular & Cell Biology,C44,1,Clg of Letters & Science,molecular environmental biology
+300,2017 Spring,1,Molecular & Cell Biology,50,1,Clg of Letters & Science,molecular environmental biology
+301,2017 Spring,1,Molecular & Cell Biology,C61,1,Clg of Letters & Science,molecular environmental biology
+302,2017 Spring,27,Molecular & Cell Biology,102,1,Clg of Letters & Science,molecular environmental biology
+303,2017 Spring,6,Molecular & Cell Biology,104,1,Clg of Letters & Science,molecular environmental biology
+304,2017 Spring,1,Molecular & Cell Biology,C110L,1,Clg of Letters & Science,molecular environmental biology
+305,2017 Spring,4,Molecular & Cell Biology,C112L,1,Clg of Letters & Science,molecular environmental biology
+306,2017 Spring,1,Molecular & Cell Biology,118,1,Clg of Letters & Science,molecular environmental biology
+307,2017 Spring,3,Molecular & Cell Biology,130,1,Clg of Letters & Science,molecular environmental biology
+308,2017 Spring,1,Molecular & Cell Biology,137L,1,Clg of Letters & Science,molecular environmental biology
+309,2017 Spring,5,Molecular & Cell Biology,140,1,Clg of Letters & Science,molecular environmental biology
+310,2017 Spring,1,Molecular & Cell Biology,140L,1,Clg of Letters & Science,molecular environmental biology
+311,2017 Spring,10,Molecular & Cell Biology,141,1,Clg of Letters & Science,molecular environmental biology
+312,2017 Spring,1,Molecular & Cell Biology,150,1,Clg of Letters & Science,molecular environmental biology
+313,2017 Spring,2,Molecular & Cell Biology,165,1,Clg of Letters & Science,molecular environmental biology
+314,2017 Spring,3,Molecular & Cell Biology,198,3,Clg of Letters & Science,molecular environmental biology
+315,2017 Spring,1,Molecular & Cell Biology,198,4,Clg of Letters & Science,molecular environmental biology
+316,2017 Spring,1,Molecular & Cell Biology,198,6,Clg of Letters & Science,molecular environmental biology
+317,2017 Spring,1,Molecular & Cell Biology,198,8,Clg of Letters & Science,molecular environmental biology
+318,2017 Spring,1,Music,20A,1,Clg of Letters & Science,molecular environmental biology
+319,2017 Spring,1,Music,20A,2,Clg of Letters & Science,molecular environmental biology
+320,2017 Spring,2,Music,20B,1,Clg of Letters & Science,molecular environmental biology
+321,2017 Spring,2,Music,26AC,1,Clg of Letters & Science,molecular environmental biology
+322,2017 Spring,3,Music,29,1,Clg of Letters & Science,molecular environmental biology
+323,2017 Spring,1,Music,139,1,Clg of Letters & Science,molecular environmental biology
+324,2017 Spring,1,Music,141,1,Clg of Letters & Science,molecular environmental biology
+325,2017 Spring,1,Music,143,1,Clg of Letters & Science,molecular environmental biology
+326,2017 Spring,1,Music,145,1,Clg of Letters & Science,molecular environmental biology
+327,2017 Spring,1,Music,146B,1,Clg of Letters & Science,molecular environmental biology
+328,2017 Spring,2,Music,198,5,Clg of Letters & Science,molecular environmental biology
+329,2017 Spring,1,Music,198,8,Clg of Letters & Science,molecular environmental biology
+330,2017 Spring,1,Native American Studies,71,1,Clg of Letters & Science,molecular environmental biology
+331,2017 Spring,1,Native American Studies,120AC,1,Clg of Letters & Science,molecular environmental biology
+332,2017 Spring,2,Natural Resources,24,2,Clg of Natural Resources,molecular environmental biology
+333,2017 Spring,1,Naval Science,12B,1,Clg of Letters & Science,molecular environmental biology
+334,2017 Spring,1,Near Eastern Studies,24,1,Clg of Letters & Science,molecular environmental biology
+335,2017 Spring,1,Near Eastern Studies,109,1,Clg of Letters & Science,molecular environmental biology
+336,2017 Spring,2,Near Eastern Studies,165,1,Clg of Letters & Science,molecular environmental biology
+337,2017 Spring,1,New Media,190,4,Clg of Engineering,molecular environmental biology
+338,2017 Spring,2,Nuclear Engineering,24,2,Clg of Engineering,molecular environmental biology
+339,2017 Spring,1,Nuclear Engineering,198,1,Clg of Engineering,molecular environmental biology
+340,2017 Spring,11,Nutritional Science & Tox,10,1,Clg of Natural Resources,molecular environmental biology
+341,2017 Spring,6,Nutritional Science & Tox,11,1,Clg of Natural Resources,molecular environmental biology
+342,2017 Spring,1,Nutritional Science & Tox,20,1,Clg of Natural Resources,molecular environmental biology
+343,2017 Spring,4,Nutritional Science & Tox,104,1,Clg of Natural Resources,molecular environmental biology
+344,2017 Spring,1,Nutritional Science & Tox,C114,1,Clg of Natural Resources,molecular environmental biology
+345,2017 Spring,2,Nutritional Science & Tox,115,1,Clg of Natural Resources,molecular environmental biology
+346,2017 Spring,2,Nutritional Science & Tox,121,1,Clg of Natural Resources,molecular environmental biology
+347,2017 Spring,8,Nutritional Science & Tox,160,1,Clg of Natural Resources,molecular environmental biology
+348,2017 Spring,1,Nutritional Science & Tox,193,1,Clg of Natural Resources,molecular environmental biology
+349,2017 Spring,1,Nutritional Science & Tox,198,1,Clg of Natural Resources,molecular environmental biology
+350,2017 Spring,1,Peace & Conflict Studies,10,1,Clg of Letters & Science,molecular environmental biology
+351,2017 Spring,1,Peace & Conflict Studies,135,1,Clg of Letters & Science,molecular environmental biology
+352,2017 Spring,2,Persian,20B,1,Clg of Letters & Science,molecular environmental biology
+353,2017 Spring,1,Philosophy,2,1,Clg of Letters & Science,molecular environmental biology
+354,2017 Spring,2,Philosophy,3,1,Clg of Letters & Science,molecular environmental biology
+355,2017 Spring,1,Philosophy,198BC,1,Clg of Letters & Science,molecular environmental biology
+356,2017 Spring,1,Physical Education,1,7,Clg of Letters & Science,molecular environmental biology
+357,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,molecular environmental biology
+358,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,molecular environmental biology
+359,2017 Spring,1,Physical Education,1,13,Clg of Letters & Science,molecular environmental biology
+360,2017 Spring,1,Physical Education,1,15,Clg of Letters & Science,molecular environmental biology
+361,2017 Spring,1,Physical Education,1,17,Clg of Letters & Science,molecular environmental biology
+362,2017 Spring,1,Physical Education,1,22,Clg of Letters & Science,molecular environmental biology
+363,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,molecular environmental biology
+364,2017 Spring,1,Physical Education,1,26,Clg of Letters & Science,molecular environmental biology
+365,2017 Spring,1,Physical Education,1,27,Clg of Letters & Science,molecular environmental biology
+366,2017 Spring,2,Physical Education,1,28,Clg of Letters & Science,molecular environmental biology
+367,2017 Spring,1,Physical Education,1,35,Clg of Letters & Science,molecular environmental biology
+368,2017 Spring,1,Physical Education,2,1,Clg of Letters & Science,molecular environmental biology
+369,2017 Spring,2,Physical Education,2,10,Clg of Letters & Science,molecular environmental biology
+370,2017 Spring,1,Physical Education,2,11,Clg of Letters & Science,molecular environmental biology
+371,2017 Spring,1,Physical Education,2,14,Clg of Letters & Science,molecular environmental biology
+372,2017 Spring,1,Physical Education,3,3,Clg of Letters & Science,molecular environmental biology
+373,2017 Spring,1,Physical Education,3,9,Clg of Letters & Science,molecular environmental biology
+374,2017 Spring,1,Physical Education,11,5,Clg of Letters & Science,molecular environmental biology
+375,2017 Spring,1,Physical Education,11,6,Clg of Letters & Science,molecular environmental biology
+376,2017 Spring,1,Physical Education,11,25,Clg of Letters & Science,molecular environmental biology
+377,2017 Spring,1,Physical Education,11,26,Clg of Letters & Science,molecular environmental biology
+378,2017 Spring,1,Physical Education,12,3,Clg of Letters & Science,molecular environmental biology
+379,2017 Spring,1,Physical Education,12,4,Clg of Letters & Science,molecular environmental biology
+380,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,molecular environmental biology
+381,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,molecular environmental biology
+382,2017 Spring,1,Physics,7A,3,Clg of Letters & Science,molecular environmental biology
+383,2017 Spring,1,Physics,7B,2,Clg of Letters & Science,molecular environmental biology
+384,2017 Spring,10,Physics,8A,1,Clg of Letters & Science,molecular environmental biology
+385,2017 Spring,18,Physics,8A,2,Clg of Letters & Science,molecular environmental biology
+386,2017 Spring,5,Physics,8B,1,Clg of Letters & Science,molecular environmental biology
+387,2017 Spring,11,Physics,8B,2,Clg of Letters & Science,molecular environmental biology
+388,2017 Spring,1,Physics,98,1,Clg of Letters & Science,molecular environmental biology
+389,2017 Spring,4,Plant & Microbial Biology,40,1,Clg of Natural Resources,molecular environmental biology
+390,2017 Spring,3,Plant & Microbial Biology,101L,1,Clg of Natural Resources,molecular environmental biology
+391,2017 Spring,2,Plant & Microbial Biology,C103,1,Clg of Natural Resources,molecular environmental biology
+392,2017 Spring,1,Plant & Microbial Biology,C112L,1,Clg of Natural Resources,molecular environmental biology
+393,2017 Spring,1,Plant & Microbial Biology,C112L,2,Clg of Natural Resources,molecular environmental biology
+394,2017 Spring,1,Plant & Microbial Biology,122,1,Clg of Natural Resources,molecular environmental biology
+395,2017 Spring,8,Plant & Microbial Biology,160,1,Clg of Natural Resources,molecular environmental biology
+396,2017 Spring,1,Plant & Microbial Biology,165,1,Clg of Natural Resources,molecular environmental biology
+397,2017 Spring,1,Political Economy,100,1,Clg of Letters & Science,molecular environmental biology
+398,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,molecular environmental biology
+399,2017 Spring,1,Political Science,157A,1,Clg of Letters & Science,molecular environmental biology
+400,2017 Spring,2,Political Science,179,1,Clg of Letters & Science,molecular environmental biology
+401,2017 Spring,5,Psychology,1,1,Clg of Letters & Science,molecular environmental biology
+402,2017 Spring,5,Psychology,2,1,Clg of Letters & Science,molecular environmental biology
+403,2017 Spring,1,Psychology,C61,1,Clg of Letters & Science,molecular environmental biology
+404,2017 Spring,1,Psychology,110,1,Clg of Letters & Science,molecular environmental biology
+405,2017 Spring,3,Psychology,C116,1,Clg of Letters & Science,molecular environmental biology
+406,2017 Spring,2,Psychology,130,1,Clg of Letters & Science,molecular environmental biology
+407,2017 Spring,2,Psychology,133,1,Clg of Letters & Science,molecular environmental biology
+408,2017 Spring,1,Psychology,169,1,Clg of Letters & Science,molecular environmental biology
+409,2017 Spring,3,Psychology,198,11,Clg of Letters & Science,molecular environmental biology
+410,2017 Spring,1,Public Health,15,1,School of Public Health,molecular environmental biology
+411,2017 Spring,1,Public Health,104B,1,School of Public Health,molecular environmental biology
+412,2017 Spring,4,Public Health,116,1,School of Public Health,molecular environmental biology
+413,2017 Spring,1,Public Health,C117,1,School of Public Health,molecular environmental biology
+414,2017 Spring,4,Public Health,142,1,School of Public Health,molecular environmental biology
+415,2017 Spring,1,Public Health,150A,1,School of Public Health,molecular environmental biology
+416,2017 Spring,2,Public Health,150D,1,School of Public Health,molecular environmental biology
+417,2017 Spring,1,Public Health,150E,1,School of Public Health,molecular environmental biology
+418,2017 Spring,1,Public Health,C160,1,School of Public Health,molecular environmental biology
+419,2017 Spring,1,Public Health,170C,1,School of Public Health,molecular environmental biology
+420,2017 Spring,6,Public Health,196,2,School of Public Health,molecular environmental biology
+421,2017 Spring,1,Public Health,196,6,School of Public Health,molecular environmental biology
+422,2017 Spring,2,Public Health,196,7,School of Public Health,molecular environmental biology
+423,2017 Spring,2,Public Health,196,8,School of Public Health,molecular environmental biology
+424,2017 Spring,3,Public Health,198,7,School of Public Health,molecular environmental biology
+425,2017 Spring,1,Public Health,198,8,School of Public Health,molecular environmental biology
+426,2017 Spring,1,Public Health,198,11,School of Public Health,molecular environmental biology
+427,2017 Spring,2,Public Health,198,17,School of Public Health,molecular environmental biology
+428,2017 Spring,1,Public Health,198,52,School of Public Health,molecular environmental biology
+429,2017 Spring,1,Public Health,198,54,School of Public Health,molecular environmental biology
+430,2017 Spring,1,Public Policy,98,1,Goldman School Public Policy,molecular environmental biology
+431,2017 Spring,1,Public Policy,98,3,Goldman School Public Policy,molecular environmental biology
+432,2017 Spring,1,Public Policy,101,1,Goldman School Public Policy,molecular environmental biology
+433,2017 Spring,4,Public Policy,C103,1,Goldman School Public Policy,molecular environmental biology
+434,2017 Spring,1,Public Policy,157,1,Goldman School Public Policy,molecular environmental biology
+435,2017 Spring,1,Rhetoric,R1A,2,Clg of Letters & Science,molecular environmental biology
+436,2017 Spring,1,Scandinavian,R5B,2,Clg of Letters & Science,molecular environmental biology
+437,2017 Spring,1,Scandinavian,R5B,6,Clg of Letters & Science,molecular environmental biology
+438,2017 Spring,1,Scandinavian,160,1,Clg of Letters & Science,molecular environmental biology
+439,2017 Spring,1,Slavic Languages & Lit,R5A,3,Clg of Letters & Science,molecular environmental biology
+440,2017 Spring,1,Slavic Languages & Lit,R5B,2,Clg of Letters & Science,molecular environmental biology
+441,2017 Spring,1,Slavic Languages & Lit,46,1,Clg of Letters & Science,molecular environmental biology
+442,2017 Spring,1,Social Welfare,98,2,School of Social Welfare,molecular environmental biology
+443,2017 Spring,1,Social Welfare,198,2,School of Social Welfare,molecular environmental biology
+444,2017 Spring,1,Sociology,1,1,Clg of Letters & Science,molecular environmental biology
+445,2017 Spring,3,Sociology,3AC,1,Clg of Letters & Science,molecular environmental biology
+446,2017 Spring,1,Sociology,98BC,2,Clg of Letters & Science,molecular environmental biology
+447,2017 Spring,2,Sociology,117,1,Clg of Letters & Science,molecular environmental biology
+448,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,molecular environmental biology
+449,2017 Spring,1,Sociology,198,2,Clg of Letters & Science,molecular environmental biology
+450,2017 Spring,1,Sociology,198,4,Clg of Letters & Science,molecular environmental biology
+451,2017 Spring,1,Sociology,198,5,Clg of Letters & Science,molecular environmental biology
+452,2017 Spring,1,Sociology,198,12,Clg of Letters & Science,molecular environmental biology
+453,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,molecular environmental biology
+454,2017 Spring,1,South & SE Asian Studies,R5B,1,Clg of Letters & Science,molecular environmental biology
+455,2017 Spring,1,South Asian,R5B,1,Clg of Letters & Science,molecular environmental biology
+456,2017 Spring,1,South Asian,110,1,Clg of Letters & Science,molecular environmental biology
+457,2017 Spring,1,Spanish,R1B,1,Clg of Letters & Science,molecular environmental biology
+458,2017 Spring,1,Spanish,4,3,Clg of Letters & Science,molecular environmental biology
+459,2017 Spring,1,Spanish,25,3,Clg of Letters & Science,molecular environmental biology
+460,2017 Spring,1,Spanish,115,1,Clg of Letters & Science,molecular environmental biology
+461,2017 Spring,1,Spanish,198,1,Clg of Letters & Science,molecular environmental biology
+462,2017 Spring,7,Statistics,2,1,Clg of Letters & Science,molecular environmental biology
+463,2017 Spring,2,Statistics,20,1,Clg of Letters & Science,molecular environmental biology
+464,2017 Spring,1,Statistics,20,2,Clg of Letters & Science,molecular environmental biology
+465,2017 Spring,1,Statistics,88,1,Clg of Letters & Science,molecular environmental biology
+466,2017 Spring,3,Statistics,131A,1,Clg of Letters & Science,molecular environmental biology
+467,2017 Spring,1,Statistics,133,2,Clg of Letters & Science,molecular environmental biology
+468,2017 Spring,1,Statistics,198,2,Clg of Letters & Science,molecular environmental biology
+469,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,molecular environmental biology
+470,2017 Spring,1,Telugu,1B,1,Clg of Letters & Science,molecular environmental biology
+471,2017 Spring,2,Theater Dance & Perf Stds,R1A,1,Clg of Letters & Science,molecular environmental biology
+472,2017 Spring,1,Theater Dance & Perf Stds,R1B,1,Clg of Letters & Science,molecular environmental biology
+473,2017 Spring,1,Theater Dance & Perf Stds,R1B,2,Clg of Letters & Science,molecular environmental biology
+474,2017 Spring,1,Theater Dance & Perf Stds,R1B,6,Clg of Letters & Science,molecular environmental biology
+475,2017 Spring,1,Theater Dance & Perf Stds,110B,1,Clg of Letters & Science,molecular environmental biology
+476,2017 Spring,1,Theater Dance & Perf Stds,110B,2,Clg of Letters & Science,molecular environmental biology
+477,2017 Spring,1,Theater Dance & Perf Stds,146B,1,Clg of Letters & Science,molecular environmental biology
+478,2017 Spring,1,Theater Dance & Perf Stds,148,1,Clg of Letters & Science,molecular environmental biology
+479,2017 Spring,1,Theater Dance & Perf Stds,173B,1,Clg of Letters & Science,molecular environmental biology
+480,2017 Spring,1,Theater Dance & Perf Stds,174B,1,Clg of Letters & Science,molecular environmental biology
+481,2017 Spring,1,Theater Dance & Perf Stds,181,1,Clg of Letters & Science,molecular environmental biology
+482,2017 Spring,1,UGIS-UG Interdisc Studies,82,3,Clg of Letters & Science,molecular environmental biology
+483,2017 Spring,2,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,molecular environmental biology
+484,2017 Spring,1,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,molecular environmental biology
+485,2017 Spring,1,UGIS-UG Interdisc Studies,156,1,Clg of Letters & Science,molecular environmental biology
+486,2017 Spring,1,UGIS-UG Interdisc Studies,187,1,Clg of Letters & Science,molecular environmental biology

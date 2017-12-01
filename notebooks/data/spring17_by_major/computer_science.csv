@@ -1,0 +1,963 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,Aerospace Studies,135B,1,Clg of Letters & Science,computer science
+1,2017 Spring,1,African American Studies,131,1,Clg of Letters & Science,computer science
+2,2017 Spring,1,African American Studies,139,2,Clg of Letters & Science,computer science
+3,2017 Spring,2,African American Studies,142AC,1,Clg of Letters & Science,computer science
+4,2017 Spring,2,African American Studies,156AC,1,Clg of Letters & Science,computer science
+5,2017 Spring,2,African American Studies,197,3,Clg of Letters & Science,computer science
+6,2017 Spring,1,African American Studies,198BC,1,Clg of Letters & Science,computer science
+7,2017 Spring,1,American Studies,C172,1,Clg of Letters & Science,computer science
+8,2017 Spring,5,Anthropology,1,1,Clg of Letters & Science,computer science
+9,2017 Spring,6,Anthropology,2AC,1,Clg of Letters & Science,computer science
+10,2017 Spring,11,Anthropology,3AC,1,Clg of Letters & Science,computer science
+11,2017 Spring,1,Anthropology,R5B,1,Clg of Letters & Science,computer science
+12,2017 Spring,1,Anthropology,R5B,2,Clg of Letters & Science,computer science
+13,2017 Spring,2,Anthropology,R5B,3,Clg of Letters & Science,computer science
+14,2017 Spring,1,Anthropology,121AC,1,Clg of Letters & Science,computer science
+15,2017 Spring,7,Anthropology,160AC,1,Clg of Letters & Science,computer science
+16,2017 Spring,7,Anthropology,170,1,Clg of Letters & Science,computer science
+17,2017 Spring,2,Anthropology,174AC,1,Clg of Letters & Science,computer science
+18,2017 Spring,1,Anthropology,180,1,Clg of Letters & Science,computer science
+19,2017 Spring,1,Anthropology,198,20,Clg of Letters & Science,computer science
+20,2017 Spring,1,Arabic,107,1,Clg of Letters & Science,computer science
+21,2017 Spring,1,Architecture,98,3,Clg of Environmental Design,computer science
+22,2017 Spring,1,Architecture,98,6,Clg of Environmental Design,computer science
+23,2017 Spring,2,Architecture,129,2,Clg of Environmental Design,computer science
+24,2017 Spring,1,Architecture,170B,1,Clg of Environmental Design,computer science
+25,2017 Spring,1,Architecture,198,3,Clg of Environmental Design,computer science
+26,2017 Spring,8,Architecture,198,4,Clg of Environmental Design,computer science
+27,2017 Spring,2,Armenian,126,1,Clg of Letters & Science,computer science
+28,2017 Spring,3,Art Practice,8,1,Clg of Letters & Science,computer science
+29,2017 Spring,1,Art Practice,12,1,Clg of Letters & Science,computer science
+30,2017 Spring,1,Art Practice,14,1,Clg of Letters & Science,computer science
+31,2017 Spring,3,Art Practice,15,1,Clg of Letters & Science,computer science
+32,2017 Spring,1,Art Practice,102,1,Clg of Letters & Science,computer science
+33,2017 Spring,2,Art Practice,102,2,Clg of Letters & Science,computer science
+34,2017 Spring,2,Art Practice,117,1,Clg of Letters & Science,computer science
+35,2017 Spring,1,Art Practice,119,1,Clg of Letters & Science,computer science
+36,2017 Spring,1,Art Practice,180,1,Clg of Letters & Science,computer science
+37,2017 Spring,1,Art Practice,185,1,Clg of Letters & Science,computer science
+38,2017 Spring,1,Art Practice,185,2,Clg of Letters & Science,computer science
+39,2017 Spring,3,Art Practice,198,1,Clg of Letters & Science,computer science
+40,2017 Spring,4,Art Practice,198,5,Clg of Letters & Science,computer science
+41,2017 Spring,1,Asian American Studies,R2B,1,Clg of Letters & Science,computer science
+42,2017 Spring,6,Asian American Studies,20A,1,Clg of Letters & Science,computer science
+43,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,computer science
+44,2017 Spring,2,Asian American Studies,132AC,1,Clg of Letters & Science,computer science
+45,2017 Spring,1,Asian American Studies,197,8,Clg of Letters & Science,computer science
+46,2017 Spring,2,Asian American Studies,197,13,Clg of Letters & Science,computer science
+47,2017 Spring,1,Asian American Studies,198,2,Clg of Letters & Science,computer science
+48,2017 Spring,2,Asian American Studies,198,3,Clg of Letters & Science,computer science
+49,2017 Spring,1,Asian American Studies,198,4,Clg of Letters & Science,computer science
+50,2017 Spring,1,Asian American Studies,198,5,Clg of Letters & Science,computer science
+51,2017 Spring,6,Asian Studies,198,3,Clg of Letters & Science,computer science
+52,2017 Spring,1,Astronomy,7B,1,Clg of Letters & Science,computer science
+53,2017 Spring,1,Astronomy,C12,1,Clg of Letters & Science,computer science
+54,2017 Spring,2,Astronomy,84,1,Clg of Letters & Science,computer science
+55,2017 Spring,1,Astronomy,121,1,Clg of Letters & Science,computer science
+56,2017 Spring,1,Astronomy,198,2,Clg of Letters & Science,computer science
+57,2017 Spring,6,Bioengineering,25,1,Clg of Engineering,computer science
+58,2017 Spring,1,Bioengineering,84,1,Clg of Engineering,computer science
+59,2017 Spring,1,Bioengineering,135,1,Clg of Engineering,computer science
+60,2017 Spring,2,Biology,1A,1,Clg of Letters & Science,computer science
+61,2017 Spring,1,Biology,1A,2,Clg of Letters & Science,computer science
+62,2017 Spring,3,Biology,1AL,1,Clg of Letters & Science,computer science
+63,2017 Spring,1,Biology,1B,1,Clg of Letters & Science,computer science
+64,2017 Spring,1,Biology,1B,2,Clg of Letters & Science,computer science
+65,2017 Spring,1,Buddhist Studies,C115,1,Clg of Letters & Science,computer science
+66,2017 Spring,3,Buddhist Studies,C117,1,Clg of Letters & Science,computer science
+67,2017 Spring,4,Buddhist Studies,C128,1,Clg of Letters & Science,computer science
+68,2017 Spring,3,Business Admin-Undergrad,10,1,Haas School of Business,computer science
+69,2017 Spring,2,Business Admin-Undergrad,96,1,Haas School of Business,computer science
+70,2017 Spring,6,Business Admin-Undergrad,96,2,Haas School of Business,computer science
+71,2017 Spring,3,Business Admin-Undergrad,96,3,Haas School of Business,computer science
+72,2017 Spring,1,Business Admin-Undergrad,100,1,Haas School of Business,computer science
+73,2017 Spring,1,Business Admin-Undergrad,100,4,Haas School of Business,computer science
+74,2017 Spring,1,Business Admin-Undergrad,101B,1,Haas School of Business,computer science
+75,2017 Spring,2,Business Admin-Undergrad,101B,2,Haas School of Business,computer science
+76,2017 Spring,5,Business Admin-Undergrad,101B,4,Haas School of Business,computer science
+77,2017 Spring,1,Business Admin-Undergrad,101B,5,Haas School of Business,computer science
+78,2017 Spring,2,Business Admin-Undergrad,102A,1,Haas School of Business,computer science
+79,2017 Spring,6,Business Admin-Undergrad,102B,1,Haas School of Business,computer science
+80,2017 Spring,4,Business Admin-Undergrad,102B,2,Haas School of Business,computer science
+81,2017 Spring,4,Business Admin-Undergrad,103,1,Haas School of Business,computer science
+82,2017 Spring,9,Business Admin-Undergrad,103,2,Haas School of Business,computer science
+83,2017 Spring,8,Business Admin-Undergrad,104,1,Haas School of Business,computer science
+84,2017 Spring,3,Business Admin-Undergrad,105,1,Haas School of Business,computer science
+85,2017 Spring,6,Business Admin-Undergrad,106,1,Haas School of Business,computer science
+86,2017 Spring,9,Business Admin-Undergrad,107,1,Haas School of Business,computer science
+87,2017 Spring,4,Business Admin-Undergrad,118,1,Haas School of Business,computer science
+88,2017 Spring,2,Business Admin-Undergrad,119,1,Haas School of Business,computer science
+89,2017 Spring,2,Business Admin-Undergrad,131,1,Haas School of Business,computer science
+90,2017 Spring,2,Business Admin-Undergrad,137,1,Haas School of Business,computer science
+91,2017 Spring,3,Business Admin-Undergrad,152,1,Haas School of Business,computer science
+92,2017 Spring,3,Business Admin-Undergrad,152,2,Haas School of Business,computer science
+93,2017 Spring,3,Business Admin-Undergrad,155,1,Haas School of Business,computer science
+94,2017 Spring,1,Business Admin-Undergrad,157,1,Haas School of Business,computer science
+95,2017 Spring,1,Business Admin-Undergrad,161,1,Haas School of Business,computer science
+96,2017 Spring,1,Business Admin-Undergrad,169,1,Haas School of Business,computer science
+97,2017 Spring,1,Business Admin-Undergrad,170,1,Haas School of Business,computer science
+98,2017 Spring,2,Business Admin-Undergrad,C172,1,Haas School of Business,computer science
+99,2017 Spring,1,Business Admin-Undergrad,178,1,Haas School of Business,computer science
+100,2017 Spring,4,Business Admin-Undergrad,180,1,Haas School of Business,computer science
+101,2017 Spring,2,Business Admin-Undergrad,190T,3,Haas School of Business,computer science
+102,2017 Spring,1,Business Admin-Undergrad,191P,1,Haas School of Business,computer science
+103,2017 Spring,3,Business Admin-Undergrad,195A,1,Haas School of Business,computer science
+104,2017 Spring,1,Business Admin-Undergrad,196,1,Haas School of Business,computer science
+105,2017 Spring,2,Business Admin-Undergrad,196,2,Haas School of Business,computer science
+106,2017 Spring,1,Business Admin-Undergrad,196,3,Haas School of Business,computer science
+107,2017 Spring,1,Business Admin-Undergrad,198,1,Haas School of Business,computer science
+108,2017 Spring,1,Business Admin-Undergrad,198,2,Haas School of Business,computer science
+109,2017 Spring,1,Business Admin-Undergrad,198,6,Haas School of Business,computer science
+110,2017 Spring,1,Business Admin-Undergrad,198,7,Haas School of Business,computer science
+111,2017 Spring,1,Business Admin-Undergrad,198,8,Haas School of Business,computer science
+112,2017 Spring,2,Business Admin-Undergrad,198,9,Haas School of Business,computer science
+113,2017 Spring,1,Business Admin-Undergrad,198,10,Haas School of Business,computer science
+114,2017 Spring,1,Celtic Studies,R1B,2,Clg of Letters & Science,computer science
+115,2017 Spring,1,Celtic Studies,125,1,Clg of Letters & Science,computer science
+116,2017 Spring,4,Celtic Studies,173,1,Clg of Letters & Science,computer science
+117,2017 Spring,1,Chemical Engineering,154,1,Clg of Chemistry,computer science
+118,2017 Spring,2,Chemical Engineering,162,1,Clg of Chemistry,computer science
+119,2017 Spring,1,Chemical Engineering,185,1,Clg of Chemistry,computer science
+120,2017 Spring,4,Chemical Engineering,198,3,Clg of Chemistry,computer science
+121,2017 Spring,3,Chemistry,3A,2,Clg of Chemistry,computer science
+122,2017 Spring,1,Chemistry,3AL,1,Clg of Chemistry,computer science
+123,2017 Spring,2,Chemistry,3AL,2,Clg of Chemistry,computer science
+124,2017 Spring,1,Chemistry,3B,1,Clg of Chemistry,computer science
+125,2017 Spring,3,Chemistry,3B,2,Clg of Chemistry,computer science
+126,2017 Spring,3,Chemistry,3BL,1,Clg of Chemistry,computer science
+127,2017 Spring,1,Chemistry,4B,1,Clg of Chemistry,computer science
+128,2017 Spring,2,Chemistry,98,3,Clg of Chemistry,computer science
+129,2017 Spring,1,Chemistry,105,1,Clg of Chemistry,computer science
+130,2017 Spring,1,Chemistry,112B,1,Clg of Chemistry,computer science
+131,2017 Spring,1,Chemistry,120A,1,Clg of Chemistry,computer science
+132,2017 Spring,2,Chemistry,125,1,Clg of Chemistry,computer science
+133,2017 Spring,1,Chemistry,130B,1,Clg of Chemistry,computer science
+134,2017 Spring,1,Chemistry,C182,1,Clg of Chemistry,computer science
+135,2017 Spring,4,Chemistry,C191,1,Clg of Chemistry,computer science
+136,2017 Spring,1,Chicano Studies,150B,1,Clg of Letters & Science,computer science
+137,2017 Spring,2,Chinese,1A,2,Clg of Letters & Science,computer science
+138,2017 Spring,1,Chinese,1A,3,Clg of Letters & Science,computer science
+139,2017 Spring,2,Chinese,7B,1,Clg of Letters & Science,computer science
+140,2017 Spring,3,Chinese,10X,2,Clg of Letters & Science,computer science
+141,2017 Spring,1,Chinese,10X,3,Clg of Letters & Science,computer science
+142,2017 Spring,3,Chinese,10Y,2,Clg of Letters & Science,computer science
+143,2017 Spring,2,Chinese,100XB,1,Clg of Letters & Science,computer science
+144,2017 Spring,2,Chinese,100XB,2,Clg of Letters & Science,computer science
+145,2017 Spring,1,Chinese,100YB,1,Clg of Letters & Science,computer science
+146,2017 Spring,2,Chinese,110B,1,Clg of Letters & Science,computer science
+147,2017 Spring,1,Chinese,112,1,Clg of Letters & Science,computer science
+148,2017 Spring,2,Chinese,155,1,Clg of Letters & Science,computer science
+149,2017 Spring,2,City & Regional Planning,118AC,1,Clg of Environmental Design,computer science
+150,2017 Spring,1,Civil & Environmental Eng,198,2,Clg of Engineering,computer science
+151,2017 Spring,1,Civil & Environmental Eng,198,11,Clg of Engineering,computer science
+152,2017 Spring,7,Classics,10B,1,Clg of Letters & Science,computer science
+153,2017 Spring,3,Classics,17B,1,Clg of Letters & Science,computer science
+154,2017 Spring,17,Classics,28,1,Clg of Letters & Science,computer science
+155,2017 Spring,3,Classics,35,1,Clg of Letters & Science,computer science
+156,2017 Spring,3,Classics,39D,1,Clg of Letters & Science,computer science
+157,2017 Spring,18,Cognitive Science,1,1,Clg of Letters & Science,computer science
+158,2017 Spring,1,Cognitive Science,88,1,Clg of Letters & Science,computer science
+159,2017 Spring,17,Cognitive Science,C126,1,Clg of Letters & Science,computer science
+160,2017 Spring,7,Cognitive Science,C127,1,Clg of Letters & Science,computer science
+161,2017 Spring,1,Cognitive Science,C140,1,Clg of Letters & Science,computer science
+162,2017 Spring,2,Cognitive Science,C142,1,Clg of Letters & Science,computer science
+163,2017 Spring,3,Cognitive Science,198,1,Clg of Letters & Science,computer science
+164,2017 Spring,1,Cognitive Science,198,4,Clg of Letters & Science,computer science
+165,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,computer science
+166,2017 Spring,4,Cognitive Science,198,6,Clg of Letters & Science,computer science
+167,2017 Spring,1,Cognitive Science,198,7,Clg of Letters & Science,computer science
+168,2017 Spring,1,College Writing Programs,R4B,4,Clg of Letters & Science,computer science
+169,2017 Spring,1,College Writing Programs,10A,1,Clg of Letters & Science,computer science
+170,2017 Spring,1,College Writing Programs,10A,2,Clg of Letters & Science,computer science
+171,2017 Spring,2,College Writing Programs,50AC,1,Clg of Letters & Science,computer science
+172,2017 Spring,2,Comparative Literature,R1B,1,Clg of Letters & Science,computer science
+173,2017 Spring,1,Comparative Literature,R1B,11,Clg of Letters & Science,computer science
+174,2017 Spring,1,Comparative Literature,50,1,Clg of Letters & Science,computer science
+175,2017 Spring,2,Comparative Literature,60AC,1,Clg of Letters & Science,computer science
+176,2017 Spring,1,Comparative Literature,198,3,Clg of Letters & Science,computer science
+177,2017 Spring,36,Computer Science,C8,1,Clg of Engineering,computer science
+178,2017 Spring,1,Computer Science,9A,1,Clg of Engineering,computer science
+179,2017 Spring,16,Computer Science,9E,1,Clg of Engineering,computer science
+180,2017 Spring,13,Computer Science,9F,1,Clg of Engineering,computer science
+181,2017 Spring,3,Computer Science,9G,1,Clg of Engineering,computer science
+182,2017 Spring,1,Computer Science,9H,1,Clg of Engineering,computer science
+183,2017 Spring,2,Computer Science,47B,1,Clg of Engineering,computer science
+184,2017 Spring,1,Computer Science,47C,1,Clg of Engineering,computer science
+185,2017 Spring,4,Computer Science,61B,1,Clg of Engineering,computer science
+186,2017 Spring,150,Computer Science,61C,1,Clg of Engineering,computer science
+187,2017 Spring,4,Computer Science,70,1,Clg of Engineering,computer science
+188,2017 Spring,2,Computer Science,97,1,Clg of Engineering,computer science
+189,2017 Spring,1,Computer Science,97,200,Clg of Engineering,computer science
+190,2017 Spring,12,Computer Science,97,203,Clg of Engineering,computer science
+191,2017 Spring,1,Computer Science,97,205,Clg of Engineering,computer science
+192,2017 Spring,3,Computer Science,97,209,Clg of Engineering,computer science
+193,2017 Spring,2,Computer Science,97,212,Clg of Engineering,computer science
+194,2017 Spring,4,Computer Science,97,213,Clg of Engineering,computer science
+195,2017 Spring,21,Computer Science,C100,1,Clg of Engineering,computer science
+196,2017 Spring,64,Computer Science,160,1,Clg of Engineering,computer science
+197,2017 Spring,13,Computer Science,160,2,Clg of Engineering,computer science
+198,2017 Spring,14,Computer Science,160,3,Clg of Engineering,computer science
+199,2017 Spring,277,Computer Science,161,1,Clg of Engineering,computer science
+200,2017 Spring,203,Computer Science,162,1,Clg of Engineering,computer science
+201,2017 Spring,53,Computer Science,164,1,Clg of Engineering,computer science
+202,2017 Spring,283,Computer Science,170,1,Clg of Engineering,computer science
+203,2017 Spring,14,Computer Science,174,1,Clg of Engineering,computer science
+204,2017 Spring,72,Computer Science,184,1,Clg of Engineering,computer science
+205,2017 Spring,276,Computer Science,186,1,Clg of Engineering,computer science
+206,2017 Spring,226,Computer Science,188,1,Clg of Engineering,computer science
+207,2017 Spring,238,Computer Science,189,1,Clg of Engineering,computer science
+208,2017 Spring,23,Computer Science,C191,1,Clg of Engineering,computer science
+209,2017 Spring,6,Computer Science,194,30,Clg of Engineering,computer science
+210,2017 Spring,5,Computer Science,194,131,Clg of Engineering,computer science
+211,2017 Spring,6,Computer Science,194,133,Clg of Engineering,computer science
+212,2017 Spring,24,Computer Science,195,1,Clg of Engineering,computer science
+213,2017 Spring,8,Computer Science,197,1,Clg of Engineering,computer science
+214,2017 Spring,2,Computer Science,197,200,Clg of Engineering,computer science
+215,2017 Spring,14,Computer Science,197,203,Clg of Engineering,computer science
+216,2017 Spring,7,Computer Science,197,206,Clg of Engineering,computer science
+217,2017 Spring,2,Computer Science,197,209,Clg of Engineering,computer science
+218,2017 Spring,4,Computer Science,197,210,Clg of Engineering,computer science
+219,2017 Spring,2,Computer Science,197,211,Clg of Engineering,computer science
+220,2017 Spring,2,Computer Science,197,212,Clg of Engineering,computer science
+221,2017 Spring,32,Computer Science,197,214,Clg of Engineering,computer science
+222,2017 Spring,9,Computer Science,197,215,Clg of Engineering,computer science
+223,2017 Spring,1,Computer Science,197,216,Clg of Engineering,computer science
+224,2017 Spring,31,Computer Science,198,1,Clg of Engineering,computer science
+225,2017 Spring,5,Computer Science,198,2,Clg of Engineering,computer science
+226,2017 Spring,3,Computer Science,198,3,Clg of Engineering,computer science
+227,2017 Spring,1,Computer Science,198,48,Clg of Engineering,computer science
+228,2017 Spring,9,Computer Science,198,49,Clg of Engineering,computer science
+229,2017 Spring,10,Computer Science,198,56,Clg of Engineering,computer science
+230,2017 Spring,7,Computer Science,198,58,Clg of Engineering,computer science
+231,2017 Spring,1,Computer Science,198,62,Clg of Engineering,computer science
+232,2017 Spring,8,Computer Science,198,64,Clg of Engineering,computer science
+233,2017 Spring,4,Computer Science,198,67,Clg of Engineering,computer science
+234,2017 Spring,8,Computer Science,198,68,Clg of Engineering,computer science
+235,2017 Spring,4,Computer Science,198,72,Clg of Engineering,computer science
+236,2017 Spring,5,Computer Science,198,74,Clg of Engineering,computer science
+237,2017 Spring,10,Computer Science,198,75,Clg of Engineering,computer science
+238,2017 Spring,6,Computer Science,198,303,Clg of Engineering,computer science
+239,2017 Spring,14,Computer Science,198,642,Clg of Engineering,computer science
+240,2017 Spring,2,Demography,C175,1,Clg of Letters & Science,computer science
+241,2017 Spring,2,Design Innovation,21,1,Clg of Engineering,computer science
+242,2017 Spring,1,Design Innovation,22,1,Clg of Engineering,computer science
+243,2017 Spring,6,Design Innovation,98,1,Clg of Engineering,computer science
+244,2017 Spring,3,Design Innovation,190,2,Clg of Engineering,computer science
+245,2017 Spring,1,Design Innovation,198,1,Clg of Engineering,computer science
+246,2017 Spring,5,Design Innovation,198,2,Clg of Engineering,computer science
+247,2017 Spring,4,Development Studies,C10,1,Clg of Letters & Science,computer science
+248,2017 Spring,2,Dutch,166,1,Clg of Letters & Science,computer science
+249,2017 Spring,1,Earth & Planetary Science,50,1,Clg of Letters & Science,computer science
+250,2017 Spring,3,East Asian Languages,105,1,Clg of Letters & Science,computer science
+251,2017 Spring,1,East Asian Languages,110,1,Clg of Letters & Science,computer science
+252,2017 Spring,2,East Asian Languages,112,1,Clg of Letters & Science,computer science
+253,2017 Spring,5,East Asian Languages,C128,1,Clg of Letters & Science,computer science
+254,2017 Spring,3,East Asian Languages,191,1,Clg of Letters & Science,computer science
+255,2017 Spring,11,Economics,1,1,Clg of Letters & Science,computer science
+256,2017 Spring,6,Economics,2,1,Clg of Letters & Science,computer science
+257,2017 Spring,5,Economics,100A,1,Clg of Letters & Science,computer science
+258,2017 Spring,9,Economics,100B,1,Clg of Letters & Science,computer science
+259,2017 Spring,8,Economics,101A,1,Clg of Letters & Science,computer science
+260,2017 Spring,5,Economics,101B,1,Clg of Letters & Science,computer science
+261,2017 Spring,1,Economics,C103,1,Clg of Letters & Science,computer science
+262,2017 Spring,4,Economics,113,1,Clg of Letters & Science,computer science
+263,2017 Spring,4,Economics,115,1,Clg of Letters & Science,computer science
+264,2017 Spring,4,Economics,121,1,Clg of Letters & Science,computer science
+265,2017 Spring,2,Economics,C125,1,Clg of Letters & Science,computer science
+266,2017 Spring,4,Economics,131,1,Clg of Letters & Science,computer science
+267,2017 Spring,16,Economics,136,1,Clg of Letters & Science,computer science
+268,2017 Spring,16,Economics,138,1,Clg of Letters & Science,computer science
+269,2017 Spring,4,Economics,139,1,Clg of Letters & Science,computer science
+270,2017 Spring,12,Economics,140,1,Clg of Letters & Science,computer science
+271,2017 Spring,3,Economics,141,1,Clg of Letters & Science,computer science
+272,2017 Spring,1,Economics,C142,1,Clg of Letters & Science,computer science
+273,2017 Spring,4,Economics,151,1,Clg of Letters & Science,computer science
+274,2017 Spring,2,Economics,155A,1,Clg of Letters & Science,computer science
+275,2017 Spring,4,Economics,157,1,Clg of Letters & Science,computer science
+276,2017 Spring,2,Economics,172,1,Clg of Letters & Science,computer science
+277,2017 Spring,1,Economics,174,1,Clg of Letters & Science,computer science
+278,2017 Spring,10,Economics,C175,1,Clg of Letters & Science,computer science
+279,2017 Spring,2,Economics,C181,1,Clg of Letters & Science,computer science
+280,2017 Spring,3,Education,W140A,1,Grad School of Education,computer science
+281,2017 Spring,1,Education,W142,1,Grad School of Education,computer science
+282,2017 Spring,2,Education,182AC,1,Grad School of Education,computer science
+283,2017 Spring,3,Education,183,1,Grad School of Education,computer science
+284,2017 Spring,1,Education,190AC,2,Grad School of Education,computer science
+285,2017 Spring,1,Education,197,1,Grad School of Education,computer science
+286,2017 Spring,1,Education,197,9,Grad School of Education,computer science
+287,2017 Spring,1,Education,197,12,Grad School of Education,computer science
+288,2017 Spring,1,Education,198,16,Grad School of Education,computer science
+289,2017 Spring,2,Electrical Eng & Computer Sci,151,1,Clg of Engineering,computer science
+290,2017 Spring,1,Electrical Eng & Computer Sci,151LA,101,Clg of Engineering,computer science
+291,2017 Spring,1,Electrical Eng & Computer Sci,151LB,101,Clg of Engineering,computer science
+292,2017 Spring,1,Electrical Eng & Computer Sci,151LB,102,Clg of Engineering,computer science
+293,2017 Spring,243,Electrical Engineering,16A,1,Clg of Engineering,computer science
+294,2017 Spring,8,Electrical Engineering,16B,1,Clg of Engineering,computer science
+295,2017 Spring,1,Electrical Engineering,C106B,1,Clg of Engineering,computer science
+296,2017 Spring,2,Electrical Engineering,120,1,Clg of Engineering,computer science
+297,2017 Spring,11,Electrical Engineering,122,1,Clg of Engineering,computer science
+298,2017 Spring,28,Electrical Engineering,126,1,Clg of Engineering,computer science
+299,2017 Spring,34,Electrical Engineering,127,1,Clg of Engineering,computer science
+300,2017 Spring,1,Electrical Engineering,C128,1,Clg of Engineering,computer science
+301,2017 Spring,1,Electrical Engineering,130,1,Clg of Engineering,computer science
+302,2017 Spring,1,Electrical Engineering,134,1,Clg of Engineering,computer science
+303,2017 Spring,6,Electrical Engineering,192,1,Clg of Engineering,computer science
+304,2017 Spring,1,Electrical Engineering,194,1,Clg of Engineering,computer science
+305,2017 Spring,4,Electrical Engineering,198,1,Clg of Engineering,computer science
+306,2017 Spring,3,Electrical Engineering,198,2,Clg of Engineering,computer science
+307,2017 Spring,2,Electrical Engineering,198,13,Clg of Engineering,computer science
+308,2017 Spring,1,Engineering,26,1,Clg of Engineering,computer science
+309,2017 Spring,3,Engineering,45,1,Clg of Engineering,computer science
+310,2017 Spring,1,Engineering,45L,3,Clg of Engineering,computer science
+311,2017 Spring,9,Engineering,120,1,Clg of Engineering,computer science
+312,2017 Spring,1,English,R1B,15,Clg of Letters & Science,computer science
+313,2017 Spring,1,English,R1B,16,Clg of Letters & Science,computer science
+314,2017 Spring,1,English,43B,1,Clg of Letters & Science,computer science
+315,2017 Spring,1,English,45A,1,Clg of Letters & Science,computer science
+316,2017 Spring,1,English,111,1,Clg of Letters & Science,computer science
+317,2017 Spring,2,English,117S,1,Clg of Letters & Science,computer science
+318,2017 Spring,2,English,132,1,Clg of Letters & Science,computer science
+319,2017 Spring,1,English,C136,1,Clg of Letters & Science,computer science
+320,2017 Spring,1,English,143A,2,Clg of Letters & Science,computer science
+321,2017 Spring,1,English,143A,3,Clg of Letters & Science,computer science
+322,2017 Spring,1,English,143B,2,Clg of Letters & Science,computer science
+323,2017 Spring,1,English,143C,1,Clg of Letters & Science,computer science
+324,2017 Spring,1,English,180A,1,Clg of Letters & Science,computer science
+325,2017 Spring,1,English,180Z,1,Clg of Letters & Science,computer science
+326,2017 Spring,1,English,H195B,2,Clg of Letters & Science,computer science
+327,2017 Spring,1,English,198,2,Clg of Letters & Science,computer science
+328,2017 Spring,3,English,198,3,Clg of Letters & Science,computer science
+329,2017 Spring,1,English,198,4,Clg of Letters & Science,computer science
+330,2017 Spring,1,English,198,6,Clg of Letters & Science,computer science
+331,2017 Spring,1,English,198,7,Clg of Letters & Science,computer science
+332,2017 Spring,1,English,198BC,9,Clg of Letters & Science,computer science
+333,2017 Spring,2,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,computer science
+334,2017 Spring,2,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,computer science
+335,2017 Spring,2,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,computer science
+336,2017 Spring,44,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,computer science
+337,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,2,Clg of Natural Resources,computer science
+338,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,3,Clg of Natural Resources,computer science
+339,2017 Spring,2,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,computer science
+340,2017 Spring,3,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,computer science
+341,2017 Spring,4,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,computer science
+342,2017 Spring,4,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,computer science
+343,2017 Spring,1,"Env Sci, Policy, & Mgmt",175B,1,Clg of Natural Resources,computer science
+344,2017 Spring,1,"Env Sci, Policy, & Mgmt",175L,2,Clg of Natural Resources,computer science
+345,2017 Spring,1,"Env Sci, Policy, & Mgmt",C177,1,Clg of Natural Resources,computer science
+346,2017 Spring,2,"Env Sci, Policy, & Mgmt",181A,1,Clg of Natural Resources,computer science
+347,2017 Spring,2,"Env Sci, Policy, & Mgmt",198,1,Clg of Natural Resources,computer science
+348,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,6,Clg of Natural Resources,computer science
+349,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,9,Clg of Natural Resources,computer science
+350,2017 Spring,2,"Env Sci, Policy, & Mgmt",198,10,Clg of Natural Resources,computer science
+351,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,12,Clg of Natural Resources,computer science
+352,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,14,Clg of Natural Resources,computer science
+353,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,2,Clg of Natural Resources,computer science
+354,2017 Spring,2,"Env Sci, Policy, & Mgmt",198BC,3,Clg of Natural Resources,computer science
+355,2017 Spring,2,Environ Econ & Policy,C101,1,Clg of Natural Resources,computer science
+356,2017 Spring,1,Environ Econ & Policy,C181,1,Clg of Natural Resources,computer science
+357,2017 Spring,2,Environmental Design,R3B,1,Clg of Environmental Design,computer science
+358,2017 Spring,2,Environmental Design,4B,1,Clg of Environmental Design,computer science
+359,2017 Spring,11,Environmental Design,100,1,Clg of Environmental Design,computer science
+360,2017 Spring,1,Environmental Design,101A,1,Clg of Environmental Design,computer science
+361,2017 Spring,2,Ethnic Studies,21AC,1,Clg of Letters & Science,computer science
+362,2017 Spring,1,Ethnic Studies,100,1,Clg of Letters & Science,computer science
+363,2017 Spring,3,Ethnic Studies,122AC,1,Clg of Letters & Science,computer science
+364,2017 Spring,1,Ethnic Studies,181AC,1,Clg of Letters & Science,computer science
+365,2017 Spring,1,Ethnic Studies,197,13,Clg of Letters & Science,computer science
+366,2017 Spring,1,Ethnic Studies,198,1,Clg of Letters & Science,computer science
+367,2017 Spring,1,Filipino,1B,3,Clg of Letters & Science,computer science
+368,2017 Spring,1,Filipino,W1Y,1,Clg of Letters & Science,computer science
+369,2017 Spring,1,Filipino,100B,1,Clg of Letters & Science,computer science
+370,2017 Spring,1,Filipino,W101B,1,Clg of Letters & Science,computer science
+371,2017 Spring,3,Film,R1B,3,Clg of Letters & Science,computer science
+372,2017 Spring,3,Film,25B,1,Clg of Letters & Science,computer science
+373,2017 Spring,1,Film,108,3,Clg of Letters & Science,computer science
+374,2017 Spring,2,Film,128,1,Clg of Letters & Science,computer science
+375,2017 Spring,10,Film,140,1,Clg of Letters & Science,computer science
+376,2017 Spring,2,Film,140,2,Clg of Letters & Science,computer science
+377,2017 Spring,2,Film,140,3,Clg of Letters & Science,computer science
+378,2017 Spring,4,Film,160,2,Clg of Letters & Science,computer science
+379,2017 Spring,1,Film,181,1,Clg of Letters & Science,computer science
+380,2017 Spring,1,Film,198,1,Clg of Letters & Science,computer science
+381,2017 Spring,1,French,1,1,Clg of Letters & Science,computer science
+382,2017 Spring,1,French,1,3,Clg of Letters & Science,computer science
+383,2017 Spring,1,French,1,4,Clg of Letters & Science,computer science
+384,2017 Spring,1,French,1,5,Clg of Letters & Science,computer science
+385,2017 Spring,2,French,1,6,Clg of Letters & Science,computer science
+386,2017 Spring,1,French,R1B,1,Clg of Letters & Science,computer science
+387,2017 Spring,3,French,R1B,2,Clg of Letters & Science,computer science
+388,2017 Spring,1,French,R1B,3,Clg of Letters & Science,computer science
+389,2017 Spring,1,French,2,5,Clg of Letters & Science,computer science
+390,2017 Spring,1,French,3,1,Clg of Letters & Science,computer science
+391,2017 Spring,1,French,4,2,Clg of Letters & Science,computer science
+392,2017 Spring,1,French,180D,1,Clg of Letters & Science,computer science
+393,2017 Spring,4,Gender & Womens Studies,14,1,Clg of Letters & Science,computer science
+394,2017 Spring,6,Gender & Womens Studies,100AC,1,Clg of Letters & Science,computer science
+395,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,computer science
+396,2017 Spring,1,Gender & Womens Studies,198,4,Clg of Letters & Science,computer science
+397,2017 Spring,26,Geography,20,1,Clg of Letters & Science,computer science
+398,2017 Spring,2,Geography,70AC,1,Clg of Letters & Science,computer science
+399,2017 Spring,1,Geography,C112,1,Clg of Letters & Science,computer science
+400,2017 Spring,4,Geography,130,1,Clg of Letters & Science,computer science
+401,2017 Spring,1,Geography,C160B,1,Clg of Letters & Science,computer science
+402,2017 Spring,3,Geography,185,1,Clg of Letters & Science,computer science
+403,2017 Spring,3,Geography,187,1,Clg of Letters & Science,computer science
+404,2017 Spring,3,German,1,1,Clg of Letters & Science,computer science
+405,2017 Spring,1,German,1,2,Clg of Letters & Science,computer science
+406,2017 Spring,1,German,1,4,Clg of Letters & Science,computer science
+407,2017 Spring,1,German,4,2,Clg of Letters & Science,computer science
+408,2017 Spring,1,German,R5B,2,Clg of Letters & Science,computer science
+409,2017 Spring,1,German,R5B,3,Clg of Letters & Science,computer science
+410,2017 Spring,3,German,R5B,5,Clg of Letters & Science,computer science
+411,2017 Spring,1,German,98,1,Clg of Letters & Science,computer science
+412,2017 Spring,1,German,100,1,Clg of Letters & Science,computer science
+413,2017 Spring,1,Hindi-Urdu,1B,1,Clg of Letters & Science,computer science
+414,2017 Spring,1,Hindi-Urdu,100B,1,Clg of Letters & Science,computer science
+415,2017 Spring,1,History,R1B,1,Clg of Letters & Science,computer science
+416,2017 Spring,1,History,R1B,2,Clg of Letters & Science,computer science
+417,2017 Spring,1,History,R1B,4,Clg of Letters & Science,computer science
+418,2017 Spring,1,History,2,1,Clg of Letters & Science,computer science
+419,2017 Spring,1,History,5,1,Clg of Letters & Science,computer science
+420,2017 Spring,1,History,6B,1,Clg of Letters & Science,computer science
+421,2017 Spring,10,History,7B,1,Clg of Letters & Science,computer science
+422,2017 Spring,1,History,84,1,Clg of Letters & Science,computer science
+423,2017 Spring,1,History,88,1,Clg of Letters & Science,computer science
+424,2017 Spring,1,History,98,3,Clg of Letters & Science,computer science
+425,2017 Spring,6,History,100AC,2,Clg of Letters & Science,computer science
+426,2017 Spring,2,History,100AP,2,Clg of Letters & Science,computer science
+427,2017 Spring,1,History,100F,1,Clg of Letters & Science,computer science
+428,2017 Spring,6,History,100S,2,Clg of Letters & Science,computer science
+429,2017 Spring,4,History,100U,1,Clg of Letters & Science,computer science
+430,2017 Spring,1,History,103B,1,Clg of Letters & Science,computer science
+431,2017 Spring,1,History,106B,1,Clg of Letters & Science,computer science
+432,2017 Spring,2,History,109C,1,Clg of Letters & Science,computer science
+433,2017 Spring,1,History,111B,1,Clg of Letters & Science,computer science
+434,2017 Spring,3,History,117A,1,Clg of Letters & Science,computer science
+435,2017 Spring,1,History,119A,1,Clg of Letters & Science,computer science
+436,2017 Spring,1,History,122AC,1,Clg of Letters & Science,computer science
+437,2017 Spring,2,History,124B,1,Clg of Letters & Science,computer science
+438,2017 Spring,1,History,141B,1,Clg of Letters & Science,computer science
+439,2017 Spring,10,History,160,1,Clg of Letters & Science,computer science
+440,2017 Spring,15,History,162B,1,Clg of Letters & Science,computer science
+441,2017 Spring,2,History,171C,1,Clg of Letters & Science,computer science
+442,2017 Spring,2,History,180,1,Clg of Letters & Science,computer science
+443,2017 Spring,1,History,180T,1,Clg of Letters & Science,computer science
+444,2017 Spring,4,History,182A,1,Clg of Letters & Science,computer science
+445,2017 Spring,2,History,185B,1,Clg of Letters & Science,computer science
+446,2017 Spring,7,History,186,1,Clg of Letters & Science,computer science
+447,2017 Spring,1,History,198BC,1,Clg of Letters & Science,computer science
+448,2017 Spring,7,History of Art,11,1,Clg of Letters & Science,computer science
+449,2017 Spring,1,History of Art,35,1,Clg of Letters & Science,computer science
+450,2017 Spring,2,History of Art,87AC,1,Clg of Letters & Science,computer science
+451,2017 Spring,1,History of Art,192G,1,Clg of Letters & Science,computer science
+452,2017 Spring,4,History of Art,198,1,Clg of Letters & Science,computer science
+453,2017 Spring,3,History of Art,198,2,Clg of Letters & Science,computer science
+454,2017 Spring,6,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,computer science
+455,2017 Spring,1,Industrial Eng & Ops Rsch,131,1,Clg of Engineering,computer science
+456,2017 Spring,3,Industrial Eng & Ops Rsch,153,1,Clg of Engineering,computer science
+457,2017 Spring,21,Industrial Eng & Ops Rsch,160,1,Clg of Engineering,computer science
+458,2017 Spring,7,Industrial Eng & Ops Rsch,162,1,Clg of Engineering,computer science
+459,2017 Spring,3,Industrial Eng & Ops Rsch,166,1,Clg of Engineering,computer science
+460,2017 Spring,4,Industrial Eng & Ops Rsch,170,1,Clg of Engineering,computer science
+461,2017 Spring,4,Industrial Eng & Ops Rsch,171,1,Clg of Engineering,computer science
+462,2017 Spring,1,Industrial Eng & Ops Rsch,173,1,Clg of Engineering,computer science
+463,2017 Spring,1,Industrial Eng & Ops Rsch,185,1,Clg of Engineering,computer science
+464,2017 Spring,3,Industrial Eng & Ops Rsch,185,2,Clg of Engineering,computer science
+465,2017 Spring,6,Industrial Eng & Ops Rsch,186,1,Clg of Engineering,computer science
+466,2017 Spring,8,Industrial Eng & Ops Rsch,190C,1,Clg of Engineering,computer science
+467,2017 Spring,4,Industrial Eng & Ops Rsch,190D,1,Clg of Engineering,computer science
+468,2017 Spring,9,Industrial Eng & Ops Rsch,191,1,Clg of Engineering,computer science
+469,2017 Spring,7,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,computer science
+470,2017 Spring,13,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,computer science
+471,2017 Spring,3,Industrial Eng & Ops Rsch,198,3,Clg of Engineering,computer science
+472,2017 Spring,4,Information,88A,1,School of Information,computer science
+473,2017 Spring,4,Information,103,1,School of Information,computer science
+474,2017 Spring,1,Information,C167,1,School of Information,computer science
+475,2017 Spring,1,Information,190,2,School of Information,computer science
+476,2017 Spring,5,Integrative Biology,C32,1,Clg of Letters & Science,computer science
+477,2017 Spring,1,Integrative Biology,114,1,Clg of Letters & Science,computer science
+478,2017 Spring,5,Integrative Biology,140,1,Clg of Letters & Science,computer science
+479,2017 Spring,4,Integrative Biology,C143B,1,Clg of Letters & Science,computer science
+480,2017 Spring,1,Integrative Biology,161,1,Clg of Letters & Science,computer science
+481,2017 Spring,1,Integrative Biology,169,1,Clg of Letters & Science,computer science
+482,2017 Spring,6,Integrative Biology,198,1,Clg of Letters & Science,computer science
+483,2017 Spring,1,Integrative Biology,198,2,Clg of Letters & Science,computer science
+484,2017 Spring,1,Integrative Biology,198,3,Clg of Letters & Science,computer science
+485,2017 Spring,3,Integrative Biology,198,6,Clg of Letters & Science,computer science
+486,2017 Spring,1,Interdisciplinary Studies,61,1,Clg of Letters & Science,computer science
+487,2017 Spring,4,Interdisciplinary Studies,100A,1,Clg of Letters & Science,computer science
+488,2017 Spring,1,Interdisciplinary Studies,100C,1,Clg of Letters & Science,computer science
+489,2017 Spring,4,Interdisciplinary Studies,100G,1,Clg of Letters & Science,computer science
+490,2017 Spring,1,Interdisciplinary Studies,198,5,Clg of Letters & Science,computer science
+491,2017 Spring,1,International & Area Stds,C118,1,Clg of Letters & Science,computer science
+492,2017 Spring,1,International & Area Stds,198,2,Clg of Letters & Science,computer science
+493,2017 Spring,1,Italian Studies,1,2,Clg of Letters & Science,computer science
+494,2017 Spring,1,Italian Studies,4,1,Clg of Letters & Science,computer science
+495,2017 Spring,1,Japanese,1B,1,Clg of Letters & Science,computer science
+496,2017 Spring,2,Japanese,1B,2,Clg of Letters & Science,computer science
+497,2017 Spring,1,Japanese,1B,3,Clg of Letters & Science,computer science
+498,2017 Spring,4,Japanese,1B,4,Clg of Letters & Science,computer science
+499,2017 Spring,2,Japanese,1B,5,Clg of Letters & Science,computer science
+500,2017 Spring,2,Japanese,1B,6,Clg of Letters & Science,computer science
+501,2017 Spring,2,Japanese,1B,7,Clg of Letters & Science,computer science
+502,2017 Spring,2,Japanese,1B,8,Clg of Letters & Science,computer science
+503,2017 Spring,1,Japanese,7B,1,Clg of Letters & Science,computer science
+504,2017 Spring,4,Japanese,10B,1,Clg of Letters & Science,computer science
+505,2017 Spring,1,Japanese,10B,2,Clg of Letters & Science,computer science
+506,2017 Spring,2,Japanese,10B,3,Clg of Letters & Science,computer science
+507,2017 Spring,1,Japanese,80,1,Clg of Letters & Science,computer science
+508,2017 Spring,3,Japanese,100B,1,Clg of Letters & Science,computer science
+509,2017 Spring,3,Japanese,100B,2,Clg of Letters & Science,computer science
+510,2017 Spring,1,Japanese,155,1,Clg of Letters & Science,computer science
+511,2017 Spring,4,Japanese,161,1,Clg of Letters & Science,computer science
+512,2017 Spring,3,Japanese,188,1,Clg of Letters & Science,computer science
+513,2017 Spring,3,Jewish Studies,101,1,Clg of Letters & Science,computer science
+514,2017 Spring,1,Korean,1A,1,Clg of Letters & Science,computer science
+515,2017 Spring,1,Korean,1B,1,Clg of Letters & Science,computer science
+516,2017 Spring,2,Korean,1B,4,Clg of Letters & Science,computer science
+517,2017 Spring,2,Korean,1B,5,Clg of Letters & Science,computer science
+518,2017 Spring,3,Korean,1B,6,Clg of Letters & Science,computer science
+519,2017 Spring,1,Korean,1BX,1,Clg of Letters & Science,computer science
+520,2017 Spring,1,Korean,7B,1,Clg of Letters & Science,computer science
+521,2017 Spring,1,Korean,10BX,1,Clg of Letters & Science,computer science
+522,2017 Spring,1,Korean,100B,1,Clg of Letters & Science,computer science
+523,2017 Spring,2,Korean,100BX,1,Clg of Letters & Science,computer science
+524,2017 Spring,3,Korean,102,1,Clg of Letters & Science,computer science
+525,2017 Spring,1,Korean,112,1,Clg of Letters & Science,computer science
+526,2017 Spring,1,Landscape Arch & Env Plan,1,1,Clg of Environmental Design,computer science
+527,2017 Spring,1,Landscape Arch & Env Plan,C177,1,Clg of Environmental Design,computer science
+528,2017 Spring,1,Landscape Arch & Env Plan,198,1,Clg of Environmental Design,computer science
+529,2017 Spring,1,Legal Studies,R1B,1,School of Law,computer science
+530,2017 Spring,2,Legal Studies,100,1,School of Law,computer science
+531,2017 Spring,2,Legal Studies,105,1,School of Law,computer science
+532,2017 Spring,1,Legal Studies,132AC,1,School of Law,computer science
+533,2017 Spring,1,Legal Studies,152AC,1,School of Law,computer science
+534,2017 Spring,2,Legal Studies,177,1,School of Law,computer science
+535,2017 Spring,1,Legal Studies,198,1,School of Law,computer science
+536,2017 Spring,1,Letters & Science,C5,1,Clg of Letters & Science,computer science
+537,2017 Spring,8,Letters & Science,22,1,Clg of Letters & Science,computer science
+538,2017 Spring,7,Letters & Science,25,1,Clg of Letters & Science,computer science
+539,2017 Spring,7,Letters & Science,C30Y,1,Clg of Letters & Science,computer science
+540,2017 Spring,12,Letters & Science,C30Z,1,Clg of Letters & Science,computer science
+541,2017 Spring,1,Letters & Science,70A,1,Clg of Letters & Science,computer science
+542,2017 Spring,1,Letters & Science,C70T,1,Clg of Letters & Science,computer science
+543,2017 Spring,2,Letters & Science,88,5,Clg of Letters & Science,computer science
+544,2017 Spring,1,Letters & Science,105,1,Clg of Letters & Science,computer science
+545,2017 Spring,8,Letters & Science,124,1,Clg of Letters & Science,computer science
+546,2017 Spring,13,Letters & Science,160B,1,Clg of Letters & Science,computer science
+547,2017 Spring,18,Letters & Science,C180U,1,Clg of Letters & Science,computer science
+548,2017 Spring,1,Linguistics,1B,2,Clg of Letters & Science,computer science
+549,2017 Spring,1,Linguistics,R1B,1,Clg of Letters & Science,computer science
+550,2017 Spring,1,Linguistics,10,1,Clg of Letters & Science,computer science
+551,2017 Spring,31,Linguistics,100,1,Clg of Letters & Science,computer science
+552,2017 Spring,1,Linguistics,108,1,Clg of Letters & Science,computer science
+553,2017 Spring,3,Linguistics,113,1,Clg of Letters & Science,computer science
+554,2017 Spring,3,Linguistics,115,1,Clg of Letters & Science,computer science
+555,2017 Spring,10,Linguistics,120,1,Clg of Letters & Science,computer science
+556,2017 Spring,1,Linguistics,121,1,Clg of Letters & Science,computer science
+557,2017 Spring,3,Linguistics,C146,1,Clg of Letters & Science,computer science
+558,2017 Spring,3,Linguistics,C160,1,Clg of Letters & Science,computer science
+559,2017 Spring,2,Linguistics,197,1,Clg of Letters & Science,computer science
+560,2017 Spring,2,Linguistics,198,2,Clg of Letters & Science,computer science
+561,2017 Spring,2,Mathematics,1B,2,Clg of Letters & Science,computer science
+562,2017 Spring,9,Mathematics,53,1,Clg of Letters & Science,computer science
+563,2017 Spring,8,Mathematics,53,2,Clg of Letters & Science,computer science
+564,2017 Spring,1,Mathematics,H53,1,Clg of Letters & Science,computer science
+565,2017 Spring,5,Mathematics,54,1,Clg of Letters & Science,computer science
+566,2017 Spring,7,Mathematics,54,2,Clg of Letters & Science,computer science
+567,2017 Spring,2,Mathematics,98,11,Clg of Letters & Science,computer science
+568,2017 Spring,1,Mathematics,98,12,Clg of Letters & Science,computer science
+569,2017 Spring,1,Mathematics,98BC,3,Clg of Letters & Science,computer science
+570,2017 Spring,3,Mathematics,104,1,Clg of Letters & Science,computer science
+571,2017 Spring,3,Mathematics,104,2,Clg of Letters & Science,computer science
+572,2017 Spring,6,Mathematics,104,3,Clg of Letters & Science,computer science
+573,2017 Spring,2,Mathematics,104,4,Clg of Letters & Science,computer science
+574,2017 Spring,2,Mathematics,104,5,Clg of Letters & Science,computer science
+575,2017 Spring,5,Mathematics,104,6,Clg of Letters & Science,computer science
+576,2017 Spring,4,Mathematics,105,1,Clg of Letters & Science,computer science
+577,2017 Spring,60,Mathematics,110,1,Clg of Letters & Science,computer science
+578,2017 Spring,3,Mathematics,113,2,Clg of Letters & Science,computer science
+579,2017 Spring,1,Mathematics,113,3,Clg of Letters & Science,computer science
+580,2017 Spring,4,Mathematics,113,4,Clg of Letters & Science,computer science
+581,2017 Spring,8,Mathematics,113,5,Clg of Letters & Science,computer science
+582,2017 Spring,2,Mathematics,113,6,Clg of Letters & Science,computer science
+583,2017 Spring,3,Mathematics,113,7,Clg of Letters & Science,computer science
+584,2017 Spring,3,Mathematics,H113,1,Clg of Letters & Science,computer science
+585,2017 Spring,3,Mathematics,114,1,Clg of Letters & Science,computer science
+586,2017 Spring,10,Mathematics,115,1,Clg of Letters & Science,computer science
+587,2017 Spring,2,Mathematics,118,1,Clg of Letters & Science,computer science
+588,2017 Spring,1,Mathematics,121B,1,Clg of Letters & Science,computer science
+589,2017 Spring,5,Mathematics,126,1,Clg of Letters & Science,computer science
+590,2017 Spring,22,Mathematics,128A,1,Clg of Letters & Science,computer science
+591,2017 Spring,3,Mathematics,128B,1,Clg of Letters & Science,computer science
+592,2017 Spring,6,Mathematics,135,1,Clg of Letters & Science,computer science
+593,2017 Spring,5,Mathematics,136,1,Clg of Letters & Science,computer science
+594,2017 Spring,1,Mathematics,140,1,Clg of Letters & Science,computer science
+595,2017 Spring,5,Mathematics,142,1,Clg of Letters & Science,computer science
+596,2017 Spring,10,Mathematics,160,1,Clg of Letters & Science,computer science
+597,2017 Spring,1,Mathematics,170,1,Clg of Letters & Science,computer science
+598,2017 Spring,2,Mathematics,172,1,Clg of Letters & Science,computer science
+599,2017 Spring,4,Mathematics,185,1,Clg of Letters & Science,computer science
+600,2017 Spring,4,Mathematics,185,2,Clg of Letters & Science,computer science
+601,2017 Spring,2,Mathematics,185,3,Clg of Letters & Science,computer science
+602,2017 Spring,3,Mathematics,185,4,Clg of Letters & Science,computer science
+603,2017 Spring,3,Mathematics,185,5,Clg of Letters & Science,computer science
+604,2017 Spring,1,Mathematics,191,1,Clg of Letters & Science,computer science
+605,2017 Spring,1,Mathematics,197,2,Clg of Letters & Science,computer science
+606,2017 Spring,1,Mathematics,198,1,Clg of Letters & Science,computer science
+607,2017 Spring,4,Mathematics,198,2,Clg of Letters & Science,computer science
+608,2017 Spring,8,Mathematics,198,3,Clg of Letters & Science,computer science
+609,2017 Spring,2,Mathematics,198BC,3,Clg of Letters & Science,computer science
+610,2017 Spring,2,Mathematics,198BC,4,Clg of Letters & Science,computer science
+611,2017 Spring,2,Mechanical Engineering,102B,1,Clg of Engineering,computer science
+612,2017 Spring,1,Mechanical Engineering,110,1,Clg of Engineering,computer science
+613,2017 Spring,5,Mechanical Engineering,135,1,Clg of Engineering,computer science
+614,2017 Spring,2,Mechanical Engineering,193E,1,Clg of Engineering,computer science
+615,2017 Spring,2,Mechanical Engineering,198,50,Clg of Engineering,computer science
+616,2017 Spring,5,Molecular & Cell Biology,C44,1,Clg of Letters & Science,computer science
+617,2017 Spring,14,Molecular & Cell Biology,C61,1,Clg of Letters & Science,computer science
+618,2017 Spring,1,Molecular & Cell Biology,98,205,Clg of Letters & Science,computer science
+619,2017 Spring,2,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,computer science
+620,2017 Spring,2,Molecular & Cell Biology,C103,1,Clg of Letters & Science,computer science
+621,2017 Spring,3,Molecular & Cell Biology,104,1,Clg of Letters & Science,computer science
+622,2017 Spring,1,Molecular & Cell Biology,C110L,1,Clg of Letters & Science,computer science
+623,2017 Spring,1,Molecular & Cell Biology,130,1,Clg of Letters & Science,computer science
+624,2017 Spring,2,Molecular & Cell Biology,137L,1,Clg of Letters & Science,computer science
+625,2017 Spring,2,Molecular & Cell Biology,140L,1,Clg of Letters & Science,computer science
+626,2017 Spring,2,Molecular & Cell Biology,161,1,Clg of Letters & Science,computer science
+627,2017 Spring,2,Mongolian,C117,1,Clg of Letters & Science,computer science
+628,2017 Spring,2,Music,20A,5,Clg of Letters & Science,computer science
+629,2017 Spring,2,Music,20A,6,Clg of Letters & Science,computer science
+630,2017 Spring,1,Music,20B,1,Clg of Letters & Science,computer science
+631,2017 Spring,2,Music,25A,1,Clg of Letters & Science,computer science
+632,2017 Spring,1,Music,25A,2,Clg of Letters & Science,computer science
+633,2017 Spring,37,Music,26AC,1,Clg of Letters & Science,computer science
+634,2017 Spring,19,Music,29,1,Clg of Letters & Science,computer science
+635,2017 Spring,1,Music,41B,1,Clg of Letters & Science,computer science
+636,2017 Spring,4,Music,44,1,Clg of Letters & Science,computer science
+637,2017 Spring,2,Music,44,2,Clg of Letters & Science,computer science
+638,2017 Spring,1,Music,52B,2,Clg of Letters & Science,computer science
+639,2017 Spring,1,Music,53A,1,Clg of Letters & Science,computer science
+640,2017 Spring,2,Music,80,1,Clg of Letters & Science,computer science
+641,2017 Spring,1,Music,97,1,Clg of Letters & Science,computer science
+642,2017 Spring,3,Music,98BC,2,Clg of Letters & Science,computer science
+643,2017 Spring,1,Music,116B,1,Clg of Letters & Science,computer science
+644,2017 Spring,3,Music,128,1,Clg of Letters & Science,computer science
+645,2017 Spring,1,Music,128V,1,Clg of Letters & Science,computer science
+646,2017 Spring,4,Music,139,1,Clg of Letters & Science,computer science
+647,2017 Spring,2,Music,140,1,Clg of Letters & Science,computer science
+648,2017 Spring,1,Music,140,2,Clg of Letters & Science,computer science
+649,2017 Spring,4,Music,141,1,Clg of Letters & Science,computer science
+650,2017 Spring,2,Music,142,1,Clg of Letters & Science,computer science
+651,2017 Spring,1,Music,142,2,Clg of Letters & Science,computer science
+652,2017 Spring,1,Music,143,1,Clg of Letters & Science,computer science
+653,2017 Spring,1,Music,144,1,Clg of Letters & Science,computer science
+654,2017 Spring,3,Music,146B,1,Clg of Letters & Science,computer science
+655,2017 Spring,2,Music,148,1,Clg of Letters & Science,computer science
+656,2017 Spring,2,Music,150A,1,Clg of Letters & Science,computer science
+657,2017 Spring,1,Music,150C,1,Clg of Letters & Science,computer science
+658,2017 Spring,1,Music,153B,1,Clg of Letters & Science,computer science
+659,2017 Spring,2,Music,154B,1,Clg of Letters & Science,computer science
+660,2017 Spring,1,Music,155,1,Clg of Letters & Science,computer science
+661,2017 Spring,1,Music,157B,1,Clg of Letters & Science,computer science
+662,2017 Spring,2,Music,158B,1,Clg of Letters & Science,computer science
+663,2017 Spring,8,Music,159,1,Clg of Letters & Science,computer science
+664,2017 Spring,2,Music,165,1,Clg of Letters & Science,computer science
+665,2017 Spring,1,Music,170,1,Clg of Letters & Science,computer science
+666,2017 Spring,1,Music,197,2,Clg of Letters & Science,computer science
+667,2017 Spring,3,Music,198,1,Clg of Letters & Science,computer science
+668,2017 Spring,2,Music,198,2,Clg of Letters & Science,computer science
+669,2017 Spring,7,Music,198,3,Clg of Letters & Science,computer science
+670,2017 Spring,1,Music,198,5,Clg of Letters & Science,computer science
+671,2017 Spring,1,Music,198,7,Clg of Letters & Science,computer science
+672,2017 Spring,2,Music,198,8,Clg of Letters & Science,computer science
+673,2017 Spring,1,Music,198,10,Clg of Letters & Science,computer science
+674,2017 Spring,1,Music,198BC,1,Clg of Letters & Science,computer science
+675,2017 Spring,1,Native American Studies,R1B,1,Clg of Letters & Science,computer science
+676,2017 Spring,1,Native American Studies,71,1,Clg of Letters & Science,computer science
+677,2017 Spring,1,Native American Studies,110,1,Clg of Letters & Science,computer science
+678,2017 Spring,1,Native American Studies,120AC,1,Clg of Letters & Science,computer science
+679,2017 Spring,1,Near Eastern Studies,15,1,Clg of Letters & Science,computer science
+680,2017 Spring,1,Near Eastern Studies,C104,1,Clg of Letters & Science,computer science
+681,2017 Spring,1,Near Eastern Studies,109,1,Clg of Letters & Science,computer science
+682,2017 Spring,1,Near Eastern Studies,129,1,Clg of Letters & Science,computer science
+683,2017 Spring,2,Near Eastern Studies,146B,1,Clg of Letters & Science,computer science
+684,2017 Spring,2,Near Eastern Studies,165,1,Clg of Letters & Science,computer science
+685,2017 Spring,1,Near Eastern Studies,180,1,Clg of Letters & Science,computer science
+686,2017 Spring,8,New Media,190,4,Clg of Engineering,computer science
+687,2017 Spring,9,New Media,198,1,Clg of Engineering,computer science
+688,2017 Spring,2,Norwegian,1B,1,Clg of Letters & Science,computer science
+689,2017 Spring,40,Nutritional Science & Tox,10,1,Clg of Natural Resources,computer science
+690,2017 Spring,4,Nutritional Science & Tox,11,1,Clg of Natural Resources,computer science
+691,2017 Spring,1,Nutritional Science & Tox,20,1,Clg of Natural Resources,computer science
+692,2017 Spring,1,Nutritional Science & Tox,20,2,Clg of Natural Resources,computer science
+693,2017 Spring,4,Nutritional Science & Tox,98,2,Clg of Natural Resources,computer science
+694,2017 Spring,2,Nutritional Science & Tox,104,1,Clg of Natural Resources,computer science
+695,2017 Spring,2,Nutritional Science & Tox,198,1,Clg of Natural Resources,computer science
+696,2017 Spring,5,Nutritional Science & Tox,198,2,Clg of Natural Resources,computer science
+697,2017 Spring,3,Optometry,10,1,School of Optometry,computer science
+698,2017 Spring,3,Peace & Conflict Studies,10,1,Clg of Letters & Science,computer science
+699,2017 Spring,1,Peace & Conflict Studies,100,1,Clg of Letters & Science,computer science
+700,2017 Spring,5,Peace & Conflict Studies,135,1,Clg of Letters & Science,computer science
+701,2017 Spring,4,Peace & Conflict Studies,151,1,Clg of Letters & Science,computer science
+702,2017 Spring,7,Philosophy,2,1,Clg of Letters & Science,computer science
+703,2017 Spring,8,Philosophy,3,1,Clg of Letters & Science,computer science
+704,2017 Spring,33,Philosophy,12A,1,Clg of Letters & Science,computer science
+705,2017 Spring,6,Philosophy,25B,1,Clg of Letters & Science,computer science
+706,2017 Spring,2,Philosophy,110,1,Clg of Letters & Science,computer science
+707,2017 Spring,2,Philosophy,132,1,Clg of Letters & Science,computer science
+708,2017 Spring,1,Philosophy,133,1,Clg of Letters & Science,computer science
+709,2017 Spring,1,Philosophy,161,1,Clg of Letters & Science,computer science
+710,2017 Spring,1,Philosophy,198,2,Clg of Letters & Science,computer science
+711,2017 Spring,2,Physical Education,1,1,Clg of Letters & Science,computer science
+712,2017 Spring,1,Physical Education,1,2,Clg of Letters & Science,computer science
+713,2017 Spring,1,Physical Education,1,3,Clg of Letters & Science,computer science
+714,2017 Spring,1,Physical Education,1,5,Clg of Letters & Science,computer science
+715,2017 Spring,2,Physical Education,1,6,Clg of Letters & Science,computer science
+716,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,computer science
+717,2017 Spring,3,Physical Education,1,9,Clg of Letters & Science,computer science
+718,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,computer science
+719,2017 Spring,2,Physical Education,1,12,Clg of Letters & Science,computer science
+720,2017 Spring,1,Physical Education,1,13,Clg of Letters & Science,computer science
+721,2017 Spring,1,Physical Education,1,14,Clg of Letters & Science,computer science
+722,2017 Spring,6,Physical Education,1,15,Clg of Letters & Science,computer science
+723,2017 Spring,3,Physical Education,1,16,Clg of Letters & Science,computer science
+724,2017 Spring,1,Physical Education,1,17,Clg of Letters & Science,computer science
+725,2017 Spring,1,Physical Education,1,18,Clg of Letters & Science,computer science
+726,2017 Spring,2,Physical Education,1,19,Clg of Letters & Science,computer science
+727,2017 Spring,3,Physical Education,1,21,Clg of Letters & Science,computer science
+728,2017 Spring,3,Physical Education,1,22,Clg of Letters & Science,computer science
+729,2017 Spring,2,Physical Education,1,23,Clg of Letters & Science,computer science
+730,2017 Spring,2,Physical Education,1,24,Clg of Letters & Science,computer science
+731,2017 Spring,6,Physical Education,1,26,Clg of Letters & Science,computer science
+732,2017 Spring,5,Physical Education,1,27,Clg of Letters & Science,computer science
+733,2017 Spring,2,Physical Education,1,28,Clg of Letters & Science,computer science
+734,2017 Spring,3,Physical Education,1,30,Clg of Letters & Science,computer science
+735,2017 Spring,2,Physical Education,1,31,Clg of Letters & Science,computer science
+736,2017 Spring,3,Physical Education,1,32,Clg of Letters & Science,computer science
+737,2017 Spring,1,Physical Education,1,35,Clg of Letters & Science,computer science
+738,2017 Spring,1,Physical Education,1,36,Clg of Letters & Science,computer science
+739,2017 Spring,1,Physical Education,1,40,Clg of Letters & Science,computer science
+740,2017 Spring,8,Physical Education,1,42,Clg of Letters & Science,computer science
+741,2017 Spring,1,Physical Education,1,43,Clg of Letters & Science,computer science
+742,2017 Spring,5,Physical Education,1,45,Clg of Letters & Science,computer science
+743,2017 Spring,2,Physical Education,2,5,Clg of Letters & Science,computer science
+744,2017 Spring,2,Physical Education,2,6,Clg of Letters & Science,computer science
+745,2017 Spring,1,Physical Education,2,8,Clg of Letters & Science,computer science
+746,2017 Spring,7,Physical Education,2,9,Clg of Letters & Science,computer science
+747,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,computer science
+748,2017 Spring,2,Physical Education,2,13,Clg of Letters & Science,computer science
+749,2017 Spring,3,Physical Education,2,14,Clg of Letters & Science,computer science
+750,2017 Spring,2,Physical Education,2,15,Clg of Letters & Science,computer science
+751,2017 Spring,2,Physical Education,2,16,Clg of Letters & Science,computer science
+752,2017 Spring,2,Physical Education,2,17,Clg of Letters & Science,computer science
+753,2017 Spring,2,Physical Education,3,1,Clg of Letters & Science,computer science
+754,2017 Spring,1,Physical Education,3,4,Clg of Letters & Science,computer science
+755,2017 Spring,1,Physical Education,3,6,Clg of Letters & Science,computer science
+756,2017 Spring,4,Physical Education,3,7,Clg of Letters & Science,computer science
+757,2017 Spring,6,Physical Education,3,8,Clg of Letters & Science,computer science
+758,2017 Spring,4,Physical Education,3,9,Clg of Letters & Science,computer science
+759,2017 Spring,3,Physical Education,3,10,Clg of Letters & Science,computer science
+760,2017 Spring,3,Physical Education,3,11,Clg of Letters & Science,computer science
+761,2017 Spring,3,Physical Education,3,12,Clg of Letters & Science,computer science
+762,2017 Spring,1,Physical Education,4,1,Clg of Letters & Science,computer science
+763,2017 Spring,2,Physical Education,4,2,Clg of Letters & Science,computer science
+764,2017 Spring,1,Physical Education,4,3,Clg of Letters & Science,computer science
+765,2017 Spring,6,Physical Education,4,4,Clg of Letters & Science,computer science
+766,2017 Spring,2,Physical Education,4,5,Clg of Letters & Science,computer science
+767,2017 Spring,5,Physical Education,4,7,Clg of Letters & Science,computer science
+768,2017 Spring,1,Physical Education,11,15,Clg of Letters & Science,computer science
+769,2017 Spring,1,Physical Education,11,16,Clg of Letters & Science,computer science
+770,2017 Spring,1,Physical Education,11,25,Clg of Letters & Science,computer science
+771,2017 Spring,1,Physical Education,11,26,Clg of Letters & Science,computer science
+772,2017 Spring,2,Physical Education,98,1,Clg of Letters & Science,computer science
+773,2017 Spring,1,Physical Education,198,1,Clg of Letters & Science,computer science
+774,2017 Spring,4,Physical Education,198,2,Clg of Letters & Science,computer science
+775,2017 Spring,1,Physics,7A,2,Clg of Letters & Science,computer science
+776,2017 Spring,1,Physics,7B,2,Clg of Letters & Science,computer science
+777,2017 Spring,3,Physics,7B,3,Clg of Letters & Science,computer science
+778,2017 Spring,2,Physics,7C,1,Clg of Letters & Science,computer science
+779,2017 Spring,1,Physics,8A,1,Clg of Letters & Science,computer science
+780,2017 Spring,1,Physics,8A,2,Clg of Letters & Science,computer science
+781,2017 Spring,2,Physics,8B,2,Clg of Letters & Science,computer science
+782,2017 Spring,2,Physics,89,1,Clg of Letters & Science,computer science
+783,2017 Spring,1,Physics,98,1,Clg of Letters & Science,computer science
+784,2017 Spring,8,Physics,105,1,Clg of Letters & Science,computer science
+785,2017 Spring,2,Physics,110A,1,Clg of Letters & Science,computer science
+786,2017 Spring,1,Physics,110B,1,Clg of Letters & Science,computer science
+787,2017 Spring,5,Physics,111A,1,Clg of Letters & Science,computer science
+788,2017 Spring,6,Physics,111B,1,Clg of Letters & Science,computer science
+789,2017 Spring,6,Physics,112,1,Clg of Letters & Science,computer science
+790,2017 Spring,3,Physics,137A,1,Clg of Letters & Science,computer science
+791,2017 Spring,3,Physics,137B,1,Clg of Letters & Science,computer science
+792,2017 Spring,4,Physics,137B,2,Clg of Letters & Science,computer science
+793,2017 Spring,2,Physics,139,1,Clg of Letters & Science,computer science
+794,2017 Spring,1,Physics,141A,1,Clg of Letters & Science,computer science
+795,2017 Spring,1,Physics,141B,1,Clg of Letters & Science,computer science
+796,2017 Spring,1,Physics,C161,1,Clg of Letters & Science,computer science
+797,2017 Spring,1,Physics,H190,1,Clg of Letters & Science,computer science
+798,2017 Spring,7,Physics,C191,1,Clg of Letters & Science,computer science
+799,2017 Spring,1,Physics,198BC,2,Clg of Letters & Science,computer science
+800,2017 Spring,1,Physics,198BC,4,Clg of Letters & Science,computer science
+801,2017 Spring,9,Plant & Microbial Biology,40,1,Clg of Natural Resources,computer science
+802,2017 Spring,1,Polish,25B,1,Clg of Letters & Science,computer science
+803,2017 Spring,1,Political Economy,100,1,Clg of Letters & Science,computer science
+804,2017 Spring,4,Political Economy,101,1,Clg of Letters & Science,computer science
+805,2017 Spring,5,Political Science,1,1,Clg of Letters & Science,computer science
+806,2017 Spring,5,Political Science,2,1,Clg of Letters & Science,computer science
+807,2017 Spring,1,Political Science,111AC,1,Clg of Letters & Science,computer science
+808,2017 Spring,1,Political Science,123M,1,Clg of Letters & Science,computer science
+809,2017 Spring,2,Political Science,143E,1,Clg of Letters & Science,computer science
+810,2017 Spring,1,Political Science,157A,1,Clg of Letters & Science,computer science
+811,2017 Spring,14,Political Science,179,1,Clg of Letters & Science,computer science
+812,2017 Spring,1,Political Science,198,1,Clg of Letters & Science,computer science
+813,2017 Spring,2,Psychology,1,1,Clg of Letters & Science,computer science
+814,2017 Spring,2,Psychology,W1,1,Clg of Letters & Science,computer science
+815,2017 Spring,11,Psychology,2,1,Clg of Letters & Science,computer science
+816,2017 Spring,1,Psychology,10,1,Clg of Letters & Science,computer science
+817,2017 Spring,8,Psychology,C61,1,Clg of Letters & Science,computer science
+818,2017 Spring,8,Psychology,101,1,Clg of Letters & Science,computer science
+819,2017 Spring,2,Psychology,110,1,Clg of Letters & Science,computer science
+820,2017 Spring,4,Psychology,114,1,Clg of Letters & Science,computer science
+821,2017 Spring,11,Psychology,C126,1,Clg of Letters & Science,computer science
+822,2017 Spring,5,Psychology,128,1,Clg of Letters & Science,computer science
+823,2017 Spring,1,Psychology,130,1,Clg of Letters & Science,computer science
+824,2017 Spring,7,Psychology,131,1,Clg of Letters & Science,computer science
+825,2017 Spring,30,Psychology,133,1,Clg of Letters & Science,computer science
+826,2017 Spring,6,Psychology,C143,1,Clg of Letters & Science,computer science
+827,2017 Spring,7,Psychology,150,1,Clg of Letters & Science,computer science
+828,2017 Spring,8,Psychology,156,1,Clg of Letters & Science,computer science
+829,2017 Spring,9,Psychology,160,1,Clg of Letters & Science,computer science
+830,2017 Spring,4,Psychology,166AC,1,Clg of Letters & Science,computer science
+831,2017 Spring,2,Psychology,169,1,Clg of Letters & Science,computer science
+832,2017 Spring,1,Psychology,198,2,Clg of Letters & Science,computer science
+833,2017 Spring,1,Psychology,198,4,Clg of Letters & Science,computer science
+834,2017 Spring,4,Psychology,198,5,Clg of Letters & Science,computer science
+835,2017 Spring,3,Psychology,198,6,Clg of Letters & Science,computer science
+836,2017 Spring,2,Psychology,198,11,Clg of Letters & Science,computer science
+837,2017 Spring,3,Psychology,198,12,Clg of Letters & Science,computer science
+838,2017 Spring,1,Psychology,198,13,Clg of Letters & Science,computer science
+839,2017 Spring,1,Psychology,198,15,Clg of Letters & Science,computer science
+840,2017 Spring,1,Public Health,116,1,School of Public Health,computer science
+841,2017 Spring,3,Public Health,126,1,School of Public Health,computer science
+842,2017 Spring,4,Public Health,142,1,School of Public Health,computer science
+843,2017 Spring,1,Public Health,150A,1,School of Public Health,computer science
+844,2017 Spring,1,Public Health,C160,1,School of Public Health,computer science
+845,2017 Spring,1,Public Health,196,8,School of Public Health,computer science
+846,2017 Spring,2,Public Health,198,10,School of Public Health,computer science
+847,2017 Spring,2,Public Policy,101,1,Goldman School Public Policy,computer science
+848,2017 Spring,35,Public Policy,C103,1,Goldman School Public Policy,computer science
+849,2017 Spring,1,Public Policy,190,2,Goldman School Public Policy,computer science
+850,2017 Spring,1,Public Policy,198,2,Goldman School Public Policy,computer science
+851,2017 Spring,1,Rhetoric,R1B,5,Clg of Letters & Science,computer science
+852,2017 Spring,1,Rhetoric,103B,1,Clg of Letters & Science,computer science
+853,2017 Spring,2,Rhetoric,107,1,Clg of Letters & Science,computer science
+854,2017 Spring,1,Rhetoric,135T,1,Clg of Letters & Science,computer science
+855,2017 Spring,1,Rhetoric,137,1,Clg of Letters & Science,computer science
+856,2017 Spring,1,Rhetoric,189,1,Clg of Letters & Science,computer science
+857,2017 Spring,2,Rhetoric,198,1,Clg of Letters & Science,computer science
+858,2017 Spring,1,Russian,3,1,Clg of Letters & Science,computer science
+859,2017 Spring,1,Sanskrit,100B,1,Clg of Letters & Science,computer science
+860,2017 Spring,1,Scandinavian,R5B,6,Clg of Letters & Science,computer science
+861,2017 Spring,3,Scandinavian,60,1,Clg of Letters & Science,computer science
+862,2017 Spring,2,Scandinavian,100B,1,Clg of Letters & Science,computer science
+863,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,computer science
+864,2017 Spring,5,Scandinavian,160,1,Clg of Letters & Science,computer science
+865,2017 Spring,1,Slavic Languages & Lit,R5A,2,Clg of Letters & Science,computer science
+866,2017 Spring,1,Slavic Languages & Lit,39,1,Clg of Letters & Science,computer science
+867,2017 Spring,1,Slavic Languages & Lit,46,1,Clg of Letters & Science,computer science
+868,2017 Spring,6,Slavic Languages & Lit,50,1,Clg of Letters & Science,computer science
+869,2017 Spring,2,Slavic Languages & Lit,134C,1,Clg of Letters & Science,computer science
+870,2017 Spring,2,Slavic Languages & Lit,134E,1,Clg of Letters & Science,computer science
+871,2017 Spring,2,Slavic Languages & Lit,190,1,Clg of Letters & Science,computer science
+872,2017 Spring,1,Social Welfare,198,2,School of Social Welfare,computer science
+873,2017 Spring,2,Sociology,3AC,1,Clg of Letters & Science,computer science
+874,2017 Spring,1,Sociology,102,1,Clg of Letters & Science,computer science
+875,2017 Spring,6,Sociology,110,1,Clg of Letters & Science,computer science
+876,2017 Spring,1,Sociology,111AC,1,Clg of Letters & Science,computer science
+877,2017 Spring,1,Sociology,113AC,1,Clg of Letters & Science,computer science
+878,2017 Spring,1,Sociology,114,1,Clg of Letters & Science,computer science
+879,2017 Spring,5,Sociology,117,1,Clg of Letters & Science,computer science
+880,2017 Spring,1,Sociology,120,1,Clg of Letters & Science,computer science
+881,2017 Spring,2,Sociology,121,1,Clg of Letters & Science,computer science
+882,2017 Spring,1,Sociology,133,1,Clg of Letters & Science,computer science
+883,2017 Spring,1,Sociology,137AC,1,Clg of Letters & Science,computer science
+884,2017 Spring,3,Sociology,C167,1,Clg of Letters & Science,computer science
+885,2017 Spring,4,Sociology,180C,1,Clg of Letters & Science,computer science
+886,2017 Spring,1,Sociology,190,1,Clg of Letters & Science,computer science
+887,2017 Spring,1,Sociology,198,2,Clg of Letters & Science,computer science
+888,2017 Spring,2,Sociology,198,4,Clg of Letters & Science,computer science
+889,2017 Spring,1,Sociology,198,6,Clg of Letters & Science,computer science
+890,2017 Spring,1,Sociology,198,8,Clg of Letters & Science,computer science
+891,2017 Spring,6,Sociology,198,9,Clg of Letters & Science,computer science
+892,2017 Spring,1,Sociology,198,24,Clg of Letters & Science,computer science
+893,2017 Spring,1,Sociology,198,25,Clg of Letters & Science,computer science
+894,2017 Spring,1,Sociology,198BC,2,Clg of Letters & Science,computer science
+895,2017 Spring,1,South & SE Asian Studies,R5B,1,Clg of Letters & Science,computer science
+896,2017 Spring,1,South & SE Asian Studies,39,1,Clg of Letters & Science,computer science
+897,2017 Spring,2,South & SE Asian Studies,C145,1,Clg of Letters & Science,computer science
+898,2017 Spring,3,South & SE Asian Studies,150,1,Clg of Letters & Science,computer science
+899,2017 Spring,2,South Asian,1B,1,Clg of Letters & Science,computer science
+900,2017 Spring,2,South Asian,R5B,1,Clg of Letters & Science,computer science
+901,2017 Spring,1,South Asian,R5B,2,Clg of Letters & Science,computer science
+902,2017 Spring,5,South Asian,R5B,3,Clg of Letters & Science,computer science
+903,2017 Spring,4,South Asian,110,1,Clg of Letters & Science,computer science
+904,2017 Spring,6,South Asian,142,1,Clg of Letters & Science,computer science
+905,2017 Spring,1,Southeast Asian,10B,1,Clg of Letters & Science,computer science
+906,2017 Spring,1,Spanish,1,1,Clg of Letters & Science,computer science
+907,2017 Spring,1,Spanish,1,2,Clg of Letters & Science,computer science
+908,2017 Spring,1,Spanish,1,6,Clg of Letters & Science,computer science
+909,2017 Spring,1,Spanish,2,1,Clg of Letters & Science,computer science
+910,2017 Spring,1,Spanish,2,3,Clg of Letters & Science,computer science
+911,2017 Spring,2,Spanish,2,4,Clg of Letters & Science,computer science
+912,2017 Spring,1,Spanish,2,6,Clg of Letters & Science,computer science
+913,2017 Spring,1,Spanish,3,3,Clg of Letters & Science,computer science
+914,2017 Spring,1,Spanish,25,6,Clg of Letters & Science,computer science
+915,2017 Spring,1,Spanish,102A,2,Clg of Letters & Science,computer science
+916,2017 Spring,1,Spanish,135,1,Clg of Letters & Science,computer science
+917,2017 Spring,2,Spanish,198,1,Clg of Letters & Science,computer science
+918,2017 Spring,8,Statistics,20,1,Clg of Letters & Science,computer science
+919,2017 Spring,3,Statistics,W21,1,Clg of Letters & Science,computer science
+920,2017 Spring,1,Statistics,28,1,Clg of Letters & Science,computer science
+921,2017 Spring,8,Statistics,C100,1,Clg of Letters & Science,computer science
+922,2017 Spring,3,Statistics,131A,1,Clg of Letters & Science,computer science
+923,2017 Spring,15,Statistics,133,1,Clg of Letters & Science,computer science
+924,2017 Spring,21,Statistics,133,2,Clg of Letters & Science,computer science
+925,2017 Spring,27,Statistics,134,1,Clg of Letters & Science,computer science
+926,2017 Spring,20,Statistics,135,1,Clg of Letters & Science,computer science
+927,2017 Spring,11,Statistics,140,1,Clg of Letters & Science,computer science
+928,2017 Spring,9,Statistics,151A,1,Clg of Letters & Science,computer science
+929,2017 Spring,13,Statistics,151A,2,Clg of Letters & Science,computer science
+930,2017 Spring,9,Statistics,152,1,Clg of Letters & Science,computer science
+931,2017 Spring,13,Statistics,153,1,Clg of Letters & Science,computer science
+932,2017 Spring,9,Statistics,154,1,Clg of Letters & Science,computer science
+933,2017 Spring,20,Statistics,155,1,Clg of Letters & Science,computer science
+934,2017 Spring,1,Statistics,197,6,Clg of Letters & Science,computer science
+935,2017 Spring,1,Statistics,197,9,Clg of Letters & Science,computer science
+936,2017 Spring,1,Statistics,198,1,Clg of Letters & Science,computer science
+937,2017 Spring,3,Statistics,198,2,Clg of Letters & Science,computer science
+938,2017 Spring,1,Statistics,198,4,Clg of Letters & Science,computer science
+939,2017 Spring,7,Statistics,198,5,Clg of Letters & Science,computer science
+940,2017 Spring,2,Statistics,198,6,Clg of Letters & Science,computer science
+941,2017 Spring,7,Statistics,198,7,Clg of Letters & Science,computer science
+942,2017 Spring,1,Tamil,101B,1,Clg of Letters & Science,computer science
+943,2017 Spring,1,Theater Dance & Perf Stds,R1A,2,Clg of Letters & Science,computer science
+944,2017 Spring,2,Theater Dance & Perf Stds,R1B,8,Clg of Letters & Science,computer science
+945,2017 Spring,2,Theater Dance & Perf Stds,10,1,Clg of Letters & Science,computer science
+946,2017 Spring,1,Theater Dance & Perf Stds,10,2,Clg of Letters & Science,computer science
+947,2017 Spring,2,Theater Dance & Perf Stds,10,3,Clg of Letters & Science,computer science
+948,2017 Spring,3,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,computer science
+949,2017 Spring,1,Theater Dance & Perf Stds,39,1,Clg of Letters & Science,computer science
+950,2017 Spring,1,Theater Dance & Perf Stds,109,1,Clg of Letters & Science,computer science
+951,2017 Spring,1,Theater Dance & Perf Stds,112,1,Clg of Letters & Science,computer science
+952,2017 Spring,1,Theater Dance & Perf Stds,125,1,Clg of Letters & Science,computer science
+953,2017 Spring,1,Theater Dance & Perf Stds,125,2,Clg of Letters & Science,computer science
+954,2017 Spring,1,Theater Dance & Perf Stds,126,2,Clg of Letters & Science,computer science
+955,2017 Spring,1,Theater Dance & Perf Stds,139B,1,Clg of Letters & Science,computer science
+956,2017 Spring,7,Theater Dance & Perf Stds,177,1,Clg of Letters & Science,computer science
+957,2017 Spring,7,Theater Dance & Perf Stds,177,101,Clg of Letters & Science,computer science
+958,2017 Spring,4,Tibetan,115,1,Clg of Letters & Science,computer science
+959,2017 Spring,1,UGIS-UG Interdisc Studies,156,1,Clg of Letters & Science,computer science
+960,2017 Spring,1,UGIS-UG Interdisc Studies,198,3,Clg of Letters & Science,computer science
+961,2017 Spring,1,Vietnamese,1B,1,Clg of Letters & Science,computer science

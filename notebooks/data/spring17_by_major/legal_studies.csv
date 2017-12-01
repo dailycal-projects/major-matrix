@@ -1,0 +1,440 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,3,African American Studies,5B,1,Clg of Letters & Science,legal studies
+1,2017 Spring,1,African American Studies,115,1,Clg of Letters & Science,legal studies
+2,2017 Spring,4,African American Studies,117,1,Clg of Letters & Science,legal studies
+3,2017 Spring,1,African American Studies,118,1,Clg of Letters & Science,legal studies
+4,2017 Spring,1,African American Studies,139,2,Clg of Letters & Science,legal studies
+5,2017 Spring,2,African American Studies,142AC,1,Clg of Letters & Science,legal studies
+6,2017 Spring,2,African American Studies,C156,1,Clg of Letters & Science,legal studies
+7,2017 Spring,1,African American Studies,156AC,1,Clg of Letters & Science,legal studies
+8,2017 Spring,2,African American Studies,197,3,Clg of Letters & Science,legal studies
+9,2017 Spring,1,American Studies,10,1,Clg of Letters & Science,legal studies
+10,2017 Spring,1,American Studies,101,1,Clg of Letters & Science,legal studies
+11,2017 Spring,2,Anthropology,2AC,1,Clg of Letters & Science,legal studies
+12,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,legal studies
+13,2017 Spring,3,Anthropology,137,1,Clg of Letters & Science,legal studies
+14,2017 Spring,3,Anthropology,160AC,1,Clg of Letters & Science,legal studies
+15,2017 Spring,1,Anthropology,180,1,Clg of Letters & Science,legal studies
+16,2017 Spring,1,Arabic,1B,3,Clg of Letters & Science,legal studies
+17,2017 Spring,1,Arabic,20B,1,Clg of Letters & Science,legal studies
+18,2017 Spring,2,Architecture,198,4,Clg of Environmental Design,legal studies
+19,2017 Spring,1,Armenian,126,1,Clg of Letters & Science,legal studies
+20,2017 Spring,3,Asian American Studies,121,1,Clg of Letters & Science,legal studies
+21,2017 Spring,2,Asian American Studies,144,1,Clg of Letters & Science,legal studies
+22,2017 Spring,1,Asian American Studies,197,1,Clg of Letters & Science,legal studies
+23,2017 Spring,1,Asian American Studies,197,13,Clg of Letters & Science,legal studies
+24,2017 Spring,1,Asian Studies,150,1,Clg of Letters & Science,legal studies
+25,2017 Spring,1,Asian Studies,150,2,Clg of Letters & Science,legal studies
+26,2017 Spring,1,Asian Studies,198,1,Clg of Letters & Science,legal studies
+27,2017 Spring,1,Asian Studies,198,4,Clg of Letters & Science,legal studies
+28,2017 Spring,1,Astronomy,C12,1,Clg of Letters & Science,legal studies
+29,2017 Spring,1,Buddhist Studies,C117,1,Clg of Letters & Science,legal studies
+30,2017 Spring,1,Business Admin-Undergrad,10,1,Haas School of Business,legal studies
+31,2017 Spring,1,Business Admin-Undergrad,96,1,Haas School of Business,legal studies
+32,2017 Spring,1,Business Admin-Undergrad,96,3,Haas School of Business,legal studies
+33,2017 Spring,2,Business Admin-Undergrad,102A,1,Haas School of Business,legal studies
+34,2017 Spring,1,Business Admin-Undergrad,102B,2,Haas School of Business,legal studies
+35,2017 Spring,2,Business Admin-Undergrad,107,1,Haas School of Business,legal studies
+36,2017 Spring,1,Business Admin-Undergrad,120AB,1,Haas School of Business,legal studies
+37,2017 Spring,1,Business Admin-Undergrad,155,1,Haas School of Business,legal studies
+38,2017 Spring,1,Business Admin-Undergrad,170,1,Haas School of Business,legal studies
+39,2017 Spring,1,Business Admin-Undergrad,180,1,Haas School of Business,legal studies
+40,2017 Spring,1,Business Admin-Undergrad,192A,1,Haas School of Business,legal studies
+41,2017 Spring,2,Business Admin-Undergrad,192N,1,Haas School of Business,legal studies
+42,2017 Spring,1,Business Admin-Undergrad,196,1,Haas School of Business,legal studies
+43,2017 Spring,1,Business Admin-Undergrad,196,2,Haas School of Business,legal studies
+44,2017 Spring,1,Business Admin-Undergrad,198,7,Haas School of Business,legal studies
+45,2017 Spring,1,Celtic Studies,125,1,Clg of Letters & Science,legal studies
+46,2017 Spring,4,Chicano Studies,50,1,Clg of Letters & Science,legal studies
+47,2017 Spring,3,Chicano Studies,150B,1,Clg of Letters & Science,legal studies
+48,2017 Spring,1,Chicano Studies,174,1,Clg of Letters & Science,legal studies
+49,2017 Spring,3,Chicano Studies,180,1,Clg of Letters & Science,legal studies
+50,2017 Spring,2,Chicano Studies,197,1,Clg of Letters & Science,legal studies
+51,2017 Spring,1,Chinese,1A,4,Clg of Letters & Science,legal studies
+52,2017 Spring,1,Chinese,7B,1,Clg of Letters & Science,legal studies
+53,2017 Spring,1,Chinese,10B,1,Clg of Letters & Science,legal studies
+54,2017 Spring,2,Chinese,101,1,Clg of Letters & Science,legal studies
+55,2017 Spring,1,Chinese,110B,1,Clg of Letters & Science,legal studies
+56,2017 Spring,2,Chinese,155,1,Clg of Letters & Science,legal studies
+57,2017 Spring,2,City & Regional Planning,113B,1,Clg of Environmental Design,legal studies
+58,2017 Spring,1,City & Regional Planning,118AC,1,Clg of Environmental Design,legal studies
+59,2017 Spring,1,City & Regional Planning,198,1,Clg of Environmental Design,legal studies
+60,2017 Spring,2,Classics,28,1,Clg of Letters & Science,legal studies
+61,2017 Spring,2,Cognitive Science,C126,1,Clg of Letters & Science,legal studies
+62,2017 Spring,3,Cognitive Science,198,5,Clg of Letters & Science,legal studies
+63,2017 Spring,1,Cognitive Science,198,6,Clg of Letters & Science,legal studies
+64,2017 Spring,1,College Writing Programs,1,3,Clg of Letters & Science,legal studies
+65,2017 Spring,1,Comparative Literature,R1A,6,Clg of Letters & Science,legal studies
+66,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,legal studies
+67,2017 Spring,2,Computer Science,61A,1,Clg of Engineering,legal studies
+68,2017 Spring,1,Computer Science,198,56,Clg of Engineering,legal studies
+69,2017 Spring,1,Design Innovation,198,2,Clg of Engineering,legal studies
+70,2017 Spring,3,Development Studies,C100,1,Clg of Letters & Science,legal studies
+71,2017 Spring,2,Dutch,166,1,Clg of Letters & Science,legal studies
+72,2017 Spring,2,East Asian Languages,112,1,Clg of Letters & Science,legal studies
+73,2017 Spring,2,Economics,2,1,Clg of Letters & Science,legal studies
+74,2017 Spring,1,Economics,100A,1,Clg of Letters & Science,legal studies
+75,2017 Spring,2,Economics,113,1,Clg of Letters & Science,legal studies
+76,2017 Spring,2,Economics,115,1,Clg of Letters & Science,legal studies
+77,2017 Spring,1,Economics,121,1,Clg of Letters & Science,legal studies
+78,2017 Spring,2,Economics,133,1,Clg of Letters & Science,legal studies
+79,2017 Spring,1,Economics,138,1,Clg of Letters & Science,legal studies
+80,2017 Spring,1,Economics,139,1,Clg of Letters & Science,legal studies
+81,2017 Spring,4,Economics,140,1,Clg of Letters & Science,legal studies
+82,2017 Spring,2,Economics,151,1,Clg of Letters & Science,legal studies
+83,2017 Spring,1,Economics,C175,1,Clg of Letters & Science,legal studies
+84,2017 Spring,1,Economics,C181,1,Clg of Letters & Science,legal studies
+85,2017 Spring,1,Economics,191,1,Clg of Letters & Science,legal studies
+86,2017 Spring,1,Education,W140A,1,Grad School of Education,legal studies
+87,2017 Spring,4,Education,182AC,1,Grad School of Education,legal studies
+88,2017 Spring,3,Education,183,1,Grad School of Education,legal studies
+89,2017 Spring,1,Education,197,1,Grad School of Education,legal studies
+90,2017 Spring,2,Education,197,3,Grad School of Education,legal studies
+91,2017 Spring,1,Education,198,1,Grad School of Education,legal studies
+92,2017 Spring,1,Education,198,24,Grad School of Education,legal studies
+93,2017 Spring,1,Education,198,25,Grad School of Education,legal studies
+94,2017 Spring,1,Education,198,33,Grad School of Education,legal studies
+95,2017 Spring,1,Education,198,35,Grad School of Education,legal studies
+96,2017 Spring,1,Education,198,38,Grad School of Education,legal studies
+97,2017 Spring,1,Education,198,42,Grad School of Education,legal studies
+98,2017 Spring,1,Electrical Engineering,198,1,Clg of Engineering,legal studies
+99,2017 Spring,1,English,45A,1,Clg of Letters & Science,legal studies
+100,2017 Spring,1,English,45B,1,Clg of Letters & Science,legal studies
+101,2017 Spring,1,English,105,1,Clg of Letters & Science,legal studies
+102,2017 Spring,1,English,125E,1,Clg of Letters & Science,legal studies
+103,2017 Spring,2,English,141,1,Clg of Letters & Science,legal studies
+104,2017 Spring,1,English,198,7,Clg of Letters & Science,legal studies
+105,2017 Spring,3,"Env Sci, Policy, & Mgmt",C11,1,Clg of Natural Resources,legal studies
+106,2017 Spring,1,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,legal studies
+107,2017 Spring,1,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,legal studies
+108,2017 Spring,1,"Env Sci, Policy, & Mgmt",113,1,Clg of Natural Resources,legal studies
+109,2017 Spring,2,"Env Sci, Policy, & Mgmt",150,2,Clg of Natural Resources,legal studies
+110,2017 Spring,3,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,legal studies
+111,2017 Spring,2,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,legal studies
+112,2017 Spring,4,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,legal studies
+113,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,13,Clg of Natural Resources,legal studies
+114,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,15,Clg of Natural Resources,legal studies
+115,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,3,Clg of Natural Resources,legal studies
+116,2017 Spring,2,Environ Econ & Policy,143,1,Clg of Natural Resources,legal studies
+117,2017 Spring,1,Environ Econ & Policy,162,1,Clg of Natural Resources,legal studies
+118,2017 Spring,1,Environmental Design,4C,1,Clg of Environmental Design,legal studies
+119,2017 Spring,1,Environmental Design,100,1,Clg of Environmental Design,legal studies
+120,2017 Spring,3,Ethnic Studies,11AC,1,Clg of Letters & Science,legal studies
+121,2017 Spring,1,Ethnic Studies,21AC,1,Clg of Letters & Science,legal studies
+122,2017 Spring,1,Ethnic Studies,100,1,Clg of Letters & Science,legal studies
+123,2017 Spring,2,Ethnic Studies,101B,1,Clg of Letters & Science,legal studies
+124,2017 Spring,1,Ethnic Studies,103A,1,Clg of Letters & Science,legal studies
+125,2017 Spring,2,Ethnic Studies,144AC,1,Clg of Letters & Science,legal studies
+126,2017 Spring,9,Ethnic Studies,181AC,1,Clg of Letters & Science,legal studies
+127,2017 Spring,1,Ethnic Studies,190,1,Clg of Letters & Science,legal studies
+128,2017 Spring,3,Ethnic Studies,197,1,Clg of Letters & Science,legal studies
+129,2017 Spring,1,Ethnic Studies,197,3,Clg of Letters & Science,legal studies
+130,2017 Spring,8,Ethnic Studies,197,9,Clg of Letters & Science,legal studies
+131,2017 Spring,2,Ethnic Studies,197,11,Clg of Letters & Science,legal studies
+132,2017 Spring,1,Ethnic Studies,197,13,Clg of Letters & Science,legal studies
+133,2017 Spring,2,Ethnic Studies,198,5,Clg of Letters & Science,legal studies
+134,2017 Spring,1,Ethnic Studies,198,6,Clg of Letters & Science,legal studies
+135,2017 Spring,1,Ethnic Studies,198,10,Clg of Letters & Science,legal studies
+136,2017 Spring,1,Ethnic Studies,198,11,Clg of Letters & Science,legal studies
+137,2017 Spring,1,Ethnic Studies,198,12,Clg of Letters & Science,legal studies
+138,2017 Spring,1,Filipino,W1Y,1,Clg of Letters & Science,legal studies
+139,2017 Spring,1,Film,108,3,Clg of Letters & Science,legal studies
+140,2017 Spring,1,Film,128,1,Clg of Letters & Science,legal studies
+141,2017 Spring,2,Film,140,1,Clg of Letters & Science,legal studies
+142,2017 Spring,1,French,2,3,Clg of Letters & Science,legal studies
+143,2017 Spring,1,Gender & Womens Studies,10,1,Clg of Letters & Science,legal studies
+144,2017 Spring,5,Gender & Womens Studies,14,1,Clg of Letters & Science,legal studies
+145,2017 Spring,1,Gender & Womens Studies,101,1,Clg of Letters & Science,legal studies
+146,2017 Spring,2,Gender & Womens Studies,104,1,Clg of Letters & Science,legal studies
+147,2017 Spring,2,Gender & Womens Studies,134,1,Clg of Letters & Science,legal studies
+148,2017 Spring,1,Gender & Womens Studies,198,1,Clg of Letters & Science,legal studies
+149,2017 Spring,2,Gender & Womens Studies,198,3,Clg of Letters & Science,legal studies
+150,2017 Spring,1,Geography,20,1,Clg of Letters & Science,legal studies
+151,2017 Spring,1,Geography,C32,1,Clg of Letters & Science,legal studies
+152,2017 Spring,2,Geography,130,1,Clg of Letters & Science,legal studies
+153,2017 Spring,1,Geography,140A,1,Clg of Letters & Science,legal studies
+154,2017 Spring,1,Geography,157,1,Clg of Letters & Science,legal studies
+155,2017 Spring,1,Geography,170,3,Clg of Letters & Science,legal studies
+156,2017 Spring,1,Geography,181,1,Clg of Letters & Science,legal studies
+157,2017 Spring,2,German,98,1,Clg of Letters & Science,legal studies
+158,2017 Spring,1,Global Poverty & Practice,105,2,Clg of Letters & Science,legal studies
+159,2017 Spring,1,Global Studies,110L,1,Clg of Letters & Science,legal studies
+160,2017 Spring,1,History,4B,1,Clg of Letters & Science,legal studies
+161,2017 Spring,1,History,5,1,Clg of Letters & Science,legal studies
+162,2017 Spring,2,History,7B,1,Clg of Letters & Science,legal studies
+163,2017 Spring,1,History,98,2,Clg of Letters & Science,legal studies
+164,2017 Spring,1,History,100U,1,Clg of Letters & Science,legal studies
+165,2017 Spring,1,History,101,3,Clg of Letters & Science,legal studies
+166,2017 Spring,1,History,103D,1,Clg of Letters & Science,legal studies
+167,2017 Spring,1,History,103S,1,Clg of Letters & Science,legal studies
+168,2017 Spring,2,History,112C,1,Clg of Letters & Science,legal studies
+169,2017 Spring,2,History,114B,1,Clg of Letters & Science,legal studies
+170,2017 Spring,7,History,136C,1,Clg of Letters & Science,legal studies
+171,2017 Spring,1,History,151A,1,Clg of Letters & Science,legal studies
+172,2017 Spring,2,History,160,1,Clg of Letters & Science,legal studies
+173,2017 Spring,1,History,171C,1,Clg of Letters & Science,legal studies
+174,2017 Spring,2,History,178,1,Clg of Letters & Science,legal studies
+175,2017 Spring,1,History,185B,1,Clg of Letters & Science,legal studies
+176,2017 Spring,1,History,186,1,Clg of Letters & Science,legal studies
+177,2017 Spring,1,History,198BC,3,Clg of Letters & Science,legal studies
+178,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,legal studies
+179,2017 Spring,1,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,legal studies
+180,2017 Spring,1,Information,88A,1,School of Information,legal studies
+181,2017 Spring,2,Information,C167,1,School of Information,legal studies
+182,2017 Spring,1,Integrative Biology,C32,1,Clg of Letters & Science,legal studies
+183,2017 Spring,1,Integrative Biology,198,6,Clg of Letters & Science,legal studies
+184,2017 Spring,1,Interdisciplinary Studies,198,5,Clg of Letters & Science,legal studies
+185,2017 Spring,1,International & Area Stds,106,1,Clg of Letters & Science,legal studies
+186,2017 Spring,1,International & Area Stds,150,2,Clg of Letters & Science,legal studies
+187,2017 Spring,1,International & Area Stds,150,4,Clg of Letters & Science,legal studies
+188,2017 Spring,1,International & Area Stds,150,5,Clg of Letters & Science,legal studies
+189,2017 Spring,1,Italian Studies,1,2,Clg of Letters & Science,legal studies
+190,2017 Spring,1,Italian Studies,170,1,Clg of Letters & Science,legal studies
+191,2017 Spring,1,Japanese,1B,2,Clg of Letters & Science,legal studies
+192,2017 Spring,1,Jewish Studies,120,1,Clg of Letters & Science,legal studies
+193,2017 Spring,1,Korean,10BX,1,Clg of Letters & Science,legal studies
+194,2017 Spring,1,Korean,187,1,Clg of Letters & Science,legal studies
+195,2017 Spring,1,Landscape Arch & Env Plan,1,1,Clg of Environmental Design,legal studies
+196,2017 Spring,1,Landscape Arch & Env Plan,170,1,Clg of Environmental Design,legal studies
+197,2017 Spring,1,Landscape Arch & Env Plan,198,1,Clg of Environmental Design,legal studies
+198,2017 Spring,2,Latin,1,1,Clg of Letters & Science,legal studies
+199,2017 Spring,1,Legal Studies,R1B,1,School of Law,legal studies
+200,2017 Spring,2,Legal Studies,88,1,School of Law,legal studies
+201,2017 Spring,44,Legal Studies,100,1,School of Law,legal studies
+202,2017 Spring,40,Legal Studies,102,1,School of Law,legal studies
+203,2017 Spring,24,Legal Studies,105,1,School of Law,legal studies
+204,2017 Spring,42,Legal Studies,132AC,1,School of Law,legal studies
+205,2017 Spring,54,Legal Studies,138,1,School of Law,legal studies
+206,2017 Spring,10,Legal Studies,139,1,School of Law,legal studies
+207,2017 Spring,16,Legal Studies,152AC,1,School of Law,legal studies
+208,2017 Spring,12,Legal Studies,153,1,School of Law,legal studies
+209,2017 Spring,41,Legal Studies,154,1,School of Law,legal studies
+210,2017 Spring,16,Legal Studies,159,1,School of Law,legal studies
+211,2017 Spring,83,Legal Studies,160,1,School of Law,legal studies
+212,2017 Spring,10,Legal Studies,173,1,School of Law,legal studies
+213,2017 Spring,49,Legal Studies,177,1,School of Law,legal studies
+214,2017 Spring,16,Legal Studies,185AC,1,School of Law,legal studies
+215,2017 Spring,7,Legal Studies,190,1,School of Law,legal studies
+216,2017 Spring,4,Legal Studies,190,2,School of Law,legal studies
+217,2017 Spring,8,Legal Studies,190,4,School of Law,legal studies
+218,2017 Spring,10,Legal Studies,H195C,1,School of Law,legal studies
+219,2017 Spring,1,Legal Studies,198,2,School of Law,legal studies
+220,2017 Spring,1,Letters & Science,C30Y,1,Clg of Letters & Science,legal studies
+221,2017 Spring,1,Letters & Science,C30Z,1,Clg of Letters & Science,legal studies
+222,2017 Spring,2,Letters & Science,70A,1,Clg of Letters & Science,legal studies
+223,2017 Spring,2,Letters & Science,70C,1,Clg of Letters & Science,legal studies
+224,2017 Spring,1,Letters & Science,C70T,1,Clg of Letters & Science,legal studies
+225,2017 Spring,2,Letters & Science,105,1,Clg of Letters & Science,legal studies
+226,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,legal studies
+227,2017 Spring,1,Linguistics,1B,1,Clg of Letters & Science,legal studies
+228,2017 Spring,1,Linguistics,1B,2,Clg of Letters & Science,legal studies
+229,2017 Spring,1,Linguistics,10,1,Clg of Letters & Science,legal studies
+230,2017 Spring,1,Linguistics,198,2,Clg of Letters & Science,legal studies
+231,2017 Spring,1,Mathematics,1A,1,Clg of Letters & Science,legal studies
+232,2017 Spring,1,Mathematics,198,2,Clg of Letters & Science,legal studies
+233,2017 Spring,1,Mathematics,198,3,Clg of Letters & Science,legal studies
+234,2017 Spring,3,Media Studies,103,1,Clg of Letters & Science,legal studies
+235,2017 Spring,1,Media Studies,104A,1,Clg of Letters & Science,legal studies
+236,2017 Spring,1,Media Studies,170,1,Clg of Letters & Science,legal studies
+237,2017 Spring,1,Molecular & Cell Biology,C61,1,Clg of Letters & Science,legal studies
+238,2017 Spring,1,Molecular & Cell Biology,198,1,Clg of Letters & Science,legal studies
+239,2017 Spring,3,Music,20B,1,Clg of Letters & Science,legal studies
+240,2017 Spring,3,Music,26AC,1,Clg of Letters & Science,legal studies
+241,2017 Spring,4,Music,29,1,Clg of Letters & Science,legal studies
+242,2017 Spring,1,Music,141,1,Clg of Letters & Science,legal studies
+243,2017 Spring,2,Music,143,1,Clg of Letters & Science,legal studies
+244,2017 Spring,1,Music,198,4,Clg of Letters & Science,legal studies
+245,2017 Spring,2,Native American Studies,20B,1,Clg of Letters & Science,legal studies
+246,2017 Spring,1,Native American Studies,120AC,1,Clg of Letters & Science,legal studies
+247,2017 Spring,2,Native American Studies,178,1,Clg of Letters & Science,legal studies
+248,2017 Spring,2,Near Eastern Studies,140,1,Clg of Letters & Science,legal studies
+249,2017 Spring,1,Near Eastern Studies,146B,1,Clg of Letters & Science,legal studies
+250,2017 Spring,1,Near Eastern Studies,165,1,Clg of Letters & Science,legal studies
+251,2017 Spring,1,Near Eastern Studies,180,1,Clg of Letters & Science,legal studies
+252,2017 Spring,3,Nutritional Science & Tox,10,1,Clg of Natural Resources,legal studies
+253,2017 Spring,1,Nutritional Science & Tox,11,1,Clg of Natural Resources,legal studies
+254,2017 Spring,1,Nutritional Science & Tox,98,1,Clg of Natural Resources,legal studies
+255,2017 Spring,1,Nutritional Science & Tox,104,1,Clg of Natural Resources,legal studies
+256,2017 Spring,1,Nutritional Science & Tox,115,1,Clg of Natural Resources,legal studies
+257,2017 Spring,1,Nutritional Science & Tox,198,2,Clg of Natural Resources,legal studies
+258,2017 Spring,1,Optometry,10,1,School of Optometry,legal studies
+259,2017 Spring,1,Peace & Conflict Studies,100,1,Clg of Letters & Science,legal studies
+260,2017 Spring,5,Peace & Conflict Studies,127,1,Clg of Letters & Science,legal studies
+261,2017 Spring,1,Peace & Conflict Studies,135,1,Clg of Letters & Science,legal studies
+262,2017 Spring,1,Peace & Conflict Studies,151,1,Clg of Letters & Science,legal studies
+263,2017 Spring,1,Persian,1B,1,Clg of Letters & Science,legal studies
+264,2017 Spring,1,Persian,20B,1,Clg of Letters & Science,legal studies
+265,2017 Spring,4,Philosophy,2,1,Clg of Letters & Science,legal studies
+266,2017 Spring,1,Philosophy,3,1,Clg of Letters & Science,legal studies
+267,2017 Spring,4,Philosophy,12A,1,Clg of Letters & Science,legal studies
+268,2017 Spring,1,Philosophy,25B,1,Clg of Letters & Science,legal studies
+269,2017 Spring,1,Philosophy,100,1,Clg of Letters & Science,legal studies
+270,2017 Spring,1,Philosophy,116,1,Clg of Letters & Science,legal studies
+271,2017 Spring,4,Philosophy,122,1,Clg of Letters & Science,legal studies
+272,2017 Spring,3,Philosophy,132,1,Clg of Letters & Science,legal studies
+273,2017 Spring,3,Philosophy,161,1,Clg of Letters & Science,legal studies
+274,2017 Spring,1,Philosophy,198BC,3,Clg of Letters & Science,legal studies
+275,2017 Spring,1,Physical Education,1,1,Clg of Letters & Science,legal studies
+276,2017 Spring,1,Physical Education,1,5,Clg of Letters & Science,legal studies
+277,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,legal studies
+278,2017 Spring,2,Physical Education,1,10,Clg of Letters & Science,legal studies
+279,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,legal studies
+280,2017 Spring,1,Physical Education,1,12,Clg of Letters & Science,legal studies
+281,2017 Spring,1,Physical Education,1,14,Clg of Letters & Science,legal studies
+282,2017 Spring,1,Physical Education,1,16,Clg of Letters & Science,legal studies
+283,2017 Spring,2,Physical Education,1,19,Clg of Letters & Science,legal studies
+284,2017 Spring,1,Physical Education,1,21,Clg of Letters & Science,legal studies
+285,2017 Spring,1,Physical Education,1,26,Clg of Letters & Science,legal studies
+286,2017 Spring,1,Physical Education,1,29,Clg of Letters & Science,legal studies
+287,2017 Spring,1,Physical Education,1,33,Clg of Letters & Science,legal studies
+288,2017 Spring,1,Physical Education,2,1,Clg of Letters & Science,legal studies
+289,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,legal studies
+290,2017 Spring,1,Physical Education,2,12,Clg of Letters & Science,legal studies
+291,2017 Spring,1,Physical Education,2,15,Clg of Letters & Science,legal studies
+292,2017 Spring,1,Physical Education,2,16,Clg of Letters & Science,legal studies
+293,2017 Spring,1,Physical Education,3,7,Clg of Letters & Science,legal studies
+294,2017 Spring,1,Physical Education,3,8,Clg of Letters & Science,legal studies
+295,2017 Spring,1,Physical Education,4,4,Clg of Letters & Science,legal studies
+296,2017 Spring,4,Physical Education,11,3,Clg of Letters & Science,legal studies
+297,2017 Spring,4,Physical Education,11,4,Clg of Letters & Science,legal studies
+298,2017 Spring,9,Physical Education,11,7,Clg of Letters & Science,legal studies
+299,2017 Spring,9,Physical Education,11,8,Clg of Letters & Science,legal studies
+300,2017 Spring,14,Physical Education,11,25,Clg of Letters & Science,legal studies
+301,2017 Spring,14,Physical Education,11,26,Clg of Letters & Science,legal studies
+302,2017 Spring,1,Physical Education,12,1,Clg of Letters & Science,legal studies
+303,2017 Spring,1,Physical Education,12,2,Clg of Letters & Science,legal studies
+304,2017 Spring,3,Physical Education,12,17,Clg of Letters & Science,legal studies
+305,2017 Spring,3,Physical Education,12,18,Clg of Letters & Science,legal studies
+306,2017 Spring,1,Physical Education,12,23,Clg of Letters & Science,legal studies
+307,2017 Spring,1,Physical Education,12,24,Clg of Letters & Science,legal studies
+308,2017 Spring,4,Physical Education,12,29,Clg of Letters & Science,legal studies
+309,2017 Spring,4,Physical Education,12,30,Clg of Letters & Science,legal studies
+310,2017 Spring,1,Physical Education,98,1,Clg of Letters & Science,legal studies
+311,2017 Spring,1,Physical Education,197,1,Clg of Letters & Science,legal studies
+312,2017 Spring,1,Physical Education,197,2,Clg of Letters & Science,legal studies
+313,2017 Spring,1,Plant & Microbial Biology,40,1,Clg of Natural Resources,legal studies
+314,2017 Spring,1,Political Economy,100,1,Clg of Letters & Science,legal studies
+315,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,legal studies
+316,2017 Spring,1,Political Economy,160,1,Clg of Letters & Science,legal studies
+317,2017 Spring,1,Political Science,4,1,Clg of Letters & Science,legal studies
+318,2017 Spring,1,Political Science,110B,1,Clg of Letters & Science,legal studies
+319,2017 Spring,6,Political Science,116A,1,Clg of Letters & Science,legal studies
+320,2017 Spring,1,Political Science,123M,1,Clg of Letters & Science,legal studies
+321,2017 Spring,1,Political Science,124A,1,Clg of Letters & Science,legal studies
+322,2017 Spring,3,Political Science,124C,1,Clg of Letters & Science,legal studies
+323,2017 Spring,1,Political Science,138E,1,Clg of Letters & Science,legal studies
+324,2017 Spring,2,Political Science,140L,1,Clg of Letters & Science,legal studies
+325,2017 Spring,1,Political Science,141C,1,Clg of Letters & Science,legal studies
+326,2017 Spring,1,Political Science,143B,1,Clg of Letters & Science,legal studies
+327,2017 Spring,1,Political Science,143E,1,Clg of Letters & Science,legal studies
+328,2017 Spring,4,Political Science,147G,1,Clg of Letters & Science,legal studies
+329,2017 Spring,2,Political Science,149E,1,Clg of Letters & Science,legal studies
+330,2017 Spring,1,Political Science,149S,1,Clg of Letters & Science,legal studies
+331,2017 Spring,11,Political Science,157A,1,Clg of Letters & Science,legal studies
+332,2017 Spring,2,Political Science,161,1,Clg of Letters & Science,legal studies
+333,2017 Spring,9,Political Science,179,1,Clg of Letters & Science,legal studies
+334,2017 Spring,1,Political Science,186,1,Clg of Letters & Science,legal studies
+335,2017 Spring,3,Political Science,191,1,Clg of Letters & Science,legal studies
+336,2017 Spring,1,Political Science,191,6,Clg of Letters & Science,legal studies
+337,2017 Spring,2,Political Science,C196A,1,Clg of Letters & Science,legal studies
+338,2017 Spring,2,Political Science,C196B,1,Clg of Letters & Science,legal studies
+339,2017 Spring,2,Political Science,198,1,Clg of Letters & Science,legal studies
+340,2017 Spring,1,Portuguese,101,2,Clg of Letters & Science,legal studies
+341,2017 Spring,1,Portuguese,113,1,Clg of Letters & Science,legal studies
+342,2017 Spring,1,Psychology,1,1,Clg of Letters & Science,legal studies
+343,2017 Spring,2,Psychology,W1,1,Clg of Letters & Science,legal studies
+344,2017 Spring,1,Psychology,2,1,Clg of Letters & Science,legal studies
+345,2017 Spring,1,Psychology,10,1,Clg of Letters & Science,legal studies
+346,2017 Spring,1,Psychology,24,1,Clg of Letters & Science,legal studies
+347,2017 Spring,1,Psychology,110,1,Clg of Letters & Science,legal studies
+348,2017 Spring,2,Psychology,114,1,Clg of Letters & Science,legal studies
+349,2017 Spring,2,Psychology,130,1,Clg of Letters & Science,legal studies
+350,2017 Spring,3,Psychology,131,1,Clg of Letters & Science,legal studies
+351,2017 Spring,1,Psychology,133,1,Clg of Letters & Science,legal studies
+352,2017 Spring,2,Psychology,150,1,Clg of Letters & Science,legal studies
+353,2017 Spring,1,Psychology,156,1,Clg of Letters & Science,legal studies
+354,2017 Spring,1,Psychology,160,1,Clg of Letters & Science,legal studies
+355,2017 Spring,1,Psychology,169,1,Clg of Letters & Science,legal studies
+356,2017 Spring,1,Psychology,198,7,Clg of Letters & Science,legal studies
+357,2017 Spring,1,Psychology,198,10,Clg of Letters & Science,legal studies
+358,2017 Spring,5,Psychology,198,11,Clg of Letters & Science,legal studies
+359,2017 Spring,1,Psychology,198,17,Clg of Letters & Science,legal studies
+360,2017 Spring,1,Public Health,C160,1,School of Public Health,legal studies
+361,2017 Spring,1,Public Health,198,9,School of Public Health,legal studies
+362,2017 Spring,1,Public Health,198,53,School of Public Health,legal studies
+363,2017 Spring,1,Public Policy,98,1,Goldman School Public Policy,legal studies
+364,2017 Spring,1,Public Policy,98,3,Goldman School Public Policy,legal studies
+365,2017 Spring,5,Public Policy,101,1,Goldman School Public Policy,legal studies
+366,2017 Spring,14,Public Policy,C103,1,Goldman School Public Policy,legal studies
+367,2017 Spring,1,Public Policy,157,1,Goldman School Public Policy,legal studies
+368,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,legal studies
+369,2017 Spring,1,Public Policy,198,3,Goldman School Public Policy,legal studies
+370,2017 Spring,1,Rhetoric,R1B,2,Clg of Letters & Science,legal studies
+371,2017 Spring,1,Rhetoric,129,1,Clg of Letters & Science,legal studies
+372,2017 Spring,1,Rhetoric,135T,1,Clg of Letters & Science,legal studies
+373,2017 Spring,1,Rhetoric,151,1,Clg of Letters & Science,legal studies
+374,2017 Spring,2,Rhetoric,158,1,Clg of Letters & Science,legal studies
+375,2017 Spring,6,Rhetoric,168,1,Clg of Letters & Science,legal studies
+376,2017 Spring,1,Rhetoric,189,3,Clg of Letters & Science,legal studies
+377,2017 Spring,1,Rhetoric,198,1,Clg of Letters & Science,legal studies
+378,2017 Spring,1,Russian,1,1,Clg of Letters & Science,legal studies
+379,2017 Spring,1,Russian,3,1,Clg of Letters & Science,legal studies
+380,2017 Spring,1,Scandinavian,198,4,Clg of Letters & Science,legal studies
+381,2017 Spring,1,Social Welfare,98,2,School of Social Welfare,legal studies
+382,2017 Spring,2,Social Welfare,112,1,School of Social Welfare,legal studies
+383,2017 Spring,2,Social Welfare,114,1,School of Social Welfare,legal studies
+384,2017 Spring,1,Social Welfare,155,1,School of Social Welfare,legal studies
+385,2017 Spring,2,Social Welfare,181,1,School of Social Welfare,legal studies
+386,2017 Spring,1,Social Welfare,185AC,1,School of Social Welfare,legal studies
+387,2017 Spring,1,Social Welfare,197,2,School of Social Welfare,legal studies
+388,2017 Spring,1,Social Welfare,198,1,School of Social Welfare,legal studies
+389,2017 Spring,5,Social Welfare,198,3,School of Social Welfare,legal studies
+390,2017 Spring,1,Social Welfare,198,5,School of Social Welfare,legal studies
+391,2017 Spring,1,Sociology,3AC,1,Clg of Letters & Science,legal studies
+392,2017 Spring,1,Sociology,5,1,Clg of Letters & Science,legal studies
+393,2017 Spring,2,Sociology,102,1,Clg of Letters & Science,legal studies
+394,2017 Spring,3,Sociology,110,1,Clg of Letters & Science,legal studies
+395,2017 Spring,1,Sociology,111AC,1,Clg of Letters & Science,legal studies
+396,2017 Spring,2,Sociology,112,1,Clg of Letters & Science,legal studies
+397,2017 Spring,5,Sociology,114,1,Clg of Letters & Science,legal studies
+398,2017 Spring,2,Sociology,C115,1,Clg of Letters & Science,legal studies
+399,2017 Spring,3,Sociology,116,1,Clg of Letters & Science,legal studies
+400,2017 Spring,5,Sociology,117,1,Clg of Letters & Science,legal studies
+401,2017 Spring,1,Sociology,120,1,Clg of Letters & Science,legal studies
+402,2017 Spring,2,Sociology,121,1,Clg of Letters & Science,legal studies
+403,2017 Spring,2,Sociology,133,1,Clg of Letters & Science,legal studies
+404,2017 Spring,1,Sociology,136,1,Clg of Letters & Science,legal studies
+405,2017 Spring,1,Sociology,137AC,1,Clg of Letters & Science,legal studies
+406,2017 Spring,1,Sociology,145,1,Clg of Letters & Science,legal studies
+407,2017 Spring,1,Sociology,150,1,Clg of Letters & Science,legal studies
+408,2017 Spring,6,Sociology,C167,1,Clg of Letters & Science,legal studies
+409,2017 Spring,2,Sociology,180C,1,Clg of Letters & Science,legal studies
+410,2017 Spring,1,Sociology,H190B,2,Clg of Letters & Science,legal studies
+411,2017 Spring,1,Sociology,C196A,1,Clg of Letters & Science,legal studies
+412,2017 Spring,1,Sociology,C196B,1,Clg of Letters & Science,legal studies
+413,2017 Spring,1,Sociology,198,4,Clg of Letters & Science,legal studies
+414,2017 Spring,3,Sociology,198,9,Clg of Letters & Science,legal studies
+415,2017 Spring,2,Sociology,198,12,Clg of Letters & Science,legal studies
+416,2017 Spring,2,Sociology,198,15,Clg of Letters & Science,legal studies
+417,2017 Spring,1,Sociology,198BC,3,Clg of Letters & Science,legal studies
+418,2017 Spring,2,Spanish,1,1,Clg of Letters & Science,legal studies
+419,2017 Spring,1,Spanish,1,2,Clg of Letters & Science,legal studies
+420,2017 Spring,1,Spanish,2,4,Clg of Letters & Science,legal studies
+421,2017 Spring,1,Spanish,21,1,Clg of Letters & Science,legal studies
+422,2017 Spring,2,Spanish,107B,1,Clg of Letters & Science,legal studies
+423,2017 Spring,1,Spanish,135,5,Clg of Letters & Science,legal studies
+424,2017 Spring,3,Statistics,2,1,Clg of Letters & Science,legal studies
+425,2017 Spring,1,Statistics,198,5,Clg of Letters & Science,legal studies
+426,2017 Spring,1,Theater Dance & Perf Stds,109,1,Clg of Letters & Science,legal studies
+427,2017 Spring,1,Theater Dance & Perf Stds,112,1,Clg of Letters & Science,legal studies
+428,2017 Spring,1,Theater Dance & Perf Stds,125,1,Clg of Letters & Science,legal studies
+429,2017 Spring,1,Theater Dance & Perf Stds,125,2,Clg of Letters & Science,legal studies
+430,2017 Spring,1,Theater Dance & Perf Stds,141,2,Clg of Letters & Science,legal studies
+431,2017 Spring,1,Theater Dance & Perf Stds,148,1,Clg of Letters & Science,legal studies
+432,2017 Spring,1,Theater Dance & Perf Stds,180,1,Clg of Letters & Science,legal studies
+433,2017 Spring,5,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,legal studies
+434,2017 Spring,1,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,legal studies
+435,2017 Spring,1,UGIS-UG Interdisc Studies,156,1,Clg of Letters & Science,legal studies
+436,2017 Spring,1,UGIS-UG Interdisc Studies,162I,1,Clg of Letters & Science,legal studies
+437,2017 Spring,1,UGIS-UG Interdisc Studies,162O,1,Clg of Letters & Science,legal studies
+438,2017 Spring,1,UGIS-UG Interdisc Studies,162X,1,Clg of Letters & Science,legal studies

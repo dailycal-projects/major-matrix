@@ -1,0 +1,127 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,28AC,1,Clg of Letters & Science,urban studies
+1,2017 Spring,1,African American Studies,131,1,Clg of Letters & Science,urban studies
+2,2017 Spring,1,American Studies,10,1,Clg of Letters & Science,urban studies
+3,2017 Spring,1,Anthropology,180,1,Clg of Letters & Science,urban studies
+4,2017 Spring,1,Architecture,11B,1,Clg of Environmental Design,urban studies
+5,2017 Spring,1,Architecture,98,5,Clg of Environmental Design,urban studies
+6,2017 Spring,2,Architecture,98BC,1,Clg of Environmental Design,urban studies
+7,2017 Spring,1,Architecture,109,1,Clg of Environmental Design,urban studies
+8,2017 Spring,2,Architecture,139,1,Clg of Environmental Design,urban studies
+9,2017 Spring,1,Architecture,140,1,Clg of Environmental Design,urban studies
+10,2017 Spring,1,Architecture,160,1,Clg of Environmental Design,urban studies
+11,2017 Spring,3,Architecture,170B,1,Clg of Environmental Design,urban studies
+12,2017 Spring,1,Architecture,179,2,Clg of Environmental Design,urban studies
+13,2017 Spring,1,Biology,1A,1,Clg of Letters & Science,urban studies
+14,2017 Spring,1,Biology,1AL,2,Clg of Letters & Science,urban studies
+15,2017 Spring,1,Business Admin-Undergrad,96,2,Haas School of Business,urban studies
+16,2017 Spring,2,Business Admin-Undergrad,180,1,Haas School of Business,urban studies
+17,2017 Spring,1,Business Admin-Undergrad,198,7,Haas School of Business,urban studies
+18,2017 Spring,1,Chemistry,3B,2,Clg of Chemistry,urban studies
+19,2017 Spring,10,City & Regional Planning,101,1,Clg of Environmental Design,urban studies
+20,2017 Spring,9,City & Regional Planning,113B,1,Clg of Environmental Design,urban studies
+21,2017 Spring,18,City & Regional Planning,114,1,Clg of Environmental Design,urban studies
+22,2017 Spring,12,City & Regional Planning,116,1,Clg of Environmental Design,urban studies
+23,2017 Spring,17,City & Regional Planning,118AC,1,Clg of Environmental Design,urban studies
+24,2017 Spring,1,City & Regional Planning,120,1,Clg of Environmental Design,urban studies
+25,2017 Spring,11,City & Regional Planning,180,1,Clg of Environmental Design,urban studies
+26,2017 Spring,4,City & Regional Planning,190,1,Clg of Environmental Design,urban studies
+27,2017 Spring,1,City & Regional Planning,190,2,Clg of Environmental Design,urban studies
+28,2017 Spring,1,City & Regional Planning,190,3,Clg of Environmental Design,urban studies
+29,2017 Spring,3,City & Regional Planning,197,1,Clg of Environmental Design,urban studies
+30,2017 Spring,1,Civil & Environmental Eng,155,1,Clg of Engineering,urban studies
+31,2017 Spring,1,College Writing Programs,R1A,5,Clg of Letters & Science,urban studies
+32,2017 Spring,1,Comparative Literature,R1B,12,Clg of Letters & Science,urban studies
+33,2017 Spring,1,Comparative Literature,R1B,13,Clg of Letters & Science,urban studies
+34,2017 Spring,1,Computer Science,C8,1,Clg of Engineering,urban studies
+35,2017 Spring,2,Computer Science,61A,1,Clg of Engineering,urban studies
+36,2017 Spring,1,Design Innovation,22,1,Clg of Engineering,urban studies
+37,2017 Spring,1,Design Innovation,98,1,Clg of Engineering,urban studies
+38,2017 Spring,1,Design Innovation,198,1,Clg of Engineering,urban studies
+39,2017 Spring,3,Development Studies,C100,1,Clg of Letters & Science,urban studies
+40,2017 Spring,3,Economics,1,1,Clg of Letters & Science,urban studies
+41,2017 Spring,1,Economics,2,1,Clg of Letters & Science,urban studies
+42,2017 Spring,2,Economics,C3,1,Clg of Letters & Science,urban studies
+43,2017 Spring,1,Education,182AC,1,Grad School of Education,urban studies
+44,2017 Spring,1,Education,197,12,Grad School of Education,urban studies
+45,2017 Spring,1,Education,197,63,Grad School of Education,urban studies
+46,2017 Spring,1,English,45B,1,Clg of Letters & Science,urban studies
+47,2017 Spring,1,English,98BC,1,Clg of Letters & Science,urban studies
+48,2017 Spring,1,"Env Sci, Policy, & Mgmt",102D,1,Clg of Natural Resources,urban studies
+49,2017 Spring,1,"Env Sci, Policy, & Mgmt",165,1,Clg of Natural Resources,urban studies
+50,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,9,Clg of Natural Resources,urban studies
+51,2017 Spring,1,Environ Econ & Policy,C1,1,Clg of Natural Resources,urban studies
+52,2017 Spring,1,Environmental Design,1,1,Clg of Environmental Design,urban studies
+53,2017 Spring,1,Environmental Design,R3B,1,Clg of Environmental Design,urban studies
+54,2017 Spring,12,Environmental Design,4B,1,Clg of Environmental Design,urban studies
+55,2017 Spring,8,Environmental Design,4C,1,Clg of Environmental Design,urban studies
+56,2017 Spring,24,Environmental Design,100,1,Clg of Environmental Design,urban studies
+57,2017 Spring,1,Environmental Design,101A,1,Clg of Environmental Design,urban studies
+58,2017 Spring,1,Ethnic Studies,198,12,Clg of Letters & Science,urban studies
+59,2017 Spring,3,Geography,130,1,Clg of Letters & Science,urban studies
+60,2017 Spring,2,Geography,140A,1,Clg of Letters & Science,urban studies
+61,2017 Spring,1,Geography,164,1,Clg of Letters & Science,urban studies
+62,2017 Spring,2,Geography,170,4,Clg of Letters & Science,urban studies
+63,2017 Spring,3,Geography,183,1,Clg of Letters & Science,urban studies
+64,2017 Spring,1,Geography,187,1,Clg of Letters & Science,urban studies
+65,2017 Spring,1,German,98,1,Clg of Letters & Science,urban studies
+66,2017 Spring,1,History,6B,1,Clg of Letters & Science,urban studies
+67,2017 Spring,1,History,114B,1,Clg of Letters & Science,urban studies
+68,2017 Spring,1,History,162B,1,Clg of Letters & Science,urban studies
+69,2017 Spring,1,History of Art,134A,1,Clg of Letters & Science,urban studies
+70,2017 Spring,1,Integrative Biology,198,6,Clg of Letters & Science,urban studies
+71,2017 Spring,1,International & Area Stds,45,1,Clg of Letters & Science,urban studies
+72,2017 Spring,1,Italian Studies,R5B,1,Clg of Letters & Science,urban studies
+73,2017 Spring,1,Japanese,155,1,Clg of Letters & Science,urban studies
+74,2017 Spring,10,Landscape Arch & Env Plan,1,1,Clg of Environmental Design,urban studies
+75,2017 Spring,6,Landscape Arch & Env Plan,130,1,Clg of Environmental Design,urban studies
+76,2017 Spring,2,Landscape Arch & Env Plan,140,1,Clg of Environmental Design,urban studies
+77,2017 Spring,7,Landscape Arch & Env Plan,170,1,Clg of Environmental Design,urban studies
+78,2017 Spring,1,Letters & Science,22,1,Clg of Letters & Science,urban studies
+79,2017 Spring,1,Letters & Science,160B,1,Clg of Letters & Science,urban studies
+80,2017 Spring,1,Letters & Science,C180U,1,Clg of Letters & Science,urban studies
+81,2017 Spring,1,Linguistics,120,1,Clg of Letters & Science,urban studies
+82,2017 Spring,1,Mathematics,1B,1,Clg of Letters & Science,urban studies
+83,2017 Spring,4,Mathematics,16A,1,Clg of Letters & Science,urban studies
+84,2017 Spring,1,Mathematics,53,1,Clg of Letters & Science,urban studies
+85,2017 Spring,1,Mathematics,98,25,Clg of Letters & Science,urban studies
+86,2017 Spring,1,Media Studies,104A,1,Clg of Letters & Science,urban studies
+87,2017 Spring,2,Music,140,3,Clg of Letters & Science,urban studies
+88,2017 Spring,1,Music,146B,1,Clg of Letters & Science,urban studies
+89,2017 Spring,1,Native American Studies,194B,1,Clg of Letters & Science,urban studies
+90,2017 Spring,1,Native American Studies,197,2,Clg of Letters & Science,urban studies
+91,2017 Spring,1,Peace & Conflict Studies,10,1,Clg of Letters & Science,urban studies
+92,2017 Spring,3,Peace & Conflict Studies,127,1,Clg of Letters & Science,urban studies
+93,2017 Spring,1,Philosophy,2,1,Clg of Letters & Science,urban studies
+94,2017 Spring,1,Philosophy,3,1,Clg of Letters & Science,urban studies
+95,2017 Spring,1,Philosophy,25B,1,Clg of Letters & Science,urban studies
+96,2017 Spring,1,Physical Education,1,21,Clg of Letters & Science,urban studies
+97,2017 Spring,1,Physical Education,1,28,Clg of Letters & Science,urban studies
+98,2017 Spring,1,Physical Education,2,2,Clg of Letters & Science,urban studies
+99,2017 Spring,1,Physical Education,2,3,Clg of Letters & Science,urban studies
+100,2017 Spring,1,Physical Education,4,2,Clg of Letters & Science,urban studies
+101,2017 Spring,1,Physics,8A,2,Clg of Letters & Science,urban studies
+102,2017 Spring,1,Political Economy,100,1,Clg of Letters & Science,urban studies
+103,2017 Spring,2,Psychology,C61,1,Clg of Letters & Science,urban studies
+104,2017 Spring,1,Psychology,150,1,Clg of Letters & Science,urban studies
+105,2017 Spring,1,Public Health,198,5,School of Public Health,urban studies
+106,2017 Spring,1,Public Health,198,52,School of Public Health,urban studies
+107,2017 Spring,2,Public Policy,C103,1,Goldman School Public Policy,urban studies
+108,2017 Spring,2,Public Policy,157,1,Goldman School Public Policy,urban studies
+109,2017 Spring,1,Public Policy,190,11,Goldman School Public Policy,urban studies
+110,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,urban studies
+111,2017 Spring,1,Russian,2,1,Clg of Letters & Science,urban studies
+112,2017 Spring,1,Social Welfare,198,4,School of Social Welfare,urban studies
+113,2017 Spring,1,Sociology,C115,1,Clg of Letters & Science,urban studies
+114,2017 Spring,2,Sociology,130,1,Clg of Letters & Science,urban studies
+115,2017 Spring,1,Sociology,136,1,Clg of Letters & Science,urban studies
+116,2017 Spring,1,Sociology,145,1,Clg of Letters & Science,urban studies
+117,2017 Spring,1,Sociology,198,1,Clg of Letters & Science,urban studies
+118,2017 Spring,1,Spanish,22,1,Clg of Letters & Science,urban studies
+119,2017 Spring,1,Spanish,25,6,Clg of Letters & Science,urban studies
+120,2017 Spring,1,Spanish,115,1,Clg of Letters & Science,urban studies
+121,2017 Spring,1,Statistics,2,1,Clg of Letters & Science,urban studies
+122,2017 Spring,1,Statistics,W21,1,Clg of Letters & Science,urban studies
+123,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,urban studies
+124,2017 Spring,1,Theater Dance & Perf Stds,40,1,Clg of Letters & Science,urban studies
+125,2017 Spring,1,Theater Dance & Perf Stds,168,1,Clg of Letters & Science,urban studies

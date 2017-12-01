@@ -1,0 +1,112 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,Anthropology,2AC,1,Clg of Letters & Science,french
+1,2017 Spring,1,Anthropology,121AC,1,Clg of Letters & Science,french
+2,2017 Spring,1,Anthropology,137,1,Clg of Letters & Science,french
+3,2017 Spring,1,Anthropology,198,20,Clg of Letters & Science,french
+4,2017 Spring,1,Biology,1A,1,Clg of Letters & Science,french
+5,2017 Spring,1,Biology,1AL,1,Clg of Letters & Science,french
+6,2017 Spring,1,Business Admin-Undergrad,102B,1,Haas School of Business,french
+7,2017 Spring,1,Business Admin-Undergrad,103,2,Haas School of Business,french
+8,2017 Spring,1,Business Admin-Undergrad,107,1,Haas School of Business,french
+9,2017 Spring,1,Business Admin-Undergrad,178,1,Haas School of Business,french
+10,2017 Spring,1,Chemistry,1A,1,Clg of Chemistry,french
+11,2017 Spring,1,Chemistry,1AL,2,Clg of Chemistry,french
+12,2017 Spring,1,Chemistry,114,1,Clg of Chemistry,french
+13,2017 Spring,1,Chinese,10B,2,Clg of Letters & Science,french
+14,2017 Spring,1,City & Regional Planning,118AC,1,Clg of Environmental Design,french
+15,2017 Spring,1,City & Regional Planning,198,1,Clg of Environmental Design,french
+16,2017 Spring,1,Civil & Environmental Eng,60,1,Clg of Engineering,french
+17,2017 Spring,1,Classics,180,1,Clg of Letters & Science,french
+18,2017 Spring,1,Development Studies,C10,1,Clg of Letters & Science,french
+19,2017 Spring,2,Development Studies,C100,1,Clg of Letters & Science,french
+20,2017 Spring,1,Economics,2,1,Clg of Letters & Science,french
+21,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,french
+22,2017 Spring,1,Economics,C171,1,Clg of Letters & Science,french
+23,2017 Spring,1,Education,195B,1,Grad School of Education,french
+24,2017 Spring,1,Education,197,21,Grad School of Education,french
+25,2017 Spring,1,English,45C,2,Clg of Letters & Science,french
+26,2017 Spring,1,English,117S,1,Clg of Letters & Science,french
+27,2017 Spring,1,"Env Sci, Policy, & Mgmt",C148,1,Clg of Natural Resources,french
+28,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,13,Clg of Natural Resources,french
+29,2017 Spring,1,Ethnic Studies,21AC,1,Clg of Letters & Science,french
+30,2017 Spring,1,Ethnic Studies,145,1,Clg of Letters & Science,french
+31,2017 Spring,1,Ethnic Studies,180,1,Clg of Letters & Science,french
+32,2017 Spring,1,Ethnic Studies,197,12,Clg of Letters & Science,french
+33,2017 Spring,1,French,14,1,Clg of Letters & Science,french
+34,2017 Spring,3,French,35,1,Clg of Letters & Science,french
+35,2017 Spring,1,French,102,1,Clg of Letters & Science,french
+36,2017 Spring,3,French,102,2,Clg of Letters & Science,french
+37,2017 Spring,6,French,103B,1,Clg of Letters & Science,french
+38,2017 Spring,12,French,117A,1,Clg of Letters & Science,french
+39,2017 Spring,7,French,119A,1,Clg of Letters & Science,french
+40,2017 Spring,2,French,120B,1,Clg of Letters & Science,french
+41,2017 Spring,5,French,126,1,Clg of Letters & Science,french
+42,2017 Spring,2,French,140D,1,Clg of Letters & Science,french
+43,2017 Spring,4,French,151B,1,Clg of Letters & Science,french
+44,2017 Spring,7,French,161B,1,Clg of Letters & Science,french
+45,2017 Spring,5,French,171B,1,Clg of Letters & Science,french
+46,2017 Spring,4,French,178B,1,Clg of Letters & Science,french
+47,2017 Spring,2,French,180D,1,Clg of Letters & Science,french
+48,2017 Spring,4,French,197,1,Clg of Letters & Science,french
+49,2017 Spring,3,French,197,2,Clg of Letters & Science,french
+50,2017 Spring,1,Geography,130,1,Clg of Letters & Science,french
+51,2017 Spring,1,German,2,5,Clg of Letters & Science,french
+52,2017 Spring,1,German,3,2,Clg of Letters & Science,french
+53,2017 Spring,1,History,98,2,Clg of Letters & Science,french
+54,2017 Spring,1,History,100F,2,Clg of Letters & Science,french
+55,2017 Spring,1,History of Art,134A,1,Clg of Letters & Science,french
+56,2017 Spring,1,Industrial Eng & Ops Rsch,185,2,Clg of Engineering,french
+57,2017 Spring,1,Integrative Biology,132,1,Clg of Letters & Science,french
+58,2017 Spring,1,Italian Studies,1,2,Clg of Letters & Science,french
+59,2017 Spring,1,Legal Studies,154,1,School of Law,french
+60,2017 Spring,1,Letters & Science,22,1,Clg of Letters & Science,french
+61,2017 Spring,1,Letters & Science,160B,1,Clg of Letters & Science,french
+62,2017 Spring,2,Letters & Science,C180U,1,Clg of Letters & Science,french
+63,2017 Spring,1,Linguistics,47,1,Clg of Letters & Science,french
+64,2017 Spring,1,Linguistics,108,1,Clg of Letters & Science,french
+65,2017 Spring,1,Mathematics,54,2,Clg of Letters & Science,french
+66,2017 Spring,1,Molecular & Cell Biology,C44,1,Clg of Letters & Science,french
+67,2017 Spring,1,Molecular & Cell Biology,102,1,Clg of Letters & Science,french
+68,2017 Spring,1,Molecular & Cell Biology,C103,1,Clg of Letters & Science,french
+69,2017 Spring,1,Molecular & Cell Biology,104,1,Clg of Letters & Science,french
+70,2017 Spring,1,Molecular & Cell Biology,140,1,Clg of Letters & Science,french
+71,2017 Spring,1,Molecular & Cell Biology,140L,1,Clg of Letters & Science,french
+72,2017 Spring,1,Molecular & Cell Biology,150,1,Clg of Letters & Science,french
+73,2017 Spring,2,Molecular & Cell Biology,150L,1,Clg of Letters & Science,french
+74,2017 Spring,2,Molecular & Cell Biology,161,1,Clg of Letters & Science,french
+75,2017 Spring,1,Molecular & Cell Biology,165,1,Clg of Letters & Science,french
+76,2017 Spring,1,Nuclear Engineering,100,1,Clg of Engineering,french
+77,2017 Spring,1,Nutritional Science & Tox,10,1,Clg of Natural Resources,french
+78,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,french
+79,2017 Spring,1,Physical Education,1,29,Clg of Letters & Science,french
+80,2017 Spring,1,Physical Education,2,5,Clg of Letters & Science,french
+81,2017 Spring,1,Physical Education,2,8,Clg of Letters & Science,french
+82,2017 Spring,1,Physical Education,3,4,Clg of Letters & Science,french
+83,2017 Spring,1,Physics,8A,2,Clg of Letters & Science,french
+84,2017 Spring,1,Physics,8B,2,Clg of Letters & Science,french
+85,2017 Spring,1,Political Science,109H,1,Clg of Letters & Science,french
+86,2017 Spring,1,Political Science,138E,1,Clg of Letters & Science,french
+87,2017 Spring,1,Political Science,147G,1,Clg of Letters & Science,french
+88,2017 Spring,1,Political Science,148A,1,Clg of Letters & Science,french
+89,2017 Spring,1,Political Science,157A,1,Clg of Letters & Science,french
+90,2017 Spring,1,Political Science,179,1,Clg of Letters & Science,french
+91,2017 Spring,1,Psychology,1,1,Clg of Letters & Science,french
+92,2017 Spring,1,Public Health,150A,1,School of Public Health,french
+93,2017 Spring,2,Public Health,150D,1,School of Public Health,french
+94,2017 Spring,1,Public Health,150E,1,School of Public Health,french
+95,2017 Spring,1,Public Health,196,6,School of Public Health,french
+96,2017 Spring,1,Public Health,198,17,School of Public Health,french
+97,2017 Spring,2,Public Policy,C103,1,Goldman School Public Policy,french
+98,2017 Spring,1,Rhetoric,20,1,Clg of Letters & Science,french
+99,2017 Spring,1,Rhetoric,103B,1,Clg of Letters & Science,french
+100,2017 Spring,1,Rhetoric,189,2,Clg of Letters & Science,french
+101,2017 Spring,1,Sociology,102,1,Clg of Letters & Science,french
+102,2017 Spring,1,Sociology,114,1,Clg of Letters & Science,french
+103,2017 Spring,1,Sociology,190,1,Clg of Letters & Science,french
+104,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,french
+105,2017 Spring,1,Statistics,2,1,Clg of Letters & Science,french
+106,2017 Spring,1,Statistics,W21,1,Clg of Letters & Science,french
+107,2017 Spring,1,Statistics,152,1,Clg of Letters & Science,french
+108,2017 Spring,1,Statistics,155,1,Clg of Letters & Science,french
+109,2017 Spring,1,Theater Dance & Perf Stds,10,3,Clg of Letters & Science,french
+110,2017 Spring,1,Yiddish,102,1,Clg of Letters & Science,french

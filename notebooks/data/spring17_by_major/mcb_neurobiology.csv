@@ -1,0 +1,327 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,2,African American Studies,197,3,Clg of Letters & Science,mcb neurobiology
+1,2017 Spring,2,Anthropology,2AC,1,Clg of Letters & Science,mcb neurobiology
+2,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,mcb neurobiology
+3,2017 Spring,1,Anthropology,160AC,1,Clg of Letters & Science,mcb neurobiology
+4,2017 Spring,1,Anthropology,170,1,Clg of Letters & Science,mcb neurobiology
+5,2017 Spring,1,Arabic,100B,1,Clg of Letters & Science,mcb neurobiology
+6,2017 Spring,1,Arabic,107,1,Clg of Letters & Science,mcb neurobiology
+7,2017 Spring,1,Armenian,101B,1,Clg of Letters & Science,mcb neurobiology
+8,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,mcb neurobiology
+9,2017 Spring,3,Asian American Studies,132AC,1,Clg of Letters & Science,mcb neurobiology
+10,2017 Spring,1,Asian American Studies,197,1,Clg of Letters & Science,mcb neurobiology
+11,2017 Spring,1,Asian American Studies,197,2,Clg of Letters & Science,mcb neurobiology
+12,2017 Spring,1,Asian American Studies,197,5,Clg of Letters & Science,mcb neurobiology
+13,2017 Spring,1,Asian Studies,198,2,Clg of Letters & Science,mcb neurobiology
+14,2017 Spring,1,Astronomy,C12,1,Clg of Letters & Science,mcb neurobiology
+15,2017 Spring,1,Bioengineering,25,1,Clg of Engineering,mcb neurobiology
+16,2017 Spring,2,Bioengineering,104,1,Clg of Engineering,mcb neurobiology
+17,2017 Spring,1,Bioengineering,110,1,Clg of Engineering,mcb neurobiology
+18,2017 Spring,1,Bioengineering,121,1,Clg of Engineering,mcb neurobiology
+19,2017 Spring,2,Biology,1A,1,Clg of Letters & Science,mcb neurobiology
+20,2017 Spring,2,Biology,1AL,1,Clg of Letters & Science,mcb neurobiology
+21,2017 Spring,4,Biology,1B,1,Clg of Letters & Science,mcb neurobiology
+22,2017 Spring,1,Biology,1B,2,Clg of Letters & Science,mcb neurobiology
+23,2017 Spring,1,Buddhist Studies,C115,1,Clg of Letters & Science,mcb neurobiology
+24,2017 Spring,1,Buddhist Studies,C128,1,Clg of Letters & Science,mcb neurobiology
+25,2017 Spring,1,Business Admin-Undergrad,107,1,Haas School of Business,mcb neurobiology
+26,2017 Spring,1,Business Admin-Undergrad,190T,3,Haas School of Business,mcb neurobiology
+27,2017 Spring,1,Celtic Studies,125,1,Clg of Letters & Science,mcb neurobiology
+28,2017 Spring,1,Chemistry,1B,1,Clg of Chemistry,mcb neurobiology
+29,2017 Spring,1,Chemistry,3B,2,Clg of Chemistry,mcb neurobiology
+30,2017 Spring,3,Chemistry,3BL,2,Clg of Chemistry,mcb neurobiology
+31,2017 Spring,1,Chemistry,114,1,Clg of Chemistry,mcb neurobiology
+32,2017 Spring,1,Chemistry,130B,1,Clg of Chemistry,mcb neurobiology
+33,2017 Spring,1,Chicano Studies,176,1,Clg of Letters & Science,mcb neurobiology
+34,2017 Spring,1,Chicano Studies,180,1,Clg of Letters & Science,mcb neurobiology
+35,2017 Spring,1,Chicano Studies,180,2,Clg of Letters & Science,mcb neurobiology
+36,2017 Spring,1,Classics,130,1,Clg of Letters & Science,mcb neurobiology
+37,2017 Spring,1,Classics,C175F,1,Clg of Letters & Science,mcb neurobiology
+38,2017 Spring,3,Classics,180,1,Clg of Letters & Science,mcb neurobiology
+39,2017 Spring,1,Cognitive Science,198,1,Clg of Letters & Science,mcb neurobiology
+40,2017 Spring,1,Cognitive Science,198,6,Clg of Letters & Science,mcb neurobiology
+41,2017 Spring,1,Comparative Literature,165,1,Clg of Letters & Science,mcb neurobiology
+42,2017 Spring,1,Comparative Literature,171,1,Clg of Letters & Science,mcb neurobiology
+43,2017 Spring,1,Computer Science,9A,1,Clg of Engineering,mcb neurobiology
+44,2017 Spring,4,Computer Science,61A,1,Clg of Engineering,mcb neurobiology
+45,2017 Spring,1,Computer Science,61B,1,Clg of Engineering,mcb neurobiology
+46,2017 Spring,1,Computer Science,160,2,Clg of Engineering,mcb neurobiology
+47,2017 Spring,1,Computer Science,160,3,Clg of Engineering,mcb neurobiology
+48,2017 Spring,1,Computer Science,162,1,Clg of Engineering,mcb neurobiology
+49,2017 Spring,2,Computer Science,170,1,Clg of Engineering,mcb neurobiology
+50,2017 Spring,1,Computer Science,184,1,Clg of Engineering,mcb neurobiology
+51,2017 Spring,1,Computer Science,186,1,Clg of Engineering,mcb neurobiology
+52,2017 Spring,2,Computer Science,189,1,Clg of Engineering,mcb neurobiology
+53,2017 Spring,1,Computer Science,195,1,Clg of Engineering,mcb neurobiology
+54,2017 Spring,1,Computer Science,197,214,Clg of Engineering,mcb neurobiology
+55,2017 Spring,1,Computer Science,198,58,Clg of Engineering,mcb neurobiology
+56,2017 Spring,1,East Asian Languages,112,1,Clg of Letters & Science,mcb neurobiology
+57,2017 Spring,1,East Asian Languages,C128,1,Clg of Letters & Science,mcb neurobiology
+58,2017 Spring,1,Economics,1,1,Clg of Letters & Science,mcb neurobiology
+59,2017 Spring,1,Economics,133,1,Clg of Letters & Science,mcb neurobiology
+60,2017 Spring,1,Education,W140A,1,Grad School of Education,mcb neurobiology
+61,2017 Spring,1,Education,197,55,Grad School of Education,mcb neurobiology
+62,2017 Spring,1,Education,198,24,Grad School of Education,mcb neurobiology
+63,2017 Spring,1,Engineering,120,1,Clg of Engineering,mcb neurobiology
+64,2017 Spring,1,English,28,1,Clg of Letters & Science,mcb neurobiology
+65,2017 Spring,3,English,80K,1,Clg of Letters & Science,mcb neurobiology
+66,2017 Spring,1,English,117S,2,Clg of Letters & Science,mcb neurobiology
+67,2017 Spring,2,English,125E,1,Clg of Letters & Science,mcb neurobiology
+68,2017 Spring,1,English,132,1,Clg of Letters & Science,mcb neurobiology
+69,2017 Spring,1,English,C136,1,Clg of Letters & Science,mcb neurobiology
+70,2017 Spring,1,English,137B,1,Clg of Letters & Science,mcb neurobiology
+71,2017 Spring,1,English,139,1,Clg of Letters & Science,mcb neurobiology
+72,2017 Spring,1,English,141,1,Clg of Letters & Science,mcb neurobiology
+73,2017 Spring,1,English,180A,1,Clg of Letters & Science,mcb neurobiology
+74,2017 Spring,1,English,180Z,1,Clg of Letters & Science,mcb neurobiology
+75,2017 Spring,6,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,mcb neurobiology
+76,2017 Spring,1,"Env Sci, Policy, & Mgmt",134,1,Clg of Natural Resources,mcb neurobiology
+77,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,10,Clg of Natural Resources,mcb neurobiology
+78,2017 Spring,2,Environmental Design,100,1,Clg of Environmental Design,mcb neurobiology
+79,2017 Spring,1,Ethnic Studies,11AC,1,Clg of Letters & Science,mcb neurobiology
+80,2017 Spring,1,Ethnic Studies,144AC,1,Clg of Letters & Science,mcb neurobiology
+81,2017 Spring,1,Ethnic Studies,181AC,1,Clg of Letters & Science,mcb neurobiology
+82,2017 Spring,2,Filipino,1B,1,Clg of Letters & Science,mcb neurobiology
+83,2017 Spring,1,Filipino,1B,2,Clg of Letters & Science,mcb neurobiology
+84,2017 Spring,1,Film,198,1,Clg of Letters & Science,mcb neurobiology
+85,2017 Spring,1,French,1,5,Clg of Letters & Science,mcb neurobiology
+86,2017 Spring,1,French,2,3,Clg of Letters & Science,mcb neurobiology
+87,2017 Spring,1,French,2,8,Clg of Letters & Science,mcb neurobiology
+88,2017 Spring,1,French,103B,1,Clg of Letters & Science,mcb neurobiology
+89,2017 Spring,1,French,117A,1,Clg of Letters & Science,mcb neurobiology
+90,2017 Spring,3,Gender & Womens Studies,14,1,Clg of Letters & Science,mcb neurobiology
+91,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,mcb neurobiology
+92,2017 Spring,1,Gender & Womens Studies,101,1,Clg of Letters & Science,mcb neurobiology
+93,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,mcb neurobiology
+94,2017 Spring,1,Gender & Womens Studies,C196A,1,Clg of Letters & Science,mcb neurobiology
+95,2017 Spring,1,Gender & Womens Studies,C196B,1,Clg of Letters & Science,mcb neurobiology
+96,2017 Spring,1,Gender & Womens Studies,198,2,Clg of Letters & Science,mcb neurobiology
+97,2017 Spring,1,Geography,20,1,Clg of Letters & Science,mcb neurobiology
+98,2017 Spring,1,Geography,C32,1,Clg of Letters & Science,mcb neurobiology
+99,2017 Spring,3,Geography,70AC,1,Clg of Letters & Science,mcb neurobiology
+100,2017 Spring,1,Geography,130,1,Clg of Letters & Science,mcb neurobiology
+101,2017 Spring,1,German,3,1,Clg of Letters & Science,mcb neurobiology
+102,2017 Spring,1,Global Poverty & Practice,150,1,Clg of Letters & Science,mcb neurobiology
+103,2017 Spring,3,Health & Medical Sciences,C133,1,School of Public Health,mcb neurobiology
+104,2017 Spring,1,Hindi-Urdu,2B,1,Clg of Letters & Science,mcb neurobiology
+105,2017 Spring,1,Hindi-Urdu,103B,1,Clg of Letters & Science,mcb neurobiology
+106,2017 Spring,1,Hindi-Urdu,104B,1,Clg of Letters & Science,mcb neurobiology
+107,2017 Spring,1,History,5,1,Clg of Letters & Science,mcb neurobiology
+108,2017 Spring,1,History,7B,1,Clg of Letters & Science,mcb neurobiology
+109,2017 Spring,1,History,100AC,2,Clg of Letters & Science,mcb neurobiology
+110,2017 Spring,1,History,100U,1,Clg of Letters & Science,mcb neurobiology
+111,2017 Spring,2,History,151A,1,Clg of Letters & Science,mcb neurobiology
+112,2017 Spring,1,History,160,1,Clg of Letters & Science,mcb neurobiology
+113,2017 Spring,1,History,162B,1,Clg of Letters & Science,mcb neurobiology
+114,2017 Spring,1,History,180T,1,Clg of Letters & Science,mcb neurobiology
+115,2017 Spring,1,History,185B,1,Clg of Letters & Science,mcb neurobiology
+116,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,mcb neurobiology
+117,2017 Spring,1,History of Art,C145A,1,Clg of Letters & Science,mcb neurobiology
+118,2017 Spring,1,History of Art,188A,1,Clg of Letters & Science,mcb neurobiology
+119,2017 Spring,1,History of Art,198,1,Clg of Letters & Science,mcb neurobiology
+120,2017 Spring,1,Hungarian,100,1,Clg of Letters & Science,mcb neurobiology
+121,2017 Spring,1,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,mcb neurobiology
+122,2017 Spring,1,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,mcb neurobiology
+123,2017 Spring,1,Information,103,1,School of Information,mcb neurobiology
+124,2017 Spring,2,Integrative Biology,C32,1,Clg of Letters & Science,mcb neurobiology
+125,2017 Spring,1,Integrative Biology,131L,2,Clg of Letters & Science,mcb neurobiology
+126,2017 Spring,2,Integrative Biology,138,1,Clg of Letters & Science,mcb neurobiology
+127,2017 Spring,5,Integrative Biology,140,1,Clg of Letters & Science,mcb neurobiology
+128,2017 Spring,13,Integrative Biology,C143B,1,Clg of Letters & Science,mcb neurobiology
+129,2017 Spring,1,Integrative Biology,146LF,1,Clg of Letters & Science,mcb neurobiology
+130,2017 Spring,5,Integrative Biology,169,1,Clg of Letters & Science,mcb neurobiology
+131,2017 Spring,1,Integrative Biology,C185L,1,Clg of Letters & Science,mcb neurobiology
+132,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,mcb neurobiology
+133,2017 Spring,2,Integrative Biology,198,3,Clg of Letters & Science,mcb neurobiology
+134,2017 Spring,1,Interdisciplinary Studies,100C,1,Clg of Letters & Science,mcb neurobiology
+135,2017 Spring,2,Interdisciplinary Studies,100G,1,Clg of Letters & Science,mcb neurobiology
+136,2017 Spring,1,Interdisciplinary Studies,198,5,Clg of Letters & Science,mcb neurobiology
+137,2017 Spring,1,International & Area Stds,150,2,Clg of Letters & Science,mcb neurobiology
+138,2017 Spring,1,Italian Studies,101,1,Clg of Letters & Science,mcb neurobiology
+139,2017 Spring,1,Italian Studies,120,1,Clg of Letters & Science,mcb neurobiology
+140,2017 Spring,2,Japanese,7B,1,Clg of Letters & Science,mcb neurobiology
+141,2017 Spring,1,Japanese,188,1,Clg of Letters & Science,mcb neurobiology
+142,2017 Spring,1,Korean,112,1,Clg of Letters & Science,mcb neurobiology
+143,2017 Spring,1,LGBT Studies,146,1,Clg of Letters & Science,mcb neurobiology
+144,2017 Spring,2,Letters & Science,25,1,Clg of Letters & Science,mcb neurobiology
+145,2017 Spring,2,Letters & Science,C30V,1,Clg of Letters & Science,mcb neurobiology
+146,2017 Spring,5,Letters & Science,124,1,Clg of Letters & Science,mcb neurobiology
+147,2017 Spring,3,Letters & Science,160B,1,Clg of Letters & Science,mcb neurobiology
+148,2017 Spring,3,Letters & Science,C180U,1,Clg of Letters & Science,mcb neurobiology
+149,2017 Spring,1,Linguistics,C142,1,Clg of Letters & Science,mcb neurobiology
+150,2017 Spring,1,Mathematics,1B,1,Clg of Letters & Science,mcb neurobiology
+151,2017 Spring,1,Mathematics,10B,1,Clg of Letters & Science,mcb neurobiology
+152,2017 Spring,1,Mathematics,10B,2,Clg of Letters & Science,mcb neurobiology
+153,2017 Spring,1,Mathematics,54,1,Clg of Letters & Science,mcb neurobiology
+154,2017 Spring,1,Mathematics,55,1,Clg of Letters & Science,mcb neurobiology
+155,2017 Spring,1,Mathematics,104,2,Clg of Letters & Science,mcb neurobiology
+156,2017 Spring,2,Mathematics,110,1,Clg of Letters & Science,mcb neurobiology
+157,2017 Spring,1,Mathematics,113,5,Clg of Letters & Science,mcb neurobiology
+158,2017 Spring,1,Mathematics,114,1,Clg of Letters & Science,mcb neurobiology
+159,2017 Spring,3,Mathematics,170,1,Clg of Letters & Science,mcb neurobiology
+160,2017 Spring,1,Mathematics,191,1,Clg of Letters & Science,mcb neurobiology
+161,2017 Spring,1,Mechanical Engineering,118,1,Clg of Engineering,mcb neurobiology
+162,2017 Spring,1,Molecular & Cell Biology,15,1,Clg of Letters & Science,mcb neurobiology
+163,2017 Spring,1,Molecular & Cell Biology,C44,1,Clg of Letters & Science,mcb neurobiology
+164,2017 Spring,1,Molecular & Cell Biology,C61,1,Clg of Letters & Science,mcb neurobiology
+165,2017 Spring,1,Molecular & Cell Biology,88,1,Clg of Letters & Science,mcb neurobiology
+166,2017 Spring,1,Molecular & Cell Biology,98,205,Clg of Letters & Science,mcb neurobiology
+167,2017 Spring,1,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,mcb neurobiology
+168,2017 Spring,1,Molecular & Cell Biology,100B,1,Clg of Letters & Science,mcb neurobiology
+169,2017 Spring,24,Molecular & Cell Biology,102,1,Clg of Letters & Science,mcb neurobiology
+170,2017 Spring,4,Molecular & Cell Biology,C103,1,Clg of Letters & Science,mcb neurobiology
+171,2017 Spring,67,Molecular & Cell Biology,104,1,Clg of Letters & Science,mcb neurobiology
+172,2017 Spring,1,Molecular & Cell Biology,118,1,Clg of Letters & Science,mcb neurobiology
+173,2017 Spring,2,Molecular & Cell Biology,130,1,Clg of Letters & Science,mcb neurobiology
+174,2017 Spring,4,Molecular & Cell Biology,137L,1,Clg of Letters & Science,mcb neurobiology
+175,2017 Spring,1,Molecular & Cell Biology,140,1,Clg of Letters & Science,mcb neurobiology
+176,2017 Spring,2,Molecular & Cell Biology,141,1,Clg of Letters & Science,mcb neurobiology
+177,2017 Spring,4,Molecular & Cell Biology,150,1,Clg of Letters & Science,mcb neurobiology
+178,2017 Spring,41,Molecular & Cell Biology,160L,1,Clg of Letters & Science,mcb neurobiology
+179,2017 Spring,101,Molecular & Cell Biology,161,1,Clg of Letters & Science,mcb neurobiology
+180,2017 Spring,30,Molecular & Cell Biology,165,1,Clg of Letters & Science,mcb neurobiology
+181,2017 Spring,3,Molecular & Cell Biology,180,1,Clg of Letters & Science,mcb neurobiology
+182,2017 Spring,1,Molecular & Cell Biology,198,2,Clg of Letters & Science,mcb neurobiology
+183,2017 Spring,1,Molecular & Cell Biology,198,3,Clg of Letters & Science,mcb neurobiology
+184,2017 Spring,1,Molecular & Cell Biology,198,5,Clg of Letters & Science,mcb neurobiology
+185,2017 Spring,1,Molecular & Cell Biology,198,8,Clg of Letters & Science,mcb neurobiology
+186,2017 Spring,1,Molecular & Cell Biology,198,9,Clg of Letters & Science,mcb neurobiology
+187,2017 Spring,1,Molecular & Cell Biology,198,12,Clg of Letters & Science,mcb neurobiology
+188,2017 Spring,2,Molecular & Cell Biology,198,201,Clg of Letters & Science,mcb neurobiology
+189,2017 Spring,2,Music,26AC,1,Clg of Letters & Science,mcb neurobiology
+190,2017 Spring,3,Music,29,1,Clg of Letters & Science,mcb neurobiology
+191,2017 Spring,1,Music,44,1,Clg of Letters & Science,mcb neurobiology
+192,2017 Spring,1,Music,44,2,Clg of Letters & Science,mcb neurobiology
+193,2017 Spring,4,Music,128,1,Clg of Letters & Science,mcb neurobiology
+194,2017 Spring,2,Music,139,1,Clg of Letters & Science,mcb neurobiology
+195,2017 Spring,1,Music,140,2,Clg of Letters & Science,mcb neurobiology
+196,2017 Spring,1,Music,140,3,Clg of Letters & Science,mcb neurobiology
+197,2017 Spring,1,Music,141,1,Clg of Letters & Science,mcb neurobiology
+198,2017 Spring,1,Music,142,1,Clg of Letters & Science,mcb neurobiology
+199,2017 Spring,2,Music,142,2,Clg of Letters & Science,mcb neurobiology
+200,2017 Spring,1,Music,146B,1,Clg of Letters & Science,mcb neurobiology
+201,2017 Spring,1,Music,148,1,Clg of Letters & Science,mcb neurobiology
+202,2017 Spring,1,Music,170,1,Clg of Letters & Science,mcb neurobiology
+203,2017 Spring,1,Music,198,2,Clg of Letters & Science,mcb neurobiology
+204,2017 Spring,1,Music,198,6,Clg of Letters & Science,mcb neurobiology
+205,2017 Spring,1,Music,198,10,Clg of Letters & Science,mcb neurobiology
+206,2017 Spring,1,Music,198BC,2,Clg of Letters & Science,mcb neurobiology
+207,2017 Spring,1,Near Eastern Studies,140,1,Clg of Letters & Science,mcb neurobiology
+208,2017 Spring,1,Near Eastern Studies,146B,1,Clg of Letters & Science,mcb neurobiology
+209,2017 Spring,1,New Media,198,1,Clg of Engineering,mcb neurobiology
+210,2017 Spring,3,Nutritional Science & Tox,10,1,Clg of Natural Resources,mcb neurobiology
+211,2017 Spring,2,Nutritional Science & Tox,11,1,Clg of Natural Resources,mcb neurobiology
+212,2017 Spring,1,Nutritional Science & Tox,98,2,Clg of Natural Resources,mcb neurobiology
+213,2017 Spring,1,Nutritional Science & Tox,104,1,Clg of Natural Resources,mcb neurobiology
+214,2017 Spring,1,Nutritional Science & Tox,C114,1,Clg of Natural Resources,mcb neurobiology
+215,2017 Spring,1,Nutritional Science & Tox,115,1,Clg of Natural Resources,mcb neurobiology
+216,2017 Spring,3,Nutritional Science & Tox,121,1,Clg of Natural Resources,mcb neurobiology
+217,2017 Spring,3,Nutritional Science & Tox,160,1,Clg of Natural Resources,mcb neurobiology
+218,2017 Spring,1,Nutritional Science & Tox,193,1,Clg of Natural Resources,mcb neurobiology
+219,2017 Spring,1,Optometry,10,1,School of Optometry,mcb neurobiology
+220,2017 Spring,1,Peace & Conflict Studies,100,1,Clg of Letters & Science,mcb neurobiology
+221,2017 Spring,1,Peace & Conflict Studies,135,1,Clg of Letters & Science,mcb neurobiology
+222,2017 Spring,1,Peace & Conflict Studies,151,1,Clg of Letters & Science,mcb neurobiology
+223,2017 Spring,1,Philosophy,2,1,Clg of Letters & Science,mcb neurobiology
+224,2017 Spring,2,Philosophy,132,1,Clg of Letters & Science,mcb neurobiology
+225,2017 Spring,1,Physical Education,1,5,Clg of Letters & Science,mcb neurobiology
+226,2017 Spring,1,Physical Education,1,6,Clg of Letters & Science,mcb neurobiology
+227,2017 Spring,1,Physical Education,1,13,Clg of Letters & Science,mcb neurobiology
+228,2017 Spring,1,Physical Education,1,21,Clg of Letters & Science,mcb neurobiology
+229,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,mcb neurobiology
+230,2017 Spring,1,Physical Education,1,26,Clg of Letters & Science,mcb neurobiology
+231,2017 Spring,2,Physical Education,1,27,Clg of Letters & Science,mcb neurobiology
+232,2017 Spring,2,Physical Education,1,33,Clg of Letters & Science,mcb neurobiology
+233,2017 Spring,1,Physical Education,1,38,Clg of Letters & Science,mcb neurobiology
+234,2017 Spring,1,Physical Education,2,3,Clg of Letters & Science,mcb neurobiology
+235,2017 Spring,1,Physical Education,2,9,Clg of Letters & Science,mcb neurobiology
+236,2017 Spring,1,Physical Education,2,10,Clg of Letters & Science,mcb neurobiology
+237,2017 Spring,2,Physical Education,2,11,Clg of Letters & Science,mcb neurobiology
+238,2017 Spring,1,Physical Education,2,12,Clg of Letters & Science,mcb neurobiology
+239,2017 Spring,1,Physical Education,3,4,Clg of Letters & Science,mcb neurobiology
+240,2017 Spring,1,Physical Education,3,8,Clg of Letters & Science,mcb neurobiology
+241,2017 Spring,1,Physical Education,3,10,Clg of Letters & Science,mcb neurobiology
+242,2017 Spring,1,Physical Education,4,6,Clg of Letters & Science,mcb neurobiology
+243,2017 Spring,1,Physical Education,197,2,Clg of Letters & Science,mcb neurobiology
+244,2017 Spring,2,Physics,8A,2,Clg of Letters & Science,mcb neurobiology
+245,2017 Spring,4,Physics,8B,1,Clg of Letters & Science,mcb neurobiology
+246,2017 Spring,11,Physics,8B,2,Clg of Letters & Science,mcb neurobiology
+247,2017 Spring,1,Physics,89,1,Clg of Letters & Science,mcb neurobiology
+248,2017 Spring,2,Physics,98,1,Clg of Letters & Science,mcb neurobiology
+249,2017 Spring,1,Physics,110A,1,Clg of Letters & Science,mcb neurobiology
+250,2017 Spring,4,Plant & Microbial Biology,40,1,Clg of Natural Resources,mcb neurobiology
+251,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,mcb neurobiology
+252,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,mcb neurobiology
+253,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,mcb neurobiology
+254,2017 Spring,2,Psychology,1,1,Clg of Letters & Science,mcb neurobiology
+255,2017 Spring,2,Psychology,W1,1,Clg of Letters & Science,mcb neurobiology
+256,2017 Spring,4,Psychology,2,1,Clg of Letters & Science,mcb neurobiology
+257,2017 Spring,1,Psychology,10,1,Clg of Letters & Science,mcb neurobiology
+258,2017 Spring,2,Psychology,110,1,Clg of Letters & Science,mcb neurobiology
+259,2017 Spring,7,Psychology,114,1,Clg of Letters & Science,mcb neurobiology
+260,2017 Spring,5,Psychology,C116,1,Clg of Letters & Science,mcb neurobiology
+261,2017 Spring,3,Psychology,C126,1,Clg of Letters & Science,mcb neurobiology
+262,2017 Spring,4,Psychology,130,1,Clg of Letters & Science,mcb neurobiology
+263,2017 Spring,4,Psychology,131,1,Clg of Letters & Science,mcb neurobiology
+264,2017 Spring,5,Psychology,133,1,Clg of Letters & Science,mcb neurobiology
+265,2017 Spring,1,Psychology,C143,1,Clg of Letters & Science,mcb neurobiology
+266,2017 Spring,2,Psychology,146,1,Clg of Letters & Science,mcb neurobiology
+267,2017 Spring,4,Psychology,150,1,Clg of Letters & Science,mcb neurobiology
+268,2017 Spring,7,Psychology,156,1,Clg of Letters & Science,mcb neurobiology
+269,2017 Spring,2,Psychology,160,1,Clg of Letters & Science,mcb neurobiology
+270,2017 Spring,2,Psychology,166AC,1,Clg of Letters & Science,mcb neurobiology
+271,2017 Spring,2,Psychology,169,1,Clg of Letters & Science,mcb neurobiology
+272,2017 Spring,1,Psychology,197,5,Clg of Letters & Science,mcb neurobiology
+273,2017 Spring,1,Psychology,197,23,Clg of Letters & Science,mcb neurobiology
+274,2017 Spring,1,Psychology,197,27,Clg of Letters & Science,mcb neurobiology
+275,2017 Spring,3,Public Health,116,1,School of Public Health,mcb neurobiology
+276,2017 Spring,1,Public Health,130,1,School of Public Health,mcb neurobiology
+277,2017 Spring,17,Public Health,142,1,School of Public Health,mcb neurobiology
+278,2017 Spring,1,Public Health,150A,1,School of Public Health,mcb neurobiology
+279,2017 Spring,4,Public Health,150D,1,School of Public Health,mcb neurobiology
+280,2017 Spring,2,Public Health,150E,1,School of Public Health,mcb neurobiology
+281,2017 Spring,2,Public Health,C155,1,School of Public Health,mcb neurobiology
+282,2017 Spring,5,Public Health,196,6,School of Public Health,mcb neurobiology
+283,2017 Spring,1,Public Health,198,11,School of Public Health,mcb neurobiology
+284,2017 Spring,2,Public Policy,101,1,Goldman School Public Policy,mcb neurobiology
+285,2017 Spring,6,Public Policy,C103,1,Goldman School Public Policy,mcb neurobiology
+286,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,mcb neurobiology
+287,2017 Spring,1,Rhetoric,105T,1,Clg of Letters & Science,mcb neurobiology
+288,2017 Spring,4,Rhetoric,107,1,Clg of Letters & Science,mcb neurobiology
+289,2017 Spring,1,Rhetoric,108,1,Clg of Letters & Science,mcb neurobiology
+290,2017 Spring,1,Russian,1,1,Clg of Letters & Science,mcb neurobiology
+291,2017 Spring,3,Slavic Languages & Lit,50,1,Clg of Letters & Science,mcb neurobiology
+292,2017 Spring,1,Social Welfare,107,1,School of Social Welfare,mcb neurobiology
+293,2017 Spring,1,Social Welfare,198,3,School of Social Welfare,mcb neurobiology
+294,2017 Spring,2,Sociology,1,1,Clg of Letters & Science,mcb neurobiology
+295,2017 Spring,1,Sociology,3AC,1,Clg of Letters & Science,mcb neurobiology
+296,2017 Spring,1,Sociology,C115,1,Clg of Letters & Science,mcb neurobiology
+297,2017 Spring,3,Sociology,117,1,Clg of Letters & Science,mcb neurobiology
+298,2017 Spring,1,Sociology,130,1,Clg of Letters & Science,mcb neurobiology
+299,2017 Spring,1,Sociology,140,1,Clg of Letters & Science,mcb neurobiology
+300,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,mcb neurobiology
+301,2017 Spring,1,Sociology,198,1,Clg of Letters & Science,mcb neurobiology
+302,2017 Spring,1,Sociology,198,10,Clg of Letters & Science,mcb neurobiology
+303,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,mcb neurobiology
+304,2017 Spring,1,South & SE Asian Studies,C145,1,Clg of Letters & Science,mcb neurobiology
+305,2017 Spring,1,South Asian,110,1,Clg of Letters & Science,mcb neurobiology
+306,2017 Spring,1,South Asian,142,1,Clg of Letters & Science,mcb neurobiology
+307,2017 Spring,1,Spanish,2,2,Clg of Letters & Science,mcb neurobiology
+308,2017 Spring,1,Spanish,2,4,Clg of Letters & Science,mcb neurobiology
+309,2017 Spring,1,Spanish,2,5,Clg of Letters & Science,mcb neurobiology
+310,2017 Spring,1,Spanish,3,4,Clg of Letters & Science,mcb neurobiology
+311,2017 Spring,1,Spanish,4,2,Clg of Letters & Science,mcb neurobiology
+312,2017 Spring,1,Spanish,100,1,Clg of Letters & Science,mcb neurobiology
+313,2017 Spring,2,Spanish,102A,1,Clg of Letters & Science,mcb neurobiology
+314,2017 Spring,1,Spanish,104B,1,Clg of Letters & Science,mcb neurobiology
+315,2017 Spring,1,Spanish,111B,1,Clg of Letters & Science,mcb neurobiology
+316,2017 Spring,1,Spanish,135,3,Clg of Letters & Science,mcb neurobiology
+317,2017 Spring,1,Spanish,135W,1,Clg of Letters & Science,mcb neurobiology
+318,2017 Spring,2,Statistics,2,1,Clg of Letters & Science,mcb neurobiology
+319,2017 Spring,2,Statistics,131A,1,Clg of Letters & Science,mcb neurobiology
+320,2017 Spring,1,Statistics,134,1,Clg of Letters & Science,mcb neurobiology
+321,2017 Spring,1,Statistics,151A,1,Clg of Letters & Science,mcb neurobiology
+322,2017 Spring,1,Theater Dance & Perf Stds,40,1,Clg of Letters & Science,mcb neurobiology
+323,2017 Spring,1,Theater Dance & Perf Stds,141,2,Clg of Letters & Science,mcb neurobiology
+324,2017 Spring,2,Tibetan,115,1,Clg of Letters & Science,mcb neurobiology
+325,2017 Spring,1,UGIS-UG Interdisc Studies,162X,1,Clg of Letters & Science,mcb neurobiology

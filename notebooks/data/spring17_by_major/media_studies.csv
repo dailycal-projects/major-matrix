@@ -1,0 +1,575 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,2,African American Studies,11B,1,Clg of Letters & Science,media studies
+1,2017 Spring,1,African American Studies,28AC,1,Clg of Letters & Science,media studies
+2,2017 Spring,1,African American Studies,98BC,1,Clg of Letters & Science,media studies
+3,2017 Spring,2,African American Studies,115,1,Clg of Letters & Science,media studies
+4,2017 Spring,1,African American Studies,118,1,Clg of Letters & Science,media studies
+5,2017 Spring,2,African American Studies,139,2,Clg of Letters & Science,media studies
+6,2017 Spring,10,African American Studies,142AC,1,Clg of Letters & Science,media studies
+7,2017 Spring,1,African American Studies,156AC,1,Clg of Letters & Science,media studies
+8,2017 Spring,1,African American Studies,159,1,Clg of Letters & Science,media studies
+9,2017 Spring,3,African American Studies,197,3,Clg of Letters & Science,media studies
+10,2017 Spring,2,African American Studies,198,2,Clg of Letters & Science,media studies
+11,2017 Spring,1,African American Studies,198BC,1,Clg of Letters & Science,media studies
+12,2017 Spring,1,American Studies,10,1,Clg of Letters & Science,media studies
+13,2017 Spring,27,American Studies,101,1,Clg of Letters & Science,media studies
+14,2017 Spring,3,American Studies,C112B,1,Clg of Letters & Science,media studies
+15,2017 Spring,1,Anthropology,1,1,Clg of Letters & Science,media studies
+16,2017 Spring,1,Anthropology,2AC,1,Clg of Letters & Science,media studies
+17,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,media studies
+18,2017 Spring,1,Anthropology,128,2,Clg of Letters & Science,media studies
+19,2017 Spring,1,Anthropology,137,1,Clg of Letters & Science,media studies
+20,2017 Spring,2,Anthropology,156,1,Clg of Letters & Science,media studies
+21,2017 Spring,12,Anthropology,160AC,1,Clg of Letters & Science,media studies
+22,2017 Spring,1,Anthropology,180,1,Clg of Letters & Science,media studies
+23,2017 Spring,1,Anthropology,198,20,Clg of Letters & Science,media studies
+24,2017 Spring,1,Arabic,1B,3,Clg of Letters & Science,media studies
+25,2017 Spring,1,Architecture,98,6,Clg of Environmental Design,media studies
+26,2017 Spring,3,Architecture,198,4,Clg of Environmental Design,media studies
+27,2017 Spring,2,Architecture,198BC,2,Clg of Environmental Design,media studies
+28,2017 Spring,1,Armenian,1B,1,Clg of Letters & Science,media studies
+29,2017 Spring,1,Armenian,102,1,Clg of Letters & Science,media studies
+30,2017 Spring,10,Armenian,126,1,Clg of Letters & Science,media studies
+31,2017 Spring,2,Art Practice,8,1,Clg of Letters & Science,media studies
+32,2017 Spring,2,Art Practice,13,1,Clg of Letters & Science,media studies
+33,2017 Spring,1,Art Practice,118,1,Clg of Letters & Science,media studies
+34,2017 Spring,2,Art Practice,180,1,Clg of Letters & Science,media studies
+35,2017 Spring,2,Art Practice,198,5,Clg of Letters & Science,media studies
+36,2017 Spring,6,Asian American Studies,132AC,1,Clg of Letters & Science,media studies
+37,2017 Spring,13,Asian American Studies,138,1,Clg of Letters & Science,media studies
+38,2017 Spring,1,Asian American Studies,144,1,Clg of Letters & Science,media studies
+39,2017 Spring,1,Asian American Studies,197,11,Clg of Letters & Science,media studies
+40,2017 Spring,1,Asian American Studies,198,4,Clg of Letters & Science,media studies
+41,2017 Spring,1,Asian American Studies,198,6,Clg of Letters & Science,media studies
+42,2017 Spring,1,Asian Studies,198,1,Clg of Letters & Science,media studies
+43,2017 Spring,1,Asian Studies,198,2,Clg of Letters & Science,media studies
+44,2017 Spring,2,Asian Studies,198,3,Clg of Letters & Science,media studies
+45,2017 Spring,1,Asian Studies,198,4,Clg of Letters & Science,media studies
+46,2017 Spring,2,Asian Studies,198,5,Clg of Letters & Science,media studies
+47,2017 Spring,5,Business Admin-Undergrad,96,1,Haas School of Business,media studies
+48,2017 Spring,1,Business Admin-Undergrad,96,2,Haas School of Business,media studies
+49,2017 Spring,2,Business Admin-Undergrad,96,3,Haas School of Business,media studies
+50,2017 Spring,2,Business Admin-Undergrad,101B,3,Haas School of Business,media studies
+51,2017 Spring,2,Business Admin-Undergrad,101B,4,Haas School of Business,media studies
+52,2017 Spring,1,Business Admin-Undergrad,101B,5,Haas School of Business,media studies
+53,2017 Spring,1,Business Admin-Undergrad,102A,1,Haas School of Business,media studies
+54,2017 Spring,3,Business Admin-Undergrad,102B,1,Haas School of Business,media studies
+55,2017 Spring,1,Business Admin-Undergrad,102B,2,Haas School of Business,media studies
+56,2017 Spring,3,Business Admin-Undergrad,103,1,Haas School of Business,media studies
+57,2017 Spring,3,Business Admin-Undergrad,103,2,Haas School of Business,media studies
+58,2017 Spring,3,Business Admin-Undergrad,104,1,Haas School of Business,media studies
+59,2017 Spring,1,Business Admin-Undergrad,105,1,Haas School of Business,media studies
+60,2017 Spring,3,Business Admin-Undergrad,105,2,Haas School of Business,media studies
+61,2017 Spring,20,Business Admin-Undergrad,106,1,Haas School of Business,media studies
+62,2017 Spring,2,Business Admin-Undergrad,107,1,Haas School of Business,media studies
+63,2017 Spring,1,Business Admin-Undergrad,127,1,Haas School of Business,media studies
+64,2017 Spring,1,Business Admin-Undergrad,152,1,Haas School of Business,media studies
+65,2017 Spring,1,Business Admin-Undergrad,152,2,Haas School of Business,media studies
+66,2017 Spring,3,Business Admin-Undergrad,155,1,Haas School of Business,media studies
+67,2017 Spring,2,Business Admin-Undergrad,157,1,Haas School of Business,media studies
+68,2017 Spring,6,Business Admin-Undergrad,160,1,Haas School of Business,media studies
+69,2017 Spring,8,Business Admin-Undergrad,161,1,Haas School of Business,media studies
+70,2017 Spring,5,Business Admin-Undergrad,167,1,Haas School of Business,media studies
+71,2017 Spring,3,Business Admin-Undergrad,C172,1,Haas School of Business,media studies
+72,2017 Spring,1,Business Admin-Undergrad,179,1,Haas School of Business,media studies
+73,2017 Spring,2,Business Admin-Undergrad,190T,1,Haas School of Business,media studies
+74,2017 Spring,3,Business Admin-Undergrad,190T,3,Haas School of Business,media studies
+75,2017 Spring,1,Business Admin-Undergrad,191P,1,Haas School of Business,media studies
+76,2017 Spring,2,Business Admin-Undergrad,191P,2,Haas School of Business,media studies
+77,2017 Spring,1,Business Admin-Undergrad,192T,1,Haas School of Business,media studies
+78,2017 Spring,1,Business Admin-Undergrad,192T,2,Haas School of Business,media studies
+79,2017 Spring,2,Business Admin-Undergrad,195A,1,Haas School of Business,media studies
+80,2017 Spring,1,Business Admin-Undergrad,195T,1,Haas School of Business,media studies
+81,2017 Spring,3,Business Admin-Undergrad,196,1,Haas School of Business,media studies
+82,2017 Spring,4,Business Admin-Undergrad,196,2,Haas School of Business,media studies
+83,2017 Spring,13,Business Admin-Undergrad,198,4,Haas School of Business,media studies
+84,2017 Spring,2,Business Admin-Undergrad,198,7,Haas School of Business,media studies
+85,2017 Spring,1,Catalan,101,1,Clg of Letters & Science,media studies
+86,2017 Spring,1,Chemistry,1A,2,Clg of Chemistry,media studies
+87,2017 Spring,1,Chemistry,3A,2,Clg of Chemistry,media studies
+88,2017 Spring,2,Chicano Studies,50,1,Clg of Letters & Science,media studies
+89,2017 Spring,1,Chicano Studies,110,1,Clg of Letters & Science,media studies
+90,2017 Spring,1,Chicano Studies,141,1,Clg of Letters & Science,media studies
+91,2017 Spring,1,Chicano Studies,174,1,Clg of Letters & Science,media studies
+92,2017 Spring,1,Chicano Studies,180,1,Clg of Letters & Science,media studies
+93,2017 Spring,1,Chicano Studies,180AC,1,Clg of Letters & Science,media studies
+94,2017 Spring,1,Chicano Studies,197,4,Clg of Letters & Science,media studies
+95,2017 Spring,1,Chinese,1A,1,Clg of Letters & Science,media studies
+96,2017 Spring,1,Chinese,112,1,Clg of Letters & Science,media studies
+97,2017 Spring,1,City & Regional Planning,101,1,Clg of Environmental Design,media studies
+98,2017 Spring,2,City & Regional Planning,118AC,1,Clg of Environmental Design,media studies
+99,2017 Spring,1,City & Regional Planning,198,1,Clg of Environmental Design,media studies
+100,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,media studies
+101,2017 Spring,2,Classics,28,1,Clg of Letters & Science,media studies
+102,2017 Spring,1,Classics,170A,1,Clg of Letters & Science,media studies
+103,2017 Spring,2,Classics,180,1,Clg of Letters & Science,media studies
+104,2017 Spring,1,Cognitive Science,1,1,Clg of Letters & Science,media studies
+105,2017 Spring,1,Cognitive Science,C126,1,Clg of Letters & Science,media studies
+106,2017 Spring,5,Cognitive Science,198,1,Clg of Letters & Science,media studies
+107,2017 Spring,2,Cognitive Science,198,5,Clg of Letters & Science,media studies
+108,2017 Spring,1,College Writing Programs,10A,1,Clg of Letters & Science,media studies
+109,2017 Spring,1,College Writing Programs,10A,2,Clg of Letters & Science,media studies
+110,2017 Spring,2,College Writing Programs,110,1,Clg of Letters & Science,media studies
+111,2017 Spring,2,College Writing Programs,151,1,Clg of Letters & Science,media studies
+112,2017 Spring,1,Comparative Literature,R1B,1,Clg of Letters & Science,media studies
+113,2017 Spring,1,Comparative Literature,60AC,1,Clg of Letters & Science,media studies
+114,2017 Spring,1,Comparative Literature,112B,1,Clg of Letters & Science,media studies
+115,2017 Spring,1,Comparative Literature,165,1,Clg of Letters & Science,media studies
+116,2017 Spring,5,Computer Science,C8,1,Clg of Engineering,media studies
+117,2017 Spring,3,Computer Science,61A,1,Clg of Engineering,media studies
+118,2017 Spring,1,Computer Science,61B,1,Clg of Engineering,media studies
+119,2017 Spring,1,Computer Science,197,211,Clg of Engineering,media studies
+120,2017 Spring,2,Computer Science,198,56,Clg of Engineering,media studies
+121,2017 Spring,2,Computer Science,198,67,Clg of Engineering,media studies
+122,2017 Spring,2,Computer Science,198,75,Clg of Engineering,media studies
+123,2017 Spring,2,Demography,C175,1,Clg of Letters & Science,media studies
+124,2017 Spring,3,Design Innovation,98,1,Clg of Engineering,media studies
+125,2017 Spring,2,Design Innovation,198,1,Clg of Engineering,media studies
+126,2017 Spring,12,Design Innovation,198,2,Clg of Engineering,media studies
+127,2017 Spring,2,Earth & Planetary Science,C12,1,Clg of Letters & Science,media studies
+128,2017 Spring,1,Economics,1,1,Clg of Letters & Science,media studies
+129,2017 Spring,1,Economics,100B,1,Clg of Letters & Science,media studies
+130,2017 Spring,2,Economics,113,1,Clg of Letters & Science,media studies
+131,2017 Spring,2,Economics,121,1,Clg of Letters & Science,media studies
+132,2017 Spring,1,Economics,131,1,Clg of Letters & Science,media studies
+133,2017 Spring,1,Economics,136,1,Clg of Letters & Science,media studies
+134,2017 Spring,2,Economics,140,1,Clg of Letters & Science,media studies
+135,2017 Spring,4,Economics,151,1,Clg of Letters & Science,media studies
+136,2017 Spring,1,Economics,157,1,Clg of Letters & Science,media studies
+137,2017 Spring,1,Economics,C171,1,Clg of Letters & Science,media studies
+138,2017 Spring,2,Economics,C181,1,Clg of Letters & Science,media studies
+139,2017 Spring,1,Education,182AC,1,Grad School of Education,media studies
+140,2017 Spring,1,Education,183,1,Grad School of Education,media studies
+141,2017 Spring,1,Education,190AC,1,Grad School of Education,media studies
+142,2017 Spring,1,Education,197,55,Grad School of Education,media studies
+143,2017 Spring,1,Education,198,1,Grad School of Education,media studies
+144,2017 Spring,1,Education,198,3,Grad School of Education,media studies
+145,2017 Spring,2,Education,198,9,Grad School of Education,media studies
+146,2017 Spring,1,Education,198,16,Grad School of Education,media studies
+147,2017 Spring,1,Education,198,21,Grad School of Education,media studies
+148,2017 Spring,1,Education,198,23,Grad School of Education,media studies
+149,2017 Spring,2,Education,198,24,Grad School of Education,media studies
+150,2017 Spring,1,Education,198,42,Grad School of Education,media studies
+151,2017 Spring,1,English,R1B,17,Clg of Letters & Science,media studies
+152,2017 Spring,2,English,80K,1,Clg of Letters & Science,media studies
+153,2017 Spring,1,English,84,1,Clg of Letters & Science,media studies
+154,2017 Spring,1,English,111,1,Clg of Letters & Science,media studies
+155,2017 Spring,1,English,117S,1,Clg of Letters & Science,media studies
+156,2017 Spring,1,English,118,1,Clg of Letters & Science,media studies
+157,2017 Spring,3,English,137B,1,Clg of Letters & Science,media studies
+158,2017 Spring,1,English,165,1,Clg of Letters & Science,media studies
+159,2017 Spring,3,English,166,4,Clg of Letters & Science,media studies
+160,2017 Spring,1,English,166,5,Clg of Letters & Science,media studies
+161,2017 Spring,1,English,180Z,1,Clg of Letters & Science,media studies
+162,2017 Spring,1,English,190,13,Clg of Letters & Science,media studies
+163,2017 Spring,3,English,198,4,Clg of Letters & Science,media studies
+164,2017 Spring,1,English,198,6,Clg of Letters & Science,media studies
+165,2017 Spring,1,English,198,7,Clg of Letters & Science,media studies
+166,2017 Spring,1,English,198BC,1,Clg of Letters & Science,media studies
+167,2017 Spring,1,English,198BC,2,Clg of Letters & Science,media studies
+168,2017 Spring,1,English,198BC,8,Clg of Letters & Science,media studies
+169,2017 Spring,1,English,198BC,9,Clg of Letters & Science,media studies
+170,2017 Spring,1,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,media studies
+171,2017 Spring,1,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,media studies
+172,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,3,Clg of Natural Resources,media studies
+173,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,5,Clg of Natural Resources,media studies
+174,2017 Spring,1,"Env Sci, Policy, & Mgmt",113,1,Clg of Natural Resources,media studies
+175,2017 Spring,1,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,media studies
+176,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,2,Clg of Natural Resources,media studies
+177,2017 Spring,4,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,media studies
+178,2017 Spring,1,"Env Sci, Policy, & Mgmt",194B,2,Clg of Natural Resources,media studies
+179,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,1,Clg of Natural Resources,media studies
+180,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,4,Clg of Natural Resources,media studies
+181,2017 Spring,2,"Env Sci, Policy, & Mgmt",198,14,Clg of Natural Resources,media studies
+182,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,6,Clg of Natural Resources,media studies
+183,2017 Spring,2,Environ Econ & Policy,100,1,Clg of Natural Resources,media studies
+184,2017 Spring,1,Environ Econ & Policy,C101,1,Clg of Natural Resources,media studies
+185,2017 Spring,1,Environ Econ & Policy,147,1,Clg of Natural Resources,media studies
+186,2017 Spring,1,Environ Econ & Policy,162,1,Clg of Natural Resources,media studies
+187,2017 Spring,1,Environmental Design,101A,1,Clg of Environmental Design,media studies
+188,2017 Spring,1,Ethnic Studies,11AC,1,Clg of Letters & Science,media studies
+189,2017 Spring,1,Ethnic Studies,101B,1,Clg of Letters & Science,media studies
+190,2017 Spring,5,Ethnic Studies,103A,1,Clg of Letters & Science,media studies
+191,2017 Spring,4,Ethnic Studies,122AC,1,Clg of Letters & Science,media studies
+192,2017 Spring,1,Ethnic Studies,144AC,1,Clg of Letters & Science,media studies
+193,2017 Spring,1,Ethnic Studies,181AC,1,Clg of Letters & Science,media studies
+194,2017 Spring,4,Ethnic Studies,197,11,Clg of Letters & Science,media studies
+195,2017 Spring,4,Ethnic Studies,197,13,Clg of Letters & Science,media studies
+196,2017 Spring,1,Ethnic Studies,198,3,Clg of Letters & Science,media studies
+197,2017 Spring,2,Ethnic Studies,198,5,Clg of Letters & Science,media studies
+198,2017 Spring,1,Filipino,W1Y,1,Clg of Letters & Science,media studies
+199,2017 Spring,1,Filipino,W101B,1,Clg of Letters & Science,media studies
+200,2017 Spring,3,Film,20,1,Clg of Letters & Science,media studies
+201,2017 Spring,4,Film,25A,1,Clg of Letters & Science,media studies
+202,2017 Spring,1,Film,25B,1,Clg of Letters & Science,media studies
+203,2017 Spring,2,Film,108,1,Clg of Letters & Science,media studies
+204,2017 Spring,4,Film,108,2,Clg of Letters & Science,media studies
+205,2017 Spring,6,Film,108,3,Clg of Letters & Science,media studies
+206,2017 Spring,5,Film,128,1,Clg of Letters & Science,media studies
+207,2017 Spring,2,Film,140,1,Clg of Letters & Science,media studies
+208,2017 Spring,8,Film,140,2,Clg of Letters & Science,media studies
+209,2017 Spring,1,Film,140,3,Clg of Letters & Science,media studies
+210,2017 Spring,3,Film,151,1,Clg of Letters & Science,media studies
+211,2017 Spring,6,Film,160,1,Clg of Letters & Science,media studies
+212,2017 Spring,5,Film,160,2,Clg of Letters & Science,media studies
+213,2017 Spring,1,Film,180,1,Clg of Letters & Science,media studies
+214,2017 Spring,2,Film,198,1,Clg of Letters & Science,media studies
+215,2017 Spring,24,Film,198,2,Clg of Letters & Science,media studies
+216,2017 Spring,1,French,1,1,Clg of Letters & Science,media studies
+217,2017 Spring,1,French,1,3,Clg of Letters & Science,media studies
+218,2017 Spring,1,French,1,5,Clg of Letters & Science,media studies
+219,2017 Spring,1,French,1,6,Clg of Letters & Science,media studies
+220,2017 Spring,1,French,R1B,3,Clg of Letters & Science,media studies
+221,2017 Spring,2,French,2,5,Clg of Letters & Science,media studies
+222,2017 Spring,1,French,3,3,Clg of Letters & Science,media studies
+223,2017 Spring,1,French,4,1,Clg of Letters & Science,media studies
+224,2017 Spring,2,French,13,1,Clg of Letters & Science,media studies
+225,2017 Spring,1,French,102,1,Clg of Letters & Science,media studies
+226,2017 Spring,1,French,178B,1,Clg of Letters & Science,media studies
+227,2017 Spring,1,Gender & Womens Studies,14,1,Clg of Letters & Science,media studies
+228,2017 Spring,3,Gender & Womens Studies,100AC,1,Clg of Letters & Science,media studies
+229,2017 Spring,1,Gender & Womens Studies,101,1,Clg of Letters & Science,media studies
+230,2017 Spring,2,Gender & Womens Studies,134,1,Clg of Letters & Science,media studies
+231,2017 Spring,1,Gender & Womens Studies,198,1,Clg of Letters & Science,media studies
+232,2017 Spring,1,Gender & Womens Studies,198,2,Clg of Letters & Science,media studies
+233,2017 Spring,1,Geography,20,1,Clg of Letters & Science,media studies
+234,2017 Spring,4,Geography,130,1,Clg of Letters & Science,media studies
+235,2017 Spring,6,Geography,C160B,1,Clg of Letters & Science,media studies
+236,2017 Spring,1,German,4,1,Clg of Letters & Science,media studies
+237,2017 Spring,2,German,98,1,Clg of Letters & Science,media studies
+238,2017 Spring,1,German,108,1,Clg of Letters & Science,media studies
+239,2017 Spring,4,German,182,1,Clg of Letters & Science,media studies
+240,2017 Spring,1,Global Poverty & Practice,105,1,Clg of Letters & Science,media studies
+241,2017 Spring,1,Global Studies,100S,1,Clg of Letters & Science,media studies
+242,2017 Spring,1,Global Studies,110M,1,Clg of Letters & Science,media studies
+243,2017 Spring,2,History,5,1,Clg of Letters & Science,media studies
+244,2017 Spring,1,History,6B,1,Clg of Letters & Science,media studies
+245,2017 Spring,7,History,7B,1,Clg of Letters & Science,media studies
+246,2017 Spring,3,History,98,2,Clg of Letters & Science,media studies
+247,2017 Spring,1,History,100AC,2,Clg of Letters & Science,media studies
+248,2017 Spring,4,History,100U,1,Clg of Letters & Science,media studies
+249,2017 Spring,1,History,114B,1,Clg of Letters & Science,media studies
+250,2017 Spring,1,History,117A,1,Clg of Letters & Science,media studies
+251,2017 Spring,1,History,121B,1,Clg of Letters & Science,media studies
+252,2017 Spring,7,History,122AC,1,Clg of Letters & Science,media studies
+253,2017 Spring,5,History,136C,1,Clg of Letters & Science,media studies
+254,2017 Spring,1,History,151A,1,Clg of Letters & Science,media studies
+255,2017 Spring,1,History,160,1,Clg of Letters & Science,media studies
+256,2017 Spring,1,History,182A,1,Clg of Letters & Science,media studies
+257,2017 Spring,1,History,C191,1,Clg of Letters & Science,media studies
+258,2017 Spring,1,History,198BC,3,Clg of Letters & Science,media studies
+259,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,media studies
+260,2017 Spring,2,History of Art,100,1,Clg of Letters & Science,media studies
+261,2017 Spring,1,History of Art,188A,1,Clg of Letters & Science,media studies
+262,2017 Spring,2,History of Art,192DH,1,Clg of Letters & Science,media studies
+263,2017 Spring,1,History of Art,192E,1,Clg of Letters & Science,media studies
+264,2017 Spring,2,History of Art,192T,1,Clg of Letters & Science,media studies
+265,2017 Spring,1,History of Art,198,1,Clg of Letters & Science,media studies
+266,2017 Spring,1,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,media studies
+267,2017 Spring,1,Industrial Eng & Ops Rsch,171,1,Clg of Engineering,media studies
+268,2017 Spring,1,Industrial Eng & Ops Rsch,186,1,Clg of Engineering,media studies
+269,2017 Spring,3,Industrial Eng & Ops Rsch,190C,1,Clg of Engineering,media studies
+270,2017 Spring,1,Industrial Eng & Ops Rsch,191,1,Clg of Engineering,media studies
+271,2017 Spring,3,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,media studies
+272,2017 Spring,4,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,media studies
+273,2017 Spring,15,Information,103,1,School of Information,media studies
+274,2017 Spring,8,Information,C167,1,School of Information,media studies
+275,2017 Spring,2,Information,190,2,School of Information,media studies
+276,2017 Spring,1,Integrative Biology,169,1,Clg of Letters & Science,media studies
+277,2017 Spring,2,Integrative Biology,198,6,Clg of Letters & Science,media studies
+278,2017 Spring,1,Interdisciplinary Studies,61,1,Clg of Letters & Science,media studies
+279,2017 Spring,4,Interdisciplinary Studies,100C,1,Clg of Letters & Science,media studies
+280,2017 Spring,7,Interdisciplinary Studies,198,5,Clg of Letters & Science,media studies
+281,2017 Spring,1,International & Area Stds,45,1,Clg of Letters & Science,media studies
+282,2017 Spring,2,International & Area Stds,150,2,Clg of Letters & Science,media studies
+283,2017 Spring,1,International & Area Stds,150,5,Clg of Letters & Science,media studies
+284,2017 Spring,1,Italian Studies,2,1,Clg of Letters & Science,media studies
+285,2017 Spring,2,Italian Studies,170,1,Clg of Letters & Science,media studies
+286,2017 Spring,1,Japanese,80,1,Clg of Letters & Science,media studies
+287,2017 Spring,2,Japanese,188,1,Clg of Letters & Science,media studies
+288,2017 Spring,1,Jewish Studies,198,1,Clg of Letters & Science,media studies
+289,2017 Spring,1,Journalism,98,1,Grad School of Journalism,media studies
+290,2017 Spring,1,Korean,1A,1,Clg of Letters & Science,media studies
+291,2017 Spring,3,Korean,10B,2,Clg of Letters & Science,media studies
+292,2017 Spring,1,Korean,10BX,1,Clg of Letters & Science,media studies
+293,2017 Spring,1,Korean,112,1,Clg of Letters & Science,media studies
+294,2017 Spring,2,Korean,150,1,Clg of Letters & Science,media studies
+295,2017 Spring,8,Korean,187,1,Clg of Letters & Science,media studies
+296,2017 Spring,9,LGBT Studies,146,1,Clg of Letters & Science,media studies
+297,2017 Spring,1,Legal Studies,100,1,School of Law,media studies
+298,2017 Spring,1,Legal Studies,102,1,School of Law,media studies
+299,2017 Spring,2,Legal Studies,160,1,School of Law,media studies
+300,2017 Spring,1,Legal Studies,185AC,1,School of Law,media studies
+301,2017 Spring,3,Letters & Science,C5,1,Clg of Letters & Science,media studies
+302,2017 Spring,3,Letters & Science,22,1,Clg of Letters & Science,media studies
+303,2017 Spring,3,Letters & Science,25,1,Clg of Letters & Science,media studies
+304,2017 Spring,2,Letters & Science,C30U,1,Clg of Letters & Science,media studies
+305,2017 Spring,3,Letters & Science,C30Y,1,Clg of Letters & Science,media studies
+306,2017 Spring,1,Letters & Science,C30Z,1,Clg of Letters & Science,media studies
+307,2017 Spring,3,Letters & Science,70A,1,Clg of Letters & Science,media studies
+308,2017 Spring,1,Letters & Science,70C,1,Clg of Letters & Science,media studies
+309,2017 Spring,3,Letters & Science,105,1,Clg of Letters & Science,media studies
+310,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,media studies
+311,2017 Spring,4,Letters & Science,160B,1,Clg of Letters & Science,media studies
+312,2017 Spring,5,Letters & Science,C180U,1,Clg of Letters & Science,media studies
+313,2017 Spring,1,Linguistics,R1B,2,Clg of Letters & Science,media studies
+314,2017 Spring,1,Linguistics,100,1,Clg of Letters & Science,media studies
+315,2017 Spring,1,Malay/Indonesian,1B,1,Clg of Letters & Science,media studies
+316,2017 Spring,1,Mathematics,1A,1,Clg of Letters & Science,media studies
+317,2017 Spring,1,Mathematics,16B,1,Clg of Letters & Science,media studies
+318,2017 Spring,1,Mathematics,32,1,Clg of Letters & Science,media studies
+319,2017 Spring,1,Mathematics,55,1,Clg of Letters & Science,media studies
+320,2017 Spring,1,Mathematics,198BC,3,Clg of Letters & Science,media studies
+321,2017 Spring,1,Mechanical Engineering,191K,1,Clg of Engineering,media studies
+322,2017 Spring,1,Mechanical Engineering,198,50,Clg of Engineering,media studies
+323,2017 Spring,254,Media Studies,101,1,Clg of Letters & Science,media studies
+324,2017 Spring,227,Media Studies,103,1,Clg of Letters & Science,media studies
+325,2017 Spring,46,Media Studies,104A,1,Clg of Letters & Science,media studies
+326,2017 Spring,39,Media Studies,160,1,Clg of Letters & Science,media studies
+327,2017 Spring,98,Media Studies,170,1,Clg of Letters & Science,media studies
+328,2017 Spring,47,Media Studies,180,1,Clg of Letters & Science,media studies
+329,2017 Spring,25,Media Studies,190,1,Clg of Letters & Science,media studies
+330,2017 Spring,15,Media Studies,H195,1,Clg of Letters & Science,media studies
+331,2017 Spring,2,Molecular & Cell Biology,C61,1,Clg of Letters & Science,media studies
+332,2017 Spring,2,Music,20A,3,Clg of Letters & Science,media studies
+333,2017 Spring,1,Music,20A,4,Clg of Letters & Science,media studies
+334,2017 Spring,3,Music,29,1,Clg of Letters & Science,media studies
+335,2017 Spring,1,Music,40,1,Clg of Letters & Science,media studies
+336,2017 Spring,1,Music,41B,1,Clg of Letters & Science,media studies
+337,2017 Spring,2,Music,44,1,Clg of Letters & Science,media studies
+338,2017 Spring,1,Music,44,2,Clg of Letters & Science,media studies
+339,2017 Spring,1,Music,98BC,2,Clg of Letters & Science,media studies
+340,2017 Spring,1,Music,128,1,Clg of Letters & Science,media studies
+341,2017 Spring,1,Music,128V,1,Clg of Letters & Science,media studies
+342,2017 Spring,1,Music,140,1,Clg of Letters & Science,media studies
+343,2017 Spring,3,Music,140,2,Clg of Letters & Science,media studies
+344,2017 Spring,1,Music,141,1,Clg of Letters & Science,media studies
+345,2017 Spring,1,Music,142,1,Clg of Letters & Science,media studies
+346,2017 Spring,2,Music,143,1,Clg of Letters & Science,media studies
+347,2017 Spring,1,Music,146B,1,Clg of Letters & Science,media studies
+348,2017 Spring,3,Music,148,1,Clg of Letters & Science,media studies
+349,2017 Spring,1,Music,153A,1,Clg of Letters & Science,media studies
+350,2017 Spring,1,Music,154B,1,Clg of Letters & Science,media studies
+351,2017 Spring,1,Music,198,3,Clg of Letters & Science,media studies
+352,2017 Spring,1,Music,198,5,Clg of Letters & Science,media studies
+353,2017 Spring,1,Music,198BC,1,Clg of Letters & Science,media studies
+354,2017 Spring,1,Music,198BC,2,Clg of Letters & Science,media studies
+355,2017 Spring,2,Native American Studies,110,1,Clg of Letters & Science,media studies
+356,2017 Spring,1,Near Eastern Studies,102B,1,Clg of Letters & Science,media studies
+357,2017 Spring,1,Near Eastern Studies,146B,1,Clg of Letters & Science,media studies
+358,2017 Spring,1,Near Eastern Studies,190H,101,Clg of Letters & Science,media studies
+359,2017 Spring,2,New Media,198,1,Clg of Engineering,media studies
+360,2017 Spring,4,Nutritional Science & Tox,10,1,Clg of Natural Resources,media studies
+361,2017 Spring,2,Nutritional Science & Tox,11,1,Clg of Natural Resources,media studies
+362,2017 Spring,2,Nutritional Science & Tox,20,1,Clg of Natural Resources,media studies
+363,2017 Spring,1,Nutritional Science & Tox,98,1,Clg of Natural Resources,media studies
+364,2017 Spring,3,Nutritional Science & Tox,198,1,Clg of Natural Resources,media studies
+365,2017 Spring,1,Nutritional Science & Tox,198,2,Clg of Natural Resources,media studies
+366,2017 Spring,1,Peace & Conflict Studies,127,1,Clg of Letters & Science,media studies
+367,2017 Spring,1,Peace & Conflict Studies,135,1,Clg of Letters & Science,media studies
+368,2017 Spring,1,Peace & Conflict Studies,151,1,Clg of Letters & Science,media studies
+369,2017 Spring,3,Philosophy,2,1,Clg of Letters & Science,media studies
+370,2017 Spring,1,Philosophy,12A,1,Clg of Letters & Science,media studies
+371,2017 Spring,1,Philosophy,25B,1,Clg of Letters & Science,media studies
+372,2017 Spring,1,Philosophy,107,1,Clg of Letters & Science,media studies
+373,2017 Spring,2,Philosophy,186B,1,Clg of Letters & Science,media studies
+374,2017 Spring,2,Philosophy,198BC,3,Clg of Letters & Science,media studies
+375,2017 Spring,1,Physical Education,1,4,Clg of Letters & Science,media studies
+376,2017 Spring,2,Physical Education,1,6,Clg of Letters & Science,media studies
+377,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,media studies
+378,2017 Spring,3,Physical Education,1,12,Clg of Letters & Science,media studies
+379,2017 Spring,1,Physical Education,1,13,Clg of Letters & Science,media studies
+380,2017 Spring,1,Physical Education,1,14,Clg of Letters & Science,media studies
+381,2017 Spring,1,Physical Education,1,15,Clg of Letters & Science,media studies
+382,2017 Spring,2,Physical Education,1,18,Clg of Letters & Science,media studies
+383,2017 Spring,1,Physical Education,1,20,Clg of Letters & Science,media studies
+384,2017 Spring,1,Physical Education,1,21,Clg of Letters & Science,media studies
+385,2017 Spring,4,Physical Education,1,24,Clg of Letters & Science,media studies
+386,2017 Spring,1,Physical Education,1,26,Clg of Letters & Science,media studies
+387,2017 Spring,4,Physical Education,1,27,Clg of Letters & Science,media studies
+388,2017 Spring,1,Physical Education,1,29,Clg of Letters & Science,media studies
+389,2017 Spring,1,Physical Education,1,38,Clg of Letters & Science,media studies
+390,2017 Spring,2,Physical Education,1,43,Clg of Letters & Science,media studies
+391,2017 Spring,2,Physical Education,1,45,Clg of Letters & Science,media studies
+392,2017 Spring,1,Physical Education,2,1,Clg of Letters & Science,media studies
+393,2017 Spring,3,Physical Education,2,4,Clg of Letters & Science,media studies
+394,2017 Spring,1,Physical Education,2,5,Clg of Letters & Science,media studies
+395,2017 Spring,1,Physical Education,2,9,Clg of Letters & Science,media studies
+396,2017 Spring,1,Physical Education,2,17,Clg of Letters & Science,media studies
+397,2017 Spring,1,Physical Education,2,18,Clg of Letters & Science,media studies
+398,2017 Spring,1,Physical Education,3,10,Clg of Letters & Science,media studies
+399,2017 Spring,1,Physical Education,11,3,Clg of Letters & Science,media studies
+400,2017 Spring,1,Physical Education,11,4,Clg of Letters & Science,media studies
+401,2017 Spring,1,Physical Education,11,11,Clg of Letters & Science,media studies
+402,2017 Spring,1,Physical Education,11,12,Clg of Letters & Science,media studies
+403,2017 Spring,2,Physical Education,11,25,Clg of Letters & Science,media studies
+404,2017 Spring,2,Physical Education,11,26,Clg of Letters & Science,media studies
+405,2017 Spring,3,Physical Education,12,13,Clg of Letters & Science,media studies
+406,2017 Spring,3,Physical Education,12,14,Clg of Letters & Science,media studies
+407,2017 Spring,3,Physical Education,12,19,Clg of Letters & Science,media studies
+408,2017 Spring,3,Physical Education,12,20,Clg of Letters & Science,media studies
+409,2017 Spring,1,Physical Education,12,23,Clg of Letters & Science,media studies
+410,2017 Spring,1,Physical Education,12,24,Clg of Letters & Science,media studies
+411,2017 Spring,1,Physical Education,12,27,Clg of Letters & Science,media studies
+412,2017 Spring,1,Physical Education,12,28,Clg of Letters & Science,media studies
+413,2017 Spring,8,Physical Education,12,29,Clg of Letters & Science,media studies
+414,2017 Spring,8,Physical Education,12,30,Clg of Letters & Science,media studies
+415,2017 Spring,6,Political Economy,101,1,Clg of Letters & Science,media studies
+416,2017 Spring,12,Political Science,1,1,Clg of Letters & Science,media studies
+417,2017 Spring,2,Political Science,2,1,Clg of Letters & Science,media studies
+418,2017 Spring,2,Political Science,4,1,Clg of Letters & Science,media studies
+419,2017 Spring,3,Political Science,106A,1,Clg of Letters & Science,media studies
+420,2017 Spring,1,Political Science,109H,1,Clg of Letters & Science,media studies
+421,2017 Spring,1,Political Science,109P,1,Clg of Letters & Science,media studies
+422,2017 Spring,1,Political Science,111AC,1,Clg of Letters & Science,media studies
+423,2017 Spring,1,Political Science,116A,1,Clg of Letters & Science,media studies
+424,2017 Spring,1,Political Science,123M,1,Clg of Letters & Science,media studies
+425,2017 Spring,1,Political Science,124A,1,Clg of Letters & Science,media studies
+426,2017 Spring,3,Political Science,124C,1,Clg of Letters & Science,media studies
+427,2017 Spring,1,Political Science,138E,1,Clg of Letters & Science,media studies
+428,2017 Spring,2,Political Science,140L,1,Clg of Letters & Science,media studies
+429,2017 Spring,1,Political Science,147G,1,Clg of Letters & Science,media studies
+430,2017 Spring,1,Political Science,149E,1,Clg of Letters & Science,media studies
+431,2017 Spring,2,Political Science,161,1,Clg of Letters & Science,media studies
+432,2017 Spring,1,Political Science,171,1,Clg of Letters & Science,media studies
+433,2017 Spring,16,Political Science,179,1,Clg of Letters & Science,media studies
+434,2017 Spring,1,Political Science,186,1,Clg of Letters & Science,media studies
+435,2017 Spring,1,Political Science,191,1,Clg of Letters & Science,media studies
+436,2017 Spring,1,Political Science,191,2,Clg of Letters & Science,media studies
+437,2017 Spring,2,Political Science,191,5,Clg of Letters & Science,media studies
+438,2017 Spring,1,Political Science,197,7,Clg of Letters & Science,media studies
+439,2017 Spring,1,Political Science,198,1,Clg of Letters & Science,media studies
+440,2017 Spring,1,Political Science,198,3,Clg of Letters & Science,media studies
+441,2017 Spring,1,Political Science,198,5,Clg of Letters & Science,media studies
+442,2017 Spring,2,Psychology,1,1,Clg of Letters & Science,media studies
+443,2017 Spring,1,Psychology,2,1,Clg of Letters & Science,media studies
+444,2017 Spring,1,Psychology,C61,1,Clg of Letters & Science,media studies
+445,2017 Spring,5,Psychology,101,1,Clg of Letters & Science,media studies
+446,2017 Spring,1,Psychology,C126,1,Clg of Letters & Science,media studies
+447,2017 Spring,1,Psychology,C127,1,Clg of Letters & Science,media studies
+448,2017 Spring,1,Psychology,131,1,Clg of Letters & Science,media studies
+449,2017 Spring,4,Psychology,133,1,Clg of Letters & Science,media studies
+450,2017 Spring,1,Psychology,C143,1,Clg of Letters & Science,media studies
+451,2017 Spring,3,Psychology,150,1,Clg of Letters & Science,media studies
+452,2017 Spring,4,Psychology,156,1,Clg of Letters & Science,media studies
+453,2017 Spring,19,Psychology,160,1,Clg of Letters & Science,media studies
+454,2017 Spring,7,Psychology,166AC,1,Clg of Letters & Science,media studies
+455,2017 Spring,2,Psychology,169,1,Clg of Letters & Science,media studies
+456,2017 Spring,2,Psychology,198,2,Clg of Letters & Science,media studies
+457,2017 Spring,2,Psychology,198,3,Clg of Letters & Science,media studies
+458,2017 Spring,1,Psychology,198,7,Clg of Letters & Science,media studies
+459,2017 Spring,9,Psychology,198,11,Clg of Letters & Science,media studies
+460,2017 Spring,1,Psychology,198,12,Clg of Letters & Science,media studies
+461,2017 Spring,2,Public Health,126,1,School of Public Health,media studies
+462,2017 Spring,1,Public Health,150A,1,School of Public Health,media studies
+463,2017 Spring,1,Public Health,150D,1,School of Public Health,media studies
+464,2017 Spring,1,Public Health,150E,1,School of Public Health,media studies
+465,2017 Spring,1,Public Health,196,2,School of Public Health,media studies
+466,2017 Spring,1,Public Health,196,8,School of Public Health,media studies
+467,2017 Spring,2,Public Health,198,10,School of Public Health,media studies
+468,2017 Spring,1,Public Health,198,15,School of Public Health,media studies
+469,2017 Spring,3,Public Health,198,53,School of Public Health,media studies
+470,2017 Spring,1,Public Policy,98,3,Goldman School Public Policy,media studies
+471,2017 Spring,28,Public Policy,C103,1,Goldman School Public Policy,media studies
+472,2017 Spring,2,Public Policy,157,1,Goldman School Public Policy,media studies
+473,2017 Spring,2,Public Policy,190,2,Goldman School Public Policy,media studies
+474,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,media studies
+475,2017 Spring,1,Public Policy,198,3,Goldman School Public Policy,media studies
+476,2017 Spring,1,Punjabi,100B,1,Clg of Letters & Science,media studies
+477,2017 Spring,4,Rhetoric,20,1,Clg of Letters & Science,media studies
+478,2017 Spring,5,Rhetoric,103B,1,Clg of Letters & Science,media studies
+479,2017 Spring,1,Rhetoric,104,1,Clg of Letters & Science,media studies
+480,2017 Spring,1,Rhetoric,107,1,Clg of Letters & Science,media studies
+481,2017 Spring,1,Rhetoric,129,1,Clg of Letters & Science,media studies
+482,2017 Spring,2,Rhetoric,131T,1,Clg of Letters & Science,media studies
+483,2017 Spring,2,Rhetoric,135T,1,Clg of Letters & Science,media studies
+484,2017 Spring,1,Rhetoric,158,1,Clg of Letters & Science,media studies
+485,2017 Spring,1,Rhetoric,168,1,Clg of Letters & Science,media studies
+486,2017 Spring,3,Rhetoric,189,3,Clg of Letters & Science,media studies
+487,2017 Spring,5,Rhetoric,198,1,Clg of Letters & Science,media studies
+488,2017 Spring,1,Scandinavian,60,1,Clg of Letters & Science,media studies
+489,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,media studies
+490,2017 Spring,1,Scandinavian,198,4,Clg of Letters & Science,media studies
+491,2017 Spring,1,Slavic Languages & Lit,138,1,Clg of Letters & Science,media studies
+492,2017 Spring,1,Social Welfare,98,2,School of Social Welfare,media studies
+493,2017 Spring,1,Social Welfare,98,3,School of Social Welfare,media studies
+494,2017 Spring,1,Social Welfare,185AC,1,School of Social Welfare,media studies
+495,2017 Spring,1,Social Welfare,197,2,School of Social Welfare,media studies
+496,2017 Spring,1,Social Welfare,197,4,School of Social Welfare,media studies
+497,2017 Spring,1,Social Welfare,198,2,School of Social Welfare,media studies
+498,2017 Spring,1,Social Welfare,198,3,School of Social Welfare,media studies
+499,2017 Spring,1,Sociology,1,1,Clg of Letters & Science,media studies
+500,2017 Spring,50,Sociology,5,1,Clg of Letters & Science,media studies
+501,2017 Spring,2,Sociology,7,1,Clg of Letters & Science,media studies
+502,2017 Spring,1,Sociology,98BC,1,Clg of Letters & Science,media studies
+503,2017 Spring,1,Sociology,98BC,3,Clg of Letters & Science,media studies
+504,2017 Spring,4,Sociology,102,1,Clg of Letters & Science,media studies
+505,2017 Spring,5,Sociology,105,1,Clg of Letters & Science,media studies
+506,2017 Spring,2,Sociology,106,1,Clg of Letters & Science,media studies
+507,2017 Spring,1,Sociology,108,1,Clg of Letters & Science,media studies
+508,2017 Spring,11,Sociology,110,1,Clg of Letters & Science,media studies
+509,2017 Spring,20,Sociology,111AC,1,Clg of Letters & Science,media studies
+510,2017 Spring,2,Sociology,112,1,Clg of Letters & Science,media studies
+511,2017 Spring,4,Sociology,113AC,1,Clg of Letters & Science,media studies
+512,2017 Spring,7,Sociology,114,1,Clg of Letters & Science,media studies
+513,2017 Spring,1,Sociology,116,1,Clg of Letters & Science,media studies
+514,2017 Spring,8,Sociology,117,1,Clg of Letters & Science,media studies
+515,2017 Spring,1,Sociology,121,1,Clg of Letters & Science,media studies
+516,2017 Spring,1,Sociology,130,1,Clg of Letters & Science,media studies
+517,2017 Spring,21,Sociology,133,1,Clg of Letters & Science,media studies
+518,2017 Spring,2,Sociology,136,1,Clg of Letters & Science,media studies
+519,2017 Spring,3,Sociology,140,1,Clg of Letters & Science,media studies
+520,2017 Spring,2,Sociology,145,1,Clg of Letters & Science,media studies
+521,2017 Spring,3,Sociology,146,1,Clg of Letters & Science,media studies
+522,2017 Spring,5,Sociology,150,1,Clg of Letters & Science,media studies
+523,2017 Spring,6,Sociology,160,1,Clg of Letters & Science,media studies
+524,2017 Spring,15,Sociology,163,1,Clg of Letters & Science,media studies
+525,2017 Spring,10,Sociology,C167,1,Clg of Letters & Science,media studies
+526,2017 Spring,2,Sociology,169C,1,Clg of Letters & Science,media studies
+527,2017 Spring,3,Sociology,169C,2,Clg of Letters & Science,media studies
+528,2017 Spring,1,Sociology,190,1,Clg of Letters & Science,media studies
+529,2017 Spring,3,Sociology,190,3,Clg of Letters & Science,media studies
+530,2017 Spring,1,Sociology,198,5,Clg of Letters & Science,media studies
+531,2017 Spring,5,Sociology,198,9,Clg of Letters & Science,media studies
+532,2017 Spring,1,Sociology,198,10,Clg of Letters & Science,media studies
+533,2017 Spring,4,Sociology,198,14,Clg of Letters & Science,media studies
+534,2017 Spring,1,Sociology,198,24,Clg of Letters & Science,media studies
+535,2017 Spring,1,Sociology,198,25,Clg of Letters & Science,media studies
+536,2017 Spring,1,Sociology,198BC,1,Clg of Letters & Science,media studies
+537,2017 Spring,3,Sociology,198BC,2,Clg of Letters & Science,media studies
+538,2017 Spring,2,Sociology,198BC,4,Clg of Letters & Science,media studies
+539,2017 Spring,1,Sociology,198BC,7,Clg of Letters & Science,media studies
+540,2017 Spring,1,South & SE Asian Studies,39,2,Clg of Letters & Science,media studies
+541,2017 Spring,1,Spanish,1,4,Clg of Letters & Science,media studies
+542,2017 Spring,1,Spanish,2,2,Clg of Letters & Science,media studies
+543,2017 Spring,1,Spanish,4,1,Clg of Letters & Science,media studies
+544,2017 Spring,2,Spanish,25,3,Clg of Letters & Science,media studies
+545,2017 Spring,1,Spanish,100,1,Clg of Letters & Science,media studies
+546,2017 Spring,1,Spanish,109,1,Clg of Letters & Science,media studies
+547,2017 Spring,1,Spanish,115,1,Clg of Letters & Science,media studies
+548,2017 Spring,1,Spanish,135,1,Clg of Letters & Science,media studies
+549,2017 Spring,3,Statistics,2,1,Clg of Letters & Science,media studies
+550,2017 Spring,6,Statistics,20,1,Clg of Letters & Science,media studies
+551,2017 Spring,2,Statistics,W21,1,Clg of Letters & Science,media studies
+552,2017 Spring,1,Statistics,28,1,Clg of Letters & Science,media studies
+553,2017 Spring,1,Statistics,133,1,Clg of Letters & Science,media studies
+554,2017 Spring,1,Statistics,151A,1,Clg of Letters & Science,media studies
+555,2017 Spring,1,Theater Dance & Perf Stds,R1B,1,Clg of Letters & Science,media studies
+556,2017 Spring,1,Theater Dance & Perf Stds,10,2,Clg of Letters & Science,media studies
+557,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,media studies
+558,2017 Spring,1,Theater Dance & Perf Stds,98,1,Clg of Letters & Science,media studies
+559,2017 Spring,1,Theater Dance & Perf Stds,100,2,Clg of Letters & Science,media studies
+560,2017 Spring,1,Theater Dance & Perf Stds,109,1,Clg of Letters & Science,media studies
+561,2017 Spring,3,Theater Dance & Perf Stds,110B,1,Clg of Letters & Science,media studies
+562,2017 Spring,2,Theater Dance & Perf Stds,110B,2,Clg of Letters & Science,media studies
+563,2017 Spring,2,Theater Dance & Perf Stds,111,1,Clg of Letters & Science,media studies
+564,2017 Spring,1,Theater Dance & Perf Stds,112,1,Clg of Letters & Science,media studies
+565,2017 Spring,1,Theater Dance & Perf Stds,114,1,Clg of Letters & Science,media studies
+566,2017 Spring,1,Theater Dance & Perf Stds,139B,1,Clg of Letters & Science,media studies
+567,2017 Spring,1,Theater Dance & Perf Stds,141,1,Clg of Letters & Science,media studies
+568,2017 Spring,1,Theater Dance & Perf Stds,171,1,Clg of Letters & Science,media studies
+569,2017 Spring,2,Theater Dance & Perf Stds,181,2,Clg of Letters & Science,media studies
+570,2017 Spring,1,UGIS-UG Interdisc Studies,82,3,Clg of Letters & Science,media studies
+571,2017 Spring,2,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,media studies
+572,2017 Spring,2,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,media studies
+573,2017 Spring,2,UGIS-UG Interdisc Studies,156,1,Clg of Letters & Science,media studies

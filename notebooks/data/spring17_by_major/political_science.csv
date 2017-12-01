@@ -1,0 +1,871 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,Aerospace Studies,1B,1,Clg of Letters & Science,political science
+1,2017 Spring,2,Aerospace Studies,100,1,Clg of Letters & Science,political science
+2,2017 Spring,1,Aerospace Studies,135B,1,Clg of Letters & Science,political science
+3,2017 Spring,1,African American Studies,R1B,1,Clg of Letters & Science,political science
+4,2017 Spring,1,African American Studies,5B,1,Clg of Letters & Science,political science
+5,2017 Spring,6,African American Studies,28AC,1,Clg of Letters & Science,political science
+6,2017 Spring,1,African American Studies,98BC,1,Clg of Letters & Science,political science
+7,2017 Spring,1,African American Studies,101,1,Clg of Letters & Science,political science
+8,2017 Spring,3,African American Studies,115,1,Clg of Letters & Science,political science
+9,2017 Spring,1,African American Studies,117,1,Clg of Letters & Science,political science
+10,2017 Spring,1,African American Studies,118,1,Clg of Letters & Science,political science
+11,2017 Spring,2,African American Studies,120,1,Clg of Letters & Science,political science
+12,2017 Spring,1,African American Studies,131,1,Clg of Letters & Science,political science
+13,2017 Spring,3,African American Studies,139,2,Clg of Letters & Science,political science
+14,2017 Spring,4,African American Studies,142AC,1,Clg of Letters & Science,political science
+15,2017 Spring,4,African American Studies,156AC,1,Clg of Letters & Science,political science
+16,2017 Spring,3,African American Studies,159,1,Clg of Letters & Science,political science
+17,2017 Spring,3,African American Studies,197,3,Clg of Letters & Science,political science
+18,2017 Spring,1,African American Studies,198,1,Clg of Letters & Science,political science
+19,2017 Spring,1,African American Studies,198,2,Clg of Letters & Science,political science
+20,2017 Spring,5,American Studies,101,1,Clg of Letters & Science,political science
+21,2017 Spring,1,American Studies,110,1,Clg of Letters & Science,political science
+22,2017 Spring,1,American Studies,H110,1,Clg of Letters & Science,political science
+23,2017 Spring,1,American Studies,191,2,Clg of Letters & Science,political science
+24,2017 Spring,2,Anthropology,1,1,Clg of Letters & Science,political science
+25,2017 Spring,2,Anthropology,2AC,1,Clg of Letters & Science,political science
+26,2017 Spring,2,Anthropology,3AC,1,Clg of Letters & Science,political science
+27,2017 Spring,1,Anthropology,R5B,1,Clg of Letters & Science,political science
+28,2017 Spring,1,Anthropology,84,1,Clg of Letters & Science,political science
+29,2017 Spring,2,Anthropology,137,1,Clg of Letters & Science,political science
+30,2017 Spring,1,Anthropology,156,1,Clg of Letters & Science,political science
+31,2017 Spring,1,Anthropology,156A,1,Clg of Letters & Science,political science
+32,2017 Spring,2,Anthropology,160AC,1,Clg of Letters & Science,political science
+33,2017 Spring,1,Anthropology,162,1,Clg of Letters & Science,political science
+34,2017 Spring,2,Anthropology,170,1,Clg of Letters & Science,political science
+35,2017 Spring,2,Anthropology,174AC,1,Clg of Letters & Science,political science
+36,2017 Spring,2,Anthropology,198,20,Clg of Letters & Science,political science
+37,2017 Spring,1,Arabic,1B,4,Clg of Letters & Science,political science
+38,2017 Spring,3,Arabic,1B,6,Clg of Letters & Science,political science
+39,2017 Spring,1,Arabic,20B,1,Clg of Letters & Science,political science
+40,2017 Spring,2,Arabic,20B,2,Clg of Letters & Science,political science
+41,2017 Spring,2,Arabic,100B,1,Clg of Letters & Science,political science
+42,2017 Spring,1,Architecture,198,3,Clg of Environmental Design,political science
+43,2017 Spring,1,Armenian,1B,1,Clg of Letters & Science,political science
+44,2017 Spring,4,Armenian,126,1,Clg of Letters & Science,political science
+45,2017 Spring,3,Asian American Studies,20A,1,Clg of Letters & Science,political science
+46,2017 Spring,4,Asian American Studies,121,1,Clg of Letters & Science,political science
+47,2017 Spring,14,Asian American Studies,132AC,1,Clg of Letters & Science,political science
+48,2017 Spring,2,Asian American Studies,138,1,Clg of Letters & Science,political science
+49,2017 Spring,3,Asian American Studies,144,1,Clg of Letters & Science,political science
+50,2017 Spring,1,Asian American Studies,151AC,1,Clg of Letters & Science,political science
+51,2017 Spring,1,Asian American Studies,176,1,Clg of Letters & Science,political science
+52,2017 Spring,1,Asian American Studies,197,1,Clg of Letters & Science,political science
+53,2017 Spring,1,Asian American Studies,197,15,Clg of Letters & Science,political science
+54,2017 Spring,6,Asian Studies,150,1,Clg of Letters & Science,political science
+55,2017 Spring,3,Asian Studies,150,2,Clg of Letters & Science,political science
+56,2017 Spring,1,Asian Studies,198,4,Clg of Letters & Science,political science
+57,2017 Spring,2,Astronomy,84,1,Clg of Letters & Science,political science
+58,2017 Spring,1,Astronomy,98,2,Clg of Letters & Science,political science
+59,2017 Spring,2,Astronomy,198,2,Clg of Letters & Science,political science
+60,2017 Spring,1,Bengali,101B,1,Clg of Letters & Science,political science
+61,2017 Spring,1,Bioengineering,84,1,Clg of Engineering,political science
+62,2017 Spring,1,Biology,1A,1,Clg of Letters & Science,political science
+63,2017 Spring,1,Biology,1AL,1,Clg of Letters & Science,political science
+64,2017 Spring,1,Bosnian/Croatian/Serbian,27B,1,Clg of Letters & Science,political science
+65,2017 Spring,1,Burmese,1B,1,Clg of Letters & Science,political science
+66,2017 Spring,2,Business Admin-Undergrad,C5,1,Haas School of Business,political science
+67,2017 Spring,2,Business Admin-Undergrad,10,1,Haas School of Business,political science
+68,2017 Spring,8,Business Admin-Undergrad,96,1,Haas School of Business,political science
+69,2017 Spring,2,Business Admin-Undergrad,96,3,Haas School of Business,political science
+70,2017 Spring,1,Business Admin-Undergrad,100,3,Haas School of Business,political science
+71,2017 Spring,1,Business Admin-Undergrad,100,4,Haas School of Business,political science
+72,2017 Spring,2,Business Admin-Undergrad,100,5,Haas School of Business,political science
+73,2017 Spring,3,Business Admin-Undergrad,101B,3,Haas School of Business,political science
+74,2017 Spring,3,Business Admin-Undergrad,102A,1,Haas School of Business,political science
+75,2017 Spring,1,Business Admin-Undergrad,102B,1,Haas School of Business,political science
+76,2017 Spring,2,Business Admin-Undergrad,102B,2,Haas School of Business,political science
+77,2017 Spring,1,Business Admin-Undergrad,103,1,Haas School of Business,political science
+78,2017 Spring,2,Business Admin-Undergrad,103,2,Haas School of Business,political science
+79,2017 Spring,2,Business Admin-Undergrad,104,1,Haas School of Business,political science
+80,2017 Spring,1,Business Admin-Undergrad,105,1,Haas School of Business,political science
+81,2017 Spring,3,Business Admin-Undergrad,106,1,Haas School of Business,political science
+82,2017 Spring,2,Business Admin-Undergrad,107,1,Haas School of Business,political science
+83,2017 Spring,1,Business Admin-Undergrad,115,1,Haas School of Business,political science
+84,2017 Spring,1,Business Admin-Undergrad,120AB,1,Haas School of Business,political science
+85,2017 Spring,1,Business Admin-Undergrad,131,1,Haas School of Business,political science
+86,2017 Spring,2,Business Admin-Undergrad,137,1,Haas School of Business,political science
+87,2017 Spring,1,Business Admin-Undergrad,141,1,Haas School of Business,political science
+88,2017 Spring,2,Business Admin-Undergrad,155,1,Haas School of Business,political science
+89,2017 Spring,1,Business Admin-Undergrad,161,1,Haas School of Business,political science
+90,2017 Spring,1,Business Admin-Undergrad,167,1,Haas School of Business,political science
+91,2017 Spring,1,Business Admin-Undergrad,170,1,Haas School of Business,political science
+92,2017 Spring,2,Business Admin-Undergrad,C172,1,Haas School of Business,political science
+93,2017 Spring,1,Business Admin-Undergrad,190T,1,Haas School of Business,political science
+94,2017 Spring,1,Business Admin-Undergrad,192B,1,Haas School of Business,political science
+95,2017 Spring,1,Business Admin-Undergrad,193I,1,Haas School of Business,political science
+96,2017 Spring,1,Business Admin-Undergrad,195A,1,Haas School of Business,political science
+97,2017 Spring,1,Business Admin-Undergrad,195T,1,Haas School of Business,political science
+98,2017 Spring,3,Business Admin-Undergrad,196,2,Haas School of Business,political science
+99,2017 Spring,1,Business Admin-Undergrad,198,1,Haas School of Business,political science
+100,2017 Spring,1,Business Admin-Undergrad,198,2,Haas School of Business,political science
+101,2017 Spring,2,Business Admin-Undergrad,198,4,Haas School of Business,political science
+102,2017 Spring,3,Business Admin-Undergrad,198,7,Haas School of Business,political science
+103,2017 Spring,1,Catalan,101,1,Clg of Letters & Science,political science
+104,2017 Spring,1,Chemistry,1A,1,Clg of Chemistry,political science
+105,2017 Spring,1,Chemistry,1B,1,Clg of Chemistry,political science
+106,2017 Spring,2,Chemistry,3B,1,Clg of Chemistry,political science
+107,2017 Spring,1,Chemistry,3B,2,Clg of Chemistry,political science
+108,2017 Spring,2,Chemistry,3BL,1,Clg of Chemistry,political science
+109,2017 Spring,1,Chemistry,3BL,2,Clg of Chemistry,political science
+110,2017 Spring,5,Chicano Studies,50,1,Clg of Letters & Science,political science
+111,2017 Spring,1,Chicano Studies,110,1,Clg of Letters & Science,political science
+112,2017 Spring,2,Chicano Studies,141,1,Clg of Letters & Science,political science
+113,2017 Spring,4,Chicano Studies,150B,1,Clg of Letters & Science,political science
+114,2017 Spring,4,Chicano Studies,174,1,Clg of Letters & Science,political science
+115,2017 Spring,1,Chicano Studies,176,1,Clg of Letters & Science,political science
+116,2017 Spring,1,Chicano Studies,180,1,Clg of Letters & Science,political science
+117,2017 Spring,2,Chicano Studies,180,2,Clg of Letters & Science,political science
+118,2017 Spring,2,Chicano Studies,180AC,1,Clg of Letters & Science,political science
+119,2017 Spring,4,Chicano Studies,197,1,Clg of Letters & Science,political science
+120,2017 Spring,2,Chicano Studies,197,4,Clg of Letters & Science,political science
+121,2017 Spring,2,Chicano Studies,198,2,Clg of Letters & Science,political science
+122,2017 Spring,1,Chinese,1A,1,Clg of Letters & Science,political science
+123,2017 Spring,2,Chinese,1A,2,Clg of Letters & Science,political science
+124,2017 Spring,2,Chinese,1B,5,Clg of Letters & Science,political science
+125,2017 Spring,3,Chinese,10B,1,Clg of Letters & Science,political science
+126,2017 Spring,1,Chinese,10X,1,Clg of Letters & Science,political science
+127,2017 Spring,2,Chinese,10Y,1,Clg of Letters & Science,political science
+128,2017 Spring,1,Chinese,100B,1,Clg of Letters & Science,political science
+129,2017 Spring,1,Chinese,100XB,1,Clg of Letters & Science,political science
+130,2017 Spring,1,Chinese,101,2,Clg of Letters & Science,political science
+131,2017 Spring,1,Chinese,155,1,Clg of Letters & Science,political science
+132,2017 Spring,2,City & Regional Planning,101,1,Clg of Environmental Design,political science
+133,2017 Spring,1,City & Regional Planning,113B,1,Clg of Environmental Design,political science
+134,2017 Spring,2,City & Regional Planning,114,1,Clg of Environmental Design,political science
+135,2017 Spring,1,City & Regional Planning,116,1,Clg of Environmental Design,political science
+136,2017 Spring,3,City & Regional Planning,118AC,1,Clg of Environmental Design,political science
+137,2017 Spring,1,City & Regional Planning,120,1,Clg of Environmental Design,political science
+138,2017 Spring,1,Civil & Environmental Eng,88B,1,Clg of Engineering,political science
+139,2017 Spring,4,Classics,10B,1,Clg of Letters & Science,political science
+140,2017 Spring,1,Classics,17B,1,Clg of Letters & Science,political science
+141,2017 Spring,3,Classics,28,1,Clg of Letters & Science,political science
+142,2017 Spring,3,Classics,35,1,Clg of Letters & Science,political science
+143,2017 Spring,1,Classics,161,1,Clg of Letters & Science,political science
+144,2017 Spring,1,Classics,170A,1,Clg of Letters & Science,political science
+145,2017 Spring,1,Cognitive Science,198,1,Clg of Letters & Science,political science
+146,2017 Spring,3,Cognitive Science,198,5,Clg of Letters & Science,political science
+147,2017 Spring,1,Cognitive Science,198,6,Clg of Letters & Science,political science
+148,2017 Spring,1,College Writing Programs,1,1,Clg of Letters & Science,political science
+149,2017 Spring,2,College Writing Programs,1,2,Clg of Letters & Science,political science
+150,2017 Spring,1,College Writing Programs,R4B,9,Clg of Letters & Science,political science
+151,2017 Spring,1,College Writing Programs,R4B,11,Clg of Letters & Science,political science
+152,2017 Spring,2,College Writing Programs,25AC,1,Clg of Letters & Science,political science
+153,2017 Spring,1,College Writing Programs,109C,1,Clg of Letters & Science,political science
+154,2017 Spring,1,College Writing Programs,130,1,Clg of Letters & Science,political science
+155,2017 Spring,1,Comparative Literature,R1B,14,Clg of Letters & Science,political science
+156,2017 Spring,1,Comparative Literature,100,1,Clg of Letters & Science,political science
+157,2017 Spring,1,Comparative Literature,112B,1,Clg of Letters & Science,political science
+158,2017 Spring,1,Comparative Literature,151,1,Clg of Letters & Science,political science
+159,2017 Spring,1,Comparative Literature,171,1,Clg of Letters & Science,political science
+160,2017 Spring,8,Computer Science,C8,1,Clg of Engineering,political science
+161,2017 Spring,2,Computer Science,10,1,Clg of Engineering,political science
+162,2017 Spring,2,Computer Science,61A,1,Clg of Engineering,political science
+163,2017 Spring,4,Computer Science,61B,1,Clg of Engineering,political science
+164,2017 Spring,2,Computer Science,70,1,Clg of Engineering,political science
+165,2017 Spring,2,Computer Science,161,1,Clg of Engineering,political science
+166,2017 Spring,2,Computer Science,162,1,Clg of Engineering,political science
+167,2017 Spring,1,Computer Science,164,1,Clg of Engineering,political science
+168,2017 Spring,1,Computer Science,170,1,Clg of Engineering,political science
+169,2017 Spring,1,Computer Science,186,1,Clg of Engineering,political science
+170,2017 Spring,1,Computer Science,195,1,Clg of Engineering,political science
+171,2017 Spring,1,Computer Science,197,212,Clg of Engineering,political science
+172,2017 Spring,1,Computer Science,197,214,Clg of Engineering,political science
+173,2017 Spring,1,Computer Science,198,56,Clg of Engineering,political science
+174,2017 Spring,2,Computer Science,198,67,Clg of Engineering,political science
+175,2017 Spring,2,Computer Science,198,75,Clg of Engineering,political science
+176,2017 Spring,1,Computer Science,198,642,Clg of Engineering,political science
+177,2017 Spring,4,Design Innovation,198,2,Clg of Engineering,political science
+178,2017 Spring,1,Development Studies,C10,1,Clg of Letters & Science,political science
+179,2017 Spring,4,Development Studies,C100,1,Clg of Letters & Science,political science
+180,2017 Spring,1,Dutch,100,1,Clg of Letters & Science,political science
+181,2017 Spring,1,Dutch,125,1,Clg of Letters & Science,political science
+182,2017 Spring,2,Dutch,166,1,Clg of Letters & Science,political science
+183,2017 Spring,1,Earth & Planetary Science,C12,1,Clg of Letters & Science,political science
+184,2017 Spring,1,Earth & Planetary Science,39A,1,Clg of Letters & Science,political science
+185,2017 Spring,1,Earth & Planetary Science,50,1,Clg of Letters & Science,political science
+186,2017 Spring,1,East Asian Languages,105,1,Clg of Letters & Science,political science
+187,2017 Spring,7,Economics,1,1,Clg of Letters & Science,political science
+188,2017 Spring,4,Economics,2,1,Clg of Letters & Science,political science
+189,2017 Spring,1,Economics,84,1,Clg of Letters & Science,political science
+190,2017 Spring,5,Economics,100A,1,Clg of Letters & Science,political science
+191,2017 Spring,5,Economics,100B,1,Clg of Letters & Science,political science
+192,2017 Spring,1,Economics,101A,1,Clg of Letters & Science,political science
+193,2017 Spring,4,Economics,113,1,Clg of Letters & Science,political science
+194,2017 Spring,2,Economics,115,1,Clg of Letters & Science,political science
+195,2017 Spring,2,Economics,121,1,Clg of Letters & Science,political science
+196,2017 Spring,1,Economics,131,1,Clg of Letters & Science,political science
+197,2017 Spring,2,Economics,133,1,Clg of Letters & Science,political science
+198,2017 Spring,3,Economics,136,1,Clg of Letters & Science,political science
+199,2017 Spring,3,Economics,138,1,Clg of Letters & Science,political science
+200,2017 Spring,6,Economics,140,1,Clg of Letters & Science,political science
+201,2017 Spring,1,Economics,151,1,Clg of Letters & Science,political science
+202,2017 Spring,1,Economics,155A,1,Clg of Letters & Science,political science
+203,2017 Spring,2,Economics,157,1,Clg of Letters & Science,political science
+204,2017 Spring,1,Economics,172,1,Clg of Letters & Science,political science
+205,2017 Spring,5,Economics,C175,1,Clg of Letters & Science,political science
+206,2017 Spring,2,Economics,C181,1,Clg of Letters & Science,political science
+207,2017 Spring,1,Economics,191,1,Clg of Letters & Science,political science
+208,2017 Spring,1,Education,40AC,1,Grad School of Education,political science
+209,2017 Spring,1,Education,114A,1,Grad School of Education,political science
+210,2017 Spring,1,Education,140AC,1,Grad School of Education,political science
+211,2017 Spring,1,Education,140AC,2,Grad School of Education,political science
+212,2017 Spring,1,Education,140AC,3,Grad School of Education,political science
+213,2017 Spring,2,Education,W142,1,Grad School of Education,political science
+214,2017 Spring,85,Education,182AC,1,Grad School of Education,political science
+215,2017 Spring,2,Education,183,1,Grad School of Education,political science
+216,2017 Spring,2,Education,190AC,1,Grad School of Education,political science
+217,2017 Spring,1,Education,190AC,2,Grad School of Education,political science
+218,2017 Spring,3,Education,190AC,3,Grad School of Education,political science
+219,2017 Spring,3,Education,195B,1,Grad School of Education,political science
+220,2017 Spring,2,Education,197,1,Grad School of Education,political science
+221,2017 Spring,3,Education,197,21,Grad School of Education,political science
+222,2017 Spring,1,Education,197,25,Grad School of Education,political science
+223,2017 Spring,2,Education,197,50,Grad School of Education,political science
+224,2017 Spring,2,Education,198,7,Grad School of Education,political science
+225,2017 Spring,1,Education,198,21,Grad School of Education,political science
+226,2017 Spring,1,Education,198,22,Grad School of Education,political science
+227,2017 Spring,2,Education,198,24,Grad School of Education,political science
+228,2017 Spring,3,Education,198,31,Grad School of Education,political science
+229,2017 Spring,1,Education,198,37,Grad School of Education,political science
+230,2017 Spring,1,Education,198,40,Grad School of Education,political science
+231,2017 Spring,1,Electrical Engineering,16A,1,Clg of Engineering,political science
+232,2017 Spring,1,Electrical Engineering,16B,1,Clg of Engineering,political science
+233,2017 Spring,2,Electrical Engineering,198,1,Clg of Engineering,political science
+234,2017 Spring,2,Electrical Engineering,198,13,Clg of Engineering,political science
+235,2017 Spring,1,Energy and Resources,102,1,Clg of Natural Resources,political science
+236,2017 Spring,1,English,R1B,2,Clg of Letters & Science,political science
+237,2017 Spring,1,English,R1B,17,Clg of Letters & Science,political science
+238,2017 Spring,1,English,45A,1,Clg of Letters & Science,political science
+239,2017 Spring,1,English,45B,1,Clg of Letters & Science,political science
+240,2017 Spring,1,English,84,1,Clg of Letters & Science,political science
+241,2017 Spring,1,English,111,1,Clg of Letters & Science,political science
+242,2017 Spring,1,English,117S,1,Clg of Letters & Science,political science
+243,2017 Spring,2,English,117S,2,Clg of Letters & Science,political science
+244,2017 Spring,1,English,119,1,Clg of Letters & Science,political science
+245,2017 Spring,1,English,125C,1,Clg of Letters & Science,political science
+246,2017 Spring,3,English,125E,1,Clg of Letters & Science,political science
+247,2017 Spring,6,English,132,1,Clg of Letters & Science,political science
+248,2017 Spring,1,English,143A,3,Clg of Letters & Science,political science
+249,2017 Spring,3,English,166,4,Clg of Letters & Science,political science
+250,2017 Spring,1,English,166AC,1,Clg of Letters & Science,political science
+251,2017 Spring,1,English,180A,1,Clg of Letters & Science,political science
+252,2017 Spring,1,English,180Z,1,Clg of Letters & Science,political science
+253,2017 Spring,1,English,190,3,Clg of Letters & Science,political science
+254,2017 Spring,1,English,190,6,Clg of Letters & Science,political science
+255,2017 Spring,2,English,198,4,Clg of Letters & Science,political science
+256,2017 Spring,2,English,198,5,Clg of Letters & Science,political science
+257,2017 Spring,2,English,198,7,Clg of Letters & Science,political science
+258,2017 Spring,1,English,198BC,2,Clg of Letters & Science,political science
+259,2017 Spring,1,English,198BC,7,Clg of Letters & Science,political science
+260,2017 Spring,2,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,political science
+261,2017 Spring,2,"Env Sci, Policy, & Mgmt",C11,1,Clg of Natural Resources,political science
+262,2017 Spring,2,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,political science
+263,2017 Spring,1,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,political science
+264,2017 Spring,1,"Env Sci, Policy, & Mgmt",72,1,Clg of Natural Resources,political science
+265,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,8,Clg of Natural Resources,political science
+266,2017 Spring,1,"Env Sci, Policy, & Mgmt",98BC,2,Clg of Natural Resources,political science
+267,2017 Spring,1,"Env Sci, Policy, & Mgmt",100ES,1,Clg of Natural Resources,political science
+268,2017 Spring,2,"Env Sci, Policy, & Mgmt",102D,1,Clg of Natural Resources,political science
+269,2017 Spring,1,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,political science
+270,2017 Spring,2,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,political science
+271,2017 Spring,1,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,political science
+272,2017 Spring,5,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,political science
+273,2017 Spring,1,"Env Sci, Policy, & Mgmt",194B,1,Clg of Natural Resources,political science
+274,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,6,Clg of Natural Resources,political science
+275,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,8,Clg of Natural Resources,political science
+276,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,2,Clg of Natural Resources,political science
+277,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,6,Clg of Natural Resources,political science
+278,2017 Spring,1,Environ Econ & Policy,100,1,Clg of Natural Resources,political science
+279,2017 Spring,1,Environ Econ & Policy,C101,1,Clg of Natural Resources,political science
+280,2017 Spring,1,Environ Econ & Policy,C151,1,Clg of Natural Resources,political science
+281,2017 Spring,1,Environmental Design,4B,1,Clg of Environmental Design,political science
+282,2017 Spring,4,Ethnic Studies,11AC,1,Clg of Letters & Science,political science
+283,2017 Spring,6,Ethnic Studies,21AC,1,Clg of Letters & Science,political science
+284,2017 Spring,2,Ethnic Studies,100,1,Clg of Letters & Science,political science
+285,2017 Spring,1,Ethnic Studies,101B,1,Clg of Letters & Science,political science
+286,2017 Spring,2,Ethnic Studies,122AC,1,Clg of Letters & Science,political science
+287,2017 Spring,4,Ethnic Studies,144AC,1,Clg of Letters & Science,political science
+288,2017 Spring,2,Ethnic Studies,145,1,Clg of Letters & Science,political science
+289,2017 Spring,1,Ethnic Studies,173AC,1,Clg of Letters & Science,political science
+290,2017 Spring,2,Ethnic Studies,176,1,Clg of Letters & Science,political science
+291,2017 Spring,1,Ethnic Studies,180,1,Clg of Letters & Science,political science
+292,2017 Spring,9,Ethnic Studies,181AC,1,Clg of Letters & Science,political science
+293,2017 Spring,1,Ethnic Studies,190,1,Clg of Letters & Science,political science
+294,2017 Spring,2,Ethnic Studies,197,1,Clg of Letters & Science,political science
+295,2017 Spring,3,Ethnic Studies,197,3,Clg of Letters & Science,political science
+296,2017 Spring,6,Ethnic Studies,197,9,Clg of Letters & Science,political science
+297,2017 Spring,6,Ethnic Studies,197,11,Clg of Letters & Science,political science
+298,2017 Spring,5,Ethnic Studies,197,13,Clg of Letters & Science,political science
+299,2017 Spring,2,Ethnic Studies,198,1,Clg of Letters & Science,political science
+300,2017 Spring,1,Ethnic Studies,198,3,Clg of Letters & Science,political science
+301,2017 Spring,3,Ethnic Studies,198,5,Clg of Letters & Science,political science
+302,2017 Spring,1,Ethnic Studies,198,8,Clg of Letters & Science,political science
+303,2017 Spring,1,Ethnic Studies,198,9,Clg of Letters & Science,political science
+304,2017 Spring,1,Filipino,1B,3,Clg of Letters & Science,political science
+305,2017 Spring,1,Filipino,W1Y,1,Clg of Letters & Science,political science
+306,2017 Spring,3,Filipino,W101B,1,Clg of Letters & Science,political science
+307,2017 Spring,1,Film,25B,1,Clg of Letters & Science,political science
+308,2017 Spring,6,Film,198,2,Clg of Letters & Science,political science
+309,2017 Spring,1,French,1,5,Clg of Letters & Science,political science
+310,2017 Spring,2,French,1,7,Clg of Letters & Science,political science
+311,2017 Spring,2,French,1,9,Clg of Letters & Science,political science
+312,2017 Spring,1,French,R1B,1,Clg of Letters & Science,political science
+313,2017 Spring,1,French,R1B,2,Clg of Letters & Science,political science
+314,2017 Spring,2,French,2,4,Clg of Letters & Science,political science
+315,2017 Spring,1,French,2,5,Clg of Letters & Science,political science
+316,2017 Spring,1,French,2,8,Clg of Letters & Science,political science
+317,2017 Spring,1,French,3,3,Clg of Letters & Science,political science
+318,2017 Spring,1,French,4,2,Clg of Letters & Science,political science
+319,2017 Spring,1,French,13,1,Clg of Letters & Science,political science
+320,2017 Spring,1,French,13,2,Clg of Letters & Science,political science
+321,2017 Spring,1,French,14,1,Clg of Letters & Science,political science
+322,2017 Spring,1,French,117A,1,Clg of Letters & Science,political science
+323,2017 Spring,1,French,119A,1,Clg of Letters & Science,political science
+324,2017 Spring,1,French,120B,1,Clg of Letters & Science,political science
+325,2017 Spring,1,French,151B,1,Clg of Letters & Science,political science
+326,2017 Spring,1,French,161B,1,Clg of Letters & Science,political science
+327,2017 Spring,2,French,178B,1,Clg of Letters & Science,political science
+328,2017 Spring,2,French,197,1,Clg of Letters & Science,political science
+329,2017 Spring,4,Gender & Womens Studies,14,1,Clg of Letters & Science,political science
+330,2017 Spring,2,Gender & Womens Studies,100AC,1,Clg of Letters & Science,political science
+331,2017 Spring,3,Gender & Womens Studies,101,1,Clg of Letters & Science,political science
+332,2017 Spring,5,Gender & Womens Studies,104,1,Clg of Letters & Science,political science
+333,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,political science
+334,2017 Spring,1,Gender & Womens Studies,198,1,Clg of Letters & Science,political science
+335,2017 Spring,1,Gender & Womens Studies,198,4,Clg of Letters & Science,political science
+336,2017 Spring,1,Geography,70AC,1,Clg of Letters & Science,political science
+337,2017 Spring,1,Geography,C112,1,Clg of Letters & Science,political science
+338,2017 Spring,2,Geography,130,1,Clg of Letters & Science,political science
+339,2017 Spring,2,Geography,140A,1,Clg of Letters & Science,political science
+340,2017 Spring,1,Geography,C155,1,Clg of Letters & Science,political science
+341,2017 Spring,1,Geography,C160B,1,Clg of Letters & Science,political science
+342,2017 Spring,1,Geography,170,4,Clg of Letters & Science,political science
+343,2017 Spring,1,Geography,181,1,Clg of Letters & Science,political science
+344,2017 Spring,1,Geography,183,1,Clg of Letters & Science,political science
+345,2017 Spring,1,Geography,187,1,Clg of Letters & Science,political science
+346,2017 Spring,1,German,1,2,Clg of Letters & Science,political science
+347,2017 Spring,1,German,1,3,Clg of Letters & Science,political science
+348,2017 Spring,1,German,2,3,Clg of Letters & Science,political science
+349,2017 Spring,1,German,2,5,Clg of Letters & Science,political science
+350,2017 Spring,1,German,R5B,1,Clg of Letters & Science,political science
+351,2017 Spring,1,German,182,1,Clg of Letters & Science,political science
+352,2017 Spring,1,Global Poverty & Practice,105,1,Clg of Letters & Science,political science
+353,2017 Spring,1,Global Poverty & Practice,105,2,Clg of Letters & Science,political science
+354,2017 Spring,3,Global Poverty & Practice,150,1,Clg of Letters & Science,political science
+355,2017 Spring,2,Global Studies,100S,1,Clg of Letters & Science,political science
+356,2017 Spring,3,Global Studies,110K,1,Clg of Letters & Science,political science
+357,2017 Spring,1,Global Studies,110L,1,Clg of Letters & Science,political science
+358,2017 Spring,4,Global Studies,110M,1,Clg of Letters & Science,political science
+359,2017 Spring,2,Hebrew,1B,1,Clg of Letters & Science,political science
+360,2017 Spring,1,Hindi-Urdu,2B,1,Clg of Letters & Science,political science
+361,2017 Spring,1,Hindi-Urdu,104B,1,Clg of Letters & Science,political science
+362,2017 Spring,1,History,2,1,Clg of Letters & Science,political science
+363,2017 Spring,1,History,4B,1,Clg of Letters & Science,political science
+364,2017 Spring,1,History,5,1,Clg of Letters & Science,political science
+365,2017 Spring,2,History,6B,1,Clg of Letters & Science,political science
+366,2017 Spring,15,History,7B,1,Clg of Letters & Science,political science
+367,2017 Spring,2,History,8B,1,Clg of Letters & Science,political science
+368,2017 Spring,2,History,84,1,Clg of Letters & Science,political science
+369,2017 Spring,1,History,98,2,Clg of Letters & Science,political science
+370,2017 Spring,2,History,98BC,3,Clg of Letters & Science,political science
+371,2017 Spring,4,History,100AC,2,Clg of Letters & Science,political science
+372,2017 Spring,1,History,100AP,1,Clg of Letters & Science,political science
+373,2017 Spring,3,History,100D,1,Clg of Letters & Science,political science
+374,2017 Spring,1,History,100F,2,Clg of Letters & Science,political science
+375,2017 Spring,9,History,100U,1,Clg of Letters & Science,political science
+376,2017 Spring,3,History,101,1,Clg of Letters & Science,political science
+377,2017 Spring,1,History,101,3,Clg of Letters & Science,political science
+378,2017 Spring,1,History,101,13,Clg of Letters & Science,political science
+379,2017 Spring,1,History,101,14,Clg of Letters & Science,political science
+380,2017 Spring,2,History,103B,2,Clg of Letters & Science,political science
+381,2017 Spring,1,History,103B,3,Clg of Letters & Science,political science
+382,2017 Spring,1,History,103D,1,Clg of Letters & Science,political science
+383,2017 Spring,1,History,103D,2,Clg of Letters & Science,political science
+384,2017 Spring,1,History,103U,2,Clg of Letters & Science,political science
+385,2017 Spring,1,History,103U,3,Clg of Letters & Science,political science
+386,2017 Spring,2,History,104,1,Clg of Letters & Science,political science
+387,2017 Spring,10,History,106B,1,Clg of Letters & Science,political science
+388,2017 Spring,12,History,109C,1,Clg of Letters & Science,political science
+389,2017 Spring,3,History,111B,1,Clg of Letters & Science,political science
+390,2017 Spring,2,History,112C,1,Clg of Letters & Science,political science
+391,2017 Spring,2,History,114B,1,Clg of Letters & Science,political science
+392,2017 Spring,3,History,117A,1,Clg of Letters & Science,political science
+393,2017 Spring,8,History,119A,1,Clg of Letters & Science,political science
+394,2017 Spring,9,History,121B,1,Clg of Letters & Science,political science
+395,2017 Spring,4,History,122AC,1,Clg of Letters & Science,political science
+396,2017 Spring,2,History,124B,1,Clg of Letters & Science,political science
+397,2017 Spring,2,History,125B,1,Clg of Letters & Science,political science
+398,2017 Spring,12,History,136C,1,Clg of Letters & Science,political science
+399,2017 Spring,8,History,141B,1,Clg of Letters & Science,political science
+400,2017 Spring,3,History,151A,1,Clg of Letters & Science,political science
+401,2017 Spring,9,History,160,1,Clg of Letters & Science,political science
+402,2017 Spring,8,History,162B,1,Clg of Letters & Science,political science
+403,2017 Spring,3,History,164A,1,Clg of Letters & Science,political science
+404,2017 Spring,1,History,167D,1,Clg of Letters & Science,political science
+405,2017 Spring,6,History,171C,1,Clg of Letters & Science,political science
+406,2017 Spring,6,History,178,1,Clg of Letters & Science,political science
+407,2017 Spring,1,History,180,1,Clg of Letters & Science,political science
+408,2017 Spring,2,History,182A,1,Clg of Letters & Science,political science
+409,2017 Spring,3,History,185B,1,Clg of Letters & Science,political science
+410,2017 Spring,15,History,186,1,Clg of Letters & Science,political science
+411,2017 Spring,2,History,C191,1,Clg of Letters & Science,political science
+412,2017 Spring,1,History,198BC,1,Clg of Letters & Science,political science
+413,2017 Spring,5,History,198BC,3,Clg of Letters & Science,political science
+414,2017 Spring,4,History of Art,11,1,Clg of Letters & Science,political science
+415,2017 Spring,2,History of Art,35,1,Clg of Letters & Science,political science
+416,2017 Spring,4,History of Art,198,1,Clg of Letters & Science,political science
+417,2017 Spring,1,History of Art,198,2,Clg of Letters & Science,political science
+418,2017 Spring,1,Hungarian,1B,1,Clg of Letters & Science,political science
+419,2017 Spring,1,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,political science
+420,2017 Spring,1,Industrial Eng & Ops Rsch,166,1,Clg of Engineering,political science
+421,2017 Spring,1,Industrial Eng & Ops Rsch,190C,1,Clg of Engineering,political science
+422,2017 Spring,1,Industrial Eng & Ops Rsch,191,1,Clg of Engineering,political science
+423,2017 Spring,1,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,political science
+424,2017 Spring,1,Industrial Eng & Ops Rsch,198,3,Clg of Engineering,political science
+425,2017 Spring,1,Integrative Biology,C32,1,Clg of Letters & Science,political science
+426,2017 Spring,1,Integrative Biology,140,1,Clg of Letters & Science,political science
+427,2017 Spring,1,Integrative Biology,194,375,Clg of Letters & Science,political science
+428,2017 Spring,1,Integrative Biology,198,3,Clg of Letters & Science,political science
+429,2017 Spring,1,Integrative Biology,198,6,Clg of Letters & Science,political science
+430,2017 Spring,2,Interdisciplinary Studies,100A,1,Clg of Letters & Science,political science
+431,2017 Spring,1,Interdisciplinary Studies,100C,1,Clg of Letters & Science,political science
+432,2017 Spring,1,Interdisciplinary Studies,190,2,Clg of Letters & Science,political science
+433,2017 Spring,2,Interdisciplinary Studies,198,5,Clg of Letters & Science,political science
+434,2017 Spring,1,International & Area Stds,45,1,Clg of Letters & Science,political science
+435,2017 Spring,2,International & Area Stds,106,1,Clg of Letters & Science,political science
+436,2017 Spring,1,International & Area Stds,C118,1,Clg of Letters & Science,political science
+437,2017 Spring,1,International & Area Stds,150,1,Clg of Letters & Science,political science
+438,2017 Spring,1,International & Area Stds,150,4,Clg of Letters & Science,political science
+439,2017 Spring,1,International & Area Stds,150,5,Clg of Letters & Science,political science
+440,2017 Spring,1,International & Area Stds,194,1,Clg of Letters & Science,political science
+441,2017 Spring,3,International & Area Stds,198,3,Clg of Letters & Science,political science
+442,2017 Spring,1,Italian Studies,2,1,Clg of Letters & Science,political science
+443,2017 Spring,1,Italian Studies,3,1,Clg of Letters & Science,political science
+444,2017 Spring,1,Italian Studies,R5B,1,Clg of Letters & Science,political science
+445,2017 Spring,1,Italian Studies,101,1,Clg of Letters & Science,political science
+446,2017 Spring,1,Italian Studies,102,1,Clg of Letters & Science,political science
+447,2017 Spring,1,Japanese,1B,2,Clg of Letters & Science,political science
+448,2017 Spring,1,Japanese,1B,3,Clg of Letters & Science,political science
+449,2017 Spring,1,Japanese,1B,4,Clg of Letters & Science,political science
+450,2017 Spring,1,Japanese,1B,6,Clg of Letters & Science,political science
+451,2017 Spring,2,Japanese,1B,8,Clg of Letters & Science,political science
+452,2017 Spring,1,Japanese,10B,3,Clg of Letters & Science,political science
+453,2017 Spring,2,Japanese,100B,2,Clg of Letters & Science,political science
+454,2017 Spring,1,Japanese,C115,1,Clg of Letters & Science,political science
+455,2017 Spring,1,Jewish Studies,101,1,Clg of Letters & Science,political science
+456,2017 Spring,2,Jewish Studies,198,1,Clg of Letters & Science,political science
+457,2017 Spring,2,Jewish Studies,198,3,Clg of Letters & Science,political science
+458,2017 Spring,1,Journalism,98,1,Grad School of Journalism,political science
+459,2017 Spring,1,Korean,1B,6,Clg of Letters & Science,political science
+460,2017 Spring,1,Korean,112,1,Clg of Letters & Science,political science
+461,2017 Spring,1,Korean,153,1,Clg of Letters & Science,political science
+462,2017 Spring,1,LGBT Studies,146,1,Clg of Letters & Science,political science
+463,2017 Spring,2,Landscape Arch & Env Plan,198,1,Clg of Environmental Design,political science
+464,2017 Spring,1,Legal Studies,R1B,1,School of Law,political science
+465,2017 Spring,3,Legal Studies,39D,2,School of Law,political science
+466,2017 Spring,2,Legal Studies,88,1,School of Law,political science
+467,2017 Spring,5,Legal Studies,100,1,School of Law,political science
+468,2017 Spring,2,Legal Studies,102,1,School of Law,political science
+469,2017 Spring,3,Legal Studies,105,1,School of Law,political science
+470,2017 Spring,9,Legal Studies,132AC,1,School of Law,political science
+471,2017 Spring,4,Legal Studies,138,1,School of Law,political science
+472,2017 Spring,2,Legal Studies,139,1,School of Law,political science
+473,2017 Spring,2,Legal Studies,152AC,1,School of Law,political science
+474,2017 Spring,2,Legal Studies,153,1,School of Law,political science
+475,2017 Spring,5,Legal Studies,154,1,School of Law,political science
+476,2017 Spring,6,Legal Studies,159,1,School of Law,political science
+477,2017 Spring,5,Legal Studies,160,1,School of Law,political science
+478,2017 Spring,3,Legal Studies,173,1,School of Law,political science
+479,2017 Spring,5,Legal Studies,177,1,School of Law,political science
+480,2017 Spring,4,Legal Studies,185AC,1,School of Law,political science
+481,2017 Spring,2,Legal Studies,190,1,School of Law,political science
+482,2017 Spring,1,Legal Studies,190,2,School of Law,political science
+483,2017 Spring,1,Legal Studies,190,4,School of Law,political science
+484,2017 Spring,1,Legal Studies,H195C,1,School of Law,political science
+485,2017 Spring,1,Legal Studies,198,2,School of Law,political science
+486,2017 Spring,2,Letters & Science,C5,1,Clg of Letters & Science,political science
+487,2017 Spring,7,Letters & Science,22,1,Clg of Letters & Science,political science
+488,2017 Spring,1,Letters & Science,25,1,Clg of Letters & Science,political science
+489,2017 Spring,1,Letters & Science,C30V,1,Clg of Letters & Science,political science
+490,2017 Spring,3,Letters & Science,C30Y,1,Clg of Letters & Science,political science
+491,2017 Spring,2,Letters & Science,C30Z,1,Clg of Letters & Science,political science
+492,2017 Spring,3,Letters & Science,70A,1,Clg of Letters & Science,political science
+493,2017 Spring,5,Letters & Science,70C,1,Clg of Letters & Science,political science
+494,2017 Spring,1,Letters & Science,C70T,1,Clg of Letters & Science,political science
+495,2017 Spring,1,Letters & Science,160B,1,Clg of Letters & Science,political science
+496,2017 Spring,3,Letters & Science,C180U,1,Clg of Letters & Science,political science
+497,2017 Spring,1,Linguistics,1B,1,Clg of Letters & Science,political science
+498,2017 Spring,1,Linguistics,R1B,1,Clg of Letters & Science,political science
+499,2017 Spring,1,Linguistics,115,1,Clg of Letters & Science,political science
+500,2017 Spring,1,Linguistics,198,2,Clg of Letters & Science,political science
+501,2017 Spring,2,Mathematics,1A,1,Clg of Letters & Science,political science
+502,2017 Spring,1,Mathematics,1B,1,Clg of Letters & Science,political science
+503,2017 Spring,2,Mathematics,1B,2,Clg of Letters & Science,political science
+504,2017 Spring,3,Mathematics,16A,1,Clg of Letters & Science,political science
+505,2017 Spring,2,Mathematics,16B,2,Clg of Letters & Science,political science
+506,2017 Spring,2,Mathematics,32,1,Clg of Letters & Science,political science
+507,2017 Spring,1,Mathematics,53,2,Clg of Letters & Science,political science
+508,2017 Spring,1,Mathematics,54,1,Clg of Letters & Science,political science
+509,2017 Spring,1,Mathematics,98,27,Clg of Letters & Science,political science
+510,2017 Spring,1,Mathematics,110,1,Clg of Letters & Science,political science
+511,2017 Spring,1,Mathematics,128A,1,Clg of Letters & Science,political science
+512,2017 Spring,1,Mathematics,198,1,Clg of Letters & Science,political science
+513,2017 Spring,2,Mathematics,198,2,Clg of Letters & Science,political science
+514,2017 Spring,11,Media Studies,101,1,Clg of Letters & Science,political science
+515,2017 Spring,7,Media Studies,103,1,Clg of Letters & Science,political science
+516,2017 Spring,1,Media Studies,104A,1,Clg of Letters & Science,political science
+517,2017 Spring,2,Media Studies,170,1,Clg of Letters & Science,political science
+518,2017 Spring,2,Middle Eastern Studies,130,1,Clg of Letters & Science,political science
+519,2017 Spring,2,Military Affairs,1,1,Clg of Letters & Science,political science
+520,2017 Spring,2,Military Science,1,1,Clg of Letters & Science,political science
+521,2017 Spring,1,Military Science,132,1,Clg of Letters & Science,political science
+522,2017 Spring,1,Military Science,142,1,Clg of Letters & Science,political science
+523,2017 Spring,3,Molecular & Cell Biology,C44,1,Clg of Letters & Science,political science
+524,2017 Spring,1,Molecular & Cell Biology,102,1,Clg of Letters & Science,political science
+525,2017 Spring,1,Molecular & Cell Biology,C103,1,Clg of Letters & Science,political science
+526,2017 Spring,1,Molecular & Cell Biology,141,1,Clg of Letters & Science,political science
+527,2017 Spring,1,Molecular & Cell Biology,198,1,Clg of Letters & Science,political science
+528,2017 Spring,1,Molecular & Cell Biology,198,4,Clg of Letters & Science,political science
+529,2017 Spring,1,Music,20A,2,Clg of Letters & Science,political science
+530,2017 Spring,1,Music,20A,3,Clg of Letters & Science,political science
+531,2017 Spring,1,Music,20A,5,Clg of Letters & Science,political science
+532,2017 Spring,1,Music,26AC,1,Clg of Letters & Science,political science
+533,2017 Spring,2,Music,29,1,Clg of Letters & Science,political science
+534,2017 Spring,1,Music,44,2,Clg of Letters & Science,political science
+535,2017 Spring,1,Music,80,1,Clg of Letters & Science,political science
+536,2017 Spring,1,Music,141,1,Clg of Letters & Science,political science
+537,2017 Spring,1,Music,142,2,Clg of Letters & Science,political science
+538,2017 Spring,1,Music,143,1,Clg of Letters & Science,political science
+539,2017 Spring,1,Music,146B,1,Clg of Letters & Science,political science
+540,2017 Spring,1,Music,148,1,Clg of Letters & Science,political science
+541,2017 Spring,1,Music,153A,1,Clg of Letters & Science,political science
+542,2017 Spring,1,Music,198,5,Clg of Letters & Science,political science
+543,2017 Spring,1,Music,198,6,Clg of Letters & Science,political science
+544,2017 Spring,4,Native American Studies,110,1,Clg of Letters & Science,political science
+545,2017 Spring,1,Native American Studies,120AC,1,Clg of Letters & Science,political science
+546,2017 Spring,1,Native American Studies,C152,1,Clg of Letters & Science,political science
+547,2017 Spring,2,Native American Studies,178,1,Clg of Letters & Science,political science
+548,2017 Spring,1,Near Eastern Studies,15,1,Clg of Letters & Science,political science
+549,2017 Spring,1,Near Eastern Studies,39B,1,Clg of Letters & Science,political science
+550,2017 Spring,3,Near Eastern Studies,101,1,Clg of Letters & Science,political science
+551,2017 Spring,2,Near Eastern Studies,109,1,Clg of Letters & Science,political science
+552,2017 Spring,2,Near Eastern Studies,140,1,Clg of Letters & Science,political science
+553,2017 Spring,2,Near Eastern Studies,146B,1,Clg of Letters & Science,political science
+554,2017 Spring,2,Near Eastern Studies,165,1,Clg of Letters & Science,political science
+555,2017 Spring,3,Near Eastern Studies,180,1,Clg of Letters & Science,political science
+556,2017 Spring,1,Near Eastern Studies,190A,1,Clg of Letters & Science,political science
+557,2017 Spring,1,Near Eastern Studies,190A,3,Clg of Letters & Science,political science
+558,2017 Spring,1,Near Eastern Studies,190H,101,Clg of Letters & Science,political science
+559,2017 Spring,1,Nuclear Engineering,100,1,Clg of Engineering,political science
+560,2017 Spring,10,Nutritional Science & Tox,10,1,Clg of Natural Resources,political science
+561,2017 Spring,3,Nutritional Science & Tox,11,1,Clg of Natural Resources,political science
+562,2017 Spring,1,Nutritional Science & Tox,198,3,Clg of Natural Resources,political science
+563,2017 Spring,1,Optometry,10,1,School of Optometry,political science
+564,2017 Spring,16,Peace & Conflict Studies,10,1,Clg of Letters & Science,political science
+565,2017 Spring,7,Peace & Conflict Studies,100,1,Clg of Letters & Science,political science
+566,2017 Spring,2,Peace & Conflict Studies,127,1,Clg of Letters & Science,political science
+567,2017 Spring,5,Peace & Conflict Studies,130,1,Clg of Letters & Science,political science
+568,2017 Spring,16,Peace & Conflict Studies,135,1,Clg of Letters & Science,political science
+569,2017 Spring,1,Peace & Conflict Studies,190,1,Clg of Letters & Science,political science
+570,2017 Spring,1,Peace & Conflict Studies,198,1,Clg of Letters & Science,political science
+571,2017 Spring,1,Persian,104B,1,Clg of Letters & Science,political science
+572,2017 Spring,2,Philosophy,2,1,Clg of Letters & Science,political science
+573,2017 Spring,1,Philosophy,3,1,Clg of Letters & Science,political science
+574,2017 Spring,2,Philosophy,12A,1,Clg of Letters & Science,political science
+575,2017 Spring,5,Philosophy,25B,1,Clg of Letters & Science,political science
+576,2017 Spring,1,Philosophy,98BC,1,Clg of Letters & Science,political science
+577,2017 Spring,1,Philosophy,100,1,Clg of Letters & Science,political science
+578,2017 Spring,1,Philosophy,116,1,Clg of Letters & Science,political science
+579,2017 Spring,3,Philosophy,122,1,Clg of Letters & Science,political science
+580,2017 Spring,3,Philosophy,132,1,Clg of Letters & Science,political science
+581,2017 Spring,4,Philosophy,161,1,Clg of Letters & Science,political science
+582,2017 Spring,1,Philosophy,172,1,Clg of Letters & Science,political science
+583,2017 Spring,2,Philosophy,189,1,Clg of Letters & Science,political science
+584,2017 Spring,1,Philosophy,H196,1,Clg of Letters & Science,political science
+585,2017 Spring,2,Philosophy,198BC,1,Clg of Letters & Science,political science
+586,2017 Spring,1,Philosophy,198BC,2,Clg of Letters & Science,political science
+587,2017 Spring,1,Philosophy,198BC,3,Clg of Letters & Science,political science
+588,2017 Spring,1,Philosophy,198BC,4,Clg of Letters & Science,political science
+589,2017 Spring,1,Physical Education,1,4,Clg of Letters & Science,political science
+590,2017 Spring,2,Physical Education,1,8,Clg of Letters & Science,political science
+591,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,political science
+592,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,political science
+593,2017 Spring,1,Physical Education,1,14,Clg of Letters & Science,political science
+594,2017 Spring,1,Physical Education,1,15,Clg of Letters & Science,political science
+595,2017 Spring,2,Physical Education,1,18,Clg of Letters & Science,political science
+596,2017 Spring,1,Physical Education,1,19,Clg of Letters & Science,political science
+597,2017 Spring,1,Physical Education,1,23,Clg of Letters & Science,political science
+598,2017 Spring,2,Physical Education,1,24,Clg of Letters & Science,political science
+599,2017 Spring,2,Physical Education,1,26,Clg of Letters & Science,political science
+600,2017 Spring,2,Physical Education,1,27,Clg of Letters & Science,political science
+601,2017 Spring,1,Physical Education,1,28,Clg of Letters & Science,political science
+602,2017 Spring,1,Physical Education,1,30,Clg of Letters & Science,political science
+603,2017 Spring,1,Physical Education,1,33,Clg of Letters & Science,political science
+604,2017 Spring,1,Physical Education,1,38,Clg of Letters & Science,political science
+605,2017 Spring,1,Physical Education,1,39,Clg of Letters & Science,political science
+606,2017 Spring,1,Physical Education,1,43,Clg of Letters & Science,political science
+607,2017 Spring,2,Physical Education,1,44,Clg of Letters & Science,political science
+608,2017 Spring,1,Physical Education,1,45,Clg of Letters & Science,political science
+609,2017 Spring,2,Physical Education,2,3,Clg of Letters & Science,political science
+610,2017 Spring,1,Physical Education,2,5,Clg of Letters & Science,political science
+611,2017 Spring,1,Physical Education,2,9,Clg of Letters & Science,political science
+612,2017 Spring,2,Physical Education,2,10,Clg of Letters & Science,political science
+613,2017 Spring,3,Physical Education,2,11,Clg of Letters & Science,political science
+614,2017 Spring,1,Physical Education,2,14,Clg of Letters & Science,political science
+615,2017 Spring,2,Physical Education,2,15,Clg of Letters & Science,political science
+616,2017 Spring,2,Physical Education,2,16,Clg of Letters & Science,political science
+617,2017 Spring,1,Physical Education,2,19,Clg of Letters & Science,political science
+618,2017 Spring,1,Physical Education,3,1,Clg of Letters & Science,political science
+619,2017 Spring,1,Physical Education,3,2,Clg of Letters & Science,political science
+620,2017 Spring,1,Physical Education,3,3,Clg of Letters & Science,political science
+621,2017 Spring,3,Physical Education,3,7,Clg of Letters & Science,political science
+622,2017 Spring,1,Physical Education,3,8,Clg of Letters & Science,political science
+623,2017 Spring,1,Physical Education,3,9,Clg of Letters & Science,political science
+624,2017 Spring,1,Physical Education,3,10,Clg of Letters & Science,political science
+625,2017 Spring,1,Physical Education,3,12,Clg of Letters & Science,political science
+626,2017 Spring,1,Physical Education,4,1,Clg of Letters & Science,political science
+627,2017 Spring,1,Physical Education,4,2,Clg of Letters & Science,political science
+628,2017 Spring,1,Physical Education,4,3,Clg of Letters & Science,political science
+629,2017 Spring,1,Physical Education,4,5,Clg of Letters & Science,political science
+630,2017 Spring,1,Physical Education,4,6,Clg of Letters & Science,political science
+631,2017 Spring,1,Physical Education,11,7,Clg of Letters & Science,political science
+632,2017 Spring,1,Physical Education,11,8,Clg of Letters & Science,political science
+633,2017 Spring,4,Physical Education,11,13,Clg of Letters & Science,political science
+634,2017 Spring,4,Physical Education,11,14,Clg of Letters & Science,political science
+635,2017 Spring,1,Physical Education,11,17,Clg of Letters & Science,political science
+636,2017 Spring,1,Physical Education,11,18,Clg of Letters & Science,political science
+637,2017 Spring,6,Physical Education,11,25,Clg of Letters & Science,political science
+638,2017 Spring,6,Physical Education,11,26,Clg of Letters & Science,political science
+639,2017 Spring,1,Physical Education,12,15,Clg of Letters & Science,political science
+640,2017 Spring,1,Physical Education,12,16,Clg of Letters & Science,political science
+641,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,political science
+642,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,political science
+643,2017 Spring,1,Physical Education,32,1,Clg of Letters & Science,political science
+644,2017 Spring,1,Physical Education,198,1,Clg of Letters & Science,political science
+645,2017 Spring,1,Physics,8A,1,Clg of Letters & Science,political science
+646,2017 Spring,1,Physics,8B,2,Clg of Letters & Science,political science
+647,2017 Spring,1,Physics,198BC,2,Clg of Letters & Science,political science
+648,2017 Spring,3,Plant & Microbial Biology,40,1,Clg of Natural Resources,political science
+649,2017 Spring,1,Plant & Microbial Biology,C114,1,Clg of Natural Resources,political science
+650,2017 Spring,1,Political Economy,24,1,Clg of Letters & Science,political science
+651,2017 Spring,2,Political Economy,100,1,Clg of Letters & Science,political science
+652,2017 Spring,10,Political Economy,101,1,Clg of Letters & Science,political science
+653,2017 Spring,3,Political Science,1,1,Clg of Letters & Science,political science
+654,2017 Spring,2,Political Science,2,1,Clg of Letters & Science,political science
+655,2017 Spring,17,Political Science,4,1,Clg of Letters & Science,political science
+656,2017 Spring,34,Political Science,106A,1,Clg of Letters & Science,political science
+657,2017 Spring,40,Political Science,109H,1,Clg of Letters & Science,political science
+658,2017 Spring,22,Political Science,109P,1,Clg of Letters & Science,political science
+659,2017 Spring,14,Political Science,110B,1,Clg of Letters & Science,political science
+660,2017 Spring,55,Political Science,111AC,1,Clg of Letters & Science,political science
+661,2017 Spring,87,Political Science,116A,1,Clg of Letters & Science,political science
+662,2017 Spring,53,Political Science,123M,1,Clg of Letters & Science,political science
+663,2017 Spring,141,Political Science,124A,1,Clg of Letters & Science,political science
+664,2017 Spring,129,Political Science,124C,1,Clg of Letters & Science,political science
+665,2017 Spring,16,Political Science,133,1,Clg of Letters & Science,political science
+666,2017 Spring,61,Political Science,138E,1,Clg of Letters & Science,political science
+667,2017 Spring,81,Political Science,140L,1,Clg of Letters & Science,political science
+668,2017 Spring,39,Political Science,141C,1,Clg of Letters & Science,political science
+669,2017 Spring,35,Political Science,143B,1,Clg of Letters & Science,political science
+670,2017 Spring,24,Political Science,143E,1,Clg of Letters & Science,political science
+671,2017 Spring,51,Political Science,147G,1,Clg of Letters & Science,political science
+672,2017 Spring,56,Political Science,148A,1,Clg of Letters & Science,political science
+673,2017 Spring,105,Political Science,149E,1,Clg of Letters & Science,political science
+674,2017 Spring,31,Political Science,149S,1,Clg of Letters & Science,political science
+675,2017 Spring,119,Political Science,157A,1,Clg of Letters & Science,political science
+676,2017 Spring,44,Political Science,161,1,Clg of Letters & Science,political science
+677,2017 Spring,48,Political Science,171,1,Clg of Letters & Science,political science
+678,2017 Spring,70,Political Science,179,1,Clg of Letters & Science,political science
+679,2017 Spring,62,Political Science,186,1,Clg of Letters & Science,political science
+680,2017 Spring,15,Political Science,H190B,1,Clg of Letters & Science,political science
+681,2017 Spring,13,Political Science,H190B,2,Clg of Letters & Science,political science
+682,2017 Spring,7,Political Science,191,1,Clg of Letters & Science,political science
+683,2017 Spring,13,Political Science,191,2,Clg of Letters & Science,political science
+684,2017 Spring,17,Political Science,191,3,Clg of Letters & Science,political science
+685,2017 Spring,17,Political Science,191,4,Clg of Letters & Science,political science
+686,2017 Spring,14,Political Science,191,5,Clg of Letters & Science,political science
+687,2017 Spring,11,Political Science,191,6,Clg of Letters & Science,political science
+688,2017 Spring,7,Political Science,191,7,Clg of Letters & Science,political science
+689,2017 Spring,7,Political Science,C196A,1,Clg of Letters & Science,political science
+690,2017 Spring,7,Political Science,C196B,1,Clg of Letters & Science,political science
+691,2017 Spring,1,Political Science,197,6,Clg of Letters & Science,political science
+692,2017 Spring,3,Political Science,197,7,Clg of Letters & Science,political science
+693,2017 Spring,2,Political Science,197,11,Clg of Letters & Science,political science
+694,2017 Spring,3,Political Science,198,1,Clg of Letters & Science,political science
+695,2017 Spring,3,Political Science,198,2,Clg of Letters & Science,political science
+696,2017 Spring,5,Political Science,198,3,Clg of Letters & Science,political science
+697,2017 Spring,2,Political Science,198,5,Clg of Letters & Science,political science
+698,2017 Spring,6,Political Science,198,6,Clg of Letters & Science,political science
+699,2017 Spring,2,Portuguese,102,1,Clg of Letters & Science,political science
+700,2017 Spring,3,Psychology,1,1,Clg of Letters & Science,political science
+701,2017 Spring,1,Psychology,W1,1,Clg of Letters & Science,political science
+702,2017 Spring,1,Psychology,10,1,Clg of Letters & Science,political science
+703,2017 Spring,5,Psychology,C61,1,Clg of Letters & Science,political science
+704,2017 Spring,1,Psychology,114,1,Clg of Letters & Science,political science
+705,2017 Spring,1,Psychology,C116,1,Clg of Letters & Science,political science
+706,2017 Spring,1,Psychology,C126,1,Clg of Letters & Science,political science
+707,2017 Spring,1,Psychology,130,1,Clg of Letters & Science,political science
+708,2017 Spring,1,Psychology,C143,1,Clg of Letters & Science,political science
+709,2017 Spring,1,Psychology,146,1,Clg of Letters & Science,political science
+710,2017 Spring,3,Psychology,150,1,Clg of Letters & Science,political science
+711,2017 Spring,3,Psychology,156,1,Clg of Letters & Science,political science
+712,2017 Spring,2,Psychology,160,1,Clg of Letters & Science,political science
+713,2017 Spring,4,Psychology,166AC,1,Clg of Letters & Science,political science
+714,2017 Spring,1,Psychology,198,3,Clg of Letters & Science,political science
+715,2017 Spring,2,Psychology,198,10,Clg of Letters & Science,political science
+716,2017 Spring,2,Psychology,198,11,Clg of Letters & Science,political science
+717,2017 Spring,1,Psychology,198,15,Clg of Letters & Science,political science
+718,2017 Spring,1,Psychology,198,17,Clg of Letters & Science,political science
+719,2017 Spring,1,Public Health,104B,1,School of Public Health,political science
+720,2017 Spring,2,Public Health,116,1,School of Public Health,political science
+721,2017 Spring,1,Public Health,150A,1,School of Public Health,political science
+722,2017 Spring,1,Public Health,150D,1,School of Public Health,political science
+723,2017 Spring,1,Public Health,150E,1,School of Public Health,political science
+724,2017 Spring,3,Public Health,C160,1,School of Public Health,political science
+725,2017 Spring,1,Public Health,196,7,School of Public Health,political science
+726,2017 Spring,1,Public Health,198,2,School of Public Health,political science
+727,2017 Spring,3,Public Health,198,4,School of Public Health,political science
+728,2017 Spring,3,Public Health,198,9,School of Public Health,political science
+729,2017 Spring,2,Public Health,198,10,School of Public Health,political science
+730,2017 Spring,1,Public Health,198,11,School of Public Health,political science
+731,2017 Spring,4,Public Policy,98,1,Goldman School Public Policy,political science
+732,2017 Spring,1,Public Policy,98,2,Goldman School Public Policy,political science
+733,2017 Spring,15,Public Policy,101,1,Goldman School Public Policy,political science
+734,2017 Spring,30,Public Policy,C103,1,Goldman School Public Policy,political science
+735,2017 Spring,7,Public Policy,157,1,Goldman School Public Policy,political science
+736,2017 Spring,1,Public Policy,190,2,Goldman School Public Policy,political science
+737,2017 Spring,3,Public Policy,190,11,Goldman School Public Policy,political science
+738,2017 Spring,9,Public Policy,198,1,Goldman School Public Policy,political science
+739,2017 Spring,1,Public Policy,198,2,Goldman School Public Policy,political science
+740,2017 Spring,1,Punjabi,1B,1,Clg of Letters & Science,political science
+741,2017 Spring,1,Punjabi,100B,1,Clg of Letters & Science,political science
+742,2017 Spring,1,Rhetoric,R1A,1,Clg of Letters & Science,political science
+743,2017 Spring,4,Rhetoric,20,1,Clg of Letters & Science,political science
+744,2017 Spring,2,Rhetoric,103B,1,Clg of Letters & Science,political science
+745,2017 Spring,1,Rhetoric,105T,1,Clg of Letters & Science,political science
+746,2017 Spring,1,Rhetoric,108,2,Clg of Letters & Science,political science
+747,2017 Spring,1,Rhetoric,131T,1,Clg of Letters & Science,political science
+748,2017 Spring,1,Rhetoric,158,1,Clg of Letters & Science,political science
+749,2017 Spring,3,Rhetoric,168,1,Clg of Letters & Science,political science
+750,2017 Spring,2,Rhetoric,189,3,Clg of Letters & Science,political science
+751,2017 Spring,1,Russian,1,1,Clg of Letters & Science,political science
+752,2017 Spring,2,Russian,1,2,Clg of Letters & Science,political science
+753,2017 Spring,2,Russian,4,1,Clg of Letters & Science,political science
+754,2017 Spring,1,Russian,103B,1,Clg of Letters & Science,political science
+755,2017 Spring,1,Scandinavian,60,1,Clg of Letters & Science,political science
+756,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,political science
+757,2017 Spring,1,Slavic Languages & Lit,39,1,Clg of Letters & Science,political science
+758,2017 Spring,3,Slavic Languages & Lit,46,1,Clg of Letters & Science,political science
+759,2017 Spring,1,Slavic Languages & Lit,50,1,Clg of Letters & Science,political science
+760,2017 Spring,2,Slavic Languages & Lit,133,1,Clg of Letters & Science,political science
+761,2017 Spring,1,Slavic Languages & Lit,134C,1,Clg of Letters & Science,political science
+762,2017 Spring,1,Slavic Languages & Lit,190,1,Clg of Letters & Science,political science
+763,2017 Spring,1,Social Welfare,98,2,School of Social Welfare,political science
+764,2017 Spring,1,Social Welfare,107,1,School of Social Welfare,political science
+765,2017 Spring,1,Social Welfare,112,1,School of Social Welfare,political science
+766,2017 Spring,2,Social Welfare,155,1,School of Social Welfare,political science
+767,2017 Spring,1,Social Welfare,181,1,School of Social Welfare,political science
+768,2017 Spring,3,Social Welfare,185AC,1,School of Social Welfare,political science
+769,2017 Spring,2,Social Welfare,197,2,School of Social Welfare,political science
+770,2017 Spring,1,Social Welfare,197,4,School of Social Welfare,political science
+771,2017 Spring,1,Social Welfare,198,1,School of Social Welfare,political science
+772,2017 Spring,2,Social Welfare,198,2,School of Social Welfare,political science
+773,2017 Spring,3,Social Welfare,198,3,School of Social Welfare,political science
+774,2017 Spring,1,Social Welfare,198,4,School of Social Welfare,political science
+775,2017 Spring,1,Social Welfare,198,5,School of Social Welfare,political science
+776,2017 Spring,2,Social Welfare,198BC,1,School of Social Welfare,political science
+777,2017 Spring,2,Sociology,1,1,Clg of Letters & Science,political science
+778,2017 Spring,1,Sociology,3AC,1,Clg of Letters & Science,political science
+779,2017 Spring,1,Sociology,5,1,Clg of Letters & Science,political science
+780,2017 Spring,3,Sociology,98BC,3,Clg of Letters & Science,political science
+781,2017 Spring,2,Sociology,108,1,Clg of Letters & Science,political science
+782,2017 Spring,5,Sociology,110,1,Clg of Letters & Science,political science
+783,2017 Spring,4,Sociology,111AC,1,Clg of Letters & Science,political science
+784,2017 Spring,7,Sociology,114,1,Clg of Letters & Science,political science
+785,2017 Spring,1,Sociology,C115,1,Clg of Letters & Science,political science
+786,2017 Spring,3,Sociology,117,1,Clg of Letters & Science,political science
+787,2017 Spring,3,Sociology,120,1,Clg of Letters & Science,political science
+788,2017 Spring,2,Sociology,121,1,Clg of Letters & Science,political science
+789,2017 Spring,2,Sociology,131AC,1,Clg of Letters & Science,political science
+790,2017 Spring,2,Sociology,133,1,Clg of Letters & Science,political science
+791,2017 Spring,1,Sociology,136,1,Clg of Letters & Science,political science
+792,2017 Spring,1,Sociology,139F,1,Clg of Letters & Science,political science
+793,2017 Spring,2,Sociology,140,1,Clg of Letters & Science,political science
+794,2017 Spring,6,Sociology,145,1,Clg of Letters & Science,political science
+795,2017 Spring,3,Sociology,146,1,Clg of Letters & Science,political science
+796,2017 Spring,1,Sociology,150,1,Clg of Letters & Science,political science
+797,2017 Spring,1,Sociology,160,1,Clg of Letters & Science,political science
+798,2017 Spring,1,Sociology,163,1,Clg of Letters & Science,political science
+799,2017 Spring,2,Sociology,C167,1,Clg of Letters & Science,political science
+800,2017 Spring,1,Sociology,169C,1,Clg of Letters & Science,political science
+801,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,political science
+802,2017 Spring,1,Sociology,190,1,Clg of Letters & Science,political science
+803,2017 Spring,2,Sociology,198,4,Clg of Letters & Science,political science
+804,2017 Spring,1,Sociology,198,6,Clg of Letters & Science,political science
+805,2017 Spring,6,Sociology,198,9,Clg of Letters & Science,political science
+806,2017 Spring,2,Sociology,198,10,Clg of Letters & Science,political science
+807,2017 Spring,2,Sociology,198,11,Clg of Letters & Science,political science
+808,2017 Spring,1,Sociology,198,14,Clg of Letters & Science,political science
+809,2017 Spring,4,Sociology,198,15,Clg of Letters & Science,political science
+810,2017 Spring,3,Sociology,198,24,Clg of Letters & Science,political science
+811,2017 Spring,1,Sociology,198,25,Clg of Letters & Science,political science
+812,2017 Spring,1,Sociology,198BC,3,Clg of Letters & Science,political science
+813,2017 Spring,1,Sociology,198BC,4,Clg of Letters & Science,political science
+814,2017 Spring,1,Sociology,198BC,5,Clg of Letters & Science,political science
+815,2017 Spring,1,South & SE Asian Studies,150,1,Clg of Letters & Science,political science
+816,2017 Spring,1,South Asian,110,1,Clg of Letters & Science,political science
+817,2017 Spring,1,South Asian,142,1,Clg of Letters & Science,political science
+818,2017 Spring,2,Spanish,1,1,Clg of Letters & Science,political science
+819,2017 Spring,1,Spanish,1,3,Clg of Letters & Science,political science
+820,2017 Spring,2,Spanish,1,6,Clg of Letters & Science,political science
+821,2017 Spring,2,Spanish,2,1,Clg of Letters & Science,political science
+822,2017 Spring,1,Spanish,2,5,Clg of Letters & Science,political science
+823,2017 Spring,2,Spanish,2,6,Clg of Letters & Science,political science
+824,2017 Spring,1,Spanish,3,2,Clg of Letters & Science,political science
+825,2017 Spring,1,Spanish,4,2,Clg of Letters & Science,political science
+826,2017 Spring,1,Spanish,4,4,Clg of Letters & Science,political science
+827,2017 Spring,1,Spanish,4,6,Clg of Letters & Science,political science
+828,2017 Spring,4,Spanish,21,1,Clg of Letters & Science,political science
+829,2017 Spring,1,Spanish,22,1,Clg of Letters & Science,political science
+830,2017 Spring,1,Spanish,25,5,Clg of Letters & Science,political science
+831,2017 Spring,1,Spanish,100,1,Clg of Letters & Science,political science
+832,2017 Spring,1,Spanish,104B,1,Clg of Letters & Science,political science
+833,2017 Spring,2,Spanish,107B,1,Clg of Letters & Science,political science
+834,2017 Spring,1,Spanish,109,1,Clg of Letters & Science,political science
+835,2017 Spring,5,Spanish,111B,1,Clg of Letters & Science,political science
+836,2017 Spring,2,Spanish,135,1,Clg of Letters & Science,political science
+837,2017 Spring,1,Spanish,135,2,Clg of Letters & Science,political science
+838,2017 Spring,2,Spanish,135,3,Clg of Letters & Science,political science
+839,2017 Spring,1,Spanish,135,5,Clg of Letters & Science,political science
+840,2017 Spring,2,Spanish,198,1,Clg of Letters & Science,political science
+841,2017 Spring,5,Statistics,2,1,Clg of Letters & Science,political science
+842,2017 Spring,5,Statistics,20,1,Clg of Letters & Science,political science
+843,2017 Spring,1,Statistics,20,2,Clg of Letters & Science,political science
+844,2017 Spring,2,Statistics,W21,1,Clg of Letters & Science,political science
+845,2017 Spring,1,Statistics,28,1,Clg of Letters & Science,political science
+846,2017 Spring,1,Statistics,88,1,Clg of Letters & Science,political science
+847,2017 Spring,1,Statistics,131A,1,Clg of Letters & Science,political science
+848,2017 Spring,3,Statistics,133,2,Clg of Letters & Science,political science
+849,2017 Spring,3,Statistics,134,1,Clg of Letters & Science,political science
+850,2017 Spring,1,Statistics,135,1,Clg of Letters & Science,political science
+851,2017 Spring,3,Statistics,198,5,Clg of Letters & Science,political science
+852,2017 Spring,1,Theater Dance & Perf Stds,10,4,Clg of Letters & Science,political science
+853,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,political science
+854,2017 Spring,1,Theater Dance & Perf Stds,100,1,Clg of Letters & Science,political science
+855,2017 Spring,1,Theater Dance & Perf Stds,109,1,Clg of Letters & Science,political science
+856,2017 Spring,1,Theater Dance & Perf Stds,109,2,Clg of Letters & Science,political science
+857,2017 Spring,1,Theater Dance & Perf Stds,111,1,Clg of Letters & Science,political science
+858,2017 Spring,1,Theater Dance & Perf Stds,163,1,Clg of Letters & Science,political science
+859,2017 Spring,1,Theater Dance & Perf Stds,169,1,Clg of Letters & Science,political science
+860,2017 Spring,1,Theater Dance & Perf Stds,179,1,Clg of Letters & Science,political science
+861,2017 Spring,2,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,political science
+862,2017 Spring,2,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,political science
+863,2017 Spring,3,UGIS-UG Interdisc Studies,120,1,Clg of Letters & Science,political science
+864,2017 Spring,2,UGIS-UG Interdisc Studies,140,2,Clg of Letters & Science,political science
+865,2017 Spring,2,UGIS-UG Interdisc Studies,156,1,Clg of Letters & Science,political science
+866,2017 Spring,3,UGIS-UG Interdisc Studies,162I,1,Clg of Letters & Science,political science
+867,2017 Spring,1,UGIS-UG Interdisc Studies,162N,1,Clg of Letters & Science,political science
+868,2017 Spring,2,UGIS-UG Interdisc Studies,162O,1,Clg of Letters & Science,political science
+869,2017 Spring,1,UGIS-UG Interdisc Studies,172C,1,Clg of Letters & Science,political science

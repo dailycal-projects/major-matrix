@@ -1,0 +1,369 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,28AC,1,Clg of Letters & Science,bioengineering
+1,2017 Spring,1,African American Studies,194B,1,Clg of Letters & Science,bioengineering
+2,2017 Spring,1,Anthropology,2AC,1,Clg of Letters & Science,bioengineering
+3,2017 Spring,2,Anthropology,3AC,1,Clg of Letters & Science,bioengineering
+4,2017 Spring,1,Anthropology,R5B,1,Clg of Letters & Science,bioengineering
+5,2017 Spring,2,Anthropology,121AC,1,Clg of Letters & Science,bioengineering
+6,2017 Spring,1,Anthropology,160AC,1,Clg of Letters & Science,bioengineering
+7,2017 Spring,1,Arabic,1B,7,Clg of Letters & Science,bioengineering
+8,2017 Spring,1,Art Practice,198,1,Clg of Letters & Science,bioengineering
+9,2017 Spring,1,Asian American Studies,R2A,1,Clg of Letters & Science,bioengineering
+10,2017 Spring,1,Asian American Studies,R2B,2,Clg of Letters & Science,bioengineering
+11,2017 Spring,1,Asian American Studies,20A,1,Clg of Letters & Science,bioengineering
+12,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,bioengineering
+13,2017 Spring,2,Asian American Studies,132AC,1,Clg of Letters & Science,bioengineering
+14,2017 Spring,1,Asian Studies,198,3,Clg of Letters & Science,bioengineering
+15,2017 Spring,19,Bioengineering,11,1,Clg of Engineering,bioengineering
+16,2017 Spring,1,Bioengineering,24,1,Clg of Engineering,bioengineering
+17,2017 Spring,113,Bioengineering,25,1,Clg of Engineering,bioengineering
+18,2017 Spring,3,Bioengineering,84,1,Clg of Engineering,bioengineering
+19,2017 Spring,6,Bioengineering,98,16,Clg of Engineering,bioengineering
+20,2017 Spring,1,Bioengineering,98,19,Clg of Engineering,bioengineering
+21,2017 Spring,1,Bioengineering,98,27,Clg of Engineering,bioengineering
+22,2017 Spring,23,Bioengineering,101,1,Clg of Engineering,bioengineering
+23,2017 Spring,73,Bioengineering,104,1,Clg of Engineering,bioengineering
+24,2017 Spring,45,Bioengineering,110,1,Clg of Engineering,bioengineering
+25,2017 Spring,18,Bioengineering,111,1,Clg of Engineering,bioengineering
+26,2017 Spring,30,Bioengineering,115,1,Clg of Engineering,bioengineering
+27,2017 Spring,35,Bioengineering,121,1,Clg of Engineering,bioengineering
+28,2017 Spring,11,Bioengineering,135,1,Clg of Engineering,bioengineering
+29,2017 Spring,11,Bioengineering,144,1,Clg of Engineering,bioengineering
+30,2017 Spring,7,Bioengineering,163L,10,Clg of Engineering,bioengineering
+31,2017 Spring,9,Bioengineering,198,16,Clg of Engineering,bioengineering
+32,2017 Spring,4,Bioengineering,198,27,Clg of Engineering,bioengineering
+33,2017 Spring,9,Biology,1A,1,Clg of Letters & Science,bioengineering
+34,2017 Spring,3,Biology,1A,2,Clg of Letters & Science,bioengineering
+35,2017 Spring,10,Biology,1AL,1,Clg of Letters & Science,bioengineering
+36,2017 Spring,2,Biology,1AL,2,Clg of Letters & Science,bioengineering
+37,2017 Spring,4,Biology,1B,1,Clg of Letters & Science,bioengineering
+38,2017 Spring,1,Biology,1B,2,Clg of Letters & Science,bioengineering
+39,2017 Spring,3,Business Admin-Undergrad,96,2,Haas School of Business,bioengineering
+40,2017 Spring,1,Business Admin-Undergrad,192A,1,Haas School of Business,bioengineering
+41,2017 Spring,1,Business Admin-Undergrad,198,2,Haas School of Business,bioengineering
+42,2017 Spring,1,Business Admin-Undergrad,198,8,Haas School of Business,bioengineering
+43,2017 Spring,1,Chemical Engineering,141,1,Clg of Chemistry,bioengineering
+44,2017 Spring,1,Chemical Engineering,150A,1,Clg of Chemistry,bioengineering
+45,2017 Spring,5,Chemical Engineering,198,3,Clg of Chemistry,bioengineering
+46,2017 Spring,2,Chemistry,1A,1,Clg of Chemistry,bioengineering
+47,2017 Spring,1,Chemistry,1A,2,Clg of Chemistry,bioengineering
+48,2017 Spring,1,Chemistry,1AL,1,Clg of Chemistry,bioengineering
+49,2017 Spring,1,Chemistry,1B,1,Clg of Chemistry,bioengineering
+50,2017 Spring,18,Chemistry,3A,1,Clg of Chemistry,bioengineering
+51,2017 Spring,50,Chemistry,3A,2,Clg of Chemistry,bioengineering
+52,2017 Spring,34,Chemistry,3AL,1,Clg of Chemistry,bioengineering
+53,2017 Spring,26,Chemistry,3AL,2,Clg of Chemistry,bioengineering
+54,2017 Spring,4,Chemistry,3B,1,Clg of Chemistry,bioengineering
+55,2017 Spring,5,Chemistry,3B,2,Clg of Chemistry,bioengineering
+56,2017 Spring,5,Chemistry,3BL,1,Clg of Chemistry,bioengineering
+57,2017 Spring,2,Chemistry,3BL,2,Clg of Chemistry,bioengineering
+58,2017 Spring,1,Chemistry,120A,1,Clg of Chemistry,bioengineering
+59,2017 Spring,2,Chemistry,130B,1,Clg of Chemistry,bioengineering
+60,2017 Spring,1,Chicano Studies,R1A,1,Clg of Letters & Science,bioengineering
+61,2017 Spring,1,Chicano Studies,194B,1,Clg of Letters & Science,bioengineering
+62,2017 Spring,1,Chinese,10Y,1,Clg of Letters & Science,bioengineering
+63,2017 Spring,1,Chinese,110B,1,Clg of Letters & Science,bioengineering
+64,2017 Spring,1,Civil & Environmental Eng,98,5,Clg of Engineering,bioengineering
+65,2017 Spring,1,Classics,130,1,Clg of Letters & Science,bioengineering
+66,2017 Spring,1,Classics,161,1,Clg of Letters & Science,bioengineering
+67,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,bioengineering
+68,2017 Spring,1,College Writing Programs,R1A,6,Clg of Letters & Science,bioengineering
+69,2017 Spring,2,College Writing Programs,R4B,1,Clg of Letters & Science,bioengineering
+70,2017 Spring,2,College Writing Programs,R4B,6,Clg of Letters & Science,bioengineering
+71,2017 Spring,1,College Writing Programs,R4B,8,Clg of Letters & Science,bioengineering
+72,2017 Spring,1,College Writing Programs,R4B,13,Clg of Letters & Science,bioengineering
+73,2017 Spring,1,College Writing Programs,10B,1,Clg of Letters & Science,bioengineering
+74,2017 Spring,2,College Writing Programs,106,1,Clg of Letters & Science,bioengineering
+75,2017 Spring,1,College Writing Programs,130,1,Clg of Letters & Science,bioengineering
+76,2017 Spring,1,College Writing Programs,150AC,1,Clg of Letters & Science,bioengineering
+77,2017 Spring,2,Comparative Literature,R1A,1,Clg of Letters & Science,bioengineering
+78,2017 Spring,1,Comparative Literature,R1A,5,Clg of Letters & Science,bioengineering
+79,2017 Spring,1,Comparative Literature,R1B,2,Clg of Letters & Science,bioengineering
+80,2017 Spring,1,Comparative Literature,R1B,13,Clg of Letters & Science,bioengineering
+81,2017 Spring,1,Comparative Literature,60AC,1,Clg of Letters & Science,bioengineering
+82,2017 Spring,1,Computer Science,9F,1,Clg of Engineering,bioengineering
+83,2017 Spring,1,Computer Science,9H,1,Clg of Engineering,bioengineering
+84,2017 Spring,35,Computer Science,61A,1,Clg of Engineering,bioengineering
+85,2017 Spring,23,Computer Science,61B,1,Clg of Engineering,bioengineering
+86,2017 Spring,6,Computer Science,61C,1,Clg of Engineering,bioengineering
+87,2017 Spring,18,Computer Science,70,1,Clg of Engineering,bioengineering
+88,2017 Spring,1,Computer Science,97,213,Clg of Engineering,bioengineering
+89,2017 Spring,3,Computer Science,160,1,Clg of Engineering,bioengineering
+90,2017 Spring,3,Computer Science,160,2,Clg of Engineering,bioengineering
+91,2017 Spring,6,Computer Science,161,1,Clg of Engineering,bioengineering
+92,2017 Spring,1,Computer Science,162,1,Clg of Engineering,bioengineering
+93,2017 Spring,5,Computer Science,170,1,Clg of Engineering,bioengineering
+94,2017 Spring,2,Computer Science,184,1,Clg of Engineering,bioengineering
+95,2017 Spring,2,Computer Science,186,1,Clg of Engineering,bioengineering
+96,2017 Spring,2,Computer Science,188,1,Clg of Engineering,bioengineering
+97,2017 Spring,8,Computer Science,189,1,Clg of Engineering,bioengineering
+98,2017 Spring,1,Computer Science,195,1,Clg of Engineering,bioengineering
+99,2017 Spring,1,Computer Science,197,203,Clg of Engineering,bioengineering
+100,2017 Spring,7,Computer Science,197,214,Clg of Engineering,bioengineering
+101,2017 Spring,2,Computer Science,198,1,Clg of Engineering,bioengineering
+102,2017 Spring,1,Computer Science,198,49,Clg of Engineering,bioengineering
+103,2017 Spring,2,Computer Science,198,58,Clg of Engineering,bioengineering
+104,2017 Spring,2,Computer Science,198,67,Clg of Engineering,bioengineering
+105,2017 Spring,1,Computer Science,198,75,Clg of Engineering,bioengineering
+106,2017 Spring,1,Computer Science,198,303,Clg of Engineering,bioengineering
+107,2017 Spring,1,Computer Science,198,642,Clg of Engineering,bioengineering
+108,2017 Spring,1,Design Innovation,21,1,Clg of Engineering,bioengineering
+109,2017 Spring,3,Design Innovation,22,1,Clg of Engineering,bioengineering
+110,2017 Spring,3,Design Innovation,98,1,Clg of Engineering,bioengineering
+111,2017 Spring,1,Earth & Planetary Science,C12,1,Clg of Letters & Science,bioengineering
+112,2017 Spring,1,East Asian Languages,R1B,2,Clg of Letters & Science,bioengineering
+113,2017 Spring,1,East Asian Languages,105,1,Clg of Letters & Science,bioengineering
+114,2017 Spring,1,Economics,1,1,Clg of Letters & Science,bioengineering
+115,2017 Spring,1,Economics,2,1,Clg of Letters & Science,bioengineering
+116,2017 Spring,1,Education,98,13,Grad School of Education,bioengineering
+117,2017 Spring,1,Education,140AC,3,Grad School of Education,bioengineering
+118,2017 Spring,1,Education,182AC,1,Grad School of Education,bioengineering
+119,2017 Spring,1,Education,190AC,3,Grad School of Education,bioengineering
+120,2017 Spring,1,Education,198,35,Grad School of Education,bioengineering
+121,2017 Spring,39,Electrical Engineering,16A,1,Clg of Engineering,bioengineering
+122,2017 Spring,9,Electrical Engineering,16B,1,Clg of Engineering,bioengineering
+123,2017 Spring,5,Electrical Engineering,105,1,Clg of Engineering,bioengineering
+124,2017 Spring,2,Electrical Engineering,117,1,Clg of Engineering,bioengineering
+125,2017 Spring,5,Electrical Engineering,120,1,Clg of Engineering,bioengineering
+126,2017 Spring,1,Electrical Engineering,127,1,Clg of Engineering,bioengineering
+127,2017 Spring,2,Electrical Engineering,C128,1,Clg of Engineering,bioengineering
+128,2017 Spring,2,Electrical Engineering,143,1,Clg of Engineering,bioengineering
+129,2017 Spring,1,Electrical Engineering,198,1,Clg of Engineering,bioengineering
+130,2017 Spring,2,Electrical Engineering,198,2,Clg of Engineering,bioengineering
+131,2017 Spring,1,Electrical Engineering,198,13,Clg of Engineering,bioengineering
+132,2017 Spring,1,Energy and Resources,102,1,Clg of Natural Resources,bioengineering
+133,2017 Spring,37,Engineering,7,1,Clg of Engineering,bioengineering
+134,2017 Spring,4,Engineering,25,1,Clg of Engineering,bioengineering
+135,2017 Spring,15,Engineering,26,1,Clg of Engineering,bioengineering
+136,2017 Spring,1,Engineering,27,1,Clg of Engineering,bioengineering
+137,2017 Spring,27,Engineering,45,1,Clg of Engineering,bioengineering
+138,2017 Spring,2,Engineering,98,1,Clg of Engineering,bioengineering
+139,2017 Spring,6,Engineering,157AC,1,Clg of Engineering,bioengineering
+140,2017 Spring,1,Engineering,198,1,Clg of Engineering,bioengineering
+141,2017 Spring,2,English,R1A,3,Clg of Letters & Science,bioengineering
+142,2017 Spring,1,English,R1A,5,Clg of Letters & Science,bioengineering
+143,2017 Spring,1,English,R1A,6,Clg of Letters & Science,bioengineering
+144,2017 Spring,1,English,R1B,3,Clg of Letters & Science,bioengineering
+145,2017 Spring,1,English,28,1,Clg of Letters & Science,bioengineering
+146,2017 Spring,1,English,80K,1,Clg of Letters & Science,bioengineering
+147,2017 Spring,1,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,bioengineering
+148,2017 Spring,2,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,bioengineering
+149,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,2,Clg of Natural Resources,bioengineering
+150,2017 Spring,4,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,bioengineering
+151,2017 Spring,1,Ethnic Studies,122AC,1,Clg of Letters & Science,bioengineering
+152,2017 Spring,1,Ethnic Studies,180,1,Clg of Letters & Science,bioengineering
+153,2017 Spring,1,Ethnic Studies,198,4,Clg of Letters & Science,bioengineering
+154,2017 Spring,1,Filipino,W101B,1,Clg of Letters & Science,bioengineering
+155,2017 Spring,1,Film,R1B,1,Clg of Letters & Science,bioengineering
+156,2017 Spring,1,Film,R1B,4,Clg of Letters & Science,bioengineering
+157,2017 Spring,1,French,1,7,Clg of Letters & Science,bioengineering
+158,2017 Spring,1,French,1,9,Clg of Letters & Science,bioengineering
+159,2017 Spring,1,French,R1B,1,Clg of Letters & Science,bioengineering
+160,2017 Spring,1,French,R1B,4,Clg of Letters & Science,bioengineering
+161,2017 Spring,1,French,3,6,Clg of Letters & Science,bioengineering
+162,2017 Spring,5,Gender & Womens Studies,100AC,1,Clg of Letters & Science,bioengineering
+163,2017 Spring,2,Geography,20,1,Clg of Letters & Science,bioengineering
+164,2017 Spring,1,German,R5B,3,Clg of Letters & Science,bioengineering
+165,2017 Spring,1,German,R5B,5,Clg of Letters & Science,bioengineering
+166,2017 Spring,1,German,100,1,Clg of Letters & Science,bioengineering
+167,2017 Spring,2,Health & Medical Sciences,C133,1,School of Public Health,bioengineering
+168,2017 Spring,1,History,R1B,2,Clg of Letters & Science,bioengineering
+169,2017 Spring,1,History,R1B,4,Clg of Letters & Science,bioengineering
+170,2017 Spring,1,History,100AC,2,Clg of Letters & Science,bioengineering
+171,2017 Spring,1,History,109C,1,Clg of Letters & Science,bioengineering
+172,2017 Spring,2,History,124B,1,Clg of Letters & Science,bioengineering
+173,2017 Spring,1,History,136B,1,Clg of Letters & Science,bioengineering
+174,2017 Spring,3,History,136C,1,Clg of Letters & Science,bioengineering
+175,2017 Spring,3,History,C191,1,Clg of Letters & Science,bioengineering
+176,2017 Spring,1,History of Art,R1B,8,Clg of Letters & Science,bioengineering
+177,2017 Spring,2,History of Art,11,1,Clg of Letters & Science,bioengineering
+178,2017 Spring,1,Industrial Eng & Ops Rsch,95,1,Clg of Engineering,bioengineering
+179,2017 Spring,1,Industrial Eng & Ops Rsch,160,1,Clg of Engineering,bioengineering
+180,2017 Spring,1,Industrial Eng & Ops Rsch,162,1,Clg of Engineering,bioengineering
+181,2017 Spring,2,Industrial Eng & Ops Rsch,185,1,Clg of Engineering,bioengineering
+182,2017 Spring,1,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,bioengineering
+183,2017 Spring,2,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,bioengineering
+184,2017 Spring,7,Integrative Biology,C32,1,Clg of Letters & Science,bioengineering
+185,2017 Spring,1,Integrative Biology,114,1,Clg of Letters & Science,bioengineering
+186,2017 Spring,1,Integrative Biology,131L,4,Clg of Letters & Science,bioengineering
+187,2017 Spring,2,Integrative Biology,132,1,Clg of Letters & Science,bioengineering
+188,2017 Spring,1,Integrative Biology,140,1,Clg of Letters & Science,bioengineering
+189,2017 Spring,1,Integrative Biology,C143B,1,Clg of Letters & Science,bioengineering
+190,2017 Spring,2,Integrative Biology,198,2,Clg of Letters & Science,bioengineering
+191,2017 Spring,1,International & Area Stds,198,2,Clg of Letters & Science,bioengineering
+192,2017 Spring,1,Italian Studies,30,1,Clg of Letters & Science,bioengineering
+193,2017 Spring,1,Italian Studies,198,8,Clg of Letters & Science,bioengineering
+194,2017 Spring,1,Japanese,10B,3,Clg of Letters & Science,bioengineering
+195,2017 Spring,1,Korean,1B,5,Clg of Letters & Science,bioengineering
+196,2017 Spring,1,Legal Studies,R1B,1,School of Law,bioengineering
+197,2017 Spring,1,Legal Studies,39D,2,School of Law,bioengineering
+198,2017 Spring,1,Letters & Science,C30Z,1,Clg of Letters & Science,bioengineering
+199,2017 Spring,9,Letters & Science,160B,1,Clg of Letters & Science,bioengineering
+200,2017 Spring,1,Letters & Science,C180U,1,Clg of Letters & Science,bioengineering
+201,2017 Spring,1,Materials Science & Eng,103,1,Clg of Engineering,bioengineering
+202,2017 Spring,1,Materials Science & Eng,104,1,Clg of Engineering,bioengineering
+203,2017 Spring,1,Materials Science & Eng,111,1,Clg of Engineering,bioengineering
+204,2017 Spring,1,Materials Science & Eng,151,1,Clg of Engineering,bioengineering
+205,2017 Spring,6,Mathematics,1B,1,Clg of Letters & Science,bioengineering
+206,2017 Spring,15,Mathematics,1B,2,Clg of Letters & Science,bioengineering
+207,2017 Spring,20,Mathematics,53,1,Clg of Letters & Science,bioengineering
+208,2017 Spring,8,Mathematics,53,2,Clg of Letters & Science,bioengineering
+209,2017 Spring,31,Mathematics,54,1,Clg of Letters & Science,bioengineering
+210,2017 Spring,23,Mathematics,54,2,Clg of Letters & Science,bioengineering
+211,2017 Spring,1,Mathematics,55,1,Clg of Letters & Science,bioengineering
+212,2017 Spring,1,Mathematics,98,17,Clg of Letters & Science,bioengineering
+213,2017 Spring,1,Mathematics,98,18,Clg of Letters & Science,bioengineering
+214,2017 Spring,1,Mathematics,98,30,Clg of Letters & Science,bioengineering
+215,2017 Spring,5,Mathematics,98,32,Clg of Letters & Science,bioengineering
+216,2017 Spring,1,Mathematics,98,33,Clg of Letters & Science,bioengineering
+217,2017 Spring,1,Mathematics,185,2,Clg of Letters & Science,bioengineering
+218,2017 Spring,4,Mechanical Engineering,40,1,Clg of Engineering,bioengineering
+219,2017 Spring,6,Mechanical Engineering,C85,1,Clg of Engineering,bioengineering
+220,2017 Spring,2,Mechanical Engineering,C85,2,Clg of Engineering,bioengineering
+221,2017 Spring,1,Mechanical Engineering,102A,1,Clg of Engineering,bioengineering
+222,2017 Spring,4,Mechanical Engineering,102B,1,Clg of Engineering,bioengineering
+223,2017 Spring,4,Mechanical Engineering,104,1,Clg of Engineering,bioengineering
+224,2017 Spring,2,Mechanical Engineering,106,1,Clg of Engineering,bioengineering
+225,2017 Spring,2,Mechanical Engineering,109,1,Clg of Engineering,bioengineering
+226,2017 Spring,3,Mechanical Engineering,118,1,Clg of Engineering,bioengineering
+227,2017 Spring,2,Mechanical Engineering,132,1,Clg of Engineering,bioengineering
+228,2017 Spring,1,Mechanical Engineering,135,1,Clg of Engineering,bioengineering
+229,2017 Spring,2,Mechanical Engineering,C180,1,Clg of Engineering,bioengineering
+230,2017 Spring,1,Mechanical Engineering,191K,1,Clg of Engineering,bioengineering
+231,2017 Spring,1,Military Affairs,1,1,Clg of Letters & Science,bioengineering
+232,2017 Spring,1,Military Science,1,1,Clg of Letters & Science,bioengineering
+233,2017 Spring,1,Military Science,3,1,Clg of Letters & Science,bioengineering
+234,2017 Spring,1,Molecular & Cell Biology,15,1,Clg of Letters & Science,bioengineering
+235,2017 Spring,2,Molecular & Cell Biology,C61,1,Clg of Letters & Science,bioengineering
+236,2017 Spring,1,Molecular & Cell Biology,90E,1,Clg of Letters & Science,bioengineering
+237,2017 Spring,2,Molecular & Cell Biology,98,205,Clg of Letters & Science,bioengineering
+238,2017 Spring,16,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,bioengineering
+239,2017 Spring,1,Molecular & Cell Biology,100B,1,Clg of Letters & Science,bioengineering
+240,2017 Spring,1,Molecular & Cell Biology,102,1,Clg of Letters & Science,bioengineering
+241,2017 Spring,1,Molecular & Cell Biology,C103,1,Clg of Letters & Science,bioengineering
+242,2017 Spring,4,Molecular & Cell Biology,110,1,Clg of Letters & Science,bioengineering
+243,2017 Spring,4,Molecular & Cell Biology,137L,1,Clg of Letters & Science,bioengineering
+244,2017 Spring,5,Molecular & Cell Biology,140,1,Clg of Letters & Science,bioengineering
+245,2017 Spring,1,Molecular & Cell Biology,C148,1,Clg of Letters & Science,bioengineering
+246,2017 Spring,10,Molecular & Cell Biology,150,1,Clg of Letters & Science,bioengineering
+247,2017 Spring,1,Molecular & Cell Biology,150L,2,Clg of Letters & Science,bioengineering
+248,2017 Spring,1,Molecular & Cell Biology,161,1,Clg of Letters & Science,bioengineering
+249,2017 Spring,1,Molecular & Cell Biology,198,2,Clg of Letters & Science,bioengineering
+250,2017 Spring,1,Molecular & Cell Biology,198,6,Clg of Letters & Science,bioengineering
+251,2017 Spring,3,Molecular & Cell Biology,198,207,Clg of Letters & Science,bioengineering
+252,2017 Spring,1,Music,20A,3,Clg of Letters & Science,bioengineering
+253,2017 Spring,1,Music,20B,1,Clg of Letters & Science,bioengineering
+254,2017 Spring,9,Music,26AC,1,Clg of Letters & Science,bioengineering
+255,2017 Spring,1,Music,29,1,Clg of Letters & Science,bioengineering
+256,2017 Spring,1,Music,41A,1,Clg of Letters & Science,bioengineering
+257,2017 Spring,1,Music,41B,1,Clg of Letters & Science,bioengineering
+258,2017 Spring,1,Music,44,1,Clg of Letters & Science,bioengineering
+259,2017 Spring,1,Music,53A,1,Clg of Letters & Science,bioengineering
+260,2017 Spring,1,Music,128,1,Clg of Letters & Science,bioengineering
+261,2017 Spring,4,Music,141,1,Clg of Letters & Science,bioengineering
+262,2017 Spring,1,Music,142,1,Clg of Letters & Science,bioengineering
+263,2017 Spring,1,Music,142,2,Clg of Letters & Science,bioengineering
+264,2017 Spring,1,Music,144,1,Clg of Letters & Science,bioengineering
+265,2017 Spring,1,Music,150C,1,Clg of Letters & Science,bioengineering
+266,2017 Spring,1,Music,198,2,Clg of Letters & Science,bioengineering
+267,2017 Spring,2,Music,198,3,Clg of Letters & Science,bioengineering
+268,2017 Spring,1,Native American Studies,R1A,1,Clg of Letters & Science,bioengineering
+269,2017 Spring,1,Native American Studies,173AC,1,Clg of Letters & Science,bioengineering
+270,2017 Spring,1,Near Eastern Studies,R1B,1,Clg of Letters & Science,bioengineering
+271,2017 Spring,1,Near Eastern Studies,140,1,Clg of Letters & Science,bioengineering
+272,2017 Spring,1,Nuclear Engineering,24,1,Clg of Engineering,bioengineering
+273,2017 Spring,1,Nuclear Engineering,162,1,Clg of Engineering,bioengineering
+274,2017 Spring,1,Nutritional Science & Tox,115,1,Clg of Natural Resources,bioengineering
+275,2017 Spring,2,Philosophy,2,1,Clg of Letters & Science,bioengineering
+276,2017 Spring,1,Philosophy,25B,1,Clg of Letters & Science,bioengineering
+277,2017 Spring,1,Philosophy,107,1,Clg of Letters & Science,bioengineering
+278,2017 Spring,1,Physical Education,1,3,Clg of Letters & Science,bioengineering
+279,2017 Spring,1,Physical Education,1,7,Clg of Letters & Science,bioengineering
+280,2017 Spring,1,Physical Education,1,9,Clg of Letters & Science,bioengineering
+281,2017 Spring,1,Physical Education,1,16,Clg of Letters & Science,bioengineering
+282,2017 Spring,1,Physical Education,1,18,Clg of Letters & Science,bioengineering
+283,2017 Spring,1,Physical Education,1,23,Clg of Letters & Science,bioengineering
+284,2017 Spring,1,Physical Education,1,30,Clg of Letters & Science,bioengineering
+285,2017 Spring,1,Physical Education,1,33,Clg of Letters & Science,bioengineering
+286,2017 Spring,1,Physical Education,1,38,Clg of Letters & Science,bioengineering
+287,2017 Spring,2,Physical Education,1,39,Clg of Letters & Science,bioengineering
+288,2017 Spring,1,Physical Education,2,1,Clg of Letters & Science,bioengineering
+289,2017 Spring,1,Physical Education,2,8,Clg of Letters & Science,bioengineering
+290,2017 Spring,1,Physical Education,2,13,Clg of Letters & Science,bioengineering
+291,2017 Spring,1,Physical Education,2,15,Clg of Letters & Science,bioengineering
+292,2017 Spring,1,Physical Education,2,18,Clg of Letters & Science,bioengineering
+293,2017 Spring,1,Physical Education,2,19,Clg of Letters & Science,bioengineering
+294,2017 Spring,2,Physical Education,3,10,Clg of Letters & Science,bioengineering
+295,2017 Spring,1,Physical Education,4,1,Clg of Letters & Science,bioengineering
+296,2017 Spring,2,Physical Education,4,4,Clg of Letters & Science,bioengineering
+297,2017 Spring,1,Physical Education,4,5,Clg of Letters & Science,bioengineering
+298,2017 Spring,1,Physical Education,4,6,Clg of Letters & Science,bioengineering
+299,2017 Spring,1,Physical Education,11,11,Clg of Letters & Science,bioengineering
+300,2017 Spring,1,Physical Education,11,12,Clg of Letters & Science,bioengineering
+301,2017 Spring,1,Physical Education,11,25,Clg of Letters & Science,bioengineering
+302,2017 Spring,1,Physical Education,11,26,Clg of Letters & Science,bioengineering
+303,2017 Spring,16,Physics,7A,1,Clg of Letters & Science,bioengineering
+304,2017 Spring,16,Physics,7A,2,Clg of Letters & Science,bioengineering
+305,2017 Spring,24,Physics,7A,3,Clg of Letters & Science,bioengineering
+306,2017 Spring,14,Physics,7B,2,Clg of Letters & Science,bioengineering
+307,2017 Spring,11,Physics,7B,3,Clg of Letters & Science,bioengineering
+308,2017 Spring,1,Physics,98BC,4,Clg of Letters & Science,bioengineering
+309,2017 Spring,1,Physics,110A,1,Clg of Letters & Science,bioengineering
+310,2017 Spring,1,Physics,137A,1,Clg of Letters & Science,bioengineering
+311,2017 Spring,1,Physics,139,1,Clg of Letters & Science,bioengineering
+312,2017 Spring,1,Plant & Microbial Biology,122,1,Clg of Natural Resources,bioengineering
+313,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,bioengineering
+314,2017 Spring,1,Political Science,179,1,Clg of Letters & Science,bioengineering
+315,2017 Spring,1,Portuguese,101,2,Clg of Letters & Science,bioengineering
+316,2017 Spring,8,Psychology,1,1,Clg of Letters & Science,bioengineering
+317,2017 Spring,6,Psychology,2,1,Clg of Letters & Science,bioengineering
+318,2017 Spring,1,Psychology,110,1,Clg of Letters & Science,bioengineering
+319,2017 Spring,1,Psychology,114,1,Clg of Letters & Science,bioengineering
+320,2017 Spring,2,Psychology,130,1,Clg of Letters & Science,bioengineering
+321,2017 Spring,3,Psychology,131,1,Clg of Letters & Science,bioengineering
+322,2017 Spring,1,Psychology,C143,1,Clg of Letters & Science,bioengineering
+323,2017 Spring,1,Psychology,146,1,Clg of Letters & Science,bioengineering
+324,2017 Spring,1,Psychology,150,1,Clg of Letters & Science,bioengineering
+325,2017 Spring,1,Psychology,156,1,Clg of Letters & Science,bioengineering
+326,2017 Spring,3,Psychology,160,1,Clg of Letters & Science,bioengineering
+327,2017 Spring,2,Psychology,166AC,1,Clg of Letters & Science,bioengineering
+328,2017 Spring,1,Public Health,104B,1,School of Public Health,bioengineering
+329,2017 Spring,1,Public Health,116,1,School of Public Health,bioengineering
+330,2017 Spring,1,Public Health,126,1,School of Public Health,bioengineering
+331,2017 Spring,2,Public Health,196,8,School of Public Health,bioengineering
+332,2017 Spring,1,Public Health,198,3,School of Public Health,bioengineering
+333,2017 Spring,1,Public Health,198,8,School of Public Health,bioengineering
+334,2017 Spring,2,Public Policy,C103,1,Goldman School Public Policy,bioengineering
+335,2017 Spring,1,Rhetoric,R1A,3,Clg of Letters & Science,bioengineering
+336,2017 Spring,1,Rhetoric,R1B,5,Clg of Letters & Science,bioengineering
+337,2017 Spring,1,Rhetoric,107,1,Clg of Letters & Science,bioengineering
+338,2017 Spring,1,Rhetoric,151,1,Clg of Letters & Science,bioengineering
+339,2017 Spring,1,Scandinavian,R5B,6,Clg of Letters & Science,bioengineering
+340,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,bioengineering
+341,2017 Spring,2,Slavic Languages & Lit,R5A,3,Clg of Letters & Science,bioengineering
+342,2017 Spring,1,Slavic Languages & Lit,R5A,4,Clg of Letters & Science,bioengineering
+343,2017 Spring,1,Slavic Languages & Lit,R5B,1,Clg of Letters & Science,bioengineering
+344,2017 Spring,2,Sociology,3AC,1,Clg of Letters & Science,bioengineering
+345,2017 Spring,5,Sociology,111AC,1,Clg of Letters & Science,bioengineering
+346,2017 Spring,1,Sociology,180C,1,Clg of Letters & Science,bioengineering
+347,2017 Spring,1,Sociology,198,2,Clg of Letters & Science,bioengineering
+348,2017 Spring,1,South & SE Asian Studies,R5B,2,Clg of Letters & Science,bioengineering
+349,2017 Spring,1,South & SE Asian Studies,R5B,3,Clg of Letters & Science,bioengineering
+350,2017 Spring,1,South Asian,R5B,1,Clg of Letters & Science,bioengineering
+351,2017 Spring,1,South Asian,R5B,4,Clg of Letters & Science,bioengineering
+352,2017 Spring,1,South Asian,142,1,Clg of Letters & Science,bioengineering
+353,2017 Spring,1,Spanish,2,1,Clg of Letters & Science,bioengineering
+354,2017 Spring,2,Statistics,133,1,Clg of Letters & Science,bioengineering
+355,2017 Spring,1,Statistics,133,2,Clg of Letters & Science,bioengineering
+356,2017 Spring,8,Statistics,134,1,Clg of Letters & Science,bioengineering
+357,2017 Spring,1,Statistics,135,1,Clg of Letters & Science,bioengineering
+358,2017 Spring,1,Statistics,198,2,Clg of Letters & Science,bioengineering
+359,2017 Spring,1,Theater Dance & Perf Stds,R1A,1,Clg of Letters & Science,bioengineering
+360,2017 Spring,1,Theater Dance & Perf Stds,R1B,4,Clg of Letters & Science,bioengineering
+361,2017 Spring,1,Theater Dance & Perf Stds,R1B,5,Clg of Letters & Science,bioengineering
+362,2017 Spring,1,Theater Dance & Perf Stds,R1B,8,Clg of Letters & Science,bioengineering
+363,2017 Spring,1,Theater Dance & Perf Stds,10,2,Clg of Letters & Science,bioengineering
+364,2017 Spring,1,Theater Dance & Perf Stds,10,4,Clg of Letters & Science,bioengineering
+365,2017 Spring,1,Theater Dance & Perf Stds,25AC,1,Clg of Letters & Science,bioengineering
+366,2017 Spring,1,UGIS-UG Interdisc Studies,82,2,Clg of Letters & Science,bioengineering
+367,2017 Spring,1,Vietnamese,101B,1,Clg of Letters & Science,bioengineering

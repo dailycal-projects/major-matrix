@@ -1,0 +1,363 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,R1A,1,Clg of Letters & Science,society and environment
+1,2017 Spring,2,African American Studies,131,1,Clg of Letters & Science,society and environment
+2,2017 Spring,1,African American Studies,142AC,1,Clg of Letters & Science,society and environment
+3,2017 Spring,2,African American Studies,C156,1,Clg of Letters & Science,society and environment
+4,2017 Spring,2,African American Studies,156AC,1,Clg of Letters & Science,society and environment
+5,2017 Spring,2,American Studies,10,1,Clg of Letters & Science,society and environment
+6,2017 Spring,4,American Studies,C172,1,Clg of Letters & Science,society and environment
+7,2017 Spring,2,Anthropology,1,1,Clg of Letters & Science,society and environment
+8,2017 Spring,3,Anthropology,2AC,1,Clg of Letters & Science,society and environment
+9,2017 Spring,2,Anthropology,3AC,1,Clg of Letters & Science,society and environment
+10,2017 Spring,2,Anthropology,121AC,1,Clg of Letters & Science,society and environment
+11,2017 Spring,15,Anthropology,137,1,Clg of Letters & Science,society and environment
+12,2017 Spring,1,Arabic,1B,1,Clg of Letters & Science,society and environment
+13,2017 Spring,1,Arabic,1B,3,Clg of Letters & Science,society and environment
+14,2017 Spring,1,Asian American Studies,R2B,2,Clg of Letters & Science,society and environment
+15,2017 Spring,1,Asian American Studies,20A,1,Clg of Letters & Science,society and environment
+16,2017 Spring,1,Asian American Studies,144,1,Clg of Letters & Science,society and environment
+17,2017 Spring,1,Astronomy,198,2,Clg of Letters & Science,society and environment
+18,2017 Spring,1,Biology,1A,2,Clg of Letters & Science,society and environment
+19,2017 Spring,1,Biology,1AL,2,Clg of Letters & Science,society and environment
+20,2017 Spring,2,Biology,1B,1,Clg of Letters & Science,society and environment
+21,2017 Spring,1,Biology,1B,2,Clg of Letters & Science,society and environment
+22,2017 Spring,1,Biology,1B,3,Clg of Letters & Science,society and environment
+23,2017 Spring,1,Business Admin-Undergrad,96,2,Haas School of Business,society and environment
+24,2017 Spring,5,Business Admin-Undergrad,107,1,Haas School of Business,society and environment
+25,2017 Spring,1,Business Admin-Undergrad,141,1,Haas School of Business,society and environment
+26,2017 Spring,1,Business Admin-Undergrad,C172,1,Haas School of Business,society and environment
+27,2017 Spring,1,Business Admin-Undergrad,191P,1,Haas School of Business,society and environment
+28,2017 Spring,1,Business Admin-Undergrad,192B,1,Haas School of Business,society and environment
+29,2017 Spring,2,Business Admin-Undergrad,192N,1,Haas School of Business,society and environment
+30,2017 Spring,2,Business Admin-Undergrad,196,2,Haas School of Business,society and environment
+31,2017 Spring,2,Chemistry,1A,1,Clg of Chemistry,society and environment
+32,2017 Spring,1,Chemistry,1AL,1,Clg of Chemistry,society and environment
+33,2017 Spring,1,Chemistry,1AL,2,Clg of Chemistry,society and environment
+34,2017 Spring,1,Chemistry,1B,1,Clg of Chemistry,society and environment
+35,2017 Spring,1,Chemistry,3A,1,Clg of Chemistry,society and environment
+36,2017 Spring,3,Chemistry,3A,2,Clg of Chemistry,society and environment
+37,2017 Spring,1,Chemistry,3AL,1,Clg of Chemistry,society and environment
+38,2017 Spring,1,Chemistry,3AL,2,Clg of Chemistry,society and environment
+39,2017 Spring,1,Chicano Studies,176,1,Clg of Letters & Science,society and environment
+40,2017 Spring,1,Chinese,1B,3,Clg of Letters & Science,society and environment
+41,2017 Spring,2,City & Regional Planning,101,1,Clg of Environmental Design,society and environment
+42,2017 Spring,5,City & Regional Planning,113B,1,Clg of Environmental Design,society and environment
+43,2017 Spring,1,City & Regional Planning,116,1,Clg of Environmental Design,society and environment
+44,2017 Spring,6,City & Regional Planning,118AC,1,Clg of Environmental Design,society and environment
+45,2017 Spring,1,City & Regional Planning,120,1,Clg of Environmental Design,society and environment
+46,2017 Spring,1,City & Regional Planning,180,1,Clg of Environmental Design,society and environment
+47,2017 Spring,1,City & Regional Planning,190,1,Clg of Environmental Design,society and environment
+48,2017 Spring,1,City & Regional Planning,198,1,Clg of Environmental Design,society and environment
+49,2017 Spring,1,Civil & Environmental Eng,110,1,Clg of Engineering,society and environment
+50,2017 Spring,3,Classics,28,1,Clg of Letters & Science,society and environment
+51,2017 Spring,1,College Writing Programs,R4B,6,Clg of Letters & Science,society and environment
+52,2017 Spring,1,College Writing Programs,25AC,1,Clg of Letters & Science,society and environment
+53,2017 Spring,1,College Writing Programs,151,1,Clg of Letters & Science,society and environment
+54,2017 Spring,1,Comparative Literature,R1A,5,Clg of Letters & Science,society and environment
+55,2017 Spring,4,Computer Science,C8,1,Clg of Engineering,society and environment
+56,2017 Spring,1,Computer Science,197,209,Clg of Engineering,society and environment
+57,2017 Spring,1,Computer Science,198,56,Clg of Engineering,society and environment
+58,2017 Spring,2,Czech,163,1,Clg of Letters & Science,society and environment
+59,2017 Spring,1,Design Innovation,21,1,Clg of Engineering,society and environment
+60,2017 Spring,3,Design Innovation,198,2,Clg of Engineering,society and environment
+61,2017 Spring,1,Development Studies,C10,1,Clg of Letters & Science,society and environment
+62,2017 Spring,3,Development Studies,C100,1,Clg of Letters & Science,society and environment
+63,2017 Spring,2,Earth & Planetary Science,C12,1,Clg of Letters & Science,society and environment
+64,2017 Spring,1,Earth & Planetary Science,50,1,Clg of Letters & Science,society and environment
+65,2017 Spring,5,Economics,1,1,Clg of Letters & Science,society and environment
+66,2017 Spring,2,Economics,2,1,Clg of Letters & Science,society and environment
+67,2017 Spring,2,Economics,C3,1,Clg of Letters & Science,society and environment
+68,2017 Spring,1,Economics,100A,1,Clg of Letters & Science,society and environment
+69,2017 Spring,1,Economics,140,1,Clg of Letters & Science,society and environment
+70,2017 Spring,1,Economics,C175,1,Clg of Letters & Science,society and environment
+71,2017 Spring,1,Education,182AC,1,Grad School of Education,society and environment
+72,2017 Spring,1,Education,188B,1,Grad School of Education,society and environment
+73,2017 Spring,1,Education,190AC,2,Grad School of Education,society and environment
+74,2017 Spring,1,Education,197,1,Grad School of Education,society and environment
+75,2017 Spring,1,Education,198,24,Grad School of Education,society and environment
+76,2017 Spring,1,Education,198,35,Grad School of Education,society and environment
+77,2017 Spring,2,Energy and Resources,102,1,Clg of Natural Resources,society and environment
+78,2017 Spring,1,English,180A,1,Clg of Letters & Science,society and environment
+79,2017 Spring,1,English,198,1,Clg of Letters & Science,society and environment
+80,2017 Spring,1,English,198,4,Clg of Letters & Science,society and environment
+81,2017 Spring,4,"Env Sci, Policy, & Mgmt",C10,1,Clg of Natural Resources,society and environment
+82,2017 Spring,3,"Env Sci, Policy, & Mgmt",C11,1,Clg of Natural Resources,society and environment
+83,2017 Spring,8,"Env Sci, Policy, & Mgmt",15,1,Clg of Natural Resources,society and environment
+84,2017 Spring,1,"Env Sci, Policy, & Mgmt",24,1,Clg of Natural Resources,society and environment
+85,2017 Spring,1,"Env Sci, Policy, & Mgmt",39,1,Clg of Natural Resources,society and environment
+86,2017 Spring,3,"Env Sci, Policy, & Mgmt",40,1,Clg of Natural Resources,society and environment
+87,2017 Spring,5,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,society and environment
+88,2017 Spring,1,"Env Sci, Policy, & Mgmt",72,1,Clg of Natural Resources,society and environment
+89,2017 Spring,1,"Env Sci, Policy, & Mgmt",88A,1,Clg of Natural Resources,society and environment
+90,2017 Spring,3,"Env Sci, Policy, & Mgmt",90,1,Clg of Natural Resources,society and environment
+91,2017 Spring,2,"Env Sci, Policy, & Mgmt",98,7,Clg of Natural Resources,society and environment
+92,2017 Spring,1,"Env Sci, Policy, & Mgmt",98,8,Clg of Natural Resources,society and environment
+93,2017 Spring,2,"Env Sci, Policy, & Mgmt",98BC,3,Clg of Natural Resources,society and environment
+94,2017 Spring,2,"Env Sci, Policy, & Mgmt",98BC,5,Clg of Natural Resources,society and environment
+95,2017 Spring,3,"Env Sci, Policy, & Mgmt",100ES,1,Clg of Natural Resources,society and environment
+96,2017 Spring,3,"Env Sci, Policy, & Mgmt",102C,1,Clg of Natural Resources,society and environment
+97,2017 Spring,22,"Env Sci, Policy, & Mgmt",102D,1,Clg of Natural Resources,society and environment
+98,2017 Spring,4,"Env Sci, Policy, & Mgmt",114,1,Clg of Natural Resources,society and environment
+99,2017 Spring,1,"Env Sci, Policy, & Mgmt",144,1,Clg of Natural Resources,society and environment
+100,2017 Spring,2,"Env Sci, Policy, & Mgmt",150,2,Clg of Natural Resources,society and environment
+101,2017 Spring,1,"Env Sci, Policy, & Mgmt",150,3,Clg of Natural Resources,society and environment
+102,2017 Spring,1,"Env Sci, Policy, & Mgmt",152,1,Clg of Natural Resources,society and environment
+103,2017 Spring,1,"Env Sci, Policy, & Mgmt",158,1,Clg of Natural Resources,society and environment
+104,2017 Spring,31,"Env Sci, Policy, & Mgmt",163AC,1,Clg of Natural Resources,society and environment
+105,2017 Spring,9,"Env Sci, Policy, & Mgmt",165,1,Clg of Natural Resources,society and environment
+106,2017 Spring,23,"Env Sci, Policy, & Mgmt",C167,1,Clg of Natural Resources,society and environment
+107,2017 Spring,29,"Env Sci, Policy, & Mgmt",168,1,Clg of Natural Resources,society and environment
+108,2017 Spring,1,"Env Sci, Policy, & Mgmt",H175B,1,Clg of Natural Resources,society and environment
+109,2017 Spring,1,"Env Sci, Policy, & Mgmt",H175L,2,Clg of Natural Resources,society and environment
+110,2017 Spring,1,"Env Sci, Policy, & Mgmt",C177,1,Clg of Natural Resources,society and environment
+111,2017 Spring,1,"Env Sci, Policy, & Mgmt",181A,1,Clg of Natural Resources,society and environment
+112,2017 Spring,7,"Env Sci, Policy, & Mgmt",186,1,Clg of Natural Resources,society and environment
+113,2017 Spring,1,"Env Sci, Policy, & Mgmt",C192,1,Clg of Natural Resources,society and environment
+114,2017 Spring,1,"Env Sci, Policy, & Mgmt",194A,1,Clg of Natural Resources,society and environment
+115,2017 Spring,1,"Env Sci, Policy, & Mgmt",194A,2,Clg of Natural Resources,society and environment
+116,2017 Spring,28,"Env Sci, Policy, & Mgmt",194B,1,Clg of Natural Resources,society and environment
+117,2017 Spring,23,"Env Sci, Policy, & Mgmt",194B,2,Clg of Natural Resources,society and environment
+118,2017 Spring,2,"Env Sci, Policy, & Mgmt",197,4,Clg of Natural Resources,society and environment
+119,2017 Spring,3,"Env Sci, Policy, & Mgmt",197,15,Clg of Natural Resources,society and environment
+120,2017 Spring,1,"Env Sci, Policy, & Mgmt",197,29,Clg of Natural Resources,society and environment
+121,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,1,Clg of Natural Resources,society and environment
+122,2017 Spring,3,"Env Sci, Policy, & Mgmt",198,2,Clg of Natural Resources,society and environment
+123,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,5,Clg of Natural Resources,society and environment
+124,2017 Spring,3,"Env Sci, Policy, & Mgmt",198,6,Clg of Natural Resources,society and environment
+125,2017 Spring,2,"Env Sci, Policy, & Mgmt",198,8,Clg of Natural Resources,society and environment
+126,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,13,Clg of Natural Resources,society and environment
+127,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,14,Clg of Natural Resources,society and environment
+128,2017 Spring,4,"Env Sci, Policy, & Mgmt",198BC,1,Clg of Natural Resources,society and environment
+129,2017 Spring,2,"Env Sci, Policy, & Mgmt",198BC,2,Clg of Natural Resources,society and environment
+130,2017 Spring,3,"Env Sci, Policy, & Mgmt",198BC,3,Clg of Natural Resources,society and environment
+131,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,4,Clg of Natural Resources,society and environment
+132,2017 Spring,2,"Env Sci, Policy, & Mgmt",198BC,5,Clg of Natural Resources,society and environment
+133,2017 Spring,1,"Env Sci, Policy, & Mgmt",198BC,6,Clg of Natural Resources,society and environment
+134,2017 Spring,6,Environ Econ & Policy,C1,1,Clg of Natural Resources,society and environment
+135,2017 Spring,1,Environ Econ & Policy,100,1,Clg of Natural Resources,society and environment
+136,2017 Spring,3,Environ Econ & Policy,C101,1,Clg of Natural Resources,society and environment
+137,2017 Spring,1,Environ Econ & Policy,C118,1,Clg of Natural Resources,society and environment
+138,2017 Spring,1,Environ Econ & Policy,143,1,Clg of Natural Resources,society and environment
+139,2017 Spring,1,Environ Econ & Policy,147,1,Clg of Natural Resources,society and environment
+140,2017 Spring,1,Environ Econ & Policy,162,1,Clg of Natural Resources,society and environment
+141,2017 Spring,1,Environmental Design,1,1,Clg of Environmental Design,society and environment
+142,2017 Spring,1,Environmental Design,R3B,1,Clg of Environmental Design,society and environment
+143,2017 Spring,1,Environmental Design,4C,1,Clg of Environmental Design,society and environment
+144,2017 Spring,1,Ethnic Studies,11AC,1,Clg of Letters & Science,society and environment
+145,2017 Spring,2,Ethnic Studies,173AC,1,Clg of Letters & Science,society and environment
+146,2017 Spring,1,Ethnic Studies,181AC,1,Clg of Letters & Science,society and environment
+147,2017 Spring,1,Ethnic Studies,197,9,Clg of Letters & Science,society and environment
+148,2017 Spring,2,Ethnic Studies,197,11,Clg of Letters & Science,society and environment
+149,2017 Spring,1,Ethnic Studies,198,11,Clg of Letters & Science,society and environment
+150,2017 Spring,1,Ethnic Studies,198,12,Clg of Letters & Science,society and environment
+151,2017 Spring,1,Film,25A,1,Clg of Letters & Science,society and environment
+152,2017 Spring,1,Film,128,1,Clg of Letters & Science,society and environment
+153,2017 Spring,1,Film,140,1,Clg of Letters & Science,society and environment
+154,2017 Spring,1,Film,198,2,Clg of Letters & Science,society and environment
+155,2017 Spring,1,French,1,4,Clg of Letters & Science,society and environment
+156,2017 Spring,1,French,13,2,Clg of Letters & Science,society and environment
+157,2017 Spring,1,French,35,1,Clg of Letters & Science,society and environment
+158,2017 Spring,1,French,120B,1,Clg of Letters & Science,society and environment
+159,2017 Spring,1,French,161B,1,Clg of Letters & Science,society and environment
+160,2017 Spring,3,Gender & Womens Studies,14,1,Clg of Letters & Science,society and environment
+161,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,society and environment
+162,2017 Spring,2,Gender & Womens Studies,101,1,Clg of Letters & Science,society and environment
+163,2017 Spring,1,Gender & Womens Studies,104,1,Clg of Letters & Science,society and environment
+164,2017 Spring,1,Gender & Womens Studies,134,1,Clg of Letters & Science,society and environment
+165,2017 Spring,2,Geography,20,1,Clg of Letters & Science,society and environment
+166,2017 Spring,1,Geography,70AC,1,Clg of Letters & Science,society and environment
+167,2017 Spring,9,Geography,C112,1,Clg of Letters & Science,society and environment
+168,2017 Spring,15,Geography,130,1,Clg of Letters & Science,society and environment
+169,2017 Spring,2,Geography,140A,1,Clg of Letters & Science,society and environment
+170,2017 Spring,1,Geography,C155,1,Clg of Letters & Science,society and environment
+171,2017 Spring,1,Geography,157,1,Clg of Letters & Science,society and environment
+172,2017 Spring,1,Geography,181,1,Clg of Letters & Science,society and environment
+173,2017 Spring,1,Geography,183,1,Clg of Letters & Science,society and environment
+174,2017 Spring,2,Geography,185,1,Clg of Letters & Science,society and environment
+175,2017 Spring,2,Geography,187,1,Clg of Letters & Science,society and environment
+176,2017 Spring,1,German,3,1,Clg of Letters & Science,society and environment
+177,2017 Spring,1,Global Poverty & Practice,105,1,Clg of Letters & Science,society and environment
+178,2017 Spring,1,Global Poverty & Practice,105,3,Clg of Letters & Science,society and environment
+179,2017 Spring,1,Global Studies,24,1,Clg of Letters & Science,society and environment
+180,2017 Spring,1,Global Studies,100S,1,Clg of Letters & Science,society and environment
+181,2017 Spring,1,Global Studies,110L,1,Clg of Letters & Science,society and environment
+182,2017 Spring,1,History,R1B,2,Clg of Letters & Science,society and environment
+183,2017 Spring,1,History,4B,1,Clg of Letters & Science,society and environment
+184,2017 Spring,1,History,6B,1,Clg of Letters & Science,society and environment
+185,2017 Spring,2,History,7B,1,Clg of Letters & Science,society and environment
+186,2017 Spring,1,History,8B,1,Clg of Letters & Science,society and environment
+187,2017 Spring,1,History,24,3,Clg of Letters & Science,society and environment
+188,2017 Spring,2,History,98,2,Clg of Letters & Science,society and environment
+189,2017 Spring,2,History,101,1,Clg of Letters & Science,society and environment
+190,2017 Spring,1,History,106B,1,Clg of Letters & Science,society and environment
+191,2017 Spring,1,History,109C,1,Clg of Letters & Science,society and environment
+192,2017 Spring,1,History,114B,1,Clg of Letters & Science,society and environment
+193,2017 Spring,1,History,122AC,1,Clg of Letters & Science,society and environment
+194,2017 Spring,1,History,136C,1,Clg of Letters & Science,society and environment
+195,2017 Spring,1,History,141B,1,Clg of Letters & Science,society and environment
+196,2017 Spring,1,History,171C,1,Clg of Letters & Science,society and environment
+197,2017 Spring,1,History of Art,R1B,3,Clg of Letters & Science,society and environment
+198,2017 Spring,1,History of Art,R1B,8,Clg of Letters & Science,society and environment
+199,2017 Spring,2,History of Art,11,1,Clg of Letters & Science,society and environment
+200,2017 Spring,1,History of Art,198,1,Clg of Letters & Science,society and environment
+201,2017 Spring,1,Industrial Eng & Ops Rsch,192,1,Clg of Engineering,society and environment
+202,2017 Spring,1,Integrative Biology,24,3,Clg of Letters & Science,society and environment
+203,2017 Spring,2,Integrative Biology,24,9,Clg of Letters & Science,society and environment
+204,2017 Spring,1,Integrative Biology,24,10,Clg of Letters & Science,society and environment
+205,2017 Spring,2,Integrative Biology,95,1,Clg of Letters & Science,society and environment
+206,2017 Spring,1,Integrative Biology,198,2,Clg of Letters & Science,society and environment
+207,2017 Spring,1,Integrative Biology,198,6,Clg of Letters & Science,society and environment
+208,2017 Spring,1,Interdisciplinary Studies,100C,1,Clg of Letters & Science,society and environment
+209,2017 Spring,1,Interdisciplinary Studies,198,5,Clg of Letters & Science,society and environment
+210,2017 Spring,1,International & Area Stds,45,1,Clg of Letters & Science,society and environment
+211,2017 Spring,1,International & Area Stds,C118,1,Clg of Letters & Science,society and environment
+212,2017 Spring,1,Italian Studies,30,1,Clg of Letters & Science,society and environment
+213,2017 Spring,1,Italian Studies,120,1,Clg of Letters & Science,society and environment
+214,2017 Spring,1,Japanese,1B,8,Clg of Letters & Science,society and environment
+215,2017 Spring,1,Jewish Studies,120,2,Clg of Letters & Science,society and environment
+216,2017 Spring,1,Journalism,98,1,Grad School of Journalism,society and environment
+217,2017 Spring,1,Journalism,198,1,Grad School of Journalism,society and environment
+218,2017 Spring,1,Korean,1B,4,Clg of Letters & Science,society and environment
+219,2017 Spring,1,Korean,7B,1,Clg of Letters & Science,society and environment
+220,2017 Spring,2,LGBT Studies,146,1,Clg of Letters & Science,society and environment
+221,2017 Spring,7,Landscape Arch & Env Plan,130,1,Clg of Environmental Design,society and environment
+222,2017 Spring,3,Legal Studies,100,1,School of Law,society and environment
+223,2017 Spring,1,Legal Studies,152AC,1,School of Law,society and environment
+224,2017 Spring,2,Legal Studies,154,1,School of Law,society and environment
+225,2017 Spring,1,Letters & Science,22,1,Clg of Letters & Science,society and environment
+226,2017 Spring,1,Letters & Science,124,1,Clg of Letters & Science,society and environment
+227,2017 Spring,2,Letters & Science,C180U,1,Clg of Letters & Science,society and environment
+228,2017 Spring,2,Mathematics,1B,2,Clg of Letters & Science,society and environment
+229,2017 Spring,4,Mathematics,16A,1,Clg of Letters & Science,society and environment
+230,2017 Spring,2,Mathematics,16B,1,Clg of Letters & Science,society and environment
+231,2017 Spring,5,Mathematics,16B,2,Clg of Letters & Science,society and environment
+232,2017 Spring,1,Mathematics,98,18,Clg of Letters & Science,society and environment
+233,2017 Spring,1,Mathematics,98,24,Clg of Letters & Science,society and environment
+234,2017 Spring,1,Mathematics,98,25,Clg of Letters & Science,society and environment
+235,2017 Spring,2,Mathematics,98,26,Clg of Letters & Science,society and environment
+236,2017 Spring,1,Mathematics,98,27,Clg of Letters & Science,society and environment
+237,2017 Spring,1,Mathematics,98,29,Clg of Letters & Science,society and environment
+238,2017 Spring,1,Media Studies,101,1,Clg of Letters & Science,society and environment
+239,2017 Spring,1,Media Studies,103,1,Clg of Letters & Science,society and environment
+240,2017 Spring,2,Molecular & Cell Biology,C44,1,Clg of Letters & Science,society and environment
+241,2017 Spring,1,Molecular & Cell Biology,104,1,Clg of Letters & Science,society and environment
+242,2017 Spring,1,Molecular & Cell Biology,140,1,Clg of Letters & Science,society and environment
+243,2017 Spring,1,Music,20A,4,Clg of Letters & Science,society and environment
+244,2017 Spring,1,Music,53A,1,Clg of Letters & Science,society and environment
+245,2017 Spring,1,Music,98BC,2,Clg of Letters & Science,society and environment
+246,2017 Spring,2,Music,148,1,Clg of Letters & Science,society and environment
+247,2017 Spring,1,Music,150A,1,Clg of Letters & Science,society and environment
+248,2017 Spring,1,Music,198BC,1,Clg of Letters & Science,society and environment
+249,2017 Spring,2,Native American Studies,20B,1,Clg of Letters & Science,society and environment
+250,2017 Spring,2,Natural Resources,24,2,Clg of Natural Resources,society and environment
+251,2017 Spring,1,Near Eastern Studies,140,1,Clg of Letters & Science,society and environment
+252,2017 Spring,1,Near Eastern Studies,146B,1,Clg of Letters & Science,society and environment
+253,2017 Spring,2,Nutritional Science & Tox,10,1,Clg of Natural Resources,society and environment
+254,2017 Spring,3,Nutritional Science & Tox,104,1,Clg of Natural Resources,society and environment
+255,2017 Spring,1,Nutritional Science & Tox,160,1,Clg of Natural Resources,society and environment
+256,2017 Spring,1,Nutritional Science & Tox,198,1,Clg of Natural Resources,society and environment
+257,2017 Spring,1,Peace & Conflict Studies,24,1,Clg of Letters & Science,society and environment
+258,2017 Spring,3,Peace & Conflict Studies,151,1,Clg of Letters & Science,society and environment
+259,2017 Spring,1,Persian,1B,1,Clg of Letters & Science,society and environment
+260,2017 Spring,1,Philosophy,3,1,Clg of Letters & Science,society and environment
+261,2017 Spring,1,Philosophy,98BC,1,Clg of Letters & Science,society and environment
+262,2017 Spring,1,Philosophy,132,1,Clg of Letters & Science,society and environment
+263,2017 Spring,1,Philosophy,186B,1,Clg of Letters & Science,society and environment
+264,2017 Spring,1,Physical Education,1,6,Clg of Letters & Science,society and environment
+265,2017 Spring,2,Physical Education,1,7,Clg of Letters & Science,society and environment
+266,2017 Spring,1,Physical Education,1,8,Clg of Letters & Science,society and environment
+267,2017 Spring,1,Physical Education,1,16,Clg of Letters & Science,society and environment
+268,2017 Spring,2,Physical Education,1,18,Clg of Letters & Science,society and environment
+269,2017 Spring,1,Physical Education,1,19,Clg of Letters & Science,society and environment
+270,2017 Spring,1,Physical Education,1,20,Clg of Letters & Science,society and environment
+271,2017 Spring,1,Physical Education,1,21,Clg of Letters & Science,society and environment
+272,2017 Spring,1,Physical Education,1,22,Clg of Letters & Science,society and environment
+273,2017 Spring,1,Physical Education,1,24,Clg of Letters & Science,society and environment
+274,2017 Spring,1,Physical Education,1,35,Clg of Letters & Science,society and environment
+275,2017 Spring,1,Physical Education,1,36,Clg of Letters & Science,society and environment
+276,2017 Spring,2,Physical Education,1,39,Clg of Letters & Science,society and environment
+277,2017 Spring,1,Physical Education,2,11,Clg of Letters & Science,society and environment
+278,2017 Spring,2,Physical Education,2,12,Clg of Letters & Science,society and environment
+279,2017 Spring,1,Physical Education,2,13,Clg of Letters & Science,society and environment
+280,2017 Spring,1,Physical Education,2,15,Clg of Letters & Science,society and environment
+281,2017 Spring,1,Physical Education,3,11,Clg of Letters & Science,society and environment
+282,2017 Spring,1,Physical Education,3,12,Clg of Letters & Science,society and environment
+283,2017 Spring,1,Physical Education,4,6,Clg of Letters & Science,society and environment
+284,2017 Spring,1,Physical Education,11,5,Clg of Letters & Science,society and environment
+285,2017 Spring,1,Physical Education,11,6,Clg of Letters & Science,society and environment
+286,2017 Spring,1,Physical Education,12,13,Clg of Letters & Science,society and environment
+287,2017 Spring,1,Physical Education,12,14,Clg of Letters & Science,society and environment
+288,2017 Spring,1,Physical Education,12,29,Clg of Letters & Science,society and environment
+289,2017 Spring,1,Physical Education,12,30,Clg of Letters & Science,society and environment
+290,2017 Spring,1,Physical Education,32,1,Clg of Letters & Science,society and environment
+291,2017 Spring,1,Physical Education,198,1,Clg of Letters & Science,society and environment
+292,2017 Spring,1,Physics,8A,2,Clg of Letters & Science,society and environment
+293,2017 Spring,2,Plant & Microbial Biology,40,1,Clg of Natural Resources,society and environment
+294,2017 Spring,2,Political Economy,100,1,Clg of Letters & Science,society and environment
+295,2017 Spring,1,Political Economy,101,1,Clg of Letters & Science,society and environment
+296,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,society and environment
+297,2017 Spring,3,Political Science,2,1,Clg of Letters & Science,society and environment
+298,2017 Spring,2,Political Science,4,1,Clg of Letters & Science,society and environment
+299,2017 Spring,1,Political Science,110B,1,Clg of Letters & Science,society and environment
+300,2017 Spring,1,Political Science,111AC,1,Clg of Letters & Science,society and environment
+301,2017 Spring,2,Political Science,138E,1,Clg of Letters & Science,society and environment
+302,2017 Spring,1,Political Science,148A,1,Clg of Letters & Science,society and environment
+303,2017 Spring,1,Political Science,161,1,Clg of Letters & Science,society and environment
+304,2017 Spring,2,Political Science,179,1,Clg of Letters & Science,society and environment
+305,2017 Spring,1,Political Science,198,2,Clg of Letters & Science,society and environment
+306,2017 Spring,1,Portuguese,101,1,Clg of Letters & Science,society and environment
+307,2017 Spring,1,Portuguese,102,1,Clg of Letters & Science,society and environment
+308,2017 Spring,2,Psychology,1,1,Clg of Letters & Science,society and environment
+309,2017 Spring,2,Psychology,150,1,Clg of Letters & Science,society and environment
+310,2017 Spring,1,Psychology,160,1,Clg of Letters & Science,society and environment
+311,2017 Spring,3,Psychology,198,11,Clg of Letters & Science,society and environment
+312,2017 Spring,3,Psychology,198,15,Clg of Letters & Science,society and environment
+313,2017 Spring,1,Public Health,116,1,School of Public Health,society and environment
+314,2017 Spring,1,Public Health,150D,1,School of Public Health,society and environment
+315,2017 Spring,5,Public Health,C160,1,School of Public Health,society and environment
+316,2017 Spring,2,Public Health,170C,1,School of Public Health,society and environment
+317,2017 Spring,1,Public Health,196,2,School of Public Health,society and environment
+318,2017 Spring,1,Public Health,196,8,School of Public Health,society and environment
+319,2017 Spring,1,Public Health,198,2,School of Public Health,society and environment
+320,2017 Spring,2,Public Health,198,4,School of Public Health,society and environment
+321,2017 Spring,1,Public Health,198,5,School of Public Health,society and environment
+322,2017 Spring,1,Public Health,198,14,School of Public Health,society and environment
+323,2017 Spring,1,Public Policy,98,1,Goldman School Public Policy,society and environment
+324,2017 Spring,1,Public Policy,98,3,Goldman School Public Policy,society and environment
+325,2017 Spring,4,Public Policy,101,1,Goldman School Public Policy,society and environment
+326,2017 Spring,18,Public Policy,C103,1,Goldman School Public Policy,society and environment
+327,2017 Spring,1,Public Policy,157,1,Goldman School Public Policy,society and environment
+328,2017 Spring,1,Public Policy,190,11,Goldman School Public Policy,society and environment
+329,2017 Spring,1,Public Policy,198,1,Goldman School Public Policy,society and environment
+330,2017 Spring,1,Public Policy,198,2,Goldman School Public Policy,society and environment
+331,2017 Spring,1,Rhetoric,103B,1,Clg of Letters & Science,society and environment
+332,2017 Spring,4,Rhetoric,107,1,Clg of Letters & Science,society and environment
+333,2017 Spring,1,Rhetoric,189,2,Clg of Letters & Science,society and environment
+334,2017 Spring,1,Rhetoric,198,1,Clg of Letters & Science,society and environment
+335,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,society and environment
+336,2017 Spring,1,Slavic Languages & Lit,R5A,3,Clg of Letters & Science,society and environment
+337,2017 Spring,1,Social Welfare,198,3,School of Social Welfare,society and environment
+338,2017 Spring,1,Sociology,1,1,Clg of Letters & Science,society and environment
+339,2017 Spring,1,Sociology,98BC,3,Clg of Letters & Science,society and environment
+340,2017 Spring,5,Sociology,110,1,Clg of Letters & Science,society and environment
+341,2017 Spring,1,Sociology,113AC,1,Clg of Letters & Science,society and environment
+342,2017 Spring,1,Sociology,C115,1,Clg of Letters & Science,society and environment
+343,2017 Spring,1,Sociology,130,1,Clg of Letters & Science,society and environment
+344,2017 Spring,4,Sociology,131AC,1,Clg of Letters & Science,society and environment
+345,2017 Spring,2,Sociology,137AC,1,Clg of Letters & Science,society and environment
+346,2017 Spring,2,Sociology,139F,1,Clg of Letters & Science,society and environment
+347,2017 Spring,1,Sociology,140,1,Clg of Letters & Science,society and environment
+348,2017 Spring,3,Sociology,145,1,Clg of Letters & Science,society and environment
+349,2017 Spring,1,Sociology,198,9,Clg of Letters & Science,society and environment
+350,2017 Spring,1,Sociology,198,10,Clg of Letters & Science,society and environment
+351,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,society and environment
+352,2017 Spring,1,Spanish,2,2,Clg of Letters & Science,society and environment
+353,2017 Spring,1,Spanish,2,3,Clg of Letters & Science,society and environment
+354,2017 Spring,1,Spanish,2,6,Clg of Letters & Science,society and environment
+355,2017 Spring,1,Spanish,4,4,Clg of Letters & Science,society and environment
+356,2017 Spring,1,Spanish,4,5,Clg of Letters & Science,society and environment
+357,2017 Spring,1,Spanish,25,6,Clg of Letters & Science,society and environment
+358,2017 Spring,1,Spanish,107B,1,Clg of Letters & Science,society and environment
+359,2017 Spring,1,Spanish,111B,1,Clg of Letters & Science,society and environment
+360,2017 Spring,1,Theater Dance & Perf Stds,142,1,Clg of Letters & Science,society and environment
+361,2017 Spring,1,Vietnamese,100B,1,Clg of Letters & Science,society and environment

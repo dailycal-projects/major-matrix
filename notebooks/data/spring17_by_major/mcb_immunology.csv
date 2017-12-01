@@ -1,0 +1,314 @@
+Unnamed: 0,Semester Year Name Concat,Enrollment Cnt,Course Subject Short Nm,Course Number,Section Nbr,Crs Rpt College Schl Shrt Nm,Major
+0,2017 Spring,1,African American Studies,131,1,Clg of Letters & Science,mcb immunology
+1,2017 Spring,1,Anthropology,3AC,1,Clg of Letters & Science,mcb immunology
+2,2017 Spring,1,Anthropology,160AC,1,Clg of Letters & Science,mcb immunology
+3,2017 Spring,3,Anthropology,170,1,Clg of Letters & Science,mcb immunology
+4,2017 Spring,1,Anthropology,183,1,Clg of Letters & Science,mcb immunology
+5,2017 Spring,1,Anthropology,198,20,Clg of Letters & Science,mcb immunology
+6,2017 Spring,1,Arabic,1B,4,Clg of Letters & Science,mcb immunology
+7,2017 Spring,1,Arabic,100B,1,Clg of Letters & Science,mcb immunology
+8,2017 Spring,1,Art Practice,14,1,Clg of Letters & Science,mcb immunology
+9,2017 Spring,1,Asian American Studies,20A,1,Clg of Letters & Science,mcb immunology
+10,2017 Spring,1,Asian American Studies,121,1,Clg of Letters & Science,mcb immunology
+11,2017 Spring,1,Asian American Studies,144,1,Clg of Letters & Science,mcb immunology
+12,2017 Spring,1,Asian American Studies,151AC,1,Clg of Letters & Science,mcb immunology
+13,2017 Spring,1,Asian American Studies,197,7,Clg of Letters & Science,mcb immunology
+14,2017 Spring,1,Asian American Studies,198,1,Clg of Letters & Science,mcb immunology
+15,2017 Spring,1,Asian American Studies,198,4,Clg of Letters & Science,mcb immunology
+16,2017 Spring,1,Asian Studies,198,3,Clg of Letters & Science,mcb immunology
+17,2017 Spring,1,Astronomy,198,2,Clg of Letters & Science,mcb immunology
+18,2017 Spring,1,Bengali,101B,1,Clg of Letters & Science,mcb immunology
+19,2017 Spring,1,Bioengineering,111,1,Clg of Engineering,mcb immunology
+20,2017 Spring,1,Bioengineering,198,16,Clg of Engineering,mcb immunology
+21,2017 Spring,1,Bioengineering,198,27,Clg of Engineering,mcb immunology
+22,2017 Spring,1,Biology,1B,1,Clg of Letters & Science,mcb immunology
+23,2017 Spring,1,Biology,1B,2,Clg of Letters & Science,mcb immunology
+24,2017 Spring,1,Buddhist Studies,C117,1,Clg of Letters & Science,mcb immunology
+25,2017 Spring,1,Business Admin-Undergrad,96,1,Haas School of Business,mcb immunology
+26,2017 Spring,1,Business Admin-Undergrad,103,1,Haas School of Business,mcb immunology
+27,2017 Spring,1,Business Admin-Undergrad,104,1,Haas School of Business,mcb immunology
+28,2017 Spring,1,Business Admin-Undergrad,167,1,Haas School of Business,mcb immunology
+29,2017 Spring,1,Business Admin-Undergrad,178,1,Haas School of Business,mcb immunology
+30,2017 Spring,1,Business Admin-Undergrad,196,2,Haas School of Business,mcb immunology
+31,2017 Spring,1,Business Admin-Undergrad,196,3,Haas School of Business,mcb immunology
+32,2017 Spring,1,Celtic Studies,173,1,Clg of Letters & Science,mcb immunology
+33,2017 Spring,2,Chemical Engineering,198,3,Clg of Chemistry,mcb immunology
+34,2017 Spring,1,Chemistry,1B,1,Clg of Chemistry,mcb immunology
+35,2017 Spring,1,Chemistry,3B,2,Clg of Chemistry,mcb immunology
+36,2017 Spring,2,Chemistry,3BL,1,Clg of Chemistry,mcb immunology
+37,2017 Spring,1,Chemistry,114,1,Clg of Chemistry,mcb immunology
+38,2017 Spring,2,Chemistry,130B,1,Clg of Chemistry,mcb immunology
+39,2017 Spring,1,Chicano Studies,141,1,Clg of Letters & Science,mcb immunology
+40,2017 Spring,1,Chicano Studies,176,1,Clg of Letters & Science,mcb immunology
+41,2017 Spring,1,Chinese,1B,4,Clg of Letters & Science,mcb immunology
+42,2017 Spring,1,Chinese,100XB,1,Clg of Letters & Science,mcb immunology
+43,2017 Spring,1,Chinese,110B,1,Clg of Letters & Science,mcb immunology
+44,2017 Spring,1,Classics,10B,1,Clg of Letters & Science,mcb immunology
+45,2017 Spring,1,Classics,28,1,Clg of Letters & Science,mcb immunology
+46,2017 Spring,1,Cognitive Science,198,5,Clg of Letters & Science,mcb immunology
+47,2017 Spring,1,College Writing Programs,R4B,12,Clg of Letters & Science,mcb immunology
+48,2017 Spring,1,College Writing Programs,10A,2,Clg of Letters & Science,mcb immunology
+49,2017 Spring,2,College Writing Programs,106,1,Clg of Letters & Science,mcb immunology
+50,2017 Spring,1,College Writing Programs,110,1,Clg of Letters & Science,mcb immunology
+51,2017 Spring,2,College Writing Programs,161,1,Clg of Letters & Science,mcb immunology
+52,2017 Spring,1,Comparative Literature,R1B,22,Clg of Letters & Science,mcb immunology
+53,2017 Spring,1,Comparative Literature,190,1,Clg of Letters & Science,mcb immunology
+54,2017 Spring,2,Computer Science,C8,1,Clg of Engineering,mcb immunology
+55,2017 Spring,1,Computer Science,10,1,Clg of Engineering,mcb immunology
+56,2017 Spring,4,Computer Science,61A,1,Clg of Engineering,mcb immunology
+57,2017 Spring,3,Computer Science,61B,1,Clg of Engineering,mcb immunology
+58,2017 Spring,1,Computer Science,61C,1,Clg of Engineering,mcb immunology
+59,2017 Spring,1,Computer Science,C100,1,Clg of Engineering,mcb immunology
+60,2017 Spring,2,Computer Science,161,1,Clg of Engineering,mcb immunology
+61,2017 Spring,1,Computer Science,170,1,Clg of Engineering,mcb immunology
+62,2017 Spring,2,Computer Science,186,1,Clg of Engineering,mcb immunology
+63,2017 Spring,1,Computer Science,189,1,Clg of Engineering,mcb immunology
+64,2017 Spring,1,Computer Science,195,1,Clg of Engineering,mcb immunology
+65,2017 Spring,1,Computer Science,197,214,Clg of Engineering,mcb immunology
+66,2017 Spring,1,Design Innovation,198,2,Clg of Engineering,mcb immunology
+67,2017 Spring,1,Dutch,125,1,Clg of Letters & Science,mcb immunology
+68,2017 Spring,1,Dutch,166,1,Clg of Letters & Science,mcb immunology
+69,2017 Spring,2,East Asian Languages,110,1,Clg of Letters & Science,mcb immunology
+70,2017 Spring,1,East Asian Languages,112,1,Clg of Letters & Science,mcb immunology
+71,2017 Spring,3,Economics,1,1,Clg of Letters & Science,mcb immunology
+72,2017 Spring,1,Economics,100A,1,Clg of Letters & Science,mcb immunology
+73,2017 Spring,1,Economics,113,1,Clg of Letters & Science,mcb immunology
+74,2017 Spring,1,Economics,115,1,Clg of Letters & Science,mcb immunology
+75,2017 Spring,1,Economics,138,1,Clg of Letters & Science,mcb immunology
+76,2017 Spring,1,Economics,151,1,Clg of Letters & Science,mcb immunology
+77,2017 Spring,1,Education,140AC,2,Grad School of Education,mcb immunology
+78,2017 Spring,1,Education,W142,1,Grad School of Education,mcb immunology
+79,2017 Spring,1,Education,188B,1,Grad School of Education,mcb immunology
+80,2017 Spring,1,Education,190AC,2,Grad School of Education,mcb immunology
+81,2017 Spring,1,Education,190AC,3,Grad School of Education,mcb immunology
+82,2017 Spring,1,Education,197,18,Grad School of Education,mcb immunology
+83,2017 Spring,1,Education,198,1,Grad School of Education,mcb immunology
+84,2017 Spring,1,Education,198,9,Grad School of Education,mcb immunology
+85,2017 Spring,1,Education,198,18,Grad School of Education,mcb immunology
+86,2017 Spring,1,English,28,1,Clg of Letters & Science,mcb immunology
+87,2017 Spring,1,English,80K,1,Clg of Letters & Science,mcb immunology
+88,2017 Spring,2,English,118,1,Clg of Letters & Science,mcb immunology
+89,2017 Spring,1,English,139,1,Clg of Letters & Science,mcb immunology
+90,2017 Spring,1,English,141,1,Clg of Letters & Science,mcb immunology
+91,2017 Spring,1,English,166,1,Clg of Letters & Science,mcb immunology
+92,2017 Spring,3,"Env Sci, Policy, & Mgmt",50AC,1,Clg of Natural Resources,mcb immunology
+93,2017 Spring,1,"Env Sci, Policy, & Mgmt",132,1,Clg of Natural Resources,mcb immunology
+94,2017 Spring,2,"Env Sci, Policy, & Mgmt",144,1,Clg of Natural Resources,mcb immunology
+95,2017 Spring,1,"Env Sci, Policy, & Mgmt",C148,1,Clg of Natural Resources,mcb immunology
+96,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,2,Clg of Natural Resources,mcb immunology
+97,2017 Spring,1,"Env Sci, Policy, & Mgmt",198,12,Clg of Natural Resources,mcb immunology
+98,2017 Spring,1,Environ Econ & Policy,143,1,Clg of Natural Resources,mcb immunology
+99,2017 Spring,1,Environmental Design,100,1,Clg of Environmental Design,mcb immunology
+100,2017 Spring,2,Ethnic Studies,100,1,Clg of Letters & Science,mcb immunology
+101,2017 Spring,1,Ethnic Studies,122AC,1,Clg of Letters & Science,mcb immunology
+102,2017 Spring,1,Ethnic Studies,198,4,Clg of Letters & Science,mcb immunology
+103,2017 Spring,1,Ethnic Studies,198,5,Clg of Letters & Science,mcb immunology
+104,2017 Spring,1,Ethnic Studies,198,11,Clg of Letters & Science,mcb immunology
+105,2017 Spring,2,Filipino,1B,3,Clg of Letters & Science,mcb immunology
+106,2017 Spring,1,Film,25B,1,Clg of Letters & Science,mcb immunology
+107,2017 Spring,1,Film,198,1,Clg of Letters & Science,mcb immunology
+108,2017 Spring,1,French,1,5,Clg of Letters & Science,mcb immunology
+109,2017 Spring,2,French,13,2,Clg of Letters & Science,mcb immunology
+110,2017 Spring,1,French,14,1,Clg of Letters & Science,mcb immunology
+111,2017 Spring,1,French,117A,1,Clg of Letters & Science,mcb immunology
+112,2017 Spring,1,French,119A,1,Clg of Letters & Science,mcb immunology
+113,2017 Spring,1,French,171B,1,Clg of Letters & Science,mcb immunology
+114,2017 Spring,1,Gender & Womens Studies,100AC,1,Clg of Letters & Science,mcb immunology
+115,2017 Spring,1,Geography,20,1,Clg of Letters & Science,mcb immunology
+116,2017 Spring,2,Geography,C32,1,Clg of Letters & Science,mcb immunology
+117,2017 Spring,1,Geography,70AC,1,Clg of Letters & Science,mcb immunology
+118,2017 Spring,1,German,152,1,Clg of Letters & Science,mcb immunology
+119,2017 Spring,2,Global Poverty & Practice,105,1,Clg of Letters & Science,mcb immunology
+120,2017 Spring,1,Global Poverty & Practice,105,3,Clg of Letters & Science,mcb immunology
+121,2017 Spring,1,Health & Medical Sciences,C133,1,School of Public Health,mcb immunology
+122,2017 Spring,1,History,98,2,Clg of Letters & Science,mcb immunology
+123,2017 Spring,1,History,100D,1,Clg of Letters & Science,mcb immunology
+124,2017 Spring,1,History,103B,3,Clg of Letters & Science,mcb immunology
+125,2017 Spring,1,History,136C,1,Clg of Letters & Science,mcb immunology
+126,2017 Spring,1,History,151A,1,Clg of Letters & Science,mcb immunology
+127,2017 Spring,1,History,160,1,Clg of Letters & Science,mcb immunology
+128,2017 Spring,1,History,164A,1,Clg of Letters & Science,mcb immunology
+129,2017 Spring,1,History,171C,1,Clg of Letters & Science,mcb immunology
+130,2017 Spring,1,History,180,1,Clg of Letters & Science,mcb immunology
+131,2017 Spring,1,History,182A,1,Clg of Letters & Science,mcb immunology
+132,2017 Spring,1,History,185B,1,Clg of Letters & Science,mcb immunology
+133,2017 Spring,1,History,186,1,Clg of Letters & Science,mcb immunology
+134,2017 Spring,6,History,C191,1,Clg of Letters & Science,mcb immunology
+135,2017 Spring,1,History of Art,11,1,Clg of Letters & Science,mcb immunology
+136,2017 Spring,1,History of Art,87AC,1,Clg of Letters & Science,mcb immunology
+137,2017 Spring,1,History of Art,C145A,1,Clg of Letters & Science,mcb immunology
+138,2017 Spring,2,History of Art,198,1,Clg of Letters & Science,mcb immunology
+139,2017 Spring,1,Industrial Eng & Ops Rsch,195,1,Clg of Engineering,mcb immunology
+140,2017 Spring,1,Industrial Eng & Ops Rsch,198,3,Clg of Engineering,mcb immunology
+141,2017 Spring,1,Integrative Biology,C32,1,Clg of Letters & Science,mcb immunology
+142,2017 Spring,1,Integrative Biology,104LF,1,Clg of Letters & Science,mcb immunology
+143,2017 Spring,5,Integrative Biology,114,1,Clg of Letters & Science,mcb immunology
+144,2017 Spring,6,Integrative Biology,132,1,Clg of Letters & Science,mcb immunology
+145,2017 Spring,1,Integrative Biology,132L,1,Clg of Letters & Science,mcb immunology
+146,2017 Spring,1,Integrative Biology,132L,2,Clg of Letters & Science,mcb immunology
+147,2017 Spring,1,Integrative Biology,132L,6,Clg of Letters & Science,mcb immunology
+148,2017 Spring,1,Integrative Biology,132L,8,Clg of Letters & Science,mcb immunology
+149,2017 Spring,1,Integrative Biology,138,1,Clg of Letters & Science,mcb immunology
+150,2017 Spring,8,Integrative Biology,140,1,Clg of Letters & Science,mcb immunology
+151,2017 Spring,1,Integrative Biology,C143B,1,Clg of Letters & Science,mcb immunology
+152,2017 Spring,1,Integrative Biology,150,1,Clg of Letters & Science,mcb immunology
+153,2017 Spring,5,Integrative Biology,169,1,Clg of Letters & Science,mcb immunology
+154,2017 Spring,1,Integrative Biology,172,1,Clg of Letters & Science,mcb immunology
+155,2017 Spring,1,Integrative Biology,198,1,Clg of Letters & Science,mcb immunology
+156,2017 Spring,1,Integrative Biology,198,2,Clg of Letters & Science,mcb immunology
+157,2017 Spring,2,Integrative Biology,198,6,Clg of Letters & Science,mcb immunology
+158,2017 Spring,1,Interdisciplinary Studies,100G,1,Clg of Letters & Science,mcb immunology
+159,2017 Spring,1,Japanese,155,1,Clg of Letters & Science,mcb immunology
+160,2017 Spring,1,Korean,7B,1,Clg of Letters & Science,mcb immunology
+161,2017 Spring,1,Korean,100B,1,Clg of Letters & Science,mcb immunology
+162,2017 Spring,4,Letters & Science,160B,1,Clg of Letters & Science,mcb immunology
+163,2017 Spring,3,Letters & Science,C180U,1,Clg of Letters & Science,mcb immunology
+164,2017 Spring,1,Linguistics,10,1,Clg of Letters & Science,mcb immunology
+165,2017 Spring,1,Linguistics,100,1,Clg of Letters & Science,mcb immunology
+166,2017 Spring,2,Linguistics,120,1,Clg of Letters & Science,mcb immunology
+167,2017 Spring,1,Linguistics,C142,1,Clg of Letters & Science,mcb immunology
+168,2017 Spring,1,Mathematics,136,1,Clg of Letters & Science,mcb immunology
+169,2017 Spring,1,Mechanical Engineering,110,1,Clg of Engineering,mcb immunology
+170,2017 Spring,1,Mechanical Engineering,198,50,Clg of Engineering,mcb immunology
+171,2017 Spring,3,Molecular & Cell Biology,15,1,Clg of Letters & Science,mcb immunology
+172,2017 Spring,1,Molecular & Cell Biology,C61,1,Clg of Letters & Science,mcb immunology
+173,2017 Spring,2,Molecular & Cell Biology,88,1,Clg of Letters & Science,mcb immunology
+174,2017 Spring,5,Molecular & Cell Biology,C100A,1,Clg of Letters & Science,mcb immunology
+175,2017 Spring,3,Molecular & Cell Biology,100B,1,Clg of Letters & Science,mcb immunology
+176,2017 Spring,11,Molecular & Cell Biology,102,1,Clg of Letters & Science,mcb immunology
+177,2017 Spring,57,Molecular & Cell Biology,C103,1,Clg of Letters & Science,mcb immunology
+178,2017 Spring,54,Molecular & Cell Biology,104,1,Clg of Letters & Science,mcb immunology
+179,2017 Spring,18,Molecular & Cell Biology,110,1,Clg of Letters & Science,mcb immunology
+180,2017 Spring,1,Molecular & Cell Biology,C112L,1,Clg of Letters & Science,mcb immunology
+181,2017 Spring,1,Molecular & Cell Biology,C112L,2,Clg of Letters & Science,mcb immunology
+182,2017 Spring,13,Molecular & Cell Biology,C114,1,Clg of Letters & Science,mcb immunology
+183,2017 Spring,7,Molecular & Cell Biology,118,1,Clg of Letters & Science,mcb immunology
+184,2017 Spring,3,Molecular & Cell Biology,130,1,Clg of Letters & Science,mcb immunology
+185,2017 Spring,2,Molecular & Cell Biology,137L,1,Clg of Letters & Science,mcb immunology
+186,2017 Spring,7,Molecular & Cell Biology,140,1,Clg of Letters & Science,mcb immunology
+187,2017 Spring,8,Molecular & Cell Biology,141,1,Clg of Letters & Science,mcb immunology
+188,2017 Spring,1,Molecular & Cell Biology,C148,1,Clg of Letters & Science,mcb immunology
+189,2017 Spring,60,Molecular & Cell Biology,150,1,Clg of Letters & Science,mcb immunology
+190,2017 Spring,31,Molecular & Cell Biology,150L,1,Clg of Letters & Science,mcb immunology
+191,2017 Spring,26,Molecular & Cell Biology,150L,2,Clg of Letters & Science,mcb immunology
+192,2017 Spring,1,Molecular & Cell Biology,165,1,Clg of Letters & Science,mcb immunology
+193,2017 Spring,2,Molecular & Cell Biology,180,1,Clg of Letters & Science,mcb immunology
+194,2017 Spring,1,Molecular & Cell Biology,198,1,Clg of Letters & Science,mcb immunology
+195,2017 Spring,1,Molecular & Cell Biology,198,3,Clg of Letters & Science,mcb immunology
+196,2017 Spring,1,Molecular & Cell Biology,198,4,Clg of Letters & Science,mcb immunology
+197,2017 Spring,1,Molecular & Cell Biology,198,5,Clg of Letters & Science,mcb immunology
+198,2017 Spring,3,Molecular & Cell Biology,198,6,Clg of Letters & Science,mcb immunology
+199,2017 Spring,1,Molecular & Cell Biology,198,201,Clg of Letters & Science,mcb immunology
+200,2017 Spring,3,Molecular & Cell Biology,198,207,Clg of Letters & Science,mcb immunology
+201,2017 Spring,1,Music,25A,1,Clg of Letters & Science,mcb immunology
+202,2017 Spring,3,Music,26AC,1,Clg of Letters & Science,mcb immunology
+203,2017 Spring,3,Music,29,1,Clg of Letters & Science,mcb immunology
+204,2017 Spring,1,Music,44,1,Clg of Letters & Science,mcb immunology
+205,2017 Spring,1,Music,140,3,Clg of Letters & Science,mcb immunology
+206,2017 Spring,2,Music,141,1,Clg of Letters & Science,mcb immunology
+207,2017 Spring,2,Music,142,2,Clg of Letters & Science,mcb immunology
+208,2017 Spring,1,Music,198,10,Clg of Letters & Science,mcb immunology
+209,2017 Spring,1,Native American Studies,173AC,1,Clg of Letters & Science,mcb immunology
+210,2017 Spring,1,Near Eastern Studies,146B,1,Clg of Letters & Science,mcb immunology
+211,2017 Spring,1,Near Eastern Studies,180,1,Clg of Letters & Science,mcb immunology
+212,2017 Spring,3,Nutritional Science & Tox,10,1,Clg of Natural Resources,mcb immunology
+213,2017 Spring,4,Nutritional Science & Tox,11,1,Clg of Natural Resources,mcb immunology
+214,2017 Spring,1,Nutritional Science & Tox,104,1,Clg of Natural Resources,mcb immunology
+215,2017 Spring,3,Nutritional Science & Tox,C114,1,Clg of Natural Resources,mcb immunology
+216,2017 Spring,7,Nutritional Science & Tox,115,1,Clg of Natural Resources,mcb immunology
+217,2017 Spring,10,Nutritional Science & Tox,121,1,Clg of Natural Resources,mcb immunology
+218,2017 Spring,4,Nutritional Science & Tox,160,1,Clg of Natural Resources,mcb immunology
+219,2017 Spring,2,Nutritional Science & Tox,193,1,Clg of Natural Resources,mcb immunology
+220,2017 Spring,2,Nutritional Science & Tox,198,1,Clg of Natural Resources,mcb immunology
+221,2017 Spring,1,Peace & Conflict Studies,135,1,Clg of Letters & Science,mcb immunology
+222,2017 Spring,1,Persian,11B,1,Clg of Letters & Science,mcb immunology
+223,2017 Spring,2,Philosophy,3,1,Clg of Letters & Science,mcb immunology
+224,2017 Spring,1,Philosophy,25B,1,Clg of Letters & Science,mcb immunology
+225,2017 Spring,1,Physical Education,1,6,Clg of Letters & Science,mcb immunology
+226,2017 Spring,2,Physical Education,1,9,Clg of Letters & Science,mcb immunology
+227,2017 Spring,1,Physical Education,1,11,Clg of Letters & Science,mcb immunology
+228,2017 Spring,1,Physical Education,1,17,Clg of Letters & Science,mcb immunology
+229,2017 Spring,1,Physical Education,1,20,Clg of Letters & Science,mcb immunology
+230,2017 Spring,1,Physical Education,1,27,Clg of Letters & Science,mcb immunology
+231,2017 Spring,1,Physical Education,1,28,Clg of Letters & Science,mcb immunology
+232,2017 Spring,1,Physical Education,1,31,Clg of Letters & Science,mcb immunology
+233,2017 Spring,1,Physical Education,1,32,Clg of Letters & Science,mcb immunology
+234,2017 Spring,1,Physical Education,2,9,Clg of Letters & Science,mcb immunology
+235,2017 Spring,2,Physical Education,2,10,Clg of Letters & Science,mcb immunology
+236,2017 Spring,1,Physical Education,2,11,Clg of Letters & Science,mcb immunology
+237,2017 Spring,1,Physical Education,2,13,Clg of Letters & Science,mcb immunology
+238,2017 Spring,1,Physical Education,2,16,Clg of Letters & Science,mcb immunology
+239,2017 Spring,1,Physical Education,2,18,Clg of Letters & Science,mcb immunology
+240,2017 Spring,1,Physical Education,3,7,Clg of Letters & Science,mcb immunology
+241,2017 Spring,1,Physical Education,98,1,Clg of Letters & Science,mcb immunology
+242,2017 Spring,1,Physical Education,198,2,Clg of Letters & Science,mcb immunology
+243,2017 Spring,3,Physics,8A,2,Clg of Letters & Science,mcb immunology
+244,2017 Spring,7,Physics,8B,1,Clg of Letters & Science,mcb immunology
+245,2017 Spring,12,Physics,8B,2,Clg of Letters & Science,mcb immunology
+246,2017 Spring,1,Physics,C161,1,Clg of Letters & Science,mcb immunology
+247,2017 Spring,1,Plant & Microbial Biology,40,1,Clg of Natural Resources,mcb immunology
+248,2017 Spring,4,Plant & Microbial Biology,C114,1,Clg of Natural Resources,mcb immunology
+249,2017 Spring,1,Plant & Microbial Biology,165,1,Clg of Natural Resources,mcb immunology
+250,2017 Spring,1,Political Science,1,1,Clg of Letters & Science,mcb immunology
+251,2017 Spring,1,Political Science,2,1,Clg of Letters & Science,mcb immunology
+252,2017 Spring,1,Political Science,124C,1,Clg of Letters & Science,mcb immunology
+253,2017 Spring,1,Political Science,149E,1,Clg of Letters & Science,mcb immunology
+254,2017 Spring,2,Political Science,179,1,Clg of Letters & Science,mcb immunology
+255,2017 Spring,1,Political Science,198,5,Clg of Letters & Science,mcb immunology
+256,2017 Spring,3,Psychology,1,1,Clg of Letters & Science,mcb immunology
+257,2017 Spring,3,Psychology,2,1,Clg of Letters & Science,mcb immunology
+258,2017 Spring,1,Psychology,C126,1,Clg of Letters & Science,mcb immunology
+259,2017 Spring,1,Psychology,130,1,Clg of Letters & Science,mcb immunology
+260,2017 Spring,2,Psychology,131,1,Clg of Letters & Science,mcb immunology
+261,2017 Spring,1,Psychology,156,1,Clg of Letters & Science,mcb immunology
+262,2017 Spring,1,Psychology,166AC,1,Clg of Letters & Science,mcb immunology
+263,2017 Spring,1,Psychology,198,7,Clg of Letters & Science,mcb immunology
+264,2017 Spring,1,Psychology,198,10,Clg of Letters & Science,mcb immunology
+265,2017 Spring,1,Psychology,198,11,Clg of Letters & Science,mcb immunology
+266,2017 Spring,1,Public Health,116,1,School of Public Health,mcb immunology
+267,2017 Spring,1,Public Health,130,1,School of Public Health,mcb immunology
+268,2017 Spring,17,Public Health,142,1,School of Public Health,mcb immunology
+269,2017 Spring,10,Public Health,150A,1,School of Public Health,mcb immunology
+270,2017 Spring,4,Public Health,150D,1,School of Public Health,mcb immunology
+271,2017 Spring,8,Public Health,150E,1,School of Public Health,mcb immunology
+272,2017 Spring,1,Public Health,196,2,School of Public Health,mcb immunology
+273,2017 Spring,7,Public Health,196,6,School of Public Health,mcb immunology
+274,2017 Spring,1,Public Health,196,7,School of Public Health,mcb immunology
+275,2017 Spring,1,Public Health,196,8,School of Public Health,mcb immunology
+276,2017 Spring,1,Public Health,198,2,School of Public Health,mcb immunology
+277,2017 Spring,2,Public Health,198,4,School of Public Health,mcb immunology
+278,2017 Spring,1,Public Health,198,9,School of Public Health,mcb immunology
+279,2017 Spring,1,Public Health,198,57,School of Public Health,mcb immunology
+280,2017 Spring,4,Public Policy,C103,1,Goldman School Public Policy,mcb immunology
+281,2017 Spring,1,Rhetoric,R1A,3,Clg of Letters & Science,mcb immunology
+282,2017 Spring,2,Rhetoric,107,1,Clg of Letters & Science,mcb immunology
+283,2017 Spring,1,Rhetoric,168,1,Clg of Letters & Science,mcb immunology
+284,2017 Spring,1,Rhetoric,198,1,Clg of Letters & Science,mcb immunology
+285,2017 Spring,1,Scandinavian,106,1,Clg of Letters & Science,mcb immunology
+286,2017 Spring,1,Social Welfare,112,1,School of Social Welfare,mcb immunology
+287,2017 Spring,2,Sociology,1,1,Clg of Letters & Science,mcb immunology
+288,2017 Spring,1,Sociology,3AC,1,Clg of Letters & Science,mcb immunology
+289,2017 Spring,1,Sociology,113AC,1,Clg of Letters & Science,mcb immunology
+290,2017 Spring,2,Sociology,117,1,Clg of Letters & Science,mcb immunology
+291,2017 Spring,1,Sociology,121,1,Clg of Letters & Science,mcb immunology
+292,2017 Spring,1,Sociology,131AC,1,Clg of Letters & Science,mcb immunology
+293,2017 Spring,1,Sociology,C167,1,Clg of Letters & Science,mcb immunology
+294,2017 Spring,1,Sociology,198,15,Clg of Letters & Science,mcb immunology
+295,2017 Spring,1,South & SE Asian Studies,C145,1,Clg of Letters & Science,mcb immunology
+296,2017 Spring,1,South Asian,142,1,Clg of Letters & Science,mcb immunology
+297,2017 Spring,1,Spanish,1,4,Clg of Letters & Science,mcb immunology
+298,2017 Spring,1,Spanish,1,6,Clg of Letters & Science,mcb immunology
+299,2017 Spring,1,Spanish,3,4,Clg of Letters & Science,mcb immunology
+300,2017 Spring,1,Spanish,4,1,Clg of Letters & Science,mcb immunology
+301,2017 Spring,1,Spanish,25,4,Clg of Letters & Science,mcb immunology
+302,2017 Spring,2,Spanish,198,1,Clg of Letters & Science,mcb immunology
+303,2017 Spring,3,Statistics,2,1,Clg of Letters & Science,mcb immunology
+304,2017 Spring,2,Statistics,131A,1,Clg of Letters & Science,mcb immunology
+305,2017 Spring,1,Statistics,133,1,Clg of Letters & Science,mcb immunology
+306,2017 Spring,1,Statistics,134,1,Clg of Letters & Science,mcb immunology
+307,2017 Spring,1,Statistics,135,1,Clg of Letters & Science,mcb immunology
+308,2017 Spring,1,Statistics,154,1,Clg of Letters & Science,mcb immunology
+309,2017 Spring,1,Statistics,155,1,Clg of Letters & Science,mcb immunology
+310,2017 Spring,1,UGIS-UG Interdisc Studies,98,4,Clg of Letters & Science,mcb immunology
+311,2017 Spring,1,UGIS-UG Interdisc Studies,112,1,Clg of Letters & Science,mcb immunology
+312,2017 Spring,1,UGIS-UG Interdisc Studies,156,1,Clg of Letters & Science,mcb immunology
