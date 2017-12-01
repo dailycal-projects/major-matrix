@@ -1,6 +1,7 @@
 var d3 = require('d3');
 var d3ScaleChromatic = require('./d3-scale-chromatic.min.js');
 
+var data = require('../data/major_dept_ratios.json');
 
 var height = 2250;
 var width = 980;
@@ -27,7 +28,6 @@ var chartHeight = height - margins.top - margins.bottom;
 
 var elementWidth = Math.floor(chartWidth/deptNum);
 
-d3.csv("../data/major_dept_ratios.csv", function(err, data) {
 
   var colorScale_above1 = d3.scaleLinear()
                       .domain([1, d3.max(data, function(d) { return d.Ratio})])
@@ -90,7 +90,3 @@ d3.csv("../data/major_dept_ratios.csv", function(err, data) {
       .attr('width', elementWidth)
       .attr("class", "grid")
       .style("fill", d => colors(d.Ratio));
-
-
-
-});

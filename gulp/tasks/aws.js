@@ -11,16 +11,22 @@ const path = require('path');
 const open = require('open');
 const revAll = require('gulp-rev-all');
 const querystring = require('querystring');
+const { argv } = require('yargs');
 
-module.exports = () => {
+const prod = argv.prod || false
+
+module.exports = (cb) => {
+
+  const awsBucket = prod ? 'projects.dailycal.org' : 'stage-projects.dailycal.org';
+
   const meta = fs.readJsonSync(
     path.resolve(process.cwd(), 'meta.json'));
   const publisher = awspublish.create({
     accessKeyId: process.env.awsAccessKey,
     secretAccessKey: process.env.awsSecretKey,
     params: {
-      Bucket: 'com.politico.interactives.politico.com',
-      CloudFront: 'E3V6OHE700RHMR',
+      Bucket: awsBucket,
+      //CloudFront: 'E3V6OHE700RHMR',
     },
   });
   const awsDirectory = meta.publishPath;
@@ -35,14 +41,8 @@ module.exports = () => {
     /.*images.*$/, // images
     /.*\.json$/, // application data
     /.*\.csv$/, // application data
+    /.*data.*$/, // rip my sanity
   ];
-
-  const cloudFrontConfig = {
-    distribution: 'E3V6OHE700RHMR',
-    accessKeyId: process.env.awsAccessKey,
-    secretAccessKey: process.env.awsSecretKey,
-    indexRootPath: true,
-  };
 
   return gulp.src('./dist/**/*')
     .pipe(gulpIf(() => {
@@ -54,7 +54,7 @@ module.exports = () => {
     }, fail(`Can't publish to ${awsDirectory}. Check meta.json and your publishPath setting.`)))
     .on('end', () => {
       gutil.log(
-        gutil.colors.cyan(`You're about to publish this project to AWS under directory ${gutil.colors.bold.black.bgYellow(awsDirectory)}. This will sync this directory with your local dist folder and may cause files to be deleted.`));
+        gutil.colors.cyan(`You're about to publish this project to the AWS bucket ${gutil.colors.bold.black.bgYellow(awsBucket)} under directory ${gutil.colors.bold.black.bgYellow(awsDirectory)}. This will sync this directory with your local dist folder and may cause files to be deleted.`));
     })
     .pipe(prompt.confirm('Are you sure?'))
     .pipe(rename((pubPath) => {
