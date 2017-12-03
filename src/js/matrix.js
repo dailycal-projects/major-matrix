@@ -3,6 +3,17 @@ var d3ScaleChromatic = require('./d3-scale-chromatic.min.js');
 
 var data = require('../data/major_dept_ratios.json');
 
+function slugify(text)
+{
+  return text.toString().toLowerCase()
+    .replace(/\s+/g, '-')           // Replace spaces with -
+    .replace(/[^\w\-]+/g, '')       // Remove all non-word chars
+    .replace(/\-\-+/g, '-')         // Replace multiple - with single -
+    .replace(/^-+/, '')             // Trim - from start of text
+    .replace(/-+$/, '');            // Trim - from end of text
+}
+
+
 var height = 2250;
 var width = 980;
 var deptNum = 25;
@@ -29,13 +40,13 @@ var chartHeight = height - margins.top - margins.bottom;
 var elementWidth = Math.floor(chartWidth/deptNum);
 
 
-  var colorScale_above1 = d3.scaleLinear()
-                      .domain([1, d3.max(data, function(d) { return d.Ratio})])
-                      .range([0.5, 1]);
+var colorScale_above1 = d3.scaleLinear()
+                    .domain([1, d3.max(data, function(d) { return d.Ratio})])
+                    .range([0.5, 1]);
 
-  var colorScale_below1 = d3.scaleLinear()
-                      .domain([0, 1])
-                      .range([0, 0.5]);
+var colorScale_below1 = d3.scaleLinear()
+                    .domain([0, 1])
+                    .range([0, 0.5]);
 
   var colors = function(t) {
     if (t < 1) {
@@ -49,7 +60,7 @@ var elementWidth = Math.floor(chartWidth/deptNum);
           .key(d => d.Major)
           .entries(data);
 
-  //creating a mapping for majors and departments where 'computer science' == 1 (0-79), 'Computer Science' == 0 (0 - 24)
+  //creating a mapping for majors and departments where 'computer science' == 0 (0-79), 'Computer Science' == 0 (0 - 24)
   var majorMapping = {}, deptMapping = {};
   for (var i = 0, len = chartData.length; i < len; i++) {
     var majorKey = chartData[i].key.split(" prop")[0]; // Take out if change data
@@ -67,7 +78,7 @@ var elementWidth = Math.floor(chartWidth/deptNum);
       .text(d => d)
       .attr("x", 0)
       .attr("y", (d) => majorMapping[d]*elementWidth)
-      .attr("transform", "translate(-6," + elementWidth / 1.5 + ")");
+      .attr("transform", `translate(-6, ${elementWidth/1.5})`);
 
   var deptLabels = chart
       .selectAll(".deptLabel")
@@ -81,12 +92,35 @@ var elementWidth = Math.floor(chartWidth/deptNum);
 
   var grid = chart.selectAll('g')
           .data(data)
-          .enter().append('g');
+          .enter().append('g')
+          .on('mouseover', function(d) {
+            var major = d.Major,
+                dept = d.Department.toLowerCase();
+            $( "rect" ).each(function() {
+              var rectClass = $(this).attr("class");
+              if (rectClass.indexOf(`m-${slugify(major)}`) == -1 && rectClass.indexOf(`d-${slugify(dept)}`) == -1) {
+                $(this).attr("opacity", 0.25);
+              }
+            });
+
+            $(".majorLabel").filter(function() {
+              return (this.textContent) != major;
+            }).css("opacity", 0.25);
+
+            $(".deptLabel").filter(function() {
+              return (this.textContent) != dept;
+            }).css("opacity", 0.25);
+          })
+          .on("mouseout", function(d) {
+            $("rect").attr("opacity", 1);
+            $(".majorLabel").css("opacity", 1);
+            $(".deptLabel").css("opacity", 1);
+          });
 
   grid.append("rect")
       .attr("x", d => deptMapping[d.Department] * elementWidth)
       .attr("y", d => majorMapping[d.Major] * elementWidth)
       .attr('height', elementWidth)
       .attr('width', elementWidth)
-      .attr("class", "grid")
+      .attr("class", (d) => (`m-${slugify(d.Major)}_d-${slugify(d.Department)}`))
       .style("fill", d => colors(d.Ratio));
