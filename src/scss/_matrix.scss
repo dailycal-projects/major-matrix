@@ -8,4 +8,27 @@
     text-anchor: end;
   }
 
+  .fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .departments {
+    width: 100%;
+    height: 140px;
+    display: block;
+    position: relative;
+  }
+
+  .deptContainer {
+    width: 100%;
+    height: 140px;
+    background-color: white;
+  }
+
+  .deptLabel {
+    position: relative;
+    transform-origin: 0px 0px 0px;
+  }
 }

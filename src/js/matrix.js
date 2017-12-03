@@ -3,6 +3,7 @@ var d3ScaleChromatic = require('./d3-scale-chromatic.min.js');
 
 var data = require('../data/major_dept_ratios.json');
 
+// https://gist.github.com/mathewbyrne/1280286
 function slugify(text)
 {
   return text.toString().toLowerCase()
@@ -20,10 +21,12 @@ var deptNum = 25;
 
 var margins = {
       'left': 300,
-      'top': 180,
+      'top': 10,
       'right': 70,
       'bottom': 0,
     };
+var deptLabels = d3.select("#matrix")
+    .append("div").attr("class", "departments");
 
 var svg = d3.select("#matrix").append("svg")
         .attr("width", width)
@@ -80,15 +83,35 @@ var colorScale_below1 = d3.scaleLinear()
       .attr("y", (d) => majorMapping[d]*elementWidth)
       .attr("transform", `translate(-6, ${elementWidth/1.5})`);
 
-  var deptLabels = chart
+  // var deptLabels = chart.selectAll(".deptLabel")
+  //     .data(Object.keys(deptMapping))
+  //     .enter()
+  //     .append("text")
+  //     .text(d => d.toLowerCase())
+  //     .attr("y", 0)
+  //     .attr("x", elementWidth)
+  //     .attr("transform", (d) => `translate(${deptMapping[d]*elementWidth - elementWidth/3}, 10) rotate(-50)`)
+  //     .attr("class", "deptLabel");
+
+  deptLabels = deptLabels.append("div").attr("class", "deptContainer")
       .selectAll(".deptLabel")
       .data(Object.keys(deptMapping))
-      .enter().append("text")
-      .text(d => d.toLowerCase())
-      .attr("y", 0)
-      .attr("x", elementWidth)
-      .attr("transform", (d) => `translate(${deptMapping[d]*elementWidth - elementWidth/3}, 10) rotate(-50)`)
-      .attr("class", "deptLabel");
+      .enter()
+      .append("div")
+      .attr("class", "deptLabel")
+      .style("top", `${$(".departments").height()-15}px`)
+      .style("left", `${$(".majorLabel").offset().left + elementWidth}px`)
+      .style("transform", (d) => `translate(${elementWidth*deptMapping[d] - elementWidth/3}px, -${elementWidth*deptMapping[d]}px) rotate(-50deg)`)
+      .append("text")
+      .text(d => d.toLowerCase());
+
+
+  var pos = $(".deptContainer").offset().top,
+      win = $(window);
+
+  win.on("scroll", function() {
+    win.scrollTop() >= pos ? $(".deptContainer").addClass("fixed") : $(".deptContainer").removeClass("fixed");
+  })
 
   var grid = chart.selectAll('g')
           .data(data)
@@ -103,12 +126,11 @@ var colorScale_below1 = d3.scaleLinear()
               }
             });
 
-            $(".majorLabel").filter(function() {
-              return (this.textContent) != major;
-            }).css("opacity", 0.25);
+            $(".majorLabel").filter(() => {(this.textContent) != major} ).css("opacity", 0.25);
 
+            // $(".deptContainer.deptLabel").filter(() => {(this.textContent) != dept }).css("opacity", 0.25);
             $(".deptLabel").filter(function() {
-              return (this.textContent) != dept;
+              return this.textContent != dept;
             }).css("opacity", 0.25);
           })
           .on("mouseout", function(d) {
