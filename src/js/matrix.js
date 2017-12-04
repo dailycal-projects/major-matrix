@@ -1,7 +1,7 @@
 var d3 = require('d3');
 var d3ScaleChromatic = require('./d3-scale-chromatic.min.js');
 
-var data = require('../data/major_dept_ratios.json');
+var data = require('../data/major_dept_ratios_ordered.json');
 
 // https://gist.github.com/mathewbyrne/1280286
 function slugify(text)
@@ -15,7 +15,7 @@ function slugify(text)
 }
 
 
-var height = 2250;
+var height = 2000;
 var width = 980;
 var deptNum = 25;
 
@@ -83,6 +83,7 @@ var colorScale_below1 = d3.scaleLinear()
       .attr("y", (d) => majorMapping[d]*elementWidth)
       .attr("transform", `translate(-6, ${elementWidth/1.5})`);
 
+  // non-sticky header department labels
   // var deptLabels = chart.selectAll(".deptLabel")
   //     .data(Object.keys(deptMapping))
   //     .enter()
@@ -93,6 +94,7 @@ var colorScale_below1 = d3.scaleLinear()
   //     .attr("transform", (d) => `translate(${deptMapping[d]*elementWidth - elementWidth/3}, 10) rotate(-50)`)
   //     .attr("class", "deptLabel");
 
+  // for sticky header
   deptLabels = deptLabels.append("div").attr("class", "deptContainer")
       .selectAll(".deptLabel")
       .data(Object.keys(deptMapping))
@@ -100,7 +102,7 @@ var colorScale_below1 = d3.scaleLinear()
       .append("div")
       .attr("class", "deptLabel")
       .style("top", `${$(".departments").height()-15}px`)
-      .style("left", `${$(".majorLabel").offset().left + elementWidth}px`)
+      .style("left", `${$(".majorLabel").offset().left + (elementWidth*2 + elementWidth/2)}px`)
       .style("transform", (d) => `translate(${elementWidth*deptMapping[d] - elementWidth/3}px, -${elementWidth*deptMapping[d]}px) rotate(-50deg)`)
       .append("text")
       .text(d => d.toLowerCase());
@@ -119,6 +121,8 @@ var colorScale_below1 = d3.scaleLinear()
           .on('mouseover', function(d) {
             var major = d.Major,
                 dept = d.Department.toLowerCase();
+
+            // making other squares of less opacity
             $( "rect" ).each(function() {
               var rectClass = $(this).attr("class");
               if (rectClass.indexOf(`m-${slugify(major)}`) == -1 && rectClass.indexOf(`d-${slugify(dept)}`) == -1) {
@@ -126,12 +130,15 @@ var colorScale_below1 = d3.scaleLinear()
               }
             });
 
-            $(".majorLabel").filter(() => {(this.textContent) != major} ).css("opacity", 0.25);
+            // same goes for other major and department labels
+            $(".majorLabel").filter(function() {
+              return (this.textContent) != major;
+            }).css("opacity", 0.25);
 
-            // $(".deptContainer.deptLabel").filter(() => {(this.textContent) != dept }).css("opacity", 0.25);
             $(".deptLabel").filter(function() {
               return this.textContent != dept;
             }).css("opacity", 0.25);
+
           })
           .on("mouseout", function(d) {
             $("rect").attr("opacity", 1);
