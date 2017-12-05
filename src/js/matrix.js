@@ -81,7 +81,7 @@ var colorScale_below1 = d3.scaleLinear()
       .text(d => d)
       .attr("x", 0)
       .attr("y", (d) => majorMapping[d]*elementWidth)
-      .attr("transform", `translate(-6, ${elementWidth/1.5})`);
+      .attr("transform", `translate(-13, ${elementWidth/1.5})`);
 
   // non-sticky header department labels
   // var deptLabels = chart.selectAll(".deptLabel")
@@ -102,7 +102,7 @@ var colorScale_below1 = d3.scaleLinear()
       .append("div")
       .attr("class", "deptLabel")
       .style("top", `${$(".departments").height()-15}px`)
-      .style("left", `${$(".majorLabel").offset().left + (elementWidth*2 + elementWidth/2)}px`)
+      .style("left", `${$(".majorLabel").offset().left + (elementWidth*2)}px`)
       .style("transform", (d) => `translate(${elementWidth*deptMapping[d] - elementWidth/3}px, -${elementWidth*deptMapping[d]}px) rotate(-50deg)`)
       .append("text")
       .text(d => d.toLowerCase());
