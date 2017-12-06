@@ -102,10 +102,12 @@ var colorScale_below1 = d3.scaleLinear()
       .append("div")
       .attr("class", "deptLabel")
       .style("top", `${$(".departments").height()-15}px`)
-      .style("left", `${$(".majorLabel").offset().left + (elementWidth*2)}px`)
+      .style("left", `${$(".majorLabel").offset().left + (elementWidth*2 + (250-$(".majorLabel").offset().left))}px`)
       .style("transform", (d) => `translate(${elementWidth*deptMapping[d] - elementWidth/3}px, -${elementWidth*deptMapping[d]}px) rotate(-50deg)`)
       .append("text")
       .text(d => d.toLowerCase());
+
+console.log($(".majorLabel").offset());
 
 
   var pos = $(".deptContainer").offset().top,
